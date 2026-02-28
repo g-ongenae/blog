@@ -42,6 +42,7 @@ function add_poem_list() {
   echo "" >> README.md
   echo "**Total:** $(ls poems/*.md | wc -l | tr -d ' ') <br>" >> README.md
   echo "**Drafts:** $(grep '^state: draft' poems/*.md | wc -l | tr -d ' ') <br>" >> README.md
+  echo "**Favorites:** $(grep '^favorite: true' poems/*.md | wc -l | tr -d ' ') <br>" >> README.md
   echo "**Languages:**" >> README.md
   echo "" >> README.md
   echo "$(

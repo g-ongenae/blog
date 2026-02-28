@@ -6,6 +6,7 @@
 
 **Total:** 133 <br>
 **Drafts:** 16 <br>
+**Favorites:** 18 <br>
 **Languages:**
 
 - English 🇬🇧: 6
