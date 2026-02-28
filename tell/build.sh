@@ -24,6 +24,37 @@ function add_favorite_label() {
   fi
 }
 
+# Generates a Mermaid chart for the number of poems per year
+function generate_poems_per_year_chart() {
+  local COUNT CURRENT_YEAR FAVORITE_COUNT FAVORITE_PER_YEAR MAX_COUNT POEMS_PER_YEAR YEAR;
+
+  CURRENT_YEAR="$(date +%Y)"
+
+  for YEAR in $(seq 2007 "${CURRENT_YEAR}"); do
+    COUNT="$(find poems -type f -name "${YEAR}-*.md" 2>/dev/null | wc -l | tr -d ' ')"
+    POEMS_PER_YEAR+="${COUNT}, "
+
+    FAVORITE_COUNT="$(find poems -type f -name "${YEAR}-*.md" -exec grep -l '^favorite: true' {} \; 2>/dev/null | wc -l | tr -d ' ')"
+    FAVORITE_PER_YEAR+="${FAVORITE_COUNT}, "
+    if [ "${COUNT}" -gt "${MAX_COUNT:-0}" ]; then
+      MAX_COUNT="${COUNT}"
+    fi
+  done
+
+  # Trim trailing comma and space
+  POEMS_PER_YEAR="${POEMS_PER_YEAR%, }"
+  FAVORITE_PER_YEAR="${FAVORITE_PER_YEAR%, }"
+
+  echo "\`\`\`mermaid" >> README.md
+  echo "xychart-beta" >> README.md
+  echo "  title \"Poems per year\"" >> README.md
+  echo "  x-axis \"Year\" 2007 --> ${CURRENT_YEAR}" >> README.md
+  echo "  y-axis \"Poems\" 1 --> ${MAX_COUNT}" >> README.md
+  echo "  bar [${POEMS_PER_YEAR}]" >> README.md
+  echo "  line [${FAVORITE_PER_YEAR}]" >> README.md
+  echo "\`\`\`" >> README.md
+}
+
 # Map of language codes to their full names and flags
 declare -A LANG_MAP=(
   ["en"]="English 🇬🇧"
@@ -52,6 +83,8 @@ function add_poem_list() {
       echo "- ${LANG_MAP[${LANG%%:*}]}: ${LANG##*:}"
     done
   )" >> README.md
+  echo "" >> README.md
+  generate_poems_per_year_chart
   echo "" >> README.md
 
   # Add the list of poems to the README file

@@ -12,6 +12,15 @@
 - English 🇬🇧: 6
 - French 🇫🇷: 127
 
+```mermaid
+xychart-beta
+  title "Poems per year"
+  x-axis "Year" 2007 --> 2026
+  y-axis "Poems" 1 --> 46
+  bar [1, 0, 1, 21, 46, 21, 0, 0, 0, 0, 0, 32, 0, 0, 0, 0, 0, 0, 8, 3]
+  line [0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 4, 0]
+```
+
 ### Poem list
 
 - Joie de la découverte, [↗️](./poems/2026-01-30-joie-de-la-decouverte.md)
