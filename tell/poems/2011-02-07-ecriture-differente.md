@@ -12,4 +12,4 @@ Mais il est libre comme l’univers <br>
 Et innove pour avancer vers <br>
 Un pays plus joyeux, plus gai, plus vert <br>
 Où aucun homme ne sera vert <br>
-De honte d’être différent ! <br>
+De honte d’être différent !
