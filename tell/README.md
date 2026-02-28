@@ -4,12 +4,12 @@
 
 ### Summary
 
-**Total:** 122 <br>
-**Drafts:** 10 <br>
+**Total:** 133 <br>
+**Drafts:** 16 <br>
 **Languages:**
 
 - English 🇬🇧: 6
-- French 🇫🇷: 116
+- French 🇫🇷: 127
 
 ### Poem list
 
@@ -24,18 +24,25 @@
 - Euphonie, [↗️](./poems/2025-euphonie.md) ⭐
 - A cat in the corner, [↗️](./poems/2025-cat-corner.md) ✂︎
 - The wind is all I need, [↗️](./poems/2025-07-the-wind-is-all-i-need.md) ⭐
+- Soyons ivre toujours, [↗️](./poems/2018-soyons-ivre-toujours.md) ✂︎
 - Silence, [↗️](./poems/2018-silence.md) ⭐
 - Si je devais être pris de court, [↗️](./poems/2018-si-je-devais-etre-pris-de-court.md) ⭐
+- Seul comme dans un terminus, [↗️](./poems/2018-seul-comme-dans-un-terminus.md) ✂︎
+- Santé !, [↗️](./poems/2018-sante.md)
 - Saint Jean, [↗️](./poems/2018-saint-jean.md) ⭐
 - Retour au bercail, [↗️](./poems/2018-retour-au-bercail.md)
 - Quelques briques, [↗️](./poems/2018-quelques-briques.md) ✂︎
 - Que veux-tu que je te dise ?, [↗️](./poems/2018-que-veux-tu-que-je-te-dise.md) ✂︎
 - Pardonne-moi, pardonne-nous, [↗️](./poems/2018-pardonne-moi.md)
 - On lit mes petits vers, [↗️](./poems/2018-on-lit-mes-petits-vers.md) ✂︎
+- Ma Réputation, [↗️](./poems/2018-ma-reputation.md)
 - Ma barbe me gratte, [↗️](./poems/2018-ma-barbe-me-gratte.md) ✂︎
 - Léger syndrome de la page blanche, [↗️](./poems/2018-leger-syndrome-de-la-page-banche.md) ✂︎
 - La Victoire de Samothrace, [↗️](./poems/2018-la-victoire-de-samosthrace.md) ⭐
+- La Politique, [↗️](./poems/2018-la-politique.md)
+- La page blanche, c'est celle des débuts, [↗️](./poems/2018-la-page-blanche.md) ✂︎
 - Journée sombre, [↗️](./poems/2018-journee-sombre.md)
+- Je te demande pardon, [↗️](./poems/2018-je-te-demande-pardon.md) ✂︎
 - Je suis fumasse, [↗️](./poems/2018-je-suis-fumasse.md)
 - J'aime être en colère, [↗️](./poems/2018-j-aime-etre-en-colere.md) ⭐
 - J'ai quitté la campagne, [↗️](./poems/2018-j-ai-quitte-la-campagne.md)
@@ -43,6 +50,10 @@
 - Entre le train, [↗️](./poems/2018-entre-le-train.md)
 - Écrire quelques mots pour un frère, [↗️](./poems/2018-ecrire-quelques-mots-pour-un-frere.md) ⭐
 - Demoiselles mondaines, [↗️](./poems/2018-demoiselles-mondaines.md)
+- Coup de pied au derrière, [↗️](./poems/2018-coup-de-pied.md)
+- Bien chère demoiselle, [↗️](./poems/2018-bien-chere-demoiselle.md) ✂︎
+- Belle Hirondelle, [↗️](./poems/2018-belle-hirondelle.md) ✂︎
+- Appelle-moi, dis-moi n'importe quoi, [↗️](./poems/2018-appelle-moi.md)
 - Ah ! Voilà qui est dur, [↗️](./poems/2018-ah-voila-qui-est-dur.md) ✂︎
 - Carnet n°2, [↗️](./poems/2018-05-13-carnet-n-2.md)
 - Sur des billets - Suite n° 4 - Billet 5000, [↗️](./poems/2012-billet-4-5000.md)
