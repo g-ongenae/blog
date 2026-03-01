@@ -166,25 +166,27 @@ xychart-beta
 
 ### Summary
 
-**Total:** 18 <br>
-**Drafts:** 6 <br>
+**Total:** 22 <br>
+**Drafts:** 9 <br>
 **Favorites:** 0 <br>
 **Languages:**
 
-- French 🇫🇷: 18
+- English 🇬🇧: 1
+- French 🇫🇷: 21
 
 ```mermaid
 xychart-beta
   title "Story lengths (in words)"
-  x-axis "Story" 1 --> 18
-  y-axis "Length (words)" 1 --> 2154
-  line [962, 193, 266, 842, 337, 79, 98, 765, 851, 853, 940, 1134, 1741, 264, 1021, 1357, 178, 2154]
+  x-axis "Story" 1 --> 22
+  y-axis "Length (words)" 1 --> 17292
+  line [964, 195, 450, 268, 844, 339, 81, 100, 767, 853, 17292, 855, 942, 1136, 1743, 266, 1023, 1356, 180, 473, 83, 2156]
 ```
 
 ### Story list
 
 - Chez moi, [↗️](./stories/chez-moi.md)
 - Coupable, [↗️](./stories/coupable.md)
+- Dave, [↗️](./stories/dave.md)
 - Du Nerf, [↗️](./stories/du-nerf.md)
 - Et comme d'habitude, [↗️](./stories/et-comme-d-habitude.md)
 - Et is s'en furent allés, [↗️](./stories/et-ils-s-en-furent-alles.md) ✂︎
@@ -192,6 +194,7 @@ xychart-beta
 - Hard Memory, [↗️](./stories/hard-memory.md) ✂︎
 - J'ai peur, [↗️](./stories/j-ai-peur.md)
 - Juste une envie d'être ailleurs, [↗️](./stories/juste-une-envie-d-etre-ailleurs.md)
+- L'Ascension du Ciel, [↗️](./stories/l-ascension-du-ciel.md) ✂︎
 - Le papi qui voulait être papa, [↗️](./stories/le-papi-qui-voulait-etre-papa.md) ✂︎
 - Le Retour du perdant, [↗️](./stories/le-retour-du-perdant.md)
 - Les Maudits, [↗️](./stories/les-maudits.md)
@@ -200,4 +203,6 @@ xychart-beta
 - Prêt, [↗️](./stories/pret.md)
 - Qui a éteint la lumière ?, [↗️](./stories/qui-a-eteint-la-lumiere.md)
 - Rire est interdit, [↗️](./stories/rire-est-interdit.md) ✂︎
+- Sériosite, [↗️](./stories/seriosite.md) ✂︎
+- Shit Story, [↗️](./stories/shit-story.md) ✂︎
 - Vous et Nous, [↗️](./stories/vous-et-nous.md)
