@@ -7,6 +7,16 @@ type: long
 ---
 # L'Ascension du Ciel
 
+## Notes
+
+Toa est un jeune garçon de 12 ans qui va entrer à l'Institut de la capitale, seulement il va y aller avec son lui du futur. Son lui du futur, un Mage très puissant qui est revenu dans le temps et dans le l'Esprit du garçon pour sauver le monde. Mais le sauver de quoi ?
+
+Inspirée de : Naruto, Tales of Demons & Gods, Re: Monster, Star Martial God Technic.
+
+N.B.
+1. Histoire en cours d'écriture qui peut contenir beaucoup de fautes.
+2. Je n'ai quasiment aucune idée de ce que je vais écrire demain.
+
 ## Préface
 
 Gao Lu, devant la grande porte du temple, serrait son épée légendaire rageusement.
@@ -923,7 +933,7 @@ Le garçon qui n'avait pas suivi et ne connaissait pas l'Empire d'Ukat ne savait
 
 — Bien, Maître.
 
-Toa ne pris aucune rancune pour les cent tours de pistes. « De toute manière, » pensa-t-il « ce vieux rabougris dans mon esprit m'aurait obligé à les faire. » et fit attention au cours. 
+Toa ne pris aucune rancune pour les cent tours de pistes. « De toute manière, » pensa-t-il « ce vieux rabougris dans mon esprit m'aurait obligé à les faire. » et fit attention au cours.
 
 ## Chapitre 13. Nouveaux Amis
 
