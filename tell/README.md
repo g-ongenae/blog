@@ -4,20 +4,20 @@
 
 ### Summary
 
-**Total:** 133 <br>
-**Drafts:** 16 <br>
+**Total:** 138 <br>
+**Drafts:** 17 <br>
 **Favorites:** 18 <br>
 **Languages:**
 
 - English 🇬🇧: 6
-- French 🇫🇷: 127
+- French 🇫🇷: 131
 
 ```mermaid
 xychart-beta
   title "Poems per year"
   x-axis "Year" 2007 --> 2026
   y-axis "Poems" 1 --> 46
-  bar [1, 0, 1, 21, 46, 21, 0, 0, 0, 0, 0, 32, 0, 0, 0, 0, 0, 0, 8, 3]
+  bar [1, 0, 1, 21, 46, 21, 0, 0, 0, 0, 3, 34, 0, 0, 0, 0, 0, 0, 8, 3]
   line [0, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 4, 0]
 ```
 
@@ -63,9 +63,14 @@ xychart-beta
 - Coup de pied au derrière, [↗️](./poems/2018-coup-de-pied.md)
 - Bien chère demoiselle, [↗️](./poems/2018-bien-chere-demoiselle.md) ✂︎
 - Belle Hirondelle, [↗️](./poems/2018-belle-hirondelle.md) ✂︎
+- Aujourd'hui est un grand jour, [↗️](./poems/2018-aujourd-hui-est-un-grand-jour.md) ✂︎
 - Appelle-moi, dis-moi n'importe quoi, [↗️](./poems/2018-appelle-moi.md)
 - Ah ! Voilà qui est dur, [↗️](./poems/2018-ah-voila-qui-est-dur.md) ✂︎
+- Description Tinder, [↗️](./poems/2018-08-14-description-tinder.md)
 - Carnet n°2, [↗️](./poems/2018-05-13-carnet-n-2.md)
+- J'essaye de ne pas y penser, [↗️](./poems/2017-05-09-j-essaye-de-ne-pas-y-penser.md)
+- Mentir, se mentir, [↗️](./poems/2017-04-22-mentir-se-mentir.md)
+- J'ai envie de fuir, [↗️](./poems/2017-03-17-j-ai-envie-de-fuir.md)
 - Sur des billets - Suite n° 4 - Billet 5000, [↗️](./poems/2012-billet-4-5000.md)
 - Sur des billets - Suite n° 3 - Billet 100, [↗️](./poems/2012-billet-3-100.md)
 - Sur des billets - Suite n° 2 - Billet 5, [↗️](./poems/2012-billet-2-5.md)
@@ -156,3 +161,31 @@ xychart-beta
 - Solitude, [↗️](./poems/2010-06-solitude.md)
 - Les Larmes, [↗️](./poems/2009-11-les-larmes.md)
 - Mon amour ma déchirure, [↗️](./poems/2007-mon-amour-ma-dechirure.md)
+
+## 📖 Stories
+
+### Summary
+
+**Total:** 6 <br>
+**Drafts:** 6 <br>
+**Favorites:** 0 <br>
+**Languages:**
+
+- French 🇫🇷: 6
+
+```mermaid
+xychart-beta
+  title "Story lengths (in words)"
+  x-axis "Story" 1 --> 6
+  y-axis "Length (words)" 1 --> 1741
+  line [337, 79, 98, 853, 1741, 178]
+```
+
+### Story list
+
+- Et is s'en furent allés, [↗️](./stories/et-ils-s-en-furent-alles.md) ✂︎
+- Gnome, [↗️](./stories/gnome.md) ✂︎
+- Hard Memory, [↗️](./stories/hard-memory.md) ✂︎
+- Le papi qui voulait être papa, [↗️](./stories/le-papi-qui-voulait-etre-papa.md) ✂︎
+- Passion, [↗️](./stories/passion.md) ✂︎
+- Rire est interdit, [↗️](./stories/rire-est-interdit.md) ✂︎

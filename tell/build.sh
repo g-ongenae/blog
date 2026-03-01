@@ -92,6 +92,7 @@ function add_poem_list() {
   echo "" >> README.md
 
   # Reverse loop through all poem files and extract metadata to build the README
+  # Reverse order is for the most recent poems to appear at the top of the list
   ls poems/*.md | tac | while read POEM; do
     # Extract metadata from the poem file
     TITLE=$(grep -m 1 '^title:' "${POEM}" | sed 's/^title: //')
@@ -101,7 +102,74 @@ function add_poem_list() {
   done
 }
 
+# Generate a Mermaid chart for the length of each story in words
+function generate_story_length_chart() {
+  local COUNT MAX_COUNT STORY_LENGTHS STORY;
+
+  for STORY in stories/*.md; do
+    STORY_LENGTH=$(wc -w < "${STORY}" | tr -d ' ')
+    STORY_LENGTHS+="${STORY_LENGTH}, "
+    if [ "${STORY_LENGTH}" -gt "${MAX_COUNT:-0}" ]; then
+      MAX_COUNT="${STORY_LENGTH}"
+    fi
+  done
+
+  # Trim trailing comma and space
+  STORY_LENGTHS="${STORY_LENGTHS%, }"
+
+  echo "\`\`\`mermaid" >> README.md
+  echo "xychart-beta" >> README.md
+  echo "  title \"Story lengths (in words)\"" >> README.md
+  echo "  x-axis \"Story\" 1 --> $(ls stories/*.md | wc -l | tr -d ' ')" >> README.md
+  echo "  y-axis \"Length (words)\" 1 --> ${MAX_COUNT}" >> README.md
+  echo "  line [${STORY_LENGTHS}]" >> README.md
+  echo "\`\`\`" >> README.md
+}
+
+# Add the list of stories with statistics to the README file
+function add_story_list() {
+  local STORY TITLE STATE DATE LOCATION LANG;
+
+  echo "## 📖 Stories" >> README.md
+  echo "" >> README.md
+
+  # Add summary statistics to the README file
+  echo "### Summary" >> README.md
+  echo "" >> README.md
+  echo "**Total:** $(ls stories/*.md | wc -l | tr -d ' ') <br>" >> README.md
+  echo "**Drafts:** $(grep '^state: draft' stories/*.md | wc -l | tr -d ' ') <br>" >> README.md
+  echo "**Favorites:** $(grep '^favorite: true' stories/*.md | wc -l | tr -d ' ') <br>" >> README.md
+  echo "**Languages:**" >> README.md
+  echo "" >> README.md
+  echo "$(
+    grep -h '^lang:' stories/*.md | sort | uniq -c | \
+    awk '{print $3 ":" $1 }' | \
+    while read LANG; do
+      echo "- ${LANG_MAP[${LANG%%:*}]}: ${LANG##*:}"
+    done
+  )" >> README.md
+  echo "" >> README.md
+  generate_story_length_chart
+  echo "" >> README.md
+
+  # Add the list of stories to the README file
+  echo "### Story list" >> README.md
+  echo "" >> README.md
+
+  # Reverse loop through all story files and extract metadata to build the README
+  # Ordered alphabetically by filename, not by date
+  ls stories/*.md | while read STORY; do
+    # Extract metadata from the story file
+    TITLE=$(grep -m 1 '^title:' "${STORY}" | sed 's/^title: //')
+
+    # Append the story information to the README file
+    echo "- ${TITLE}, [↗️](./stories/$(basename "${STORY}"))$(add_draft_label "${STORY}")$(add_favorite_label "${STORY}")" >> README.md
+  done
+}
+
 # Build the README file of Literature
 echo "# 🖋️ Literature" > README.md
 echo "" >> README.md
 add_poem_list
+echo "" >> README.md
+add_story_list
