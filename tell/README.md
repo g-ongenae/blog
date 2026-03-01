@@ -166,27 +166,38 @@ xychart-beta
 
 ### Summary
 
-**Total:** 22 <br>
+**Total:** 35 <br>
 **Drafts:** 9 <br>
 **Favorites:** 0 <br>
 **Languages:**
 
 - English 🇬🇧: 1
-- French 🇫🇷: 21
+- French 🇫🇷: 34
 
 ```mermaid
 xychart-beta
   title "Story lengths (in words)"
-  x-axis "Story" 1 --> 22
-  y-axis "Length (words)" 1 --> 17292
-  line [964, 195, 450, 268, 844, 339, 81, 100, 767, 853, 17292, 855, 942, 1136, 1743, 266, 1023, 1356, 180, 473, 83, 2156]
+  x-axis "Story" 1 --> 35
+  y-axis "Length (words)" 1 --> 17390
+  line [243, 281, 304, 270, 348, 246, 633, 298, 306, 80, 267, 964, 195, 450, 268, 844, 339, 81, 100, 767, 853, 17390, 855, 942, 1136, 1743, 266, 1023, 1356, 266, 269, 180, 473, 83, 2156]
 ```
 
 ### Story list
 
+- Briques: Bruits, [↗️](./stories/briques-bruits.md)
+- Briques: Do It Now, [↗️](./stories/briques-do-it-now.md)
+- Briques: En Daim, [↗️](./stories/briques-en-daim.md)
+- Briques: L'Autruche, [↗️](./stories/briques-l-autruche.md)
+- Briques: La Nuit, [↗️](./stories/briques-la-nuit.md)
+- Briques: La Télé, [↗️](./stories/briques-la-tele.md)
+- Briques: Le Pommier, [↗️](./stories/briques-le-pommier.md)
+- Briques: Le Train, [↗️](./stories/briques-le-train.md)
+- Briques: Lendemain, [↗️](./stories/briques-lendemain.md)
+- Briques: Rêve, [↗️](./stories/briques-reve.md)
+- Briques: Une Prise, [↗️](./stories/briques-une-prise.md)
 - Chez moi, [↗️](./stories/chez-moi.md)
 - Coupable, [↗️](./stories/coupable.md)
-- Dave, [↗️](./stories/dave.md)
+- StoryTime: Dave, [↗️](./stories/dave.md)
 - Du Nerf, [↗️](./stories/du-nerf.md)
 - Et comme d'habitude, [↗️](./stories/et-comme-d-habitude.md)
 - Et is s'en furent allés, [↗️](./stories/et-ils-s-en-furent-alles.md) ✂︎
@@ -202,6 +213,8 @@ xychart-beta
 - Peines, [↗️](./stories/peines.md)
 - Prêt, [↗️](./stories/pret.md)
 - Qui a éteint la lumière ?, [↗️](./stories/qui-a-eteint-la-lumiere.md)
+- Rien à déclarer: Deux secondes, [↗️](./stories/ras-deux-secondes.md)
+- Rien à déclarer: Une minute, [↗️](./stories/ras-une-minute.md)
 - Rire est interdit, [↗️](./stories/rire-est-interdit.md) ✂︎
 - Sériosite, [↗️](./stories/seriosite.md) ✂︎
 - Shit Story, [↗️](./stories/shit-story.md) ✂︎

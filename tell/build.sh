@@ -104,13 +104,13 @@ function add_poem_list() {
 
 # Generate a Mermaid chart for the length of each story in words
 function generate_story_length_chart() {
-  local COUNT MAX_COUNT STORY_LENGTHS STORY;
+  local MAX_LENGTH STORY_LENGTH STORY_LENGTHS STORY;
 
   for STORY in stories/*.md; do
     STORY_LENGTH=$(wc -w < "${STORY}" | tr -d ' ')
     STORY_LENGTHS+="${STORY_LENGTH}, "
-    if [ "${STORY_LENGTH}" -gt "${MAX_COUNT:-0}" ]; then
-      MAX_COUNT="${STORY_LENGTH}"
+    if [ "${STORY_LENGTH}" -gt "${MAX_LENGTH:-0}" ]; then
+      MAX_LENGTH="${STORY_LENGTH}"
     fi
   done
 
@@ -121,14 +121,14 @@ function generate_story_length_chart() {
   echo "xychart-beta" >> README.md
   echo "  title \"Story lengths (in words)\"" >> README.md
   echo "  x-axis \"Story\" 1 --> $(ls stories/*.md | wc -l | tr -d ' ')" >> README.md
-  echo "  y-axis \"Length (words)\" 1 --> ${MAX_COUNT}" >> README.md
+  echo "  y-axis \"Length (words)\" 1 --> ${MAX_LENGTH}" >> README.md
   echo "  line [${STORY_LENGTHS}]" >> README.md
   echo "\`\`\`" >> README.md
 }
 
 # Add the list of stories with statistics to the README file
 function add_story_list() {
-  local STORY TITLE STATE DATE LOCATION LANG;
+  local STORY SUITE TITLE STATE DATE LOCATION LANG;
 
   echo "## 📖 Stories" >> README.md
   echo "" >> README.md
@@ -161,6 +161,11 @@ function add_story_list() {
   ls stories/*.md | while read STORY; do
     # Extract metadata from the story file
     TITLE=$(grep -m 1 '^title:' "${STORY}" | sed 's/^title: //')
+    SUITE=$(grep -m 1 '^suite:' "${STORY}" | sed 's/^suite: //')
+
+    if [ -n "${SUITE}" ] && [ "${SUITE}" != "none" ]; then
+      TITLE="${SUITE}: ${TITLE}"
+    fi
 
     # Append the story information to the README file
     echo "- ${TITLE}, [↗️](./stories/$(basename "${STORY}"))$(add_draft_label "${STORY}")$(add_favorite_label "${STORY}")" >> README.md
