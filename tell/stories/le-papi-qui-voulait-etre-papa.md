@@ -3,6 +3,7 @@ lang: fr
 date: 2025-08-20
 title: Le papi qui voulait être papa
 state: draft
+type: short
 ---
 # Le papi qui voulait être papa
 

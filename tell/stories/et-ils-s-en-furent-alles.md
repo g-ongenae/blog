@@ -3,6 +3,7 @@ lang: fr
 date: 2023
 title: Et is s'en furent allés
 state: draft
+type: short
 ---
 # Et ils s'en furent allé.
 

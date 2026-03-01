@@ -166,26 +166,38 @@ xychart-beta
 
 ### Summary
 
-**Total:** 6 <br>
+**Total:** 18 <br>
 **Drafts:** 6 <br>
 **Favorites:** 0 <br>
 **Languages:**
 
-- French 🇫🇷: 6
+- French 🇫🇷: 18
 
 ```mermaid
 xychart-beta
   title "Story lengths (in words)"
-  x-axis "Story" 1 --> 6
-  y-axis "Length (words)" 1 --> 1741
-  line [337, 79, 98, 853, 1741, 178]
+  x-axis "Story" 1 --> 18
+  y-axis "Length (words)" 1 --> 2154
+  line [962, 193, 266, 842, 337, 79, 98, 765, 851, 853, 940, 1134, 1741, 264, 1021, 1357, 178, 2154]
 ```
 
 ### Story list
 
+- Chez moi, [↗️](./stories/chez-moi.md)
+- Coupable, [↗️](./stories/coupable.md)
+- Du Nerf, [↗️](./stories/du-nerf.md)
+- Et comme d'habitude, [↗️](./stories/et-comme-d-habitude.md)
 - Et is s'en furent allés, [↗️](./stories/et-ils-s-en-furent-alles.md) ✂︎
 - Gnome, [↗️](./stories/gnome.md) ✂︎
 - Hard Memory, [↗️](./stories/hard-memory.md) ✂︎
+- J'ai peur, [↗️](./stories/j-ai-peur.md)
+- Juste une envie d'être ailleurs, [↗️](./stories/juste-une-envie-d-etre-ailleurs.md)
 - Le papi qui voulait être papa, [↗️](./stories/le-papi-qui-voulait-etre-papa.md) ✂︎
+- Le Retour du perdant, [↗️](./stories/le-retour-du-perdant.md)
+- Les Maudits, [↗️](./stories/les-maudits.md)
 - Passion, [↗️](./stories/passion.md) ✂︎
+- Peines, [↗️](./stories/peines.md)
+- Prêt, [↗️](./stories/pret.md)
+- Qui a éteint la lumière ?, [↗️](./stories/qui-a-eteint-la-lumiere.md)
 - Rire est interdit, [↗️](./stories/rire-est-interdit.md) ✂︎
+- Vous et Nous, [↗️](./stories/vous-et-nous.md)
