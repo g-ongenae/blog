@@ -63,7 +63,7 @@ Puis, le noir.
 
 Mathias jura intérieurement et rebrancha le câble, il était bien branché. Il tenta d'allumer la lumière pas de réponse.
 
-— Merde ! pesta-t-il.
+— Merde ! pesta-t-il.
 
 Il prit sa tablette et appuya sur le bouton pour la déverrouiller, pas de réponse.
 
@@ -83,7 +83,7 @@ Le jeune homme fatigué atteignit enfin l'escalier et s'agrippa à la rambarde p
 
 L'escalier grinça.
 
-Toi aussi, mais c'est une coalition !
+Toi aussi, mais c'est une coalition !
 
 Il réfléchit sur le chemin à suivre, après. Il tourna à gauche vers l'entrée. Il fit quelques pas, heurta la table du téléphone et sautilla de douleur.
 
@@ -139,7 +139,7 @@ Il reconnut la voix de sa mère.
 
 Elle regarda la pièce :
 
-— Me dit pas que tu étais en train d'essayer de faire le mur !?
+— Me dit pas que tu étais en train d'essayer de faire le mur !?
 
 — Non, non, j'essayais de rebrancher l'électricité.
 
@@ -191,7 +191,7 @@ Le lendemain, ils allèrent chez le médecin.
 
 — Un mois pour les gouttes ? demanda Mathias.
 
-— Les gouttes et la lumière !
+— Les gouttes et la lumière !
 
 — Mais comment je fais ? J'ai les cours et tout.
 

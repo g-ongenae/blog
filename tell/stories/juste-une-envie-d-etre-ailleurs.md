@@ -33,7 +33,7 @@ Après être sorti de la cité, je marchais en longeant la côté et arrivant à
 
 Dans ce petit hameau, la population n'avait pas accès à l'eau potable, à l'éducation et bien évidemment à l'électricité.
 
-J'allais parler au chef du village et lui proposer d'instruire ses enfant - une petite dizaine, gratuitement bien entendu ! - et s'ils le désiraient les adultes aussi.
+J'allais parler au chef du village et lui proposer d'instruire ses enfant - une petite dizaine, gratuitement bien entendu ! - et s'ils le désiraient les adultes aussi.
 
 Il refusa.
 
@@ -67,7 +67,7 @@ Ce petit hameau avait bien changé, et il était aujourd'hui prospère.
 
 Mais étrangement, je ne m'y sentais plus chez moi alors je repris la route vers un autre ailleurs qui serait mon ici ne serait-ce que pour un seul jour.
 
-Voilà, tu sais maintenant toute mon histoire, Taïnos, à l'heure qu'il est je suis déjà loin au bord d'une nouvelle histoire ou du précipice - qui sait !
+Voilà, tu sais maintenant toute mon histoire, Taïnos, à l'heure qu'il est je suis déjà loin au bord d'une nouvelle histoire ou du précipice - qui sait !
 
 Prends soin de ce petit paradis.
 

@@ -89,7 +89,7 @@ L'homme regarda sa femme, surpris.
 
 — Tu le vois faire de la menuiserie ?! Bon, suivons-le.
 
-## Aux toilettes !
+## Aux toilettes !
 
 Le père ouvrit la porte de la voiture.
 

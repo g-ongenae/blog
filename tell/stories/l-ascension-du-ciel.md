@@ -79,7 +79,7 @@ Son fils Toa continuait de gémir à la mort, Mia avait les yeux écarquillés c
 
 Le garçon convulsait dans tous les sens en criant des noms et des bruits inaudibles.
 
-— Chéri !
+— Chéri !
 
 — Quoi ? accourra-t-elle. Vite, attrape-le.
 
@@ -95,7 +95,7 @@ Mme Mi ferma les yeux et passa ses mains au-dessus du corps de son fils. Elle re
 
 — C'est comme-si il avait été envahi par un esprit maléfique, un surpuissant.
 
-— Enlève-le !
+— Enlève-le !
 
 — Mais je n'arrive pas à le sentir...
 
@@ -679,7 +679,7 @@ Dans l'esprit de Toa, le Mage lui dit de se rapprocher de la pierre pour observe
 
 — Quels genres de détails ?
 
-— Regardes !
+— Regardes !
 
 L'examinateur appela le premier élève à tenter l'exercice. Celui-ci s'approcha et posa ses mains comme expliqué auparavant. Il ferma les yeux et imagina pousser de toutes ses forces, une légère lumière verte foncée naquit au milieu de la pierre.
 
@@ -835,7 +835,7 @@ Le Mage se rendait compte à quel point son interlocuteur était enfantin, et qu
 
 — Il y en a plusieurs, les premiers seront l'Avarice, la Jalousie et le Désir. Bien sûr, ils ne seraient dangereux sans une bonne dose d'ignorance, et de bêtise.
 
-— Eh ! En quoi cela a-t-il avoir quoi que ce soit avec moi ?
+— Eh ! En quoi cela a-t-il avoir quoi que ce soit avec moi ?
 
 — Pour le savoir, il faut que je te raconte un passage de ma vie, et tu prêt à m'écouter ?
 
@@ -867,7 +867,7 @@ Quelques secondes avant l'heure fatidique, un épigone couru pour rentrer dans l
 
 — Comment ?
 
-— J'ai dit « fais attention ! »
+— J'ai dit « fais attention ! »
 
 — Tu te moques de moi, explosa Toa.
 
@@ -885,7 +885,7 @@ Tous les étudiants venaient de se lever. Le Maître venait de rentrer dans la s
 
 — Maître Gi Lui, j'accueillais le nouvel étudiant, Maître.
 
-— Eh bien ! c'est une belle manière d'accueillir les gens qu'en leur proposant un combat.
+— Eh bien ! c'est une belle manière d'accueillir les gens qu'en leur proposant un combat.
 
 — Maitre, je n'ai pas...
 
@@ -929,7 +929,7 @@ Le garçon qui n'avait pas suivi et ne connaissait pas l'Empire d'Ukat ne savait
 
 — Veuillez me pardonner, Maître, je n'étais pas attentif.
 
-— Eh bien ! voilà qui vous fera 100 tours de pistes à vous aussi, heureusement, vous êtes honnêtes.
+— Eh bien ! voilà qui vous fera 100 tours de pistes à vous aussi, heureusement, vous êtes honnêtes.
 
 — Bien, Maître.
 
@@ -941,7 +941,7 @@ Après le cours d'histoire, Toa avait discuté avec son voisin Liu, il lui avait
 
 — Na Lu ? C'est un Disciple, son maitre peut lui annuler toute punition sans difficulté. Pour la forme, il l'obligera à en faire 20.
 
-— Eh ! Pourquoi donc, demanda Toa, je me retrouve à en faire plus que lui ?
+— Eh ! Pourquoi donc, demanda Toa, je me retrouve à en faire plus que lui ?
 
 Ils se rendirent à la caféteria où ils déjeunèrent ensemble, ainsi qu'avec d'autres élèves de la classe. Ces nouveaux camarades furent curieux sur sa personne et lui aussi l'était d'eux. Toa, Liu, San (le jeune Toa était persuadé que c'était là les deux personnes de l'histoire, mais ne savait pas pourquoi il n'avait pas fait mention du dernier) et Den échangèrent donc. Toa fut aussi assez curieux de l'autre Na Lu qui était Disciple.
 
@@ -1035,7 +1035,7 @@ Les deux Sages se jaugèrent un peu du regard. Gi Lui allait-il se laisser march
 
 — Maître Lui, les faits sont simples, ce matin, j'attendais à l'entrée de la classe votre arrivé, pour me présenter à vous et à la classe. Na Lu est arrivé quelques secondes avant que la cloche ne retentisse en courant et il m'a bousculé, me faisant tombé par surprise. Jamais je n'aurais l'intention d'en tenit rigueur s'il s'était excusé. À la place de cela, il m'a dit de faire attention où je mettais le pied, impliquant que j'étais le fautif. Je lui ai simplement expliqué qu'il était le seul en tort et il m'a menacé de me battre. C'est à ce moment que vous êtes arrivé Maître. Je pense que toutes la classe pourra témoigner en ma défense. Les épigones Liu et Den sont tout deux sur le terrain d'à côté, je peux aller les chercher pour qu'il témoigne, si vous le désirez.
 
-— Eh ! Ce n'est pas avec les amis du coupable qu'il faut aller chercher honnête témoignage, dit le Sage Lou Ti.
+— Eh ! Ce n'est pas avec les amis du coupable qu'il faut aller chercher honnête témoignage, dit le Sage Lou Ti.
 
 — Oui, j'en suis bien conscient et il n'est pas question de reporter à demain pour obtenir les témoignages de la classe.
 

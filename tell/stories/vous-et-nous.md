@@ -40,7 +40,7 @@ Julie était une charmante jeune femme avec de longs cheveux bouclés et pour bi
 
 — En tout cas, je dois dire que tout le monde ici n'est pas sincère, affirma Guillaume qui était un jeune homme sympathique et sans passion pour la méchanceté.
 
-— Ah bon ! Qui ça ? demanda Julie.
+— Ah bon ! Qui ça ? demanda Julie.
 
 — Notre chers Thomas est un petit cachotier, commença Guillaume, il est sur un gros coup.
 

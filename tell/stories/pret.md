@@ -65,7 +65,7 @@ Le jeune homme sourit.
 
 La mère regarda son fils avec tendresse.
 
-- Ah mon pauvre enfant, un peu de culpabilité te ronge et tu es complètement perdu. Que vas-tu faire ? Quelle question ! Ce que tu as prévu. Tu vas tourner ton film et vivre ta vie comme tu l'entends.
+- Ah mon pauvre enfant, un peu de culpabilité te ronge et tu es complètement perdu. Que vas-tu faire ? Quelle question ! Ce que tu as prévu. Tu vas tourner ton film et vivre ta vie comme tu l'entends.
 
 - Mais non je ne parle pas de ça. Je parle de papa.
 
