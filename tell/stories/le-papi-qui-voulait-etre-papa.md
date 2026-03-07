@@ -17,7 +17,7 @@ Sur-motivé le premier, motivé le deuxième, démotivé le troisième et il n'y
 
 Combien en voyait-il passé par jours des comme lui ?
 
-Peu lui importait, 250 € dans sa poche, c'était toujours ça de gagner. Il espérait un bon bonus à la fin du mois.
+Peu lui importait, 250 € dans sa poche, c'était toujours ça de gagner. Il espérait un bon bonus à la fin du mois.
 
 Ce père avec son fils était plus intéressant pour lui. Client aujourd'hui et avec une petite carte de fidélité et quelques relances, ils reviendront chaque trimestre sur les quatre prochaines années. Une affaire qui tourne.
 
