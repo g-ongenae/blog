@@ -18,7 +18,7 @@ Derrière la porte, on pouvait entendre des bruits de meubles déplacés qui râ
 
 À un moment, le manège cessa.
 
-On put entendre l'homme ruminé quelques dernières paroles avant de dire : « Que la chance soit avec vous ! ».
+On put entendre l'homme ruminé quelques dernières paroles avant de dire : « Que la chance soit avec vous ! ».
 
 Un grand choc s'ensuivit, des bruits de strangulation.
 

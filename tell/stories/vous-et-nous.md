@@ -32,7 +32,7 @@ Thomas était un de ces timides qui ne dévoilaient que rarement leurs sentiment
 
 — Oh, laisse le tranquille, intervint Julie, et toi non plus tu n'as pas de copines.
 
-Tout le monde, explosa de rire sauf le concerné qui fit plutôt une mauvaise moue. Certains même y allèrent de leurs commentaires : « Dur, dur, dur... », « L'arroseur arrosé ».
+Tout le monde, explosa de rire sauf le concerné qui fit plutôt une mauvaise moue. Certains même y allèrent de leurs commentaires : « Dur, dur, dur... », « L'arroseur arrosé ».
 
 — Pour l'instant, remarqua simplement Charles, pour l'instant.
 
@@ -66,7 +66,7 @@ Ce dernier lui jeta un regard noir.
 
 — Oh et merde alors, jura-t-il avant de se lever et de partir sans autre forme de procès.
 
-« Je le comprends », pensa Guillaume, « il ne peut pas lui avouer comme-çà devant nous, et surtout devant elle. Il grillerait toutes ses chances. Cela m'arrangerait bien. »
+« Je le comprends », pensa Guillaume, « il ne peut pas lui avouer comme-çà devant nous, et surtout devant elle. Il grillerait toutes ses chances. Cela m'arrangerait bien. »
 
 Il continua de la contempler alors que les autres observaient Thomas partir en silence. Elle était vraiment belle dans légère robe bleue qui marquait si bien sa taille.
 
@@ -82,11 +82,11 @@ Ses sentiments à lui étaient sincères et profonds. Il l'a trouvait belle, mer
 
 Il savait qu'en sa compagnie, ils s'amuseraient, ils rigoleraient, il évoluerait pour être un homme meilleur. Elle serait une énergie pour lui, si seulement elle voulait. Mais, ce n'était pas le moment de lui avouer tout cela, pas en leur présence gênante.
 
-Puis ses yeux descendis plus bas, ses jambes étaient magnifiques, deux flèches prête à être envoyés en l'air. Leur teinte dorée par le soleil, lui donnait l'impression qu'il était dans un sonna. Il ne rêvait que de ça : elle et lui, seul dans un hammam, nue, la sueur chaude coulant sur leur dos. De l'eau brulante suintant entre les deux seins pointant de la jeune femme, excité par la vue de son corps rouge et dure comme de la braise. Elle posa ses mains sur ces épaules tendues et commençât à descendre doucement, lentement. La vapeur leur brouillait un peu la vue mais attisait leur désir. Ils se rapprochèrent, se collèrent et sentir leur cœur battre la chamade à l'unisson. Lui, les mains sur ses fesses tendres, et bien galbés. Elle, les mains sur ses hanches fortes et ancré en terre comme des piliers. Leurs yeux se dévisageaient et leur bouche souriait de satisfaction. Ils étaient tremblants de désir. Rien n'aurait être plus parfait... Il haleta « Julie,... »
+Puis ses yeux descendis plus bas, ses jambes étaient magnifiques, deux flèches prête à être envoyés en l'air. Leur teinte dorée par le soleil, lui donnait l'impression qu'il était dans un sonna. Il ne rêvait que de ça : elle et lui, seul dans un hammam, nue, la sueur chaude coulant sur leur dos. De l'eau brulante suintant entre les deux seins pointant de la jeune femme, excité par la vue de son corps rouge et dure comme de la braise. Elle posa ses mains sur ces épaules tendues et commençât à descendre doucement, lentement. La vapeur leur brouillait un peu la vue mais attisait leur désir. Ils se rapprochèrent, se collèrent et sentir leur cœur battre la chamade à l'unisson. Lui, les mains sur ses fesses tendres, et bien galbés. Elle, les mains sur ses hanches fortes et ancré en terre comme des piliers. Leurs yeux se dévisageaient et leur bouche souriait de satisfaction. Ils étaient tremblants de désir. Rien n'aurait être plus parfait... Il haleta « Julie,... »
 
 — Oui, qu'y a-t-il ?, demanda cette dernière.
 
-« Quel idiot, si je ne fais pas attention à ce que je dis, ce stratagème pour le faire disparaître n'aura servi à rien. » se réprimanda Guillaume.
+« Quel idiot, si je ne fais pas attention à ce que je dis, ce stratagème pour le faire disparaître n'aura servi à rien. » se réprimanda Guillaume.
 
 — Tu m'as appelée, Guillaume.
 
@@ -98,7 +98,7 @@ Puis ses yeux descendis plus bas, ses jambes étaient magnifiques, deux flèches
 
 Il s'en voulait d'utiliser un tel artifice pour écarter un de ses amis. Il l'aimait bien au fond mais, là c'était différent. On ne confond pas Amour, Amitié et Activité professionnelle, et un d'eux était de trop. Et il ne se serait pas laissé jeter.
 
-« C'était lui ou moi » décida Guillaume finalement pour se donner bonne conscience. Il n'aurait jamais pu la combler. Il était trop faible, trop renfermé, trop étrange.
+« C'était lui ou moi » décida Guillaume finalement pour se donner bonne conscience. Il n'aurait jamais pu la combler. Il était trop faible, trop renfermé, trop étrange.
 
 — Je le comprends vraiment pas, il se comporte vraiment bizarrement Thomas, finis par dire Guillaume.
 
@@ -106,7 +106,7 @@ Il s'en voulait d'utiliser un tel artifice pour écarter un de ses amis. Il l'ai
 
 Bip... Bip... Bip... Bam.
 
-« Ce réveil sonne vraiment trop fort, il faudrait que je le règle » pensa Thomas en sortant de son lit et courant vers la douche.
+« Ce réveil sonne vraiment trop fort, il faudrait que je le règle » pensa Thomas en sortant de son lit et courant vers la douche.
 
 Il le sentait, cette journée allait être merveilleuse, le soleil était déjà haut dans le ciel et irradiait son pâle visage du peu de gaité dont il avait gentiment rêvé cette nuit. En allant à la faculté, il suivi du regard les oiseaux émoustillés par ce redoux printanier.
 
@@ -134,7 +134,7 @@ Avant que Thomas ait eu le temps de parler à Guillaume, le professeur arriva et
 
 Une fois qu'ils eurent mangés, le groupe d'amis de Thomas allèrent s'asseoir dans le square qui commençait déjà à se remplir doucement. La petite bande fut satisfaite de trouver une zone libre un peu à l'ombre.
 
-Là, Hugo raconta les derniers évènements avec sa copine. Thomas était toujours très friand de ses histoires burlesques presque sortis d'un bon vaudeville. Il le trouvait bête de la tromper. Il se trompait lui-même, trouvait Thomas. Ce-dernier lui en avait déjà fait la remarque, il lui avait simplement répondu en riant : « Je ne trompe pas ma femme, il m'arrive seulement que je me trompe de femme. »
+Là, Hugo raconta les derniers évènements avec sa copine. Thomas était toujours très friand de ses histoires burlesques presque sortis d'un bon vaudeville. Il le trouvait bête de la tromper. Il se trompait lui-même, trouvait Thomas. Ce-dernier lui en avait déjà fait la remarque, il lui avait simplement répondu en riant : « Je ne trompe pas ma femme, il m'arrive seulement que je me trompe de femme. »
 
 Il racontait si bien ses histoire qu'on s'y voyait :
 

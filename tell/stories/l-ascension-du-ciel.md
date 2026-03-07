@@ -259,7 +259,7 @@ La jeune Mia quant à elle s'était endormie debout, très rapidement, avant d'�
 
 Dans son monde, Le jeune Toa observait lui aussi la scène de son côté sans savoir réellement ce qui se passait. Presque instamment, la sensation de pincement s'était dissipée. Pourtant au bout de presque qu'une heure à les regarder, il se sentait las, comme vidé, il voulait demander à son moi adulte de cesser mais il n'arriva pas à se lever et il eut envie d'hurler mais sans préavis il se mit à avoir mal de partout.
 
-« Stop » pensa-t-il intérieurement de toutes ses forces.
+« Stop » pensa-t-il intérieurement de toutes ses forces.
 
 D'un coup, l'étrange échange entre le sage et le Toa du futur s'interrompit. Et le vieil homme fut repoussé en arrière.
 
@@ -303,13 +303,13 @@ Le sage portait le même habit que la veille, une simple robe qui lui descendait
 
 L'homme fit un petit saut en se tournant vers le miroir avant de s'essuyer sur sa manche.
 
-Le cabinet du vieil homme consistait en quelques étagères rempli de livres, de manuscrits abimés, et de quelques objets étranges que le garçon n'avait encore jamais vu même dans les livres, d'une table d'environ un mètre de circonférence au milieu de la pièce recouverte de papier, dont certains avaient glissés sur le sol, de deux chaises, et d'une autre table rectangulaire placé, comme les étagères, contre le mur. Sur cette dernière table, un seul objet était disposé avec un petit cahier à côté. Sur la couverture de celui-ci était indiqué : « Partition et Unicité de l'Esprit ».
+Le cabinet du vieil homme consistait en quelques étagères rempli de livres, de manuscrits abimés, et de quelques objets étranges que le garçon n'avait encore jamais vu même dans les livres, d'une table d'environ un mètre de circonférence au milieu de la pièce recouverte de papier, dont certains avaient glissés sur le sol, de deux chaises, et d'une autre table rectangulaire placé, comme les étagères, contre le mur. Sur cette dernière table, un seul objet était disposé avec un petit cahier à côté. Sur la couverture de celui-ci était indiqué : « Partition et Unicité de l'Esprit ».
 
 Toa continuait de faire le tour de la pièce alors que le l'homme se débarrassait enfin de sa tâche sur le visage.
 
 — Toa, dit-il, nous allons partir dès que possible pour le capitale. Les progrès que tu apporteras à la Sagesse seront incommensurable.
 
-« Non, » pensa l'adulte dans l'esprit de Toa, « si on va à l'Athénée, on va être coincé pendant des mois comme cobaye de leurs expériences... On ne doit surtout pas y aller. Dû moins pas maintenant. »
+« Non, » pensa l'adulte dans l'esprit de Toa, « si on va à l'Athénée, on va être coincé pendant des mois comme cobaye de leurs expériences... On ne doit surtout pas y aller. Dû moins pas maintenant. »
 
 — Non, réagit instinctivement le jeune, je veux retrouver mes amis à l'Académie.
 
@@ -317,7 +317,7 @@ Toa continuait de faire le tour de la pièce alors que le l'homme se débarrassa
 
 — Non, tenu l'enfant en serrant ses poings pour montrer sa détermination.
 
-« Toa, » dit l'adulte en son sein, « on ne peut se permettre d'aller là-bas, j'ai un moyen d'arranger la situation. Peux-tu répéter les mots que je vais dire ? »
+« Toa, » dit l'adulte en son sein, « on ne peut se permettre d'aller là-bas, j'ai un moyen d'arranger la situation. Peux-tu répéter les mots que je vais dire ? »
 
 — Cher Sage Fuu Ni, Docteur ès Esprit, c'est l'homme du futur qui vous parle par l'intermédiaire de Toa, je vais essayer de rendre mon message le plus clair et succinct possible, pour ne pas trop en demander au jeune, le sujet dont je vais vous parler étant de la plus grande importance.
 
@@ -345,7 +345,7 @@ L'enfant se tût, son visage montrait le conflit intérieur qu'il vivait. Il vou
 
 — C'est suffisant. Vous êtes l'un des meilleurs Sages de votre temps.
 
-— Nul besoin de flatterie, ici. Je n'ai encore fait preuve d'aucune étude intéressante alors même que j'approche les 120 ans. Tiu Mo en avait déjà publié 12 à mon âge. Mes plus grand rivaux, Lo Cou, Va Nit et Fu Rue en ont au moins publié trois chacun. Cela fait des années que je bute sur mon étude de la « Partition et Unicité de l'Esprit », et cela m'empêche de publié quelques autres papiers. Si mes quelques talents en Exorcisme et Médecine ne me sauvait, voilà longtemps que j'aurais été radié de la Sagesse.
+— Nul besoin de flatterie, ici. Je n'ai encore fait preuve d'aucune étude intéressante alors même que j'approche les 120 ans. Tiu Mo en avait déjà publié 12 à mon âge. Mes plus grand rivaux, Lo Cou, Va Nit et Fu Rue en ont au moins publié trois chacun. Cela fait des années que je bute sur mon étude de la « Partition et Unicité de l'Esprit », et cela m'empêche de publié quelques autres papiers. Si mes quelques talents en Exorcisme et Médecine ne me sauvait, voilà longtemps que j'aurais été radié de la Sagesse.
 
 — J'ai lu votre étude sur l'Esprit, tout le monde l'a lira quand vous la publierait, mais elle n'est pas encore fini. Dans mon ancienne vie, il vous fallu cinq ans de plus pour la parfaire. Avec mes quelques conseils, vous pourriez la finir en un mois. De plus, avec nos talents communs, nous pourrions vous donner de bons résultats en un seul mois sur le cas qui nous concerne.
 
@@ -393,7 +393,7 @@ Comme l'adulte dans son esprit lui avait indiqué au réveil, il avait mis sa te
 
 Le Sage lui fit faire des plusieurs tours du patio en courant pour connaitre son endurance, des allers-retours en sprint pour connaitre sa vitesse, des pompes et autres exercices de poids pour sa force, puis enfin des étirements pour son agilité, sa souplesse.
 
-Fuu Ni trouvait les résultats fort admirables, bien que n'ayant rien d'extraordinaire. Avec un peu de talent en Esprit, cet enfant devait avoir eu un bel avenir dans la branche des Spirituels, se disait-il, et sans, il aurait eu de bon avantage. « Il doit sans doute avoir beaucoup de talent pour être devenu un si grand Esprit. »
+Fuu Ni trouvait les résultats fort admirables, bien que n'ayant rien d'extraordinaire. Avec un peu de talent en Esprit, cet enfant devait avoir eu un bel avenir dans la branche des Spirituels, se disait-il, et sans, il aurait eu de bon avantage. « Il doit sans doute avoir beaucoup de talent pour être devenu un si grand Esprit. »
 
 Cependant, ils s'installèrent au milieu de terrain nu pour profiter de la clarté du Soleil à son zénith et effectuer les exercices de l'Esprit. Ils étaient tous les deux en tailleur l'adulte faisant face au jeune pour l'étudier et le faire étudier.
 
@@ -429,7 +429,7 @@ L'homme se tourna vers lui en lui souriant :
 
 — Tu as démontré de bonne capacités physiques aujourd'hui et un peu moins en esprit, mais avec de l'entrainement, celles-ci devraient être du même acabit.
 
-Dans l'esprit de Toa, l'adulte gronda : « Non, surtout pas. Transmets-lui mes paroles. »
+Dans l'esprit de Toa, l'adulte gronda : « Non, surtout pas. Transmets-lui mes paroles. »
 
 — Maître, l'esprit dit que je dois entrainer mon corps et non mon esprit.
 
@@ -441,7 +441,7 @@ Dans l'esprit de Toa, l'adulte gronda : « Non, surtout pas. Transmets-lui mes 
 
 — Bien que mes capacités soient prometteuses, mon esprit avec le sien surpassent grandement ce que je puis supporter, c'est pour cela que je me suis évanouie.
 
-Le Sage se gratta la barbe du menton, le verre serait si plein qu'une simple goutte d'eau le ferait débordé. « S'il dit vrai, l'enfant est en danger, » pensa-t-il, « à la première attaque d'esprit, il pourrait exploser. »
+Le Sage se gratta la barbe du menton, le verre serait si plein qu'une simple goutte d'eau le ferait débordé. « S'il dit vrai, l'enfant est en danger, » pensa-t-il, « à la première attaque d'esprit, il pourrait exploser. »
 
 ## Chapitre 6. L'Entrainement
 
@@ -543,7 +543,7 @@ Impressionné par le nombre de maisonnette, le garçon n'aurait pu imaginer comp
 
 Le Sage l'informa de la géographie. L'enfant n'en retenue seulement les quelques informations essentielles, l'Institut était à l'Est, tandis que l'Athénée était au Sud-Est. Pourtant, Fuu Ni le mit en garde, il ne pourrait être que très peu présent pour le jeune.
 
-Le Mage en son sein rassura le vieil homme et l'enfant, il serait toujours toujours à ses côtés. « De manière évidente... » rajouta-t-il.
+Le Mage en son sein rassura le vieil homme et l'enfant, il serait toujours toujours à ses côtés. « De manière évidente... » rajouta-t-il.
 
 La charrette, après avoir passé les portes de la ville, continua son chemin vers l'Institut, le Sage préférait déposer Toa avant de se diriger vers l'Athénée. À mesure que leur caravane avançait dans la ville, le Soleil descendait dans le ciel et les rues s'illuminaient. Des prétendants au titre de Mage parcouraient les rues en lançant des sorts de flammes ou de foudre pour allumer les torches communales, ces disciples se faisaient appelés les éclaireurs publics et étaient grandement respecté dans la cité.
 
@@ -647,7 +647,7 @@ Il avait appris en regardant le précédent duel de son adversaire, il copia aus
 
 Ce fut Mao qui prit l'initiative d'attaquer, il savait que les réflexes de son ami, au vu de ses résultats était bon mais qu'il n'avait aucune expérience et tomberait dans la première feinte.
 
-Il fit un pas en avant et montra clairement son intention de frapper en plein visage. « Pas deux fois » pensa Toa, en se décalant sur la droite. Mao fit pivoter ses hanches pour envoyer un coup de pied latéral dans les côtes de son opposant. Toa en profita pour attaquer et lancer un poing, et se prépara à le voir esquiver en arrière. À sa surprise, Mao utilisa son pied lancé en appuie pour le frapper avec sa première main, celle qui avait servi à feinter. Une double feinte.
+Il fit un pas en avant et montra clairement son intention de frapper en plein visage. « Pas deux fois » pensa Toa, en se décalant sur la droite. Mao fit pivoter ses hanches pour envoyer un coup de pied latéral dans les côtes de son opposant. Toa en profita pour attaquer et lancer un poing, et se prépara à le voir esquiver en arrière. À sa surprise, Mao utilisa son pied lancé en appuie pour le frapper avec sa première main, celle qui avait servi à feinter. Une double feinte.
 
 Le garçon vola un bon mètre, mais resta debout, et repris sa position de départ prêt à attaquer à tout instant. Mao ne lui accorda aucune pitié, il n'eut pas le temps de se remettre debout que son ami était déjà en train de le charger.
 
@@ -767,7 +767,7 @@ La salle ne disposait que d'un bureau, d'une table, de deux sièges, un fauteuil
 
 — Vous êtes encore jeune et bien naïf pour penser qu'un seul livre peut changer le cours de l'histoire scientifique. Je peux vous donner une convocation pour le prochain colloque bimestriel. Enfin, avec le colloque annuel à la fin du mois, celui-ci n'aura pas lieu avant presque trois mois.
 
-« C'est trop long, » pensa le Sage Ni, « cela pourrait compromettre nos plans, il faut que je passe à tout prix au colloque annuel. »
+« C'est trop long, » pensa le Sage Ni, « cela pourrait compromettre nos plans, il faut que je passe à tout prix au colloque annuel. »
 
 — Très vénérable Archi-Sage Shu So, vous avez des procédures à respecter, des règles à appliquer et un jeune Sage sans renommée comme je suis ne pourrait s'en extraire. Néanmoins, si vous me faisiez l'honneur de lire mon étude, je suis sûr qu'elle vous plaira et vous ne pourriez ne pas vouloir la présenter à la première occasion qui se présenter à tous les Sages et les Maîtres de Discipline de l'Athénée.
 
@@ -797,7 +797,7 @@ Il était là, enfin à pouvoir profiter d'un peu de repos, tant attendu depuis 
 
 Et puis ce sommeil-là avait un goût différent des autres, de l'habituel. Il était heureux, mais surtout fier d'avoir accompli la demande du Mage. Il se sentait méritant et quel goût agréable pouvait avoir ce repos.
 
-Dans son esprit, l'adulte commençait à s'impatienter. Quand avait-il dit qu'une fois l'échauffement terminé, il serait libre de dormir ? « Les coqs ont chantés, » pensait-il « les grincheux aussi, et il n'est toujours pas debout. » À entendre la ville qui s'activait, il commença à tambouriner dans l'Esprit du jeune pour le réveiller.
+Dans son esprit, l'adulte commençait à s'impatienter. Quand avait-il dit qu'une fois l'échauffement terminé, il serait libre de dormir ? « Les coqs ont chantés, » pensait-il « les grincheux aussi, et il n'est toujours pas debout. » À entendre la ville qui s'activait, il commença à tambouriner dans l'Esprit du jeune pour le réveiller.
 
 Après dix bonne minutes, il finit enfin par faire réagir l'ours, qui se rendormit aussi tôt, en lâchant :
 
@@ -867,7 +867,7 @@ Quelques secondes avant l'heure fatidique, un épigone couru pour rentrer dans l
 
 — Comment ?
 
-— J'ai dit « fais attention ! »
+— J'ai dit « fais attention ! »
 
 — Tu te moques de moi, explosa Toa.
 
@@ -933,7 +933,7 @@ Le garçon qui n'avait pas suivi et ne connaissait pas l'Empire d'Ukat ne savait
 
 — Bien, Maître.
 
-Toa ne pris aucune rancune pour les cent tours de pistes. « De toute manière, » pensa-t-il « ce vieux rabougris dans mon esprit m'aurait obligé à les faire. » et fit attention au cours.
+Toa ne pris aucune rancune pour les cent tours de pistes. « De toute manière, » pensa-t-il « ce vieux rabougris dans mon esprit m'aurait obligé à les faire. » et fit attention au cours.
 
 ## Chapitre 13. Nouveaux Amis
 
@@ -959,7 +959,7 @@ Après lui avoir présenter une image assez peu reluisante de la personne, de pa
 
 — Pas pour le protéger, mais pour le former, corrigea Den. C'est Na Lu qui manipule son maître à sa guise.
 
-Le Mage au fond de l'être de Toa riait, avec un air de « Je te l'avais dit. » Toa lui répondait avec des pieds-de-nez colérique.
+Le Mage au fond de l'être de Toa riait, avec un air de « Je te l'avais dit. » Toa lui répondait avec des pieds-de-nez colérique.
 
 — Mais avec ta relation avec le Sage Fuu Ni, tu ne devrais pas avoir trop de problème, dit San.
 
@@ -1087,7 +1087,7 @@ Après que Na Lu ait passé son dixième tours et Toa, seulement son cinquième,
 
 Le temps passait, Ji Ho comptait, Na Lu sprintait et Toa gardait un rythme constant. Le noble venait de finir son vingtième tour quand il commença à ralentir.
 
-« Il est épuisé » se dirent-ils tous.
+« Il est épuisé » se dirent-ils tous.
 
 Toa continuant sur son rythme de croisière le rattrapa lentement, vers le 28e tour, il le dépassa.
 
@@ -1213,7 +1213,7 @@ Le reste de la journée se passa sans évènement majeur et à la demande de Toa
 
 Après avoir fait juré à ses amis de tenir ce qu'ils entendraient secret, Toa leur expliqua son cas et ce que le Mage en son sein pouvait leur apporter, ainsi que le prix qu'ils devraient payer pour.
 
-En entendant le garçon parler, ses amis doutèrent, comment un Mage pouvait-il revenir dans le temps ? Pourquoi le ferait-il seulement ? Pourquoi se serait-il réincarner dans son corps jeune, plutôt que de revenir en chair et en os ? Et qu'attendait-il d'eux ? Et surtout qu'entendait-il par « une vie difficile » ?
+En entendant le garçon parler, ses amis doutèrent, comment un Mage pouvait-il revenir dans le temps ? Pourquoi le ferait-il seulement ? Pourquoi se serait-il réincarner dans son corps jeune, plutôt que de revenir en chair et en os ? Et qu'attendait-il d'eux ? Et surtout qu'entendait-il par « une vie difficile » ?
 
 — J'ai déjà accepté l'idée d'avoir une vie difficile, il y a bien longtemps, dit Mao, et bien que je ne serais jamais Mage, recevoir l'aide d'un d'entre eux est un don du Ciel.
 

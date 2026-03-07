@@ -10,7 +10,7 @@ location: Le Fresne
 Cette photo phosphorescente téléphone <br>
 À Dante dansant dans ces dat(t)es et dames <br>
 Lui luisant luit d’une lubie loyalisme <br>
-Eux eunuque eudiste et « eucophone »
+Eux eunuque eudiste et « eucophone »
 
 Pestent contre leur pesette à pétale <br>
 Impétueux inventifs invalident l’invar <br>
