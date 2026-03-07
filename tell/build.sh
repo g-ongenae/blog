@@ -103,7 +103,7 @@ function add_poem_list() {
     );
 
     # Append the poem information to the README file
-    echo "- ${TITLE}, [↗️](./poems/$(basename "${POEM}"))${LABELS[*]}" >> README.md
+    echo "- ${TITLE}, [↗️](./poems/$(basename "${POEM}"))$(echo "${LABELS[*]}" | sed 's/[[:space:]]*$//')" >> README.md
   done
 }
 
