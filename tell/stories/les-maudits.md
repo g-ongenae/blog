@@ -1,6 +1,6 @@
 ---
 lang: fr
-date: 2015-04-23
+date: 2013
 state: done
 title: Les Maudits
 type: short
@@ -111,18 +111,12 @@ Le héros lui lança un regard noir.
 
 — Oui. Et nous héros sommes faits pour cela :
 
-Nous héros
-
-Sommes maudits
-
-Partant de zéro
-
-Tentons l'infini
-
-Et oublier
-
-Le but premier
-
+Nous héros  <br>
+Sommes maudits <br>
+Partant de zéro <br>
+Tentons l'infini <br>
+Et oublier <br>
+Le but premier <br>
 Nous hérauts
 
 — À une prochaine, salua le messager en disparaissant.
