@@ -1,6 +1,6 @@
 ---
 lang: fr
-date: 2016-04-02
+date: 2014-06-19
 state: done
 title: Et comme d'habitude
 type: short
@@ -140,5 +140,3 @@ Le psychologue reconduit l'homme jusqu'à la salle d'attente.
 — Au revoir... Bonjour, M. Martin.
 
 Encore lui.
-
-

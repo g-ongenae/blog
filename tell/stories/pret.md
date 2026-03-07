@@ -1,6 +1,6 @@
 ---
 lang: fr
-date: 2015
+date: 2014-06-18
 state: done
 title: Prêt
 type: short
