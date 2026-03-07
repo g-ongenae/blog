@@ -22,7 +22,7 @@ Dances
       -> Have fun
     Feeling the dance
       -> Energy of a dance => The dance shape the community
-      -> Dancing Good & Dancing Bad
+      -> Dancing Good & Dancing Bad
       -> Are we moving or are we dancing?
 
   Lindy Hop

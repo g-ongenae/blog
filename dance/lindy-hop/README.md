@@ -7,7 +7,7 @@
 ## People
 
 - Frankie Manning
-- Skye & Frida
+- Skye & Frida
 
 ## Moves
 

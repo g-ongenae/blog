@@ -11,7 +11,7 @@ type: long
 
 Toa est un jeune garçon de 12 ans qui va entrer à l'Institut de la capitale, seulement il va y aller avec son lui du futur. Son lui du futur, un Mage très puissant qui est revenu dans le temps et dans le l'Esprit du garçon pour sauver le monde. Mais le sauver de quoi ?
 
-Inspirée de : Naruto, Tales of Demons & Gods, Re: Monster, Star Martial God Technic.
+Inspirée de : Naruto, Tales of Demons & Gods, Re: Monster, Star Martial God Technic.
 
 N.B.
 1. Histoire en cours d'écriture qui peut contenir beaucoup de fautes.
