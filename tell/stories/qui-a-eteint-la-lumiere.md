@@ -15,9 +15,9 @@ Son thème « Halloween ».
 
 Mathias était vert, non seulement il avait oublié la fête mais en plus il avait été interdit d'y aller.
 
-Son père avait insisté : « Jour de semaine = Pas de soirée ».
+Son père avait insisté : « Jour de semaine = Pas de soirée ».
 
-La vidéo terminé, il alla chercher son ordinateur, se remit dans son lit et tapa dans la barre de recherche Google : « streaming halloween ». Il cliqua sur le premier lien qui lui parut fiable.
+La vidéo terminé, il alla chercher son ordinateur, se remit dans son lit et tapa dans la barre de recherche Google : « streaming halloween ». Il cliqua sur le premier lien qui lui parut fiable.
 
 Il tomba sur un film quelque peu glauque et très sombre.
 
@@ -25,27 +25,27 @@ Il augmenta la luminosité de son PC au maximum, et éteignit sa lampe, pour êt
 
 Il mit ses écouteurs pour pas que ses parents ne puissent l'entendre et monta un peu le son.
 
-Il reprit sa tablette et écrivit un tweet : « Devant un film de merde pour #Halloween. #MerciPapa ».
+Il reprit sa tablette et écrivit un tweet : « Devant un film de merde pour #Halloween. #MerciPapa ».
 
 Le film était lent, sans tension.
 
-Sa tablette vibra, il la déverrouilla pour voir la notification : « @KwinSD a ajouté votre tweet à ses favoris. ».
+Sa tablette vibra, il la déverrouilla pour voir la notification : « @KwinSD a ajouté votre tweet à ses favoris. ».
 
 Il reposa l'appareil et ses yeux brûlants devant l'écran.
 
-Sa tablette vibra à nouveau, nouvelle notification : « @HemenJack vous a mentionné dans son tweet. Faites glisser pour lire le tweet. ».
+Sa tablette vibra à nouveau, nouvelle notification : « @HemenJack vous a mentionné dans son tweet. Faites glisser pour lire le tweet. ».
 
-@HemenJack : @M4thiasBS Fais le mur. #Halloween #MerciJack ;-)
+@HemenJack : @M4thiasBS Fais le mur. #Halloween #MerciJack ;-)
 
-Il redressa le coussin dans son dos et écrivit :
+Il redressa le coussin dans son dos et écrivit :
 
-@M4thiasBS : @HemenJack Tu connais pas mon père, il est pire que #Chocki #Halloween #MerciPapa
+@M4thiasBS : @HemenJack Tu connais pas mon père, il est pire que #Chocki #Halloween #MerciPapa
 
-@HemenJack : @M4thiasBS Au moins ça fera un bon souvenir pour #Halloween
+@HemenJack : @M4thiasBS Au moins ça fera un bon souvenir pour #Halloween
 
-@M4thiasBS : @HemenJack Si c'est possible de s'en souvenir. #Halloween #JeSuisDead
+@M4thiasBS : @HemenJack Si c'est possible de s'en souvenir. #Halloween #JeSuisDead
 
-@M4thiasBS : @HemenJack Bon c'est pas le tout mais je regarde un film, moi. #Halloween https://t.co/sg3df5g
+@M4thiasBS : @HemenJack Bon c'est pas le tout mais je regarde un film, moi. #Halloween https://t.co/sg3df5g
 
 Le film n'avait pas avancé d'un pouce. Le méchant à la figure émacié n'avait pas encore tué un seul personnage.
 
@@ -137,7 +137,7 @@ Il reconnut la voix de sa mère.
 
 — Si jamais ton père se réveille, il va s'énerver...
 
-Elle regarda la pièce :
+Elle regarda la pièce :
 
 — Me dit pas que tu étais en train d'essayer de faire le mur !?
 
@@ -177,7 +177,7 @@ Il détourna les yeux, du moins c'est l'impression qu'il eut.
 
 — Alors va te coucher.
 
-Il leva la tête vers où il pensait que sa mère se trouvait :
+Il leva la tête vers où il pensait que sa mère se trouvait :
 
 — Euh, tu peux m'aider à me diriger, s'il-te-plaît ?
 

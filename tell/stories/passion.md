@@ -23,7 +23,7 @@ Il se complaisait dans cette vie qui le faisait oublier son autre vie, celle que
 
 La vie du métro-boulot-dodo, même si son boulot à lui était d'étudier.
 
-Il avait créé à ce sujet un meme dans un anglais approximatif : "If school was an enterprise, I won't live long before being fired." Il avait écrit cette pensée sur l'image d'un tyrannosaure avec une griffe sous le gosier. Il avait bien ri. Ce n'était pas son premier meme mais celui-ci avait, après avoir été corrigé par un anglophone, bien marché, il avait obtenu plus de 2000 up sur 9gag et près de 1000 internautes l'avaient partagé.
+Il avait créé à ce sujet un meme dans un anglais approximatif : "If school was an enterprise, I won't live long before being fired." Il avait écrit cette pensée sur l'image d'un tyrannosaure avec une griffe sous le gosier. Il avait bien ri. Ce n'était pas son premier meme mais celui-ci avait, après avoir été corrigé par un anglophone, bien marché, il avait obtenu plus de 2000 up sur 9gag et près de 1000 internautes l'avaient partagé.
 
 Oui, c'était son autre vie. Celle qu'il aimait. Car celle connue comme officiel, qu'il voyait comme une vie d'enfermement et de tristesse. Sa vie était là sur internet.
 
@@ -153,7 +153,7 @@ Matthieu réfléchit encore un peu, s'approcha et glissa quelques mots au confé
 
 — Très bien. Maintenant, je veux que chacun se remémore son rêve. On va faire un petit exercice. Vous allez décrire votre rêve en une seule phrase. (Il patienta quelques instants.) Cette phrase doit être claire, c'est elle qui va vous aider à décomposer votre rêve en étape. Ensuite, vous allez choisir les trois premières étapes que vous devriez franchir pour atteindre ce rêve. Matthieu, quelles sont tes trois premières étapes ? Cela tu peux nous le dire.
 
-— Oui, c'est possible : *étape 1, étape 2, étape 3*.
+— Oui, c'est possible : *étape 1, étape 2, étape 3*.
 
 — Très bien, vous avez vu comment Matthieu a décrit ses trois premières étapes. Avec, on ne peut pas trouver son rêve, mais ces trois paliers sont tout de même la base de son rêve. (Il se tourna à nouveau vers Matthieu.) Ne penses-tu pas que tu peux dès aujourd'hui les mettre en place et même, peut-être pas la première étape, mais les deux suivantes se dirigent plus vers un domaine et une formation.
 

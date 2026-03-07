@@ -11,7 +11,7 @@ type: long
 
 Toa est un jeune garçon de 12 ans qui va entrer à l'Institut de la capitale, seulement il va y aller avec son lui du futur. Son lui du futur, un Mage très puissant qui est revenu dans le temps et dans le l'Esprit du garçon pour sauver le monde. Mais le sauver de quoi ?
 
-Inspirée de : Naruto, Tales of Demons & Gods, Re: Monster, Star Martial God Technic.
+Inspirée de : Naruto, Tales of Demons & Gods, Re: Monster, Star Martial God Technic.
 
 N.B.
 1. Histoire en cours d'écriture qui peut contenir beaucoup de fautes.
@@ -45,11 +45,11 @@ Ils ont réussi pensa, joyeusement, Gao Lu.
 
 Dans une petite maison de campagne, la nuit tombante, la famille Mi finissait de prendre son repas de riz et de d'haricot durement gagné au contact du champs. Le repas terminé le paternel Mi indiqua à ses deux enfants Toa - son ainé - et Mia - la cadette - d'aller se coucher sans un mot, les deux obéirent. Le lendemain se serait le départ du plus âgé pour l'Institut.
 
-M. Mi se tourna vers sa compagne :
+M. Mi se tourna vers sa compagne :
 
 — Quand tu les vois aussi docile, cela ne te donnes pas envie d'en faire un de plus...
 
-Mme Mi sourit en approchant doucement de son mari, avant de lui susurra à l'oreille :
+Mme Mi sourit en approchant doucement de son mari, avant de lui susurra à l'oreille :
 
 — Si tu me fais la vaisselle, je veux bien même de jumeaux...
 
@@ -189,7 +189,7 @@ Il se mit à pleurer.
 
 — Je suis désolé.
 
-L'enfant sécha ses larmes et dit :
+L'enfant sécha ses larmes et dit :
 
 — Bon, je dois te laisser mon corps alors ?
 
@@ -265,11 +265,11 @@ D'un coup, l'étrange échange entre le sage et le Toa du futur s'interrompit. E
 
 M. et Mme Mi avaient des questions la bouche mais les gardèrent fermer.
 
-Le sage après s'être passé une main sur le visage pour reprendre ses esprits, se tourna vers les deux :
+Le sage après s'être passé une main sur le visage pour reprendre ses esprits, se tourna vers les deux :
 
 — Il ne faut parler de cela à personne. Toa va être sous ma protection pour les prochains jours, il est encore en convalescence et n'ira pas à l'école pour l'instant.
 
-Il se releva, frotta ses vêtements aux genoux froissé par la dureté du sol, se tourna vers la sortie et parti, avant de se retourner sur le pas de la porte :
+Il se releva, frotta ses vêtements aux genoux froissé par la dureté du sol, se tourna vers la sortie et parti, avant de se retourner sur le pas de la porte :
 
 — Envoyez le moi demain matin pour que je m'occupe de prendre soin de lui moi-même.
 
@@ -303,7 +303,7 @@ Le sage portait le même habit que la veille, une simple robe qui lui descendait
 
 L'homme fit un petit saut en se tournant vers le miroir avant de s'essuyer sur sa manche.
 
-Le cabinet du vieil homme consistait en quelques étagères rempli de livres, de manuscrits abimés, et de quelques objets étranges que le garçon n'avait encore jamais vu même dans les livres, d'une table d'environ un mètre de circonférence au milieu de la pièce recouverte de papier, dont certains avaient glissés sur le sol, de deux chaises, et d'une autre table rectangulaire placé, comme les étagères, contre le mur. Sur cette dernière table, un seul objet était disposé avec un petit cahier à côté. Sur la couverture de celui-ci était indiqué : « Partition et Unicité de l'Esprit ».
+Le cabinet du vieil homme consistait en quelques étagères rempli de livres, de manuscrits abimés, et de quelques objets étranges que le garçon n'avait encore jamais vu même dans les livres, d'une table d'environ un mètre de circonférence au milieu de la pièce recouverte de papier, dont certains avaient glissés sur le sol, de deux chaises, et d'une autre table rectangulaire placé, comme les étagères, contre le mur. Sur cette dernière table, un seul objet était disposé avec un petit cahier à côté. Sur la couverture de celui-ci était indiqué : « Partition et Unicité de l'Esprit ».
 
 Toa continuait de faire le tour de la pièce alors que le l'homme se débarrassait enfin de sa tâche sur le visage.
 
@@ -327,7 +327,7 @@ Toa continuait de faire le tour de la pièce alors que le l'homme se débarrassa
 
 — Je comprends, faisons cet échange rapide alors.
 
-— Comme j'ai pu le montrer hier dans mes souvenirs, le Monde cours un grand danger et malheureusement, vous connaissez aussi bien que moi le plus exceptionnel des miracles de l'Athénée : la longueur de leur étude. Si nous allions, à la capitale, le Monde serait perdu.
+— Comme j'ai pu le montrer hier dans mes souvenirs, le Monde cours un grand danger et malheureusement, vous connaissez aussi bien que moi le plus exceptionnel des miracles de l'Athénée : la longueur de leur étude. Si nous allions, à la capitale, le Monde serait perdu.
 
 — Il est vrai. Mais...
 
@@ -419,17 +419,17 @@ Il s'attendait à ce que l'enfant en bon débutant ait une légère réaction, m
 
 Inconscient. L'enfant avait perdu connaissance.
 
-Le médecin réagit instamment, il l'ausculta, fit un diagnostic, l'appliqua et le soigna : il était épuisé et avait seulement besoin d'un peu de repos, il le porta à son cabinet et s'occupa de ses affaires en gardant un oeil sur lui.
+Le médecin réagit instamment, il l'ausculta, fit un diagnostic, l'appliqua et le soigna : il était épuisé et avait seulement besoin d'un peu de repos, il le porta à son cabinet et s'occupa de ses affaires en gardant un oeil sur lui.
 
 Fuu Ni après avoir fait quelques rapports sur les compétences et les capacités de l'enfants, continua de son occupé de son étude principale. Il écrivit rapidement une dizaine de page avant que Toa ne reprenne connaissance.
 
 — Ohh, j'ai la tête qui tourne, dit-il en se relevant.
 
-L'homme se tourna vers lui en lui souriant :
+L'homme se tourna vers lui en lui souriant :
 
 — Tu as démontré de bonne capacités physiques aujourd'hui et un peu moins en esprit, mais avec de l'entrainement, celles-ci devraient être du même acabit.
 
-Dans l'esprit de Toa, l'adulte gronda : « Non, surtout pas. Transmets-lui mes paroles. »
+Dans l'esprit de Toa, l'adulte gronda : « Non, surtout pas. Transmets-lui mes paroles. »
 
 — Maître, l'esprit dit que je dois entrainer mon corps et non mon esprit.
 
@@ -445,7 +445,7 @@ Le Sage se gratta la barbe du menton, le verre serait si plein qu'une simple gou
 
 ## Chapitre 6. L'Entrainement
 
-Durant les jours qui suivirent, Toa fut entrainés par ses deux maîtres aux arts martiaux. Le matin, on le faisait suer avec des exercices cardiologiques, d'endurances, de vitesse, d'agilité et de force. L'après-midi, Fuu Ni lui apprenait à frapper, à parer et à esquiver ; pour le sage aussi, c'était dur, toutes ces années à rester assis l'avaient engourdi. Le soir, le Mage au sein de l'enfant, lui apprenait les bases de l'Esprit : comment l'entrainer, comment l'utiliser pour se défendre ou attaquer, comment renforcer son corps avec.
+Durant les jours qui suivirent, Toa fut entrainés par ses deux maîtres aux arts martiaux. Le matin, on le faisait suer avec des exercices cardiologiques, d'endurances, de vitesse, d'agilité et de force. L'après-midi, Fuu Ni lui apprenait à frapper, à parer et à esquiver ; pour le sage aussi, c'était dur, toutes ces années à rester assis l'avaient engourdi. Le soir, le Mage au sein de l'enfant, lui apprenait les bases de l'Esprit : comment l'entrainer, comment l'utiliser pour se défendre ou attaquer, comment renforcer son corps avec.
 
 Le garçon apprenait diligemment, espérant ainsi être rapidement libérer et pouvoir retrouver ses amis à l'Institut. Les jours passaient de cette manière et Toa avant de se coucher répétait une dernière fois ce que lui avais appris le Mage et le Sage.
 
@@ -483,7 +483,7 @@ Quelques minutes plus tard, les parents Mi se présentait au cabinet du Sage.
 
 — Notre fils ne vous a pas causé de problème ?
 
-Le Sage les rassura sur la nature de leur convocation et les informa des progrès de leur fils :
+Le Sage les rassura sur la nature de leur convocation et les informa des progrès de leur fils :
 
 — Je partirais pour l'Athénée avec Toa, à la fin de la semaine. Je ne compte pas revenir avant plusieurs mois et j'aimerais te confier, chère disciple, mon cabinet.
 
@@ -547,17 +547,17 @@ Le Mage en son sein rassura le vieil homme et l'enfant, il serait toujours toujo
 
 La charrette, après avoir passé les portes de la ville, continua son chemin vers l'Institut, le Sage préférait déposer Toa avant de se diriger vers l'Athénée. À mesure que leur caravane avançait dans la ville, le Soleil descendait dans le ciel et les rues s'illuminaient. Des prétendants au titre de Mage parcouraient les rues en lançant des sorts de flammes ou de foudre pour allumer les torches communales, ces disciples se faisaient appelés les éclaireurs publics et étaient grandement respecté dans la cité.
 
-Ces postes étaient en priorité donnés aux enfants de famille avec peu de moyen, en échange d'un maigre pécule qui leur payait les frais scolaires et nourricier. D'autres postes de services publics étaient ainsi réservés : les nettoyeurs, livreurs et crieurs publics par exemple. Toa devrait sans doute effectué un de ses métiers dans le futur, sa famille ayant juste de quoi payer ses frais de scolarités.
+Ces postes étaient en priorité donnés aux enfants de famille avec peu de moyen, en échange d'un maigre pécule qui leur payait les frais scolaires et nourricier. D'autres postes de services publics étaient ainsi réservés : les nettoyeurs, livreurs et crieurs publics par exemple. Toa devrait sans doute effectué un de ses métiers dans le futur, sa famille ayant juste de quoi payer ses frais de scolarités.
 
 Finalement, ils arrivèrent à l'Institut. Celui-ci était composé de plusieurs bâtiments qui formaient un grand campus, des salles de cours, une bibliothèque générale, des gymnases et de grands dortoirs.
 
 Il descendirent devant le bâtiment principale et la voiture continua son chemin jusqu'au dortoir des garçons, pour y déposer les quelques affaires du jeune Toa.
 
-Accompagné du Sage, l'enfant pénétra l'édifice et fût accueilli par le directeur :
+Accompagné du Sage, l'enfant pénétra l'édifice et fût accueilli par le directeur :
 
 — Bienvenue, Mi Toa, je suis le directeur de cet école, Li Po ; Salutation, Sage Fuu Ni, je vous attendais. Avez-fait un bon voyage ?
 
-Toa s'inclina respectueusement face au quinquagénaire. Fuu Ni, inclina seulement la tête :
+Toa s'inclina respectueusement face au quinquagénaire. Fuu Ni, inclina seulement la tête :
 
 — Oui, merci. Comme je vous l'avais annoncé dans mon courrier, je viens mettre cet enfant sous votre protection.
 
@@ -583,7 +583,7 @@ Ils passèrent quelques heures à discuter de leurs aventures du mois et Toa vou
 
 ## Chapitre 8. Les Premiers Combats
 
-Au petit matin, les trois enfants se dirigèrent vers la salle d'examen. Ce jour-là, il devait avoir trois épreuves : une théorique - composée de toutes les connaissances générales que les jeunes avait dû acquérir durant ce premier mois à l'institut et leurs précédentes études -, une physique et une sur l'esprit. Mais contrairement, à celle qu'avais passé le Sage à Toa, il ne cherchait pas à connaitre la force de l'esprit, pas seulement du moins, il voulait aussi savoir la qualité de l'esprit du disciple.
+Au petit matin, les trois enfants se dirigèrent vers la salle d'examen. Ce jour-là, il devait avoir trois épreuves : une théorique - composée de toutes les connaissances générales que les jeunes avait dû acquérir durant ce premier mois à l'institut et leurs précédentes études -, une physique et une sur l'esprit. Mais contrairement, à celle qu'avais passé le Sage à Toa, il ne cherchait pas à connaitre la force de l'esprit, pas seulement du moins, il voulait aussi savoir la qualité de l'esprit du disciple.
 
 Ici, seul la chance était maître. Bien que la qualité d'un esprit avait tendance à être héréditaire, celui-ci par moment pouvait sauter des générations, sans raison particulière. Un génie pouvait sortir de nulle part et au contraire un enfant de génie pouvait très n'avoir aucun talent.
 
@@ -671,9 +671,9 @@ Pour finir, l'épreuve que tout le monde redoutait commença. Celle qui dicterai
 
 L'examinateur demanda à faire amener la pierre. Quelques _sophomores_ qui avaient été chargé d'aider à la préparation de l'exam s'employèrent à déposer une pierre translucide qui mesurait environ une toise de circonférence.
 
-Tous les élèves se placèrent autour de la pierre pour l'observer, le précepteur expliqua le fonctionnement : l'étudiant appelé devait mettre ses mains sur la pierre et imaginer pousser dessus. Le Maître regarderait alors la pierre et noterait la couleur et la puissance de l'élève. Plus la couleur est chaude, meilleur sera la note, idem pour la puissance. Néanmoins, la puissance est moins importantes que la couleur. Pour espérer devenir Mage, il fallait obtenir une note d'au minimum 15.
+Tous les élèves se placèrent autour de la pierre pour l'observer, le précepteur expliqua le fonctionnement : l'étudiant appelé devait mettre ses mains sur la pierre et imaginer pousser dessus. Le Maître regarderait alors la pierre et noterait la couleur et la puissance de l'élève. Plus la couleur est chaude, meilleur sera la note, idem pour la puissance. Néanmoins, la puissance est moins importantes que la couleur. Pour espérer devenir Mage, il fallait obtenir une note d'au minimum 15.
 
-Dans l'esprit de Toa, le Mage lui dit de se rapprocher de la pierre pour observer :
+Dans l'esprit de Toa, le Mage lui dit de se rapprocher de la pierre pour observer :
 
 — Si tu fais bien attention tu pourras toi aussi voir la couleur ou d'autres détails.
 
@@ -699,7 +699,7 @@ Un autre enfant s'avança à son nom, Toa s'efforça à nouveau de voir un petit
 
 — Un serpent.
 
-Il se tourna vers l'adulte, et demanda :
+Il se tourna vers l'adulte, et demanda :
 
 — Chacun a un animal différent.
 
@@ -733,7 +733,7 @@ L'esprit était bleu clair, presque comme de l'eau, il ressemblait à une espèc
 
 Le Mage fit un sourire au jeune, plein de compassion.
 
-Après quelques autres élèves, ce fut enfin le tour de Toa, il s'avança et ne ferma pas les yeux pour bien voir la forme de son Esprit. Comme tous les autres, il mit les mains sur la pierre et infusa son esprit comme le lui avait appris le Sage Fuu Ni durant son mois d'entraînement. À peine après quelques secondes, une lumière bleue, très intense, plus forte que toutes les autres avant lui éclaira la pièce. Très rapidement, Toa distingua un animal d'une grande taille, un éléphant mais celui-ci en plus de longues défenses, avaient un pelages très long. Il barissait dans sa cage translucide. C'était un Mammouth, lui apprit l'adulte, une espèce cousine de l'éléphant éteinte. L'examinateur avait l'air embêté et réfléchi pendant un long instant avant de rendre son jugement :
+Après quelques autres élèves, ce fut enfin le tour de Toa, il s'avança et ne ferma pas les yeux pour bien voir la forme de son Esprit. Comme tous les autres, il mit les mains sur la pierre et infusa son esprit comme le lui avait appris le Sage Fuu Ni durant son mois d'entraînement. À peine après quelques secondes, une lumière bleue, très intense, plus forte que toutes les autres avant lui éclaira la pièce. Très rapidement, Toa distingua un animal d'une grande taille, un éléphant mais celui-ci en plus de longues défenses, avaient un pelages très long. Il barissait dans sa cage translucide. C'était un Mammouth, lui apprit l'adulte, une espèce cousine de l'éléphant éteinte. L'examinateur avait l'air embêté et réfléchi pendant un long instant avant de rendre son jugement :
 
 — 15.
 
@@ -799,7 +799,7 @@ Et puis ce sommeil-là avait un goût différent des autres, de l'habituel. Il �
 
 Dans son esprit, l'adulte commençait à s'impatienter. Quand avait-il dit qu'une fois l'échauffement terminé, il serait libre de dormir ? « Les coqs ont chantés, » pensait-il « les grincheux aussi, et il n'est toujours pas debout. » À entendre la ville qui s'activait, il commença à tambouriner dans l'Esprit du jeune pour le réveiller.
 
-Après dix bonne minutes, il finit enfin par faire réagir l'ours, qui se rendormit aussi tôt, en lâchant :
+Après dix bonne minutes, il finit enfin par faire réagir l'ours, qui se rendormit aussi tôt, en lâchant :
 
 — Je peux dormir encore une heure.
 
@@ -841,17 +841,17 @@ Le Mage se rendait compte à quel point son interlocuteur était enfantin, et qu
 
 L'enfant hésita. Il était bien un peu curieux de savoir son futur, de pouvoir le forger comme il le désirait... mais il tenait pour certitude que ce vieil homme ne le laisserait pas faire, qu'il le mènerait là où il en aurait envie. De plus son histoire pourrait être une complète fable qu'il n'y verrait que du feu. Il s'apprêtait à refuser, à quoi écouter des songes quand on peut rêver.
 
-— Cela faisait quelques mois que j'étais entrer à l'Institut, contrairement à toi, je n'avais pas obtenu une note suffisante au test d'Esprit. À vrai dire, j'avais été dernier. Je m'étais donc retrouvé avec Mao dans la filière des Arts Martiaux. Je n'avais aucun désir de devenir un Guerrier et avec la renommée de père, je ne pouvais me permettre de faire minimum. Pourtant, je n'en avais aucune envie. Je voulais juste passer mon temps à dormir et à rire avec mes amis Fua, Mao, Liu et San. Mais eux ne l'entendais pas de cet façon, Mao voulait devenir un grand guerrier pour payer les dettes de sa famille, il emportait les autres dans son élan et Fua était simplement trop studieux. Je résolus de devenir un Mage par tout les moyens, je concoctais un plan génial : premièrement, trouver le moyen de changer ma couleur d'Esprit, secondement, manipuler par des moyens humains quelques examinateurs pour qu'il m'offre une nouvelle chance de passer au test d'Esprit. Je rentrais en contact avec le marché noir et fit l'acquisition de quelques fioles qui permettaient de faire cet effet. Je passais le test et fut accepté avec une note de 17, mon esprit étant devenu rouge pour quelques jours. Je commençais donc les cours de ma nouvelle formation mais après quelques jours et aucuns progrès par rapport aux exercices effectués, je tombais malade. Mon Esprit était devenu rouge car il était infecté. Pendant plusieurs mois, je restais alité, incapable de bouger ou même de penser. Durant mon hospitalisation, mon procès fut fait. Les médecins avait signalé un empoisonnement et quelques témoins dont je n'avais pris garde avaient informé de mon échange avec les examinateurs. Eux furent mis-à-pied, puis en prison ; mon ami Fua, accuser de m'avoir informer sur l'existence de ce poison, aussi ; Mao et ses camarades d'armes, de m'avoir accompagné sur le marché noir et d'avoir fait usage de produit pour doper leurs capacités physiques, eux aussi. Je n'étais pas encore d'appoint que la rumeur fausse que j'avais acheté avec de l'or les examinateur et que celle-ci provenait de ma famille, se rependit. Des bandits ne mirent pas longtemps avant de connaitre la vérité. Ils s'attaquèrent à la maison familiale et bien que père fût un très un grand guerrier, il ne résista pas face aux assauts répétés. Il mourut, protégeant Mia. Elle fut capturée et je n'entendus plus parler d'elle. Elle avait été vendu au marché noir comme esclave. Mère étant parti en voyage avec Maitre Ni ne fut pas touchée par les attaques. Néanmoins, après ces évènements, elle ne me parla plus jamais de la même manière. Elle était toujours distante sans jamais manquer à ses obligations de mère. Après avoir été guéri et avoir fait mon séjour en prison, je parti en exil. Plus rien ne me retenais ici, et tout me poussait à partir, en particulier mes amis. J'étais seul errant dans le désert, sans amis, sans famille, sans richesse, sans futur, ni même désir. Mais plein de regret et d'amertume.
+— Cela faisait quelques mois que j'étais entrer à l'Institut, contrairement à toi, je n'avais pas obtenu une note suffisante au test d'Esprit. À vrai dire, j'avais été dernier. Je m'étais donc retrouvé avec Mao dans la filière des Arts Martiaux. Je n'avais aucun désir de devenir un Guerrier et avec la renommée de père, je ne pouvais me permettre de faire minimum. Pourtant, je n'en avais aucune envie. Je voulais juste passer mon temps à dormir et à rire avec mes amis Fua, Mao, Liu et San. Mais eux ne l'entendais pas de cet façon, Mao voulait devenir un grand guerrier pour payer les dettes de sa famille, il emportait les autres dans son élan et Fua était simplement trop studieux. Je résolus de devenir un Mage par tout les moyens, je concoctais un plan génial : premièrement, trouver le moyen de changer ma couleur d'Esprit, secondement, manipuler par des moyens humains quelques examinateurs pour qu'il m'offre une nouvelle chance de passer au test d'Esprit. Je rentrais en contact avec le marché noir et fit l'acquisition de quelques fioles qui permettaient de faire cet effet. Je passais le test et fut accepté avec une note de 17, mon esprit étant devenu rouge pour quelques jours. Je commençais donc les cours de ma nouvelle formation mais après quelques jours et aucuns progrès par rapport aux exercices effectués, je tombais malade. Mon Esprit était devenu rouge car il était infecté. Pendant plusieurs mois, je restais alité, incapable de bouger ou même de penser. Durant mon hospitalisation, mon procès fut fait. Les médecins avait signalé un empoisonnement et quelques témoins dont je n'avais pris garde avaient informé de mon échange avec les examinateurs. Eux furent mis-à-pied, puis en prison ; mon ami Fua, accuser de m'avoir informer sur l'existence de ce poison, aussi ; Mao et ses camarades d'armes, de m'avoir accompagné sur le marché noir et d'avoir fait usage de produit pour doper leurs capacités physiques, eux aussi. Je n'étais pas encore d'appoint que la rumeur fausse que j'avais acheté avec de l'or les examinateur et que celle-ci provenait de ma famille, se rependit. Des bandits ne mirent pas longtemps avant de connaitre la vérité. Ils s'attaquèrent à la maison familiale et bien que père fût un très un grand guerrier, il ne résista pas face aux assauts répétés. Il mourut, protégeant Mia. Elle fut capturée et je n'entendus plus parler d'elle. Elle avait été vendu au marché noir comme esclave. Mère étant parti en voyage avec Maitre Ni ne fut pas touchée par les attaques. Néanmoins, après ces évènements, elle ne me parla plus jamais de la même manière. Elle était toujours distante sans jamais manquer à ses obligations de mère. Après avoir été guéri et avoir fait mon séjour en prison, je parti en exil. Plus rien ne me retenais ici, et tout me poussait à partir, en particulier mes amis. J'étais seul errant dans le désert, sans amis, sans famille, sans richesse, sans futur, ni même désir. Mais plein de regret et d'amertume.
 
 L'enfant se retrouva avec plein de question qu'il n'avait pas désirés. Que s'est-il passé après ? Comment est-il devenu Mage ? Que sont devenus les autres ? Est-il jamais revenu après ? Comment avait-il fait pour manipuler les examinateurs ? Qui sont Liu et San ?...
 
-Pourtant, une seule trouvait-il avait encore du sens :
+Pourtant, une seule trouvait-il avait encore du sens :
 
 — Mais en quoi cela me concerne-t-il ? J'ai déjà été admis. Je vais pouvoir devenir Mage, sans faire tout ceci et causer tout cela.
 
 — Le Monde est fragile, c'est une balance qui revient toujours vers l'équilibre. Ma présence perturbe l'équilibre. Les changements que j'ai causé vont en entrainer d'autres. Tu n'iras pas sur le marché noir et tu ne seras pas empoisonnée par la bêtise. Mais ta situation actuelle attire les regards, n'as-tu pas remarqué le comportement de Mao ? Il est jaloux de ton progrès, mais pire, c'est ton comportement qu'il déteste. Il accepterait de se faire battre par son meilleur ami, si tu faisais les efforts mais tu ne les fais pas. Abandonnes aujourd'hui l'entrainement et tu ne pourras pas protéger ta famille, tu perdras tes amis, ton futur, ta joie de vivre.
 
-L'adulte regarda le jeune longuement, avant d'ajouter :
+L'adulte regarda le jeune longuement, avant d'ajouter :
 
 — Quel est ton choix ?
 
@@ -973,7 +973,7 @@ Mao fut assez déçu de voir que son meilleur venait seulement pour effectuer la
 
 Le professeur qui devait être pour valider la punition et le disciple Na Lu n'était pas encore arrivé, Toa regardait donc ses jeunes compères être dirigé sous les ordres de Mao pour s'entrainer. Il était un peu surpris par le comportement de son ami, il savait qu'il avait toujours voulu devenir Guerrier, mais ne l'avait jamais vu s'entrainer pour. Pourtant il le voyait bien, il s'était entrainé avant.
 
-Dans son sein, l'adulte regardait aussi la scène, en approuvant régulièrement de la tête. Il avait l'air d'être plus fier de Mao que de Toa. Il se tourna vers le jeune et lui dit :
+Dans son sein, l'adulte regardait aussi la scène, en approuvant régulièrement de la tête. Il avait l'air d'être plus fier de Mao que de Toa. Il se tourna vers le jeune et lui dit :
 
 — Tu lui fais le moindre mal et je te pourris la vie, jusqu'à la mort.
 
@@ -1203,7 +1203,7 @@ Le professeur expliquait les évolutions et les stades de l'Esprit. Il mettait s
 
 Le Mage au sein du garçon désapprouvait ce discours à tel point que la colère se lisait sur le visage de l'enfant et que celui-ci failli obtenir une nouvelle punition.
 
-Le Sage expliquait que les étapes de l'ascension contre le Ciel : à commencer par celle ou était tous les élèves actuellement simple mortel ; puis les trois stades primaires le bronze, l'argent et l'or ; les cinq stades secondaires le béryl, l'émeraude, le jade, le rubis et le diamant ; et enfin les trois stades supérieurs le lys, l'orchidée et le roseau. Il expliquait que les seuls moyens de développer était la méditation, et les potions quoique celles-ci pouvaient se révéler dangereuse.
+Le Sage expliquait que les étapes de l'ascension contre le Ciel : à commencer par celle ou était tous les élèves actuellement simple mortel ; puis les trois stades primaires le bronze, l'argent et l'or ; les cinq stades secondaires le béryl, l'émeraude, le jade, le rubis et le diamant ; et enfin les trois stades supérieurs le lys, l'orchidée et le roseau. Il expliquait que les seuls moyens de développer était la méditation, et les potions quoique celles-ci pouvaient se révéler dangereuse.
 
 Il expliquait aussi comment bien méditer. Chacun selon sa couleur et son stade devait faire respirer son esprit et déplacer celui-ci selon des points précis de chakra. Il expliqua bien entendu ce qu'était un point de chakra et donna pour devoir à tous les aspirants Mage, mais aussi aux autres, de d'apprendre par coeur les points de chakra du corps. Ceci étant important dans le développement de l'Esprit mais permet aussi à un bon guerrier d'immobiliser un opposant et à un bon Sage de guérir des maux qui paraissent immuable.
 
@@ -1229,7 +1229,7 @@ En entendant le garçon parler, ses amis doutèrent, comment un Mage pouvait-il 
 
 Toa se leva et se plaça devant la pierre et infusa son Esprit dans la pierre, il demanda à ses amis de regarder dedans et de lui dire ce qu'ils voyaient. Le Mammouth était plus calme que la dernière fois, il ne barissait pas et était roulé en boule au milieu de la pierre, seul la queue de l'animal bougeant. Le garçon fût assez surpris de ce comportement et demanda des explications à l'adulte. Le comportement de son Esprit animal serait toujours identique au sien. Lors du test d'Esprit, il était nerveux et les combats l'avaient mis-à-bout.
 
-Les autres jeunes s'approchèrent et observèrent la pierre, ne savant pas exactement ce qu'ils devaient pouvoir voir. Après quelques minutes à regarder Si explosa :
+Les autres jeunes s'approchèrent et observèrent la pierre, ne savant pas exactement ce qu'ils devaient pouvoir voir. Après quelques minutes à regarder Si explosa :
 
 — Je le vois.
 
@@ -1251,7 +1251,7 @@ Le garçon s'exécuta sans tergiverser, bien qu'il ne pensait pas posséder un E
 
 — À moi, dit Mao après avoir finis de se moquer de Fua.
 
-Après qu'il fut visible de tous, Toa nomma la bête de Mao : l'Amarok. Tout le monde passa, Si avait un Serpent à sonette, Pau un écureuil, Liu et Den était tout deux des loups.
+Après qu'il fut visible de tous, Toa nomma la bête de Mao : l'Amarok. Tout le monde passa, Si avait un Serpent à sonette, Pau un écureuil, Liu et Den était tout deux des loups.
 
 — Copieur, grommelèrent Liu et Den.
 

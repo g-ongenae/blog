@@ -18,7 +18,7 @@ Beaucoup pensait à leur santé, encore plus à leur bien-être et leur bonheur.
 
 Quelques-uns le faisaient pour autrui sans doutes pour leur mari ou leur femme et leur mariage, d'autres pour leur parents ou leurs enfants, certains, d'autres encore pour leurs idées ou leurs valeurs.
 
-Ils ne faisaient pas tous le même la chose, chacun avait ses raisons et ses envies mais ils avaient en commun une chose : un espoir sourd et aveugle quand ils se lançaient.
+Ils ne faisaient pas tous le même la chose, chacun avait ses raisons et ses envies mais ils avaient en commun une chose : un espoir sourd et aveugle quand ils se lançaient.
 
 Ils y croyaient.
 

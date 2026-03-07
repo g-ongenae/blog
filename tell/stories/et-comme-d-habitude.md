@@ -13,7 +13,7 @@ Comme d'habitude.
 
 L'homme posa sa mallette et accrocha son caban noir avant de s'allonger.
 
-— Alors dites-moi un peu : pourquoi êtes-vous là ?
+— Alors dites-moi un peu : pourquoi êtes-vous là ?
 
 Comme d'habitude, il va me débiter un tas d'âneries.
 
@@ -33,7 +33,7 @@ Etrange.
 
 — Bien, comme vous voudrez.
 
-L'homme réfléchit quelques instants puis commença :
+L'homme réfléchit quelques instants puis commença :
 
 — Je me lève à 6h45 le matin, trente minutes après ma femme, puis je prends mon déjeuner...
 

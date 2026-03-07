@@ -7,7 +7,7 @@ type: short
 ---
 # Juste une envie d'être ailleurs
 
-Ça a commencé ainsi : j'étais un élève normal, ni excellent, ni pathétique. Je ne vivais que pour devenir prof, comme mes parents. Je n'ai jamais été très bon, mais j'avais une qualité essentiel pour mon rêve : j'étais pédagogue. Capable d'expliquer la théorie de la relativité à un enfant de six ans sans qu'il n'ait jamais entendu parler de physique auparavant.
+Ça a commencé ainsi : j'étais un élève normal, ni excellent, ni pathétique. Je ne vivais que pour devenir prof, comme mes parents. Je n'ai jamais été très bon, mais j'avais une qualité essentiel pour mon rêve : j'étais pédagogue. Capable d'expliquer la théorie de la relativité à un enfant de six ans sans qu'il n'ait jamais entendu parler de physique auparavant.
 
 Et puis, tout d'un coup, j'en ai eu assez. Assez d'être dans l'incertain, assez d'être concurrencer par des néophytes basées à l'autre bout de la planète. Assez d'être obligé de m'adapter quand mes méthodes sont déjà productives.
 
@@ -21,11 +21,11 @@ J'avais contacté diverses associations et aucunes n'avaient accepté de me pren
 
 Je me suis rendu au port du Havre et ai demandé de voyager au milieu d'un cargo. Après une semaine d'attente, je réussi à être embarquer à bord ils me demandèrent d'effectuer la plonge. Et durant mes temps libre, j'appris la navigation et la construction navale d'un des manutentionnaires.
 
-Mon voyage dura un mois et quand j'arrivai à destination, on me jeta par-dessus bord - à peine deux minutes après être descendu, le cargo reprit la mer - et je restai seul sur le port de cette ville à reconstruire : Port-Au-Prince.
+Mon voyage dura un mois et quand j'arrivai à destination, on me jeta par-dessus bord - à peine deux minutes après être descendu, le cargo reprit la mer - et je restai seul sur le port de cette ville à reconstruire : Port-Au-Prince.
 
 En entrant dans la ville, je passais par une banque et lui demandai d'échangé mes économies - je doutais qu'ils aient suffisamment de monnaie dans l'agence et préférais garder le maximum pour rester à l'abri des regards.
 
-Par la simple et courte discussion que j'eu avec la guichetière, je sus que j'étais bien tombé : ici j'aurais du travail.
+Par la simple et courte discussion que j'eu avec la guichetière, je sus que j'étais bien tombé : ici j'aurais du travail.
 
 Je demandais une carte et choisi de marcher jusqu'au plus petit village.
 
@@ -43,7 +43,7 @@ Tous les matins, je lui demandais et il refusait. Durant deux mois, cela dura.
 
 J'utilisai ce temps à construire ma maison, cultiver mon champ à la lisière du village où il tolérait ma présence.
 
-Quelques fois un homme passait et me donnait un conseil pour améliorer mes méthodes de culture et de construction. Ce n'était jamais plus d'une phrase. Je me souviens surtout d'une :
+Quelques fois un homme passait et me donnait un conseil pour améliorer mes méthodes de culture et de construction. Ce n'était jamais plus d'une phrase. Je me souviens surtout d'une :
 
 « Twò prese pa fè jou louvri »
 

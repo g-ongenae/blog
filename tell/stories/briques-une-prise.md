@@ -16,7 +16,7 @@ Peu à peu, les premiers clients commençaient à s'aglutiner devant les présen
 
 Certains s'asseyaient sans réflechir, d'autres encore s'installaient proche des plats de légumes chaud, dont ils pouvaient se servir à l'envie.
 
-Mais quelques rares personnes regardaient attentivement en dessous des tables, sur les piliers, derrière les chaises pour trouver le sésame : une prise de courant.
+Mais quelques rares personnes regardaient attentivement en dessous des tables, sur les piliers, derrière les chaises pour trouver le sésame : une prise de courant.
 
 Vers midi la salle était presque pleine et tout les branchements que les clients avaient pui trouver était déjà reservé.
 

@@ -14,7 +14,7 @@ Les paroles et bavardages indistincts des étrangers discutant, réagissant inte
 
 Des traînées de poussières s'envolaient dans la marche des citadins laissant de-ci de-là des déchets rouler sur le sol noir.
 
-Le jeune garçon resserra son pull sur ses épaules alors que deux personnes habillées de bleu s'approchaient de lui en discutant. Ils s'arrêtèrent devant lui, le saluèrent avant de lui demander :
+Le jeune garçon resserra son pull sur ses épaules alors que deux personnes habillées de bleu s'approchaient de lui en discutant. Ils s'arrêtèrent devant lui, le saluèrent avant de lui demander :
 
 « Tu es tout seul ? »
 
@@ -24,7 +24,7 @@ Le garçon hocha la tête avant de dire que son père lui avait dit d'attendre s
 
 Le garçon ne répondit pas.
 
-Les deux personnes se regardèrent un instant avant que celui qui portait une casquette lui dise :
+Les deux personnes se regardèrent un instant avant que celui qui portait une casquette lui dise :
 
 « Je fais partie de la police. »
 

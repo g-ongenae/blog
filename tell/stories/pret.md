@@ -31,7 +31,7 @@ Cet homme en doutait. Il avait perdu confiance en son fils quand celui-ci avait 
 
 - Je voulais juste l'aider.
 
-Un jour, son enfant lui avait écrit un message, le dernier qu'il eut de lui. Cela disait :
+Un jour, son enfant lui avait écrit un message, le dernier qu'il eut de lui. Cela disait :
 
 _Papa,_
 
@@ -83,7 +83,7 @@ Le fils hocha la tête. Il en était bien loin de son premier concours où il av
 
 - Quand le film sortira dans les salles, tu pourras amener Papa le voir.
 
-La mère sourit, s'approcha de lui, lui fit une bise et dit :
+La mère sourit, s'approcha de lui, lui fit une bise et dit :
 
 - Tu racontes n'importe quoi. Allez à bientôt.
 

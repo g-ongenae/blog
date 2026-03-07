@@ -31,11 +31,11 @@ Le garçon ne bougea pas d'un cheveu.
 
 — Non, c'est moi qui t'écoute, pourquoi veux-tu sauter ? Tu sais très bien que tu ne peux ni voler, ni résister à une telle chute.
 
-— Je sais et je n'en avais pas l'envie : je veux en finir, dit fermement le garçon.
+— Je sais et je n'en avais pas l'envie : je veux en finir, dit fermement le garçon.
 
 — Pourquoi ? Qu'est-il arrivé de si horrible ? demanda simplement le héros.
 
-Le jeune homme alla s'asseoir sur une bouche d'aération et commença à parler :
+Le jeune homme alla s'asseoir sur une bouche d'aération et commença à parler :
 
 — Depuis toujours, je ne me sens pas à ma place, avec les gens, je ne sais comment me comporter. J'ai toujours fait de mon mieux, mais cela n'a jamais suffi. J'ai beau toujours essayer de me surpasser, je n'y arrive jamais. Je suis las d'essayer, j'ai essayé de continuer, d'essayer, de vouloir. Rien n'y fait, je suis las, je veux en finir.
 
@@ -91,7 +91,7 @@ Le héros lui lança un regard noir.
 
 — Tu les connais, mais est-ce que tu les comprends seulement ?
 
-— La blague, tu crois vraiment que cela fera une grande différence si je comprends ou pas : « le silence est d'or et la parole est d'argent ».
+— La blague, tu crois vraiment que cela fera une grande différence si je comprends ou pas : « le silence est d'or et la parole est d'argent ».
 
 — Oui.
 
@@ -109,7 +109,7 @@ Le héros lui lança un regard noir.
 
 — « Il n'y a rien de plus euphorisant qu'un travail à accomplir », dit le jeune en citant tristement son père.
 
-— Oui. Et nous héros sommes faits pour cela :
+— Oui. Et nous héros sommes faits pour cela :
 
 Nous héros
 

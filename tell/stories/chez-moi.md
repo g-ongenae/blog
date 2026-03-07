@@ -61,7 +61,7 @@ La voiture entra dans le garage et après que son père eut refermé la porte, i
 
 Le soleil allait se lever d'une minute à l'autre, Pierre attendait de voir son spectacle préféré de l'année.
 
-Il sortit de son lit, s'habilla et descendit dans la cuisine. Sa mère l'y attendait :
+Il sortit de son lit, s'habilla et descendit dans la cuisine. Sa mère l'y attendait :
 
 — Bonjour, mon chéri. Bien dormi ?
 
@@ -79,7 +79,7 @@ La sœur de Pierre entra dans la cuisine, toujours en robe de chambre.
 
 — Ah, en voilà une qui ne changera jamais, dit Pierre en la voyant arriver.
 
-Ils se firent la bise et après avoir pris leur déjeuner en bavardant, la petite demanda :
+Ils se firent la bise et après avoir pris leur déjeuner en bavardant, la petite demanda :
 
 — Alors, cette surprise ?
 
@@ -107,7 +107,7 @@ Pierre avança vers les portes fenêtres et regarda l'herbe verte du jardin.
 
 — Oh, oh, il y a quelqu'un ? dit la sœur.
 
-Il continua de se rapprocher de la porte :
+Il continua de se rapprocher de la porte :
 
 — Où ? Où est le chêne ?
 
@@ -115,7 +115,7 @@ Il continua de se rapprocher de la porte :
 
 — Non, un orage l'a foudroyé, répondit la mère. Heureusement pour nous il est tombé de l'autre côté du jardin. On était en train de manger, ici même, avec des amis.
 
-La mère s'approcha de son fils et lui posa une main sur l'épaule :
+La mère s'approcha de son fils et lui posa une main sur l'épaule :
 
 — Qu'y-a-t-il ? Ça ne va pas ?
 

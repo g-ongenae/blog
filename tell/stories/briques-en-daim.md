@@ -8,11 +8,11 @@ type: short
 ---
 # En Daim
 
-Les nuages laissaient place au Soleil. De légères traces traversés par les colibri rappelaient leur passage. Leur pépiement résonnaient au-dessus de la cime des arbres. La forêt repris vie : les mères s'affairaient à retrouver leurs bambins mis à l'abri dans les terriers.
+Les nuages laissaient place au Soleil. De légères traces traversés par les colibri rappelaient leur passage. Leur pépiement résonnaient au-dessus de la cime des arbres. La forêt repris vie : les mères s'affairaient à retrouver leurs bambins mis à l'abri dans les terriers.
 
 Sous terre, les jeunes s'agitaient, s'impatientaient.
 
-Les paroles des adultes sonnaient encore à leurs oreilles : « Vous ne devez sortir sous aucun prétexte ! ».
+Les paroles des adultes sonnaient encore à leurs oreilles : « Vous ne devez sortir sous aucun prétexte ! ».
 
 Sachant la tempête passé, les plus téméraires ne puent plus attendre et commencèrent à sortir en courant vers leurs parents rassurés de les retrouver sains et saufs.
 

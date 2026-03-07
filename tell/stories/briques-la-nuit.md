@@ -26,7 +26,7 @@ La nuit passait comme un doux ruisseau. Imperceptible, le temps coulait comme de
 
 Après avoir fini de boire son breuvage, l'homme éteignit la lumière et parti se coucher, encore.
 
-Dans la rue, un léger bruit crissant se faisait entendre, un homme habillé de haillons poussait un caddie à 3 roues. Il avançait jusqu'à une poubelle, relevait son couvercle et récupérait tout ce qu'il pouvait, avant de passer à la suivante. Vêtements, nourritures, outils, etc. : tout ce dont il pouvait espérer utiliser, il prenait.
+Dans la rue, un léger bruit crissant se faisait entendre, un homme habillé de haillons poussait un caddie à 3 roues. Il avançait jusqu'à une poubelle, relevait son couvercle et récupérait tout ce qu'il pouvait, avant de passer à la suivante. Vêtements, nourritures, outils, etc. : tout ce dont il pouvait espérer utiliser, il prenait.
 
 Mais ce dont il rêvait, c'était des gants chaud pour isoler ses mains gelées du froid.
 

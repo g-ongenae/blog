@@ -21,7 +21,7 @@ Peu lui importait, 250 € dans sa poche, c'était toujours ça de gagner. Il es
 
 Ce père avec son fils était plus intéressant pour lui. Client aujourd'hui et avec une petite carte de fidélité et quelques relances, ils reviendront chaque trimestre sur les quatre prochaines années. Une affaire qui tourne.
 
-Un jeune homme, dans sa vingtaine, entra, demanda un bilboquet, paya et s'en alla. Comment ce jeu apprécié par Henri III avait-il fini par se retrouver associé à la culture de la glisse ? Paul fourmillait de question sur l'histoire de sa communauté et sur l'au-delà : pourquoi la glisse à la montagne était pratiqué par des gens qui refuserait catégoriquement de monter sur une planche ?
+Un jeune homme, dans sa vingtaine, entra, demanda un bilboquet, paya et s'en alla. Comment ce jeu apprécié par Henri III avait-il fini par se retrouver associé à la culture de la glisse ? Paul fourmillait de question sur l'histoire de sa communauté et sur l'au-delà : pourquoi la glisse à la montagne était pratiqué par des gens qui refuserait catégoriquement de monter sur une planche ?
 
 Un vieux dans le même temps était lui aussi entré dans la boutique et avait commencé à regarder les modèles, avec beaucoup d'attention. Il regardait les articles un à un, n'hésitant pas à les prendre en main, à les soupeser, à faire tourner les roues. Le temps que le jeune soit servi, il venait de finir les quad skates. Étonnamment, il n'avait pas avoir eu l'air d'être inquiété par la couleur des chaussures. Au contraire, plus la chaussure allait dans le flashy et le fluo, plus il s'y attardait avec ce qui semblait être un véritable intérêt.
 

@@ -36,4 +36,4 @@ Elle s'écrasa, quelques mètres plus loin.
 
 Elle pleurait, incapable de voler.
 
-Le colibri se posa doucement devant elle et pépia : «Ouah ! Je n'ai jamais vu personne allé si vite. Comme je voudrais savoir courir aussi vite que toi, qu'une autruche. ».
+Le colibri se posa doucement devant elle et pépia : «Ouah ! Je n'ai jamais vu personne allé si vite. Comme je voudrais savoir courir aussi vite que toi, qu'une autruche. ».
