@@ -15,7 +15,7 @@ Elle descendit les marches quatre à quatre, sauta pour attraper la porte et l'o
 
 Un petit garçon, pas plus haut que trois pommes, était planté là, sur le palier. À ses pieds une valise, à peine assez grande pour ranger 3 ti-chirtes.
 
-La jeune femme le toisa. Que voulait-il ? Squatter chez elle ? Il en était hors de question. « Je ne fais pas la charité » pensa-t-elle. Il peut bien aller toquer chez le voisin.
+La jeune femme le toisa. Que voulait-il ? Squatter chez elle ? Il en était hors de question. « Je ne fais pas la charité » pensa-t-elle. Il peut bien aller toquer chez le voisin.
 
 — Alors, c'est pour quoi ?
 

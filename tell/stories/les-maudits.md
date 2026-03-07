@@ -91,7 +91,7 @@ Le héros lui lança un regard noir.
 
 — Tu les connais, mais est-ce que tu les comprends seulement ?
 
-— La blague, tu crois vraiment que cela fera une grande différence si je comprends ou pas : « le silence est d'or et la parole est d'argent ».
+— La blague, tu crois vraiment que cela fera une grande différence si je comprends ou pas : « le silence est d'or et la parole est d'argent ».
 
 — Oui.
 
@@ -107,7 +107,7 @@ Le héros lui lança un regard noir.
 
 — Non. Ne vois-tu pas les honnêtes gens qui ne veulent qu'être heureux ? C'est le but de tout être humain, mais ils se dupent, il croit que l'argent fait le bonheur.
 
-— « Il n'y a rien de plus euphorisant qu'un travail à accomplir », dit le jeune en citant tristement son père.
+— « Il n'y a rien de plus euphorisant qu'un travail à accomplir », dit le jeune en citant tristement son père.
 
 — Oui. Et nous héros sommes faits pour cela :
 

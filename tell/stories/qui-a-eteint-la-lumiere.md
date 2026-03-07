@@ -11,13 +11,13 @@ Mathias était dans son lit entrain de regarder le dernier podcast de son YouTub
 
 Il s'était allongé et avait sorti sa tablette, ouvert Twitter et aperçut au milieu d'un flot d'information le tweet annonçant la sortie d'un nouveau podcast le soir même à minuit.
 
-Son thème « Halloween ».
+Son thème « Halloween ».
 
 Mathias était vert, non seulement il avait oublié la fête mais en plus il avait été interdit d'y aller.
 
-Son père avait insisté : « Jour de semaine = Pas de soirée ».
+Son père avait insisté : « Jour de semaine = Pas de soirée ».
 
-La vidéo terminé, il alla chercher son ordinateur, se remit dans son lit et tapa dans la barre de recherche Google : « streaming halloween ». Il cliqua sur le premier lien qui lui parut fiable.
+La vidéo terminé, il alla chercher son ordinateur, se remit dans son lit et tapa dans la barre de recherche Google : « streaming halloween ». Il cliqua sur le premier lien qui lui parut fiable.
 
 Il tomba sur un film quelque peu glauque et très sombre.
 
@@ -25,15 +25,15 @@ Il augmenta la luminosité de son PC au maximum, et éteignit sa lampe, pour êt
 
 Il mit ses écouteurs pour pas que ses parents ne puissent l'entendre et monta un peu le son.
 
-Il reprit sa tablette et écrivit un tweet : « Devant un film de merde pour #Halloween. #MerciPapa ».
+Il reprit sa tablette et écrivit un tweet : « Devant un film de merde pour #Halloween. #MerciPapa ».
 
 Le film était lent, sans tension.
 
-Sa tablette vibra, il la déverrouilla pour voir la notification : « @KwinSD a ajouté votre tweet à ses favoris. ».
+Sa tablette vibra, il la déverrouilla pour voir la notification : « @KwinSD a ajouté votre tweet à ses favoris. ».
 
 Il reposa l'appareil et ses yeux brûlants devant l'écran.
 
-Sa tablette vibra à nouveau, nouvelle notification : « @HemenJack vous a mentionné dans son tweet. Faites glisser pour lire le tweet. ».
+Sa tablette vibra à nouveau, nouvelle notification : « @HemenJack vous a mentionné dans son tweet. Faites glisser pour lire le tweet. ».
 
 @HemenJack : @M4thiasBS Fais le mur. #Halloween #MerciJack ;-)
 
@@ -55,7 +55,7 @@ Le jeune homme s'ennuyait à mourir devant ce film.
 
 Et failli s'endormir quand son ordinateur émit deux bip, il ne lui restait plus que 7 pourcent de batterie.
 
-Il tira son chargeur de sous son lit et le brancha, puis remit « Play ».
+Il tira son chargeur de sous son lit et le brancha, puis remit « Play ».
 
 Le film continua.
 
@@ -195,7 +195,7 @@ Le lendemain, ils allèrent chez le médecin.
 
 — Mais comment je fais ? J'ai les cours et tout.
 
-— Pour les cours tu demandes à un ami de copier ses notes et pour « tout », tu fais sans ou autrement. Comment crois-tu que font les aveugles ?
+— Pour les cours tu demandes à un ami de copier ses notes et pour « tout », tu fais sans ou autrement. Comment crois-tu que font les aveugles ?
 
 Le docteur eut un léger rire.
 

@@ -45,7 +45,7 @@ J'utilisai ce temps à construire ma maison, cultiver mon champ à la lisière d
 
 Quelques fois un homme passait et me donnait un conseil pour améliorer mes méthodes de culture et de construction. Ce n'était jamais plus d'une phrase. Je me souviens surtout d'une :
 
-« Twò prese pa fè jou louvri »
+« Twò prese pa fè jou louvri »
 
 En échange de son aide, je lui proposais de lui apprendre à lire et à écrire, et toujours la même réponse.
 

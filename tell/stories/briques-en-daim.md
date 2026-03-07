@@ -12,7 +12,7 @@ Les nuages laissaient place au Soleil. De légères traces traversés par les co
 
 Sous terre, les jeunes s'agitaient, s'impatientaient.
 
-Les paroles des adultes sonnaient encore à leurs oreilles : « Vous ne devez sortir sous aucun prétexte ! ».
+Les paroles des adultes sonnaient encore à leurs oreilles : « Vous ne devez sortir sous aucun prétexte ! ».
 
 Sachant la tempête passé, les plus téméraires ne puent plus attendre et commencèrent à sortir en courant vers leurs parents rassurés de les retrouver sains et saufs.
 

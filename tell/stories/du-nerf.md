@@ -21,7 +21,7 @@ Quand on m'a appelé, on m'a dit que des jeunes au sang-froid étaient toujours 
 
 Quand ils ont découvert mon manque d'agressivité, ils ont vite déchanté.
 
-Ils se sont mis à me crier dessus, à me frapper, à m'humilier pour que je réagisse. Ils avaient beau me crier « du nerf » continuellement, rien n'y faisait.
+Ils se sont mis à me crier dessus, à me frapper, à m'humilier pour que je réagisse. Ils avaient beau me crier « du nerf » continuellement, rien n'y faisait.
 
 Ils ont continué ainsi longtemps, trop longtemps. J'avais eu l'impression de passer 100 jours en enfer.
 

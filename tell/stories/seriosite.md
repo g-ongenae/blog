@@ -35,7 +35,7 @@ Ne plus faire de blague
 
 Ne faire que travailler
 
-Dire : « C'est pas très sérieux. »
+Dire : « C'est pas très sérieux. »
 
 Transmissible par internet
 
@@ -47,7 +47,7 @@ Son épouse Ana Maria De La Casa, contaminée
 
 ## Préface
 
-Tout a commencé dans ce laboratoire de domotique, le professeur Alberto De La Casa s'essayait à l'invention de nouvelles méthodes d'irrigation sans canalisation. Il avait tenté différentes matières pour permettre aux eaux usées de transiter entre chaque pièce de la maison. Le papier avait été son premier choix, mais trop mou, il s'était retranché sur le carton qui ne laissait pas assez passer les flux à son goût. Puis le plastique aux multiples micro-perforations, les flux étaient trop dispersés pour ce qu'il comptait faire ; cela faisait comme une douche à l'italienne entre les étages, comment pouvait-il accepter cela ? Lui qui était un fier Espagnol revanchard. Mais ce n'était pas la matière ici qui faisait défaut, mais la méthode : les micro-perforations étaient trop petites. « Allons donc, pour des macro-perforations » pensa le professeur émérite. Il se mit directement à l'œuvre, et refit sa maison — car il était quelqu'un d'engagé, vivre dans le fruit de ses expériences était primordial pour tout chercheur en domotique qui se respecte — avec des trous de 7 pouces de larges tous les 30 centimètres. Voilà qui devrait faire des flux mieux répartis ! C'est ce qu'il espérait, ce qu'il avait calculé, tout grand mathématicien qu'il était (enfin, il savait résoudre une équation du second degré, c'était largement suffisant).
+Tout a commencé dans ce laboratoire de domotique, le professeur Alberto De La Casa s'essayait à l'invention de nouvelles méthodes d'irrigation sans canalisation. Il avait tenté différentes matières pour permettre aux eaux usées de transiter entre chaque pièce de la maison. Le papier avait été son premier choix, mais trop mou, il s'était retranché sur le carton qui ne laissait pas assez passer les flux à son goût. Puis le plastique aux multiples micro-perforations, les flux étaient trop dispersés pour ce qu'il comptait faire ; cela faisait comme une douche à l'italienne entre les étages, comment pouvait-il accepter cela ? Lui qui était un fier Espagnol revanchard. Mais ce n'était pas la matière ici qui faisait défaut, mais la méthode : les micro-perforations étaient trop petites. « Allons donc, pour des macro-perforations » pensa le professeur émérite. Il se mit directement à l'œuvre, et refit sa maison — car il était quelqu'un d'engagé, vivre dans le fruit de ses expériences était primordial pour tout chercheur en domotique qui se respecte — avec des trous de 7 pouces de larges tous les 30 centimètres. Voilà qui devrait faire des flux mieux répartis ! C'est ce qu'il espérait, ce qu'il avait calculé, tout grand mathématicien qu'il était (enfin, il savait résoudre une équation du second degré, c'était largement suffisant).
 
 C'est dans ce contexte de recherche à la pointe de la technologie, je dirais même plus, à l'état de l'art, que sa femme arriva et pu profiter d'une douche froide et impromptue.
 
@@ -55,4 +55,4 @@ Refroidie par cette expérience très concluante, pour sa part, elle le toisa fr
 
 — C'est pas très sérieux.
 
-Ce « C'est pas très sérieux. » transit notre bon professeur qui ne comprit pas tout de suite l'ampleur de la catastrophe… Son épouse Ana Maria venait d'être contaminée par une maladie qui allait éradiquer le rire de la surface de la Terre dans une pandémie terrible et le silence des médias.
+Ce « C'est pas très sérieux. » transit notre bon professeur qui ne comprit pas tout de suite l'ampleur de la catastrophe… Son épouse Ana Maria venait d'être contaminée par une maladie qui allait éradiquer le rire de la surface de la Terre dans une pandémie terrible et le silence des médias.
