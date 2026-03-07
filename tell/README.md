@@ -4,21 +4,21 @@
 
 ### Summary
 
-**Total:** 196 <br>
+**Total:** 223 <br>
 **Drafts:** 18 <br>
-**Favorites:** 21 <br>
+**Favorites:** 22 <br>
 **Languages:**
 
 - English 🇬🇧: 8
-- French 🇫🇷: 187
+- French 🇫🇷: 214
 
 ```mermaid
 xychart-beta
   title "Poems per year"
   x-axis "Year" 2007 --> 2026
-  y-axis "Poems" 1 --> 47
-  bar [1, 0, 1, 21, 47, 21, 23, 0, 0, 2, 22, 47, 0, 0, 0, 0, 0, 0, 8, 3]
-  line [0, 0, 0, 0, 8, 0, 1, 0, 0, 0, 2, 6, 0, 0, 0, 0, 0, 0, 4, 0]
+  y-axis "Poems" 1 --> 72
+  bar [1, 0, 1, 21, 47, 21, 23, 0, 0, 2, 24, 72, 0, 0, 0, 0, 0, 0, 8, 3]
+  line [0, 0, 0, 0, 8, 0, 1, 0, 0, 0, 2, 7, 0, 0, 0, 0, 0, 0, 4, 0]
 ```
 
 ### Poem list
@@ -66,7 +66,32 @@ xychart-beta
 - Aujourd'hui est un grand jour, [↗️](./poems/2018-aujourd-hui-est-un-grand-jour.md) ✂︎
 - Appelle-moi, dis-moi n'importe quoi, [↗️](./poems/2018-appelle-moi.md)
 - Ah ! Voilà qui est dur, [↗️](./poems/2018-ah-voila-qui-est-dur.md) ✂︎
+- Rime, [↗️](./poems/2018-09-08-rime.md)
 - Description Tinder, [↗️](./poems/2018-08-14-description-tinder.md)
+- Civil, [↗️](./poems/2018-08-08-civil.md)
+- Contemporain, [↗️](./poems/2018-08-07-contemporain.md)
+- Aride, [↗️](./poems/2018-08-06-aride.md)
+- 9 h 15, [↗️](./poems/2018-08-06-9-h-15.md)
+- _Mea Culpa_, [↗️](./poems/2018-08-05-mea-culpa.md)
+- Si je devais être pris de court, [↗️](./poems/2018-08-01-ego.md)
+- Richard, [↗️](./poems/2018-07-30-richard.md)
+- Pavé, [↗️](./poems/2018-07-29-pave.md)  ⭐
+- Lire, [↗️](./poems/2018-07-29-lire.md)
+- La haine en mon corps, [↗️](./poems/2018-07-29-la-haine-en-mon-corps.md)
+- Bûcher, [↗️](./poems/2018-07-29-bucher.md)
+- Au pays, [↗️](./poems/2018-07-29-au-pays.md)
+- Orties, [↗️](./poems/2018-07-27-orties.md)
+- Si mes propos, [↗️](./poems/2018-07-26-si-mes-propos.md)
+- En Marche, [↗️](./poems/2018-07-26-en-marche.md)
+- Éducateurs, [↗️](./poems/2018-07-26-educateurs.md)
+- Trope, [↗️](./poems/2018-07-25-trope.md)
+- Jour et Nuit, [↗️](./poems/2018-07-24-jour-et-nuit.md)
+- Lapsus, [↗️](./poems/2018-07-23-lapsus.md)
+- Voilà, [↗️](./poems/2018-07-22-voila.md)
+- S’il-vous-plait, [↗️](./poems/2018-07-22-s-il-vous-plait.md)
+- Princes & Princesses, [↗️](./poems/2018-07-22-princes-et-princesses.md)
+- Scribe, [↗️](./poems/2018-07-21-scribe.md)
+- Intègre, [↗️](./poems/2018-07-20-integre.md)
 - Délicatesse masculine, [↗️](./poems/2018-07-19-delicatesse-masculine.md)
 - Invalides, [↗️](./poems/2018-07-18-invalides.md)
 - Train, [↗️](./poems/2018-07-17-train.md)  ⭐
@@ -99,6 +124,8 @@ xychart-beta
 - Mon Horlogère, [↗️](./poems/2017-10-23-mon-horlogere.md)
 - Seul, [↗️](./poems/2017-10-18-seul.md)
 - Challengez-moi, [↗️](./poems/2017-06-11-challengez-moi.md)  ⭐
+- La campagne, [↗️](./poems/2017-05-20-la-campagne.md)
+- Écrasé, je ne meurs pas, [↗️](./poems/2017-05-13-ecrase.md)
 - J'essaye de ne pas y penser, [↗️](./poems/2017-05-09-j-essaye-de-ne-pas-y-penser.md)
 - Campagne, [↗️](./poems/2017-04-29-campagne.md)
 - Mentir, se mentir, [↗️](./poems/2017-04-22-mentir-se-mentir.md)
