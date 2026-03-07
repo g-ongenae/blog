@@ -4,7 +4,6 @@ date: 2018
 state: done
 title: Si je devais être pris de court
 location: Cergy
-favorite: true
 ---
 Si je devais être pris de court <br>
 Je brûlerais tous mes papiers en cours <br>
