@@ -20,7 +20,7 @@ Aujourd'hui, ces mouvements étaient devenus naturels pour elle, presque instinc
 
 Puis, elle s'entraînait à fortifier ses ailes. Ses muscles devaient pouvoir soulever son poids, le poids d'une autruche. Un oiseau, certes, mais un oiseau fort.
 
-Aujourd'hui était le grand ; après des mois et années à s'exercer, elle allait s'envoler.
+Aujourd'hui était le grand ; après des mois et années à s'exercer, elle allait s'envoler.
 
 Au crépuscule, elle se leva, se dirigea vers la piste d'envol. Un long chemin de terre tracé par les rochers vrombissants.
 

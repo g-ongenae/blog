@@ -10,7 +10,7 @@ type: short
 
 Il était une fois un grand pommier portant un millier de feuilles et des centaines de fruits et de fleurs. L'arbre avait connu de beaux jours – bien chauds et rayonnants –, quelques-uns froid et venteux. Un ou deux gels où il avait eu peur que ses jours ne se terminent.
 
-Heureusement, les orages étaient toujours passés sans qu'il ait trop de dégâts. Quelques pommes, quelques feuilles perdues, voire quelques branches cassées ; mais jamais il ne s'était brisé. Il ne rougissait pas devant son ami le roseau : lui aussi pouvait plier sans rompre face à la force du vent, au poids de l'eau sur ses feuilles, ou même des gouttes qui le heurtaient.
+Heureusement, les orages étaient toujours passés sans qu'il ait trop de dégâts. Quelques pommes, quelques feuilles perdues, voire quelques branches cassées ; mais jamais il ne s'était brisé. Il ne rougissait pas devant son ami le roseau : lui aussi pouvait plier sans rompre face à la force du vent, au poids de l'eau sur ses feuilles, ou même des gouttes qui le heurtaient.
 
 Le grand fruitier vivait avec sa famille, dans un verger clairsemé où chacun avait assez de place pour s'épanouir. Avec les pommiers, on pouvait trouver des péchés, des poiriers, des mirabelles... Un Kiwi s'était même fait une place contre un bouleau.
 

@@ -8,7 +8,7 @@ type: short
 ---
 # Une Prise
 
-Une prise électrique était laissée seule dans un coin d'un restaurant self-service, entrée de gamme ; derrière une table dans l'ombre d'une banquette en cuir rigide et abîmé, la poussière s'accumulait à ses côtés.
+Une prise électrique était laissée seule dans un coin d'un restaurant self-service, entrée de gamme ; derrière une table dans l'ombre d'une banquette en cuir rigide et abîmé, la poussière s'accumulait à ses côtés.
 
 Dix heure sonnait, le restaurant ouvrait ses portes, les employés s'agitaient pour que tout soit prêt pour l'arrivée - imminente - des premiers clients à servir.
 

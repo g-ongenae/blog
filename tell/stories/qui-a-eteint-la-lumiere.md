@@ -35,7 +35,7 @@ Il reposa l'appareil et ses yeux brûlants devant l'écran.
 
 Sa tablette vibra à nouveau, nouvelle notification : « @HemenJack vous a mentionné dans son tweet. Faites glisser pour lire le tweet. ».
 
-@HemenJack : @M4thiasBS Fais le mur. #Halloween #MerciJack ;-)
+@HemenJack : @M4thiasBS Fais le mur. #Halloween #MerciJack ;-)
 
 Il redressa le coussin dans son dos et écrivit :
 
