@@ -23,4 +23,4 @@ J'aimerai partir plus loin que le port
 Il est au téléphone main-libre <br>
 Je l'entends rire, je sens qu'il vibre <br>
 Moi aussi, j'aimerai bien du dialogue <br>
-Mais avec qui ? Lui ? Il est pas psycholoque
+Mais avec qui ? Lui ? Il est pas psycholoque

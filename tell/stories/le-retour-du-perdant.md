@@ -37,7 +37,7 @@ Ses jambes tournèrent vers une résidence proche de chez lui.
 
 Et quand même, il aurait pu, il ne l'aurait pas voulu.
 
-"Alors pourquoi suis-je si déprimé ?" pensa-t-il.
+"Alors pourquoi suis-je si déprimé ?" pensa-t-il.
 
 Peut-être était-ce de perdre une fois de plus.
 
@@ -79,7 +79,7 @@ Il n'en avait aucun. Sinon de suivre son destin.
 
 Destin.
 
-"Mais quel est donc mon destin ?"
+"Mais quel est donc mon destin ?"
 
 Une fille marchait dans sa direction suivie par un garçon, tous deux de son âge. Ils se disputaient à propos d'il ne savait quel sujet.
 
@@ -95,11 +95,11 @@ Maintenant, ils étaient proches, trop. Il n'aimait pas cela et essaya de les es
 
 Il la regarda puis détourna le regard.
 
-- Tu as besoin d'aide ? Tu marches bizarrement.
+- Tu as besoin d'aide ? Tu marches bizarrement.
 
 Il la regarda à nouveau.
 
-- T'es sûr ?
+- T'es sûr ?
 
 - Tu vois, je te l'avais dit, la coupa le garçon.
 
@@ -109,7 +109,7 @@ Manon et Thomas s'assirent contre une rambarde, il les regarda.
 
 - Si tu le fais, fais-le correctement au moins, dit Thomas.
 
-- Comment t'appelles-tu ?
+- Comment t'appelles-tu ?
 
 Il se rapprocha doucement et commença, puis.
 
@@ -121,19 +121,19 @@ Il prit une grande aspiration.
 
 - T'es con, il allait parler.
 
-- Je vais être direct. C'est quoi ton objectif ?
+- Je vais être direct. C'est quoi ton objectif ?
 
 Il déglutit, regarda Thomas et ne sut que dire.
 
-- Y'a pas à réfléchir, tu dois répondre du tac au tac. C'est quoi ton objectif ?
+- Y'a pas à réfléchir, tu dois répondre du tac au tac. C'est quoi ton objectif ?
 
 Il ne répondit rien.
 
-- C'est quoi ton rêve ? Enchaina Thomas.
+- C'est quoi ton rêve ? Enchaina Thomas.
 
-Il était de plus en perdu. Encore perdu. Cet état est-il donc naturel chez lui ?
+Il était de plus en perdu. Encore perdu. Cet état est-il donc naturel chez lui ?
 
-- Réfléchis pas. C'est quoi ton plus grand désir ?
+- Réfléchis pas. C'est quoi ton plus grand désir ?
 
 Un grand vide. Rien. Rien.
 
@@ -155,6 +155,6 @@ Manon riait. Un homme hurla au fond, mais il ne comprit pas.
 
 Il lâcha un regard désespéré en direction de Thomas.
 
-- Et à chaque fois que tu auras un doute, que tu te sentiras perdu, tu répéteras autant de fois que nécessaire ce que tu viens de dire. Compris ?
+- Et à chaque fois que tu auras un doute, que tu te sentiras perdu, tu répéteras autant de fois que nécessaire ce que tu viens de dire. Compris ?
 
 Il hocha la tête et sourit à Thomas qui s'en alla et invita Manon à le rejoindre d'une main.

@@ -15,13 +15,13 @@ Vu son élan, le vendeur ne s'attendait pas à le revoir de sitôt. Peu importe,
 
 Sur-motivé le premier, motivé le deuxième, démotivé le troisième et il n'y a pas de quatrième.
 
-Combien en voyait-il passé par jours des comme lui ?
+Combien en voyait-il passé par jours des comme lui ?
 
 Peu lui importait, 250 € dans sa poche, c'était toujours ça de gagner. Il espérait un bon bonus à la fin du mois.
 
 Ce père avec son fils était plus intéressant pour lui. Client aujourd'hui et avec une petite carte de fidélité et quelques relances, ils reviendront chaque trimestre sur les quatre prochaines années. Une affaire qui tourne.
 
-Un jeune homme, dans sa vingtaine, entra, demanda un bilboquet, paya et s'en alla. Comment ce jeu apprécié par Henri III avait-il fini par se retrouver associé à la culture de la glisse ? Paul fourmillait de question sur l'histoire de sa communauté et sur l'au-delà : pourquoi la glisse à la montagne était pratiqué par des gens qui refuserait catégoriquement de monter sur une planche ?
+Un jeune homme, dans sa vingtaine, entra, demanda un bilboquet, paya et s'en alla. Comment ce jeu apprécié par Henri III avait-il fini par se retrouver associé à la culture de la glisse ? Paul fourmillait de question sur l'histoire de sa communauté et sur l'au-delà : pourquoi la glisse à la montagne était pratiqué par des gens qui refuserait catégoriquement de monter sur une planche ?
 
 Un vieux dans le même temps était lui aussi entré dans la boutique et avait commencé à regarder les modèles, avec beaucoup d'attention. Il regardait les articles un à un, n'hésitant pas à les prendre en main, à les soupeser, à faire tourner les roues. Le temps que le jeune soit servi, il venait de finir les quad skates. Étonnamment, il n'avait pas avoir eu l'air d'être inquiété par la couleur des chaussures. Au contraire, plus la chaussure allait dans le flashy et le fluo, plus il s'y attardait avec ce qui semblait être un véritable intérêt.
 
@@ -31,7 +31,7 @@ Mais le plus déroutant était sa carrure. Sa veste pourtant large ne cachait qu
 
 Un physique époustouflant, surtout s'il a la soixantaine, ne put-il s'empêcher de penser.
 
-— Bonjour monsieur, je peux vous renseigner ? Vous cherchez des rollers pour quelqu'un ?
+— Bonjour monsieur, je peux vous renseigner ? Vous cherchez des rollers pour quelqu'un ?
 — Bonjour, mon brave, répondit le vieil homme en le regardant, avec un air amusé, je vous ai passé une commande. Au nom de Gustave Goyer.
 — Très bien, je vais regarder ça.
 — Je vous remercie.

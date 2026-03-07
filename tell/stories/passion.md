@@ -55,13 +55,13 @@ Son père soupira. La mère réconforta le père.
 
 — Il ne va pas s'en tirer comme cela, dit-il en sortant. Matthieu, je sais très bien que tu ne l'as pas éteint. Passe-moi ton téléphone.
 
-— Sinon quoi ?
+— Sinon quoi ?
 
-— Tu as réellement besoin d'un ultimatum ? Sinon, je coupe internet à la maison, on en a parlé avec ta mère et on a décidé que ce n'était pas essentiel dans notre maison. Pour l'instant rien n'est décidé, mais je ferais attention à ta place.
+— Tu as réellement besoin d'un ultimatum ? Sinon, je coupe internet à la maison, on en a parlé avec ta mère et on a décidé que ce n'était pas essentiel dans notre maison. Pour l'instant rien n'est décidé, mais je ferais attention à ta place.
 
 Matthieu le tendit à son père qui le rangea dans sa sacoche.
 
-— Bien maintenant. Par quoi veux-tu commencer ?
+— Bien maintenant. Par quoi veux-tu commencer ?
 
 ## C'est pas possible
 
@@ -69,11 +69,11 @@ Matthieu le tendit à son père qui le rangea dans sa sacoche.
 
 Matthieu s'en alla.
 
-— Eh ! Où vas-tu ?
+— Eh ! Où vas-tu ?
 
 — Laisse-le, le stoppa la mère.
 
-— Et que veux-tu faire alors ?
+— Et que veux-tu faire alors ?
 
 — Suivons-le simplement.
 
@@ -87,13 +87,13 @@ L'homme regarda sa femme, surpris.
 
 — Peut-être, mais je ne veux pas qu'il fasse à tout prix une école réputée. S'il se complait à faire un BTS Menuiserie, très bien.
 
-— Tu le vois faire de la menuiserie ?! Bon, suivons-le.
+— Tu le vois faire de la menuiserie ?! Bon, suivons-le.
 
 ## Aux toilettes !
 
 Le père ouvrit la porte de la voiture.
 
-— Tu étais passé où ? On t'a cherché pendant vingt minutes.
+— Tu étais passé où ? On t'a cherché pendant vingt minutes.
 
 — Aux toilettes, répondit Matthieu.
 
@@ -107,17 +107,17 @@ Ils rentrèrent dans leur voiture qui les ramènerait chez eux. Matthieu alluma 
 
 Non, il se souvînt de la courte conférence auquel il avait assisté qui l'avait vraiment intéressé.
 
-Cette conférence ne présentait aucune formation, aucune école, ni aucun domaine. Son titre "Comment trouver sa voie ?".
+Cette conférence ne présentait aucune formation, aucune école, ni aucun domaine. Son titre "Comment trouver sa voie ?".
 
 Il était rentré dans la salle de conférence, juste pour avoir quelques minutes de repos sans son père qui le pousse à poser des questions, à s'intéresser à des trucs sans intérêt.
 
 S'il avait su de quoi parlait cette conférence avant sans doute ne serait-il pas rentré, mais il ne le savait pas. La salle pleine, il ne restait plus que les premières places de libres, il se retrouva nez à nez avec le conférencier un homme ayant la trentaine, très souriant et vous donnant l'envie de l'écouter.
 
-— Comment trouver sa voie ? avait-il commencé. La plupart des gens pensent qu'il faut tester un domaine avant de savoir s'il va les intéresser ou pas. Ils se retrouvent donc bien souvent à avoir gouté des dizaines de domaines sans en avoir apprécié ne serait-ce qu'un seul. Et là ils sont désespérés. Vous êtes peut-être dans ce cas ? Ceux qui le sont, levez la main, s'il vous plait.
+— Comment trouver sa voie ? avait-il commencé. La plupart des gens pensent qu'il faut tester un domaine avant de savoir s'il va les intéresser ou pas. Ils se retrouvent donc bien souvent à avoir gouté des dizaines de domaines sans en avoir apprécié ne serait-ce qu'un seul. Et là ils sont désespérés. Vous êtes peut-être dans ce cas ? Ceux qui le sont, levez la main, s'il vous plait.
 
 Une première personne leva la main au milieu du public, puis une autre personne suivit et une autre, Matthieu finit par lever la main. Ils étaient une vingtaine dans la salle.
 
-— Bien, jeune homme au premier rang, comment vous appelez-vous ?
+— Bien, jeune homme au premier rang, comment vous appelez-vous ?
 
 Mathieu répondit.
 
@@ -125,7 +125,7 @@ Mathieu répondit.
 
 Le jeune homme tenta de résister, mais le public l'encouragea et il dut se lever.
 
-— Bien, maintenant, dites-nous en quelles classes êtes-vous ?
+— Bien, maintenant, dites-nous en quelles classes êtes-vous ?
 
 — Terminale.
 
@@ -133,17 +133,17 @@ Le jeune homme tenta de résister, mais le public l'encouragea et il dut se leve
 
 — Ça va.
 
-— Par contre après, cela ne va plus, n'est-ce pas ?
+— Par contre après, cela ne va plus, n'est-ce pas ?
 
 — Oui.
 
-— Cela te dérange si je te tutoie ? (Matthieu acquiesça) Bien dis-moi, si tu avais un rêve dans la vie.
+— Cela te dérange si je te tutoie ? (Matthieu acquiesça) Bien dis-moi, si tu avais un rêve dans la vie.
 
 Le jeune homme chercha et fut perdu.
 
 — Je n'en ai aucune idée.
 
-— Même un rêve utopique ? Un rêve complétement absurde que tu as refoulée depuis bien des années car tes parents t'ont dit que c'était débile, tes amis se sont moqués de toi, tes professeurs t'ont fait comprendre que c'était impossible. Toujours rien ?
+— Même un rêve utopique ? Un rêve complétement absurde que tu as refoulée depuis bien des années car tes parents t'ont dit que c'était débile, tes amis se sont moqués de toi, tes professeurs t'ont fait comprendre que c'était impossible. Toujours rien ?
 
 Matthieu hocha les épaules. L'audience le poussa.
 
@@ -151,7 +151,7 @@ Matthieu hocha les épaules. L'audience le poussa.
 
 Matthieu réfléchit encore un peu, s'approcha et glissa quelques mots au conférencier qui sourit.
 
-— Très bien. Maintenant, je veux que chacun se remémore son rêve. On va faire un petit exercice. Vous allez décrire votre rêve en une seule phrase. (Il patienta quelques instants.) Cette phrase doit être claire, c'est elle qui va vous aider à décomposer votre rêve en étape. Ensuite, vous allez choisir les trois premières étapes que vous devriez franchir pour atteindre ce rêve. Matthieu, quelles sont tes trois premières étapes ? Cela tu peux nous le dire.
+— Très bien. Maintenant, je veux que chacun se remémore son rêve. On va faire un petit exercice. Vous allez décrire votre rêve en une seule phrase. (Il patienta quelques instants.) Cette phrase doit être claire, c'est elle qui va vous aider à décomposer votre rêve en étape. Ensuite, vous allez choisir les trois premières étapes que vous devriez franchir pour atteindre ce rêve. Matthieu, quelles sont tes trois premières étapes ? Cela tu peux nous le dire.
 
 — Oui, c'est possible : *étape 1, étape 2, étape 3*.
 
@@ -159,9 +159,9 @@ Matthieu réfléchit encore un peu, s'approcha et glissa quelques mots au confé
 
 — Oui, *la formation*.
 
-— Tout à fait. Surement, tu as déjà un petit peu parler ou chercher de cette formation, mais tu ne l'as jamais vue comme intéressant. Mais maintenant que tu as un intérêt à revoir ce domaine, serais-tu prêt à le reconsidérer ?
+— Tout à fait. Surement, tu as déjà un petit peu parler ou chercher de cette formation, mais tu ne l'as jamais vue comme intéressant. Mais maintenant que tu as un intérêt à revoir ce domaine, serais-tu prêt à le reconsidérer ?
 
-— Pourquoi pas ?
+— Pourquoi pas ?
 
 Le speaker sourit.
 
@@ -169,7 +169,7 @@ Le speaker sourit.
 
 Le public s'exécuta.
 
-— Qui comme Matthieu a grâce à cette méthode trouvé un potentiel métier ou formation ?
+— Qui comme Matthieu a grâce à cette méthode trouvé un potentiel métier ou formation ?
 
 Une dizaine de personnes levèrent la main.
 

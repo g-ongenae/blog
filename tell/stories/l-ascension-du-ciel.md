@@ -9,7 +9,7 @@ type: long
 
 ## Notes
 
-Toa est un jeune garçon de 12 ans qui va entrer à l'Institut de la capitale, seulement il va y aller avec son lui du futur. Son lui du futur, un Mage très puissant qui est revenu dans le temps et dans le l'Esprit du garçon pour sauver le monde. Mais le sauver de quoi ?
+Toa est un jeune garçon de 12 ans qui va entrer à l'Institut de la capitale, seulement il va y aller avec son lui du futur. Son lui du futur, un Mage très puissant qui est revenu dans le temps et dans le l'Esprit du garçon pour sauver le monde. Mais le sauver de quoi ?
 
 Inspirée de : Naruto, Tales of Demons & Gods, Re: Monster, Star Martial God Technic.
 
@@ -81,7 +81,7 @@ Le garçon convulsait dans tous les sens en criant des noms et des bruits inaudi
 
 — Chéri !
 
-— Quoi ? accourra-t-elle. Vite, attrape-le.
+— Quoi ? accourra-t-elle. Vite, attrape-le.
 
 Son père attrapa les bras de son fils dont les spasmes s'amplifiaient.
 
@@ -91,7 +91,7 @@ La gamine s'exécuta sans poser de question.
 
 Mme Mi ferma les yeux et passa ses mains au-dessus du corps de son fils. Elle remonta jusqu'à son front, où elle finit par ouvrir les yeux.
 
-— Que se passe-t-il ? demanda son époux, inquiet.
+— Que se passe-t-il ? demanda son époux, inquiet.
 
 — C'est comme-si il avait été envahi par un esprit maléfique, un surpuissant.
 
@@ -105,7 +105,7 @@ Elle continuait de scruter son fils. À la recherche d'un esprit démon, mais el
 
 M. Mi regarda son épouse incrédule.
 
-— Que peut-on faire alors ?
+— Que peut-on faire alors ?
 
 — Juste les premiers soins, ceux pour son corps.
 
@@ -129,13 +129,13 @@ Il regarda l'enfant avec un grand sourire, avant que ce dernier ne lui fonce des
 
 — C'est incroyable ce que l'on peut faire face à l'impossible, dit l'homme en parant le coup d'épée de sa main nue.
 
-— Qui êtes-vous ? Comment êtes vous entrer ici ?
+— Qui êtes-vous ? Comment êtes vous entrer ici ?
 
 Toa avait fait tomber son épée, et se jetait sur l'intrus pour lui servir un coup de poing de toutes ses forces.
 
 Il eut l'impression d'heurter un roc.
 
-— Que me voulez-vous ?
+— Que me voulez-vous ?
 
 L'homme jeta un regard à l'enfant.
 
@@ -169,7 +169,7 @@ L'homme l'envoya valser d'un simple geste de la main et s'approcha de Toa.
 
 — Attendez un peu que ma mère, m'aide et vous allez voir.
 
-— Elle n'est pas assez forte pour un esprit comme le mien... Tu n'as pas senti sa présence ? Elle est déjà en train d'appliquer les soins du corps.
+— Elle n'est pas assez forte pour un esprit comme le mien... Tu n'as pas senti sa présence ? Elle est déjà en train d'appliquer les soins du corps.
 
 — Non, c'est impossible, elle est la meilleure, vous l'avez dit vous même.
 
@@ -191,15 +191,15 @@ Il se mit à pleurer.
 
 L'enfant sécha ses larmes et dit :
 
-— Bon, je dois te laisser mon corps alors ?
+— Bon, je dois te laisser mon corps alors ?
 
 — Non, tu mourrais. Et puis... Je n'ai pas envie de te voler ton corps.
 
-— Alors comment vas-t-on faire ?
+— Alors comment vas-t-on faire ?
 
 — Nous allons fusionner nos esprits.
 
-— Ça veut dire que je vais disparaitre ?
+— Ça veut dire que je vais disparaitre ?
 
 — Non. Nous sommes qu'une personne à la base. Et oui, si on le fait maintenant, tu es beaucoup trop faible. Rien que d'être ici pour moi, ton corps souffre. Je vais devoir t'entrainer...
 
@@ -209,7 +209,7 @@ Brutalement, Toa ouvrit les yeux, ses parents étaient à ses côtés, le regard
 
 Le sage, précédé par la petite Mia, entra dans la chambre.
 
-— Que se passe-t-il ? demanda-t-il.
+— Que se passe-t-il ? demanda-t-il.
 
 — Toa a été... commença à répondre Mme Mi.
 
@@ -317,11 +317,11 @@ Toa continuait de faire le tour de la pièce alors que le l'homme se débarrassa
 
 — Non, tenu l'enfant en serrant ses poings pour montrer sa détermination.
 
-« Toa, » dit l'adulte en son sein, « on ne peut se permettre d'aller là-bas, j'ai un moyen d'arranger la situation. Peux-tu répéter les mots que je vais dire ? »
+« Toa, » dit l'adulte en son sein, « on ne peut se permettre d'aller là-bas, j'ai un moyen d'arranger la situation. Peux-tu répéter les mots que je vais dire ? »
 
 — Cher Sage Fuu Ni, Docteur ès Esprit, c'est l'homme du futur qui vous parle par l'intermédiaire de Toa, je vais essayer de rendre mon message le plus clair et succinct possible, pour ne pas trop en demander au jeune, le sujet dont je vais vous parler étant de la plus grande importance.
 
-— Vous pouvez parler à travers l'enfant ? demanda circonspect le vieil homme.
+— Vous pouvez parler à travers l'enfant ? demanda circonspect le vieil homme.
 
 — Non, il me fait répéter ses mots, dit l'enfant.
 
@@ -341,7 +341,7 @@ L'enfant se tût, son visage montrait le conflit intérieur qu'il vivait. Il vou
 
 — Un mois, dit l'enfant, dans un mois, Toa ira à l'Institut.
 
-— C'est trop court. Je n'aurais aucunement le temps de bien étudier le garçon. Que pourrais-je présenter au Conseil ?
+— C'est trop court. Je n'aurais aucunement le temps de bien étudier le garçon. Que pourrais-je présenter au Conseil ?
 
 — C'est suffisant. Vous êtes l'un des meilleurs Sages de votre temps.
 
@@ -353,29 +353,29 @@ L'enfant se tût, son visage montrait le conflit intérieur qu'il vivait. Il vou
 
 — Simple, durant les quatre années qui suivirent vous abandonnèrent quelque peu, cette étude, avant d'y être rappeler par ma mère, votre disciple qui vous posa une question qui vous permit de finir votre étude dans l'année qui suivit.
 
-— Et qu'elle était cette question ? demanda le Sage, impatient et dubitatif quant à cette histoire.
+— Et qu'elle était cette question ? demanda le Sage, impatient et dubitatif quant à cette histoire.
 
-— Nous avons votre parole ?
+— Nous avons votre parole ?
 
 — Hmpf, vous avez ma parole. J'espère ne pas avoir eu tort.
 
-— "L'Esprit se divise-t-il réellement quand on le coupe ?"
+— "L'Esprit se divise-t-il réellement quand on le coupe ?"
 
 — Mais... C'est la question d'introduction, le sujet même de ma thèse.
 
 — Oui, c'est vrai.
 
-— En quoi cela est-il censé m'aider ? Je connais le sujet de mon étude, je connais bien ma problématique, mieux que quiconque et me le rappeler ne...
+— En quoi cela est-il censé m'aider ? Je connais le sujet de mon étude, je connais bien ma problématique, mieux que quiconque et me le rappeler ne...
 
 Le vieil homme resta là, silencieux, à regarder le garçon dans les yeux. Ce-dernier ne comprenait pas son changement de comportement momentanée.
 
-L'homme était perdu dans ses pensées, comment avait-il pu se fourvoyer pendant autant d'année ? Comment avait-il pu en oublier le sujet de son étude à ce point ? Il s'était enfermé dans des voies multiples creusant toujours plus profonds ce qui était devant lui.
+L'homme était perdu dans ses pensées, comment avait-il pu se fourvoyer pendant autant d'année ? Comment avait-il pu en oublier le sujet de son étude à ce point ? Il s'était enfermé dans des voies multiples creusant toujours plus profonds ce qui était devant lui.
 
 Il se mit à rire. Il avait été si bête.
 
 Mais quand il y pensait tout cela n'avait pas servi à rien. Il n'aurait jamais pu comprendre la complexité de cette question sans avoir plongé dans la profondeur de ses expériences. Tout ce temps n'avait pas été perdu.
 
-Ces deux dernières années, il avait fait refaire toutes ses expériences, leur résultat était frais dans sa tête. Dans quatre ans qu'en serait-il ? Dans son autre vie, témoigné par Toa, il avait dû passer un an à relire ses calculs à refaire ses expériences, à rentrer à nouveau dans son étude. Aujourd'hui tout était frais en un mois, ou moins un demi même il pourrait compléter sa recherche et publier enfin au Conseil et à toute l'Athénée, le fruit de son labeur.
+Ces deux dernières années, il avait fait refaire toutes ses expériences, leur résultat était frais dans sa tête. Dans quatre ans qu'en serait-il ? Dans son autre vie, témoigné par Toa, il avait dû passer un an à relire ses calculs à refaire ses expériences, à rentrer à nouveau dans son étude. Aujourd'hui tout était frais en un mois, ou moins un demi même il pourrait compléter sa recherche et publier enfin au Conseil et à toute l'Athénée, le fruit de son labeur.
 
 Dire qu'hier, il était sur le point d'abandonner, pour quatre ans au moins, sans doute. Sa paillasse n'aura pas eu le temps de prendre la poussière.
 
@@ -403,9 +403,9 @@ Cependant, ils s'installèrent au milieu de terrain nu pour profiter de la clart
 
 Les lèvres du vieil homme formèrent un léger sourire de satisfaction. Il était fier de sa disciple et de son éducation.
 
-— Bien, tu as déjà pratiqué l'Eveil de l'Esprit, alors ?
+— Bien, tu as déjà pratiqué l'Eveil de l'Esprit, alors ?
 
-— Non, c'est quoi ?
+— Non, c'est quoi ?
 
 Le Sage fût un peu déçu, mais se rassura vite, pensant que sa disciple Mi Lan n'aurait pas pu passer à côté sans une raison. Il est vrai que cette pratique pouvait être dangereuse, se rassura-t-il, surtout pour un enfant en pleine croissance.
 
@@ -433,11 +433,11 @@ Dans l'esprit de Toa, l'adulte gronda : « Non, surtout pas. Transmets-lui mes p
 
 — Maître, l'esprit dit que je dois entrainer mon corps et non mon esprit.
 
-— Comment ?
+— Comment ?
 
 — Il dit que mon corps est trop faible.
 
-— Et pourquoi donc ?
+— Et pourquoi donc ?
 
 — Bien que mes capacités soient prometteuses, mon esprit avec le sien surpassent grandement ce que je puis supporter, c'est pour cela que je me suis évanouie.
 
@@ -453,11 +453,11 @@ Le vieil homme profitait du temps de repos durant la soirée pour noter ses rés
 
 Après trois semaines, son nouveau disciple avait grandement progressé, et il pensait qu'il était enfin temps de l'entrainer à user de son Esprit.
 
-— Disciple Toa, j'aimerais m'entretenir rapidement avec le Mage en ton sein. N'est-il pas de temps de remettre à l'épreuve ce jeune disciple ?
+— Disciple Toa, j'aimerais m'entretenir rapidement avec le Mage en ton sein. N'est-il pas de temps de remettre à l'épreuve ce jeune disciple ?
 
 — Il dit que vous avez raison. Et qu'avec les quelques leçons qui m'a donnée sur les arts Spirituels et les entrainements Martiaux que vous Maitre m'avez inculqués, je devrais être parer.
 
-— Parfait! Tu te souviens de l'épreuve ?
+— Parfait! Tu te souviens de l'épreuve ?
 
 Le pupille hocha la tête. Ils se mirent en position et l'expert recommença à infuser son esprit dans celui de Toa. Cette fois-ci, il garda les yeux bien ouvert, attentif à tout changement d'attitude de son disciple. Comme la dernière fois, progressivement, il augmenta le flux en passant par des paliers pour que le jeune s'habitue chaque fois à la nouvelle intensité.
 
@@ -481,7 +481,7 @@ Quelques minutes plus tard, les parents Mi se présentait au cabinet du Sage.
 
 — Disciple Lan, M. Mi.
 
-— Notre fils ne vous a pas causé de problème ?
+— Notre fils ne vous a pas causé de problème ?
 
 Le Sage les rassura sur la nature de leur convocation et les informa des progrès de leur fils :
 
@@ -555,7 +555,7 @@ Il descendirent devant le bâtiment principale et la voiture continua son chemin
 
 Accompagné du Sage, l'enfant pénétra l'édifice et fût accueilli par le directeur :
 
-— Bienvenue, Mi Toa, je suis le directeur de cet école, Li Po ; Salutation, Sage Fuu Ni, je vous attendais. Avez-fait un bon voyage ?
+— Bienvenue, Mi Toa, je suis le directeur de cet école, Li Po ; Salutation, Sage Fuu Ni, je vous attendais. Avez-fait un bon voyage ?
 
 Toa s'inclina respectueusement face au quinquagénaire. Fuu Ni, inclina seulement la tête :
 
@@ -651,7 +651,7 @@ Il fit un pas en avant et montra clairement son intention de frapper en plein vi
 
 Le garçon vola un bon mètre, mais resta debout, et repris sa position de départ prêt à attaquer à tout instant. Mao ne lui accorda aucune pitié, il n'eut pas le temps de se remettre debout que son ami était déjà en train de le charger.
 
-Toa fit un pas de côté et essaya de lire le jeu de son ennemi, allait-il lui faire une nouvelle feinte ? Une double peut-être encore, voire une triple.
+Toa fit un pas de côté et essaya de lire le jeu de son ennemi, allait-il lui faire une nouvelle feinte ? Une double peut-être encore, voire une triple.
 
 Mao fendit l'air avec sa jambe pour le frapper au flan. Toa n'essaya pas de l'esquiver pensant à une nouvelle feinte, au dernier moment il se rendit compte de son erreur et essaya malgré tout de sauver sa peau en attrapant la jambe meurtrière.
 
@@ -677,7 +677,7 @@ Dans l'esprit de Toa, le Mage lui dit de se rapprocher de la pierre pour observe
 
 — Si tu fais bien attention tu pourras toi aussi voir la couleur ou d'autres détails.
 
-— Quels genres de détails ?
+— Quels genres de détails ?
 
 — Regardes !
 
@@ -693,7 +693,7 @@ Un deuxième enfant fût appeler, celui-ci avait une forte lumière jaune qui lu
 
 — Il y a un lapin, dit-il au Mage.
 
-— Bien. Et maintenant ?
+— Bien. Et maintenant ?
 
 Un autre enfant s'avança à son nom, Toa s'efforça à nouveau de voir un petit animal.
 
@@ -705,7 +705,7 @@ Il se tourna vers l'adulte, et demanda :
 
 — Oui, avec la couleur ce sont les deux spécificités d'un Esprit. Il est différent pour chacun et a des particularités qui peuvent être d'une importance majeure.
 
-— Quel est le mien ?
+— Quel est le mien ?
 
 — Attends un peu, tu pourras le voir de tes propres yeux.
 
@@ -725,11 +725,11 @@ L'esprit était bleu clair, presque comme de l'eau, il ressemblait à une espèc
 
 — Oh, le chanceux, dit le Mage, il a un _Amarok_... Je comprends mieux, maintenant.
 
-— Qu'est-ce qu'il y a comprendre ?
+— Qu'est-ce qu'il y a comprendre ?
 
 — Rien d'important.
 
-— Mais en quoi est-il chanceux ? Il vient de recevoir un 2.
+— Mais en quoi est-il chanceux ? Il vient de recevoir un 2.
 
 Le Mage fit un sourire au jeune, plein de compassion.
 
@@ -757,11 +757,11 @@ Un homme qui devait entrer dans son quatrième siècle de vie appela Fuu Ni et c
 
 La salle ne disposait que d'un bureau, d'une table, de deux sièges, un fauteuil, un canapé et sa table basse, trois bibliothèques rempli à rebord pour couvrir les murs, un grand tableau de la bataille des Plaines Rouges durant la guerre menée par l'empereur légendaire Nii Fui, un portrait de Tiu Mo qui fût l'un des plus grands Sages de tout les temps, trois petites commodes pour ranger des fournitures et autres encas, et une petite cage pour Hong Niao - le phénix du Sage, le dernier du pays et selon une rumeur le dernier de son espèce.
 
-— Bon, Fuu Ni, qu'est-ce qui vous amène dans notre humble académie ? Qu'est-ce qui pourrait vous forcer à venir jusqu'ici depuis votre retraite au fin fond de la campagne ?
+— Bon, Fuu Ni, qu'est-ce qui vous amène dans notre humble académie ? Qu'est-ce qui pourrait vous forcer à venir jusqu'ici depuis votre retraite au fin fond de la campagne ?
 
 — Eh bien, c'est-à-dire, comme je vous l'ai annoncé dans mon courrier, j'ai terminé ma thèse et vous saurais gré de me donner une infime horaire pour présenter les résultats de mes travaux.
 
-— Oh, vous ne l'aviez pas abandonnée ? Voilà qui est charmant. Malheureusement, comme vous le savez, un papier se doit être relu par quelques Archi-Sages avant de pouvoir être présenter, et le prochain colloque est beaucoup trop resserré pour qu'aucun d'entre nous ait le temps de s'occuper de votre cas.
+— Oh, vous ne l'aviez pas abandonnée ? Voilà qui est charmant. Malheureusement, comme vous le savez, un papier se doit être relu par quelques Archi-Sages avant de pouvoir être présenter, et le prochain colloque est beaucoup trop resserré pour qu'aucun d'entre nous ait le temps de s'occuper de votre cas.
 
 — Je comprends, votre Sagesse, mais les résultats des mes études sont incroyables et permettront à la Sagesse de découvrir de nouvelles horizons encore inexplorées.
 
@@ -797,7 +797,7 @@ Il était là, enfin à pouvoir profiter d'un peu de repos, tant attendu depuis 
 
 Et puis ce sommeil-là avait un goût différent des autres, de l'habituel. Il était heureux, mais surtout fier d'avoir accompli la demande du Mage. Il se sentait méritant et quel goût agréable pouvait avoir ce repos.
 
-Dans son esprit, l'adulte commençait à s'impatienter. Quand avait-il dit qu'une fois l'échauffement terminé, il serait libre de dormir ? « Les coqs ont chantés, » pensait-il « les grincheux aussi, et il n'est toujours pas debout. » À entendre la ville qui s'activait, il commença à tambouriner dans l'Esprit du jeune pour le réveiller.
+Dans son esprit, l'adulte commençait à s'impatienter. Quand avait-il dit qu'une fois l'échauffement terminé, il serait libre de dormir ? « Les coqs ont chantés, » pensait-il « les grincheux aussi, et il n'est toujours pas debout. » À entendre la ville qui s'activait, il commença à tambouriner dans l'Esprit du jeune pour le réveiller.
 
 Après dix bonne minutes, il finit enfin par faire réagir l'ours, qui se rendormit aussi tôt, en lâchant :
 
@@ -809,21 +809,21 @@ Le garçon qui ne dormait plus du tout ne fut pas satisfait de se faire réveill
 
 Après un violent clash entre les deux Toa, ils finirent par s'assoir pour discuter du problème.
 
-— Pourquoi ne m'as-tu pas laissé dormir ? Je n'attendais que cela. J'ai fait ce que tu m'as demandé sans me plaindre une seule fois et voilà que cela terminé tu m'en redemandes.
+— Pourquoi ne m'as-tu pas laissé dormir ? Je n'attendais que cela. J'ai fait ce que tu m'as demandé sans me plaindre une seule fois et voilà que cela terminé tu m'en redemandes.
 
-— À quel moment ai-je dit que cela ne durerais qu'un mois ?
+— À quel moment ai-je dit que cela ne durerais qu'un mois ?
 
 — On s'était mis d'accord. On avait dit un mois. Il est passé.
 
 — C'était juste l'échauffement.
 
-— L'échauffement ? hurla l'enfant. Jamais. Jamais tu n'as parlé d'échauffement. Tu m'as dit de devenir fort pour que ton pouvoir ne me tue pas. C'est ce que j'ai fait. Maintenant que je ne risque plus mort, je n'ai plus aucune raison de faire des effort.
+— L'échauffement ? hurla l'enfant. Jamais. Jamais tu n'as parlé d'échauffement. Tu m'as dit de devenir fort pour que ton pouvoir ne me tue pas. C'est ce que j'ai fait. Maintenant que je ne risque plus mort, je n'ai plus aucune raison de faire des effort.
 
-— Vraiment ?
+— Vraiment ?
 
 — Oui.
 
-— C'est vraiment ce que tu penses ? voulu confirmer l'adulte.
+— C'est vraiment ce que tu penses ? voulu confirmer l'adulte.
 
 Le jeune soutint son regard avec détermination.
 
@@ -831,41 +831,41 @@ Le Mage se rendait compte à quel point son interlocuteur était enfantin, et qu
 
 — Tu es toujours en danger de mort. Toi, tes amis aussi, ta vie ici, ta famille, ton village. Tout ce que tu connais est en danger.
 
-— Et quel peut donc être ce si grand danger ?
+— Et quel peut donc être ce si grand danger ?
 
 — Il y en a plusieurs, les premiers seront l'Avarice, la Jalousie et le Désir. Bien sûr, ils ne seraient dangereux sans une bonne dose d'ignorance, et de bêtise.
 
-— Eh ! En quoi cela a-t-il avoir quoi que ce soit avec moi ?
+— Eh ! En quoi cela a-t-il avoir quoi que ce soit avec moi ?
 
-— Pour le savoir, il faut que je te raconte un passage de ma vie, et tu prêt à m'écouter ?
+— Pour le savoir, il faut que je te raconte un passage de ma vie, et tu prêt à m'écouter ?
 
 L'enfant hésita. Il était bien un peu curieux de savoir son futur, de pouvoir le forger comme il le désirait... mais il tenait pour certitude que ce vieil homme ne le laisserait pas faire, qu'il le mènerait là où il en aurait envie. De plus son histoire pourrait être une complète fable qu'il n'y verrait que du feu. Il s'apprêtait à refuser, à quoi écouter des songes quand on peut rêver.
 
 — Cela faisait quelques mois que j'étais entrer à l'Institut, contrairement à toi, je n'avais pas obtenu une note suffisante au test d'Esprit. À vrai dire, j'avais été dernier. Je m'étais donc retrouvé avec Mao dans la filière des Arts Martiaux. Je n'avais aucun désir de devenir un Guerrier et avec la renommée de père, je ne pouvais me permettre de faire minimum. Pourtant, je n'en avais aucune envie. Je voulais juste passer mon temps à dormir et à rire avec mes amis Fua, Mao, Liu et San. Mais eux ne l'entendais pas de cet façon, Mao voulait devenir un grand guerrier pour payer les dettes de sa famille, il emportait les autres dans son élan et Fua était simplement trop studieux. Je résolus de devenir un Mage par tout les moyens, je concoctais un plan génial : premièrement, trouver le moyen de changer ma couleur d'Esprit, secondement, manipuler par des moyens humains quelques examinateurs pour qu'il m'offre une nouvelle chance de passer au test d'Esprit. Je rentrais en contact avec le marché noir et fit l'acquisition de quelques fioles qui permettaient de faire cet effet. Je passais le test et fut accepté avec une note de 17, mon esprit étant devenu rouge pour quelques jours. Je commençais donc les cours de ma nouvelle formation mais après quelques jours et aucuns progrès par rapport aux exercices effectués, je tombais malade. Mon Esprit était devenu rouge car il était infecté. Pendant plusieurs mois, je restais alité, incapable de bouger ou même de penser. Durant mon hospitalisation, mon procès fut fait. Les médecins avait signalé un empoisonnement et quelques témoins dont je n'avais pris garde avaient informé de mon échange avec les examinateurs. Eux furent mis-à-pied, puis en prison ; mon ami Fua, accuser de m'avoir informer sur l'existence de ce poison, aussi ; Mao et ses camarades d'armes, de m'avoir accompagné sur le marché noir et d'avoir fait usage de produit pour doper leurs capacités physiques, eux aussi. Je n'étais pas encore d'appoint que la rumeur fausse que j'avais acheté avec de l'or les examinateur et que celle-ci provenait de ma famille, se rependit. Des bandits ne mirent pas longtemps avant de connaitre la vérité. Ils s'attaquèrent à la maison familiale et bien que père fût un très un grand guerrier, il ne résista pas face aux assauts répétés. Il mourut, protégeant Mia. Elle fut capturée et je n'entendus plus parler d'elle. Elle avait été vendu au marché noir comme esclave. Mère étant parti en voyage avec Maitre Ni ne fut pas touchée par les attaques. Néanmoins, après ces évènements, elle ne me parla plus jamais de la même manière. Elle était toujours distante sans jamais manquer à ses obligations de mère. Après avoir été guéri et avoir fait mon séjour en prison, je parti en exil. Plus rien ne me retenais ici, et tout me poussait à partir, en particulier mes amis. J'étais seul errant dans le désert, sans amis, sans famille, sans richesse, sans futur, ni même désir. Mais plein de regret et d'amertume.
 
-L'enfant se retrouva avec plein de question qu'il n'avait pas désirés. Que s'est-il passé après ? Comment est-il devenu Mage ? Que sont devenus les autres ? Est-il jamais revenu après ? Comment avait-il fait pour manipuler les examinateurs ? Qui sont Liu et San ?...
+L'enfant se retrouva avec plein de question qu'il n'avait pas désirés. Que s'est-il passé après ? Comment est-il devenu Mage ? Que sont devenus les autres ? Est-il jamais revenu après ? Comment avait-il fait pour manipuler les examinateurs ? Qui sont Liu et San ?...
 
 Pourtant, une seule trouvait-il avait encore du sens :
 
-— Mais en quoi cela me concerne-t-il ? J'ai déjà été admis. Je vais pouvoir devenir Mage, sans faire tout ceci et causer tout cela.
+— Mais en quoi cela me concerne-t-il ? J'ai déjà été admis. Je vais pouvoir devenir Mage, sans faire tout ceci et causer tout cela.
 
-— Le Monde est fragile, c'est une balance qui revient toujours vers l'équilibre. Ma présence perturbe l'équilibre. Les changements que j'ai causé vont en entrainer d'autres. Tu n'iras pas sur le marché noir et tu ne seras pas empoisonnée par la bêtise. Mais ta situation actuelle attire les regards, n'as-tu pas remarqué le comportement de Mao ? Il est jaloux de ton progrès, mais pire, c'est ton comportement qu'il déteste. Il accepterait de se faire battre par son meilleur ami, si tu faisais les efforts mais tu ne les fais pas. Abandonnes aujourd'hui l'entrainement et tu ne pourras pas protéger ta famille, tu perdras tes amis, ton futur, ta joie de vivre.
+— Le Monde est fragile, c'est une balance qui revient toujours vers l'équilibre. Ma présence perturbe l'équilibre. Les changements que j'ai causé vont en entrainer d'autres. Tu n'iras pas sur le marché noir et tu ne seras pas empoisonnée par la bêtise. Mais ta situation actuelle attire les regards, n'as-tu pas remarqué le comportement de Mao ? Il est jaloux de ton progrès, mais pire, c'est ton comportement qu'il déteste. Il accepterait de se faire battre par son meilleur ami, si tu faisais les efforts mais tu ne les fais pas. Abandonnes aujourd'hui l'entrainement et tu ne pourras pas protéger ta famille, tu perdras tes amis, ton futur, ta joie de vivre.
 
 L'adulte regarda le jeune longuement, avant d'ajouter :
 
-— Quel est ton choix ?
+— Quel est ton choix ?
 
 ## Chapitre 12. Attention
 
 Après avoir quelques entrainements physiques et une rapide séance de méditation, il fût l'heure pour Toa de se rendre en classe. Cela allait être son premiers cours à l'Institut et il allait découvrir ses enseignants et ses camardes. La veille, avec l'examen, il n'avait pas pu être présenter et s'intégrer. Heureusement, il avait pu se retrouver avec ses amis Mao et Fua, mais ce jour-là, il ne faisait pas partie de sa classe. Le garçon était un peu anxieux. Bien qu'il avait toujours le vieil homme en son esprit, il n'aimait pas être seul sans ses amis. Après faire des efforts, cela était sans doute sa plus grande "peur".
 
-Il arriva en classe quelques minutes avant que la cloche ne retentisse, n'ayant à ce moment pas de place assise attitré, il resta debout à l'entrée. Dans la salle, une vingtaine de pupilles étaient déjà installées. La plupart des élèves discutaient en groupes, certains cachaient leurs lèvres derrière leur mains tout en regardant le jeune Toa. D'autres faisait simplement la sieste, ou bien était-ce de la méditation ? Quelques-uns encore arrivaient seulement et allaient s'assoir sans porter une trop grande attention sur l'enfant à la porte.
+Il arriva en classe quelques minutes avant que la cloche ne retentisse, n'ayant à ce moment pas de place assise attitré, il resta debout à l'entrée. Dans la salle, une vingtaine de pupilles étaient déjà installées. La plupart des élèves discutaient en groupes, certains cachaient leurs lèvres derrière leur mains tout en regardant le jeune Toa. D'autres faisait simplement la sieste, ou bien était-ce de la méditation ? Quelques-uns encore arrivaient seulement et allaient s'assoir sans porter une trop grande attention sur l'enfant à la porte.
 
 Quelques secondes avant l'heure fatidique, un épigone couru pour rentrer dans la salle et buta contre Toa qui tomba à la renverse.
 
 — Oh, fais attention, gronda le retardataire.
 
-— Comment ?
+— Comment ?
 
 — J'ai dit « fais attention ! »
 
@@ -875,13 +875,13 @@ L'autre le toisa, pris son temps.
 
 — Tu m'as pas entendu, il me semble, je t'ai dit de faire attention.
 
-— C'est toi qui devrais faire attention, tu cours, tu me renverse et puis tu me dis de faire attention. Tu ne chercherais pas des bricoles, par hasard ?
+— C'est toi qui devrais faire attention, tu cours, tu me renverse et puis tu me dis de faire attention. Tu ne chercherais pas des bricoles, par hasard ?
 
 — Tu as un problème, tu veux que l'on se batt...
 
 Tous les étudiants venaient de se lever. Le Maître venait de rentrer dans la salle et fixait les deux énergumènes.
 
-— Que se passe-t-il, Disciple Na Lu ?
+— Que se passe-t-il, Disciple Na Lu ?
 
 — Maître Gi Lui, j'accueillais le nouvel étudiant, Maître.
 
@@ -899,15 +899,15 @@ D'un regard, le professeur envoya à sa place le jeune récalcitrant qui ne se f
 
 Celui s'exécuta, il présenta son nom, son origine, la raison de son absence, tel qu'il lui avait été demandé par le Sage et demanda à ses nouveaux camarades de classes de s'occuper bien de lui.
 
-— Vous avez aussi, passez les examens hier, n'est-ce pas ?
+— Vous avez aussi, passez les examens hier, n'est-ce pas ?
 
 — Oui, Maître.
 
-— Quels en ont été les résultats ?
+— Quels en ont été les résultats ?
 
 — J'ai été premier en épreuve physique, mais j'ai perdu mes deux combats et j'ai obtenu la note de 15 en Esprit.
 
-— Oh, voilà qui est intéressant. Vous avez dit avoir été soigné par le Sage Fuu Ni, vous a-t-il pris comme disciple ?
+— Oh, voilà qui est intéressant. Vous avez dit avoir été soigné par le Sage Fuu Ni, vous a-t-il pris comme disciple ?
 
 — J'ai été sous l'enseignement de Maître Ni pendant ma convalescence, mais je ne puis dire si je suis son disciple ou pas. Aussi, ma mère Mi Lan est déjà Disciple sous les ordres de Maître Ni.
 
@@ -915,17 +915,17 @@ Le précepteur fronça les sourcils.
 
 — Bien allez-vous assoir au fond, à côté de l'épigone Liu Su.
 
-Toa se rendit vite à sa place sans un mot, mais il se souvenait de l'histoire du vieil homme, celui-ci avait mentionné deux autres amis qu'il n'avait pas encore rencontré. L'un portait le prénom Liu, était-ce le même que dans son histoire ?
+Toa se rendit vite à sa place sans un mot, mais il se souvenait de l'histoire du vieil homme, celui-ci avait mentionné deux autres amis qu'il n'avait pas encore rencontré. L'un portait le prénom Liu, était-ce le même que dans son histoire ?
 
 Il voulait en avoir le coeur net, mais comment. Il essaya de demander au Mage en son sein qui lui répondit de se concentrer sur le cours d'hisoire. Toa n'y voyait plus aucun intérêt, maintenant qu'il avait un vieil homme plein de connaissance en lui-même. Il n'aurait plus qu'à le faire parler dans les moments nécessaires.
 
-— Élève Mi Toa, pouvez-vous me dire quels éléments comportaient l'Empire d'Ukat ? demanda le Maître Gi.
+— Élève Mi Toa, pouvez-vous me dire quels éléments comportaient l'Empire d'Ukat ? demanda le Maître Gi.
 
 Le garçon qui n'avait pas suivi et ne connaissait pas l'Empire d'Ukat ne savait pas quoi répondre à cette question, il se tourna vers le Mage dans l'espoir d'obtenir un peu d'aide, mais tout ce qu'il trouva fut un grand sourire immuable.
 
 — Euh... C'est...
 
-— Donc ? Élève Mi, vous me décevez, est-ce le comportement que l'on peut espérer des élèves du Sage Fuu Ni ?
+— Donc ? Élève Mi, vous me décevez, est-ce le comportement que l'on peut espérer des élèves du Sage Fuu Ni ?
 
 — Veuillez me pardonner, Maître, je n'étais pas attentif.
 
@@ -939,9 +939,9 @@ Toa ne pris aucune rancune pour les cent tours de pistes. « De toute manière, 
 
 Après le cours d'histoire, Toa avait discuté avec son voisin Liu, il lui avait demandé des informations sur la piste d'exercices. Son nouvel ami s'était mis à rire. Il l'informa du type de terrain et Toa comprit qu'il allait passé sa soirée à courir pour faire ses 100 tours. Il se demanda bien comment l'autre garçon allait pouvoir faire ses 200 tours de pistes.
 
-— Na Lu ? C'est un Disciple, son maitre peut lui annuler toute punition sans difficulté. Pour la forme, il l'obligera à en faire 20.
+— Na Lu ? C'est un Disciple, son maitre peut lui annuler toute punition sans difficulté. Pour la forme, il l'obligera à en faire 20.
 
-— Eh ! Pourquoi donc, demanda Toa, je me retrouve à en faire plus que lui ?
+— Eh ! Pourquoi donc, demanda Toa, je me retrouve à en faire plus que lui ?
 
 Ils se rendirent à la caféteria où ils déjeunèrent ensemble, ainsi qu'avec d'autres élèves de la classe. Ces nouveaux camarades furent curieux sur sa personne et lui aussi l'était d'eux. Toa, Liu, San (le jeune Toa était persuadé que c'était là les deux personnes de l'histoire, mais ne savait pas pourquoi il n'avait pas fait mention du dernier) et Den échangèrent donc. Toa fut aussi assez curieux de l'autre Na Lu qui était Disciple.
 
@@ -953,7 +953,7 @@ Après lui avoir présenter une image assez peu reluisante de la personne, de pa
 
 — C'est un fils de noble, il n'est pas dangereux pour lui-même, rajouta San. Je pourrais le battre sans problème. Par contre son maître et sa famille en est un plus gros.
 
-— Qui est son maître ?
+— Qui est son maître ?
 
 — Quelqu'un sans renom, dit Liu. Tout le monde sais qu'il est payé par sa famille pour le protéger.
 
@@ -977,33 +977,33 @@ Dans son sein, l'adulte regardait aussi la scène, en approuvant régulièrement
 
 — Tu lui fais le moindre mal et je te pourris la vie, jusqu'à la mort.
 
-— Pourquoi je ferais cela ? cria le jeune. C'est mon meilleur ami.
+— Pourquoi je ferais cela ? cria le jeune. C'est mon meilleur ami.
 
 — Je te connais, je me connais. Déjà hier, tu l'as blessé et tu ne t'en es même pas rendu compte.
 
-— Je l'ai pas fait exprès. Et tu n'aurais pas pu me le dire ? Je ne sais même pas pourquoi il m'en veut.
+— Je l'ai pas fait exprès. Et tu n'aurais pas pu me le dire ? Je ne sais même pas pourquoi il m'en veut.
 
-— Pourquoi ?
+— Pourquoi ?
 
 L'adulte souffla.
 
 — Tu n'as toujours pas compris qu'il t'en veux à cause du combat.
 
-— Quoi le combat, j'ai perdu, que veut-il de plus ?
+— Quoi le combat, j'ai perdu, que veut-il de plus ?
 
 — Il ne voulait pas gagner, il ne voulait pas que tu perdes après l'avoir mis sur le carreau en épreuve de physique. Mais le pire...
 
-— Quoi le pire ?
+— Quoi le pire ?
 
 — Tu l'as laissé gagner... parce que tu ne voulais pas le frapper.
 
-C'est vrai, il l'avait laissé gagner, au dernier moment durant leur combat, il avait retenu son coup et puis avait attendu que Mao se relève. C'était son meilleur ami, comment pouvait-il le frapper même pour s'entrainer, même pour une note ?
+C'est vrai, il l'avait laissé gagner, au dernier moment durant leur combat, il avait retenu son coup et puis avait attendu que Mao se relève. C'était son meilleur ami, comment pouvait-il le frapper même pour s'entrainer, même pour une note ?
 
 — C'est vrai, il ne peut pas m'en vouloir pour cela, c'est pas possible.
 
 — Si.
 
-— Que faire ? Comment me faire pardonner ?
+— Que faire ? Comment me faire pardonner ?
 
 — C'est simple. Excuse-toi et entraine-toi sérieusement.
 
@@ -1017,7 +1017,7 @@ Le groupe d'amis après s'être échauffer et fait plusieurs exercices d'adresse
 
 Quelques minutes après le début de leurs affrontements, le Disciple Na Lu accompagné de son Maître arriva pour effectuer la punition. Le professeur Gi Lui ne tarda pas non plus pour vérifier la bonne application de cette punition, lui aussi était accompagné, mais d'un épigone qui avait été chargé par le professeur de surveiller les deux mauvais élèves.
 
-— Bonjour, Sage Lou Ti, salua le professeur. Élève Toa Mi, Disciple Na Lu, vous allez donc effectuer le nombres de tours de pistes que je vous ai attribué ce matin en punition de vos comportements en classe. Avez-vous quelque chose à dire contre cela ?
+— Bonjour, Sage Lou Ti, salua le professeur. Élève Toa Mi, Disciple Na Lu, vous allez donc effectuer le nombres de tours de pistes que je vous ai attribué ce matin en punition de vos comportements en classe. Avez-vous quelque chose à dire contre cela ?
 
 — Non, Maître, répondit sans attendre Toa.
 
@@ -1025,13 +1025,13 @@ Quelques minutes après le début de leurs affrontements, le Disciple Na Lu acco
 
 Les deux Sages se jaugèrent un peu du regard. Gi Lui allait-il se laisser marcher sur les pieds aussi facilement. Il avait une image, une autorité à conserver et ne pouvait accepter qu'un épigone sous prétexte qu'il ait un Maître, ou plutôt qu'il pait les services d'un Sage tout juste diplômé, soit exempté de punition.
 
-— Je comprends, jeune Sage Lou Ti, néanmoins je ne peux accepter votre demande. À la place, je peux vous proposer de réduire un peu la punition. Ce jeune, ici, a une punition de 100 tours de pistes pour une faute. Je vous propose de descendre celle du Disciple Na Lu à 150, sachant que celui-ci à causer deux fautes. Qu'en dites-vous ?
+— Je comprends, jeune Sage Lou Ti, néanmoins je ne peux accepter votre demande. À la place, je peux vous proposer de réduire un peu la punition. Ce jeune, ici, a une punition de 100 tours de pistes pour une faute. Je vous propose de descendre celle du Disciple Na Lu à 150, sachant que celui-ci à causer deux fautes. Qu'en dites-vous ?
 
 — Mon Disciple m'a parlé de ses deux fautes et il m'a dit que cet épigone n'est pas innocent dans l'affaire. Il l'aurait bousculé et aurait menacé avant votre arrivé. Na Lu n'étant pas un lâche, il a simplement réagit avec gravité aux caractéres de ce jeune.
 
-— Quoi ? explosa Toa.
+— Quoi ? explosa Toa.
 
-— Tu n'es pas en accord avec cette version des faits, Elève Toa ? demanda le professeur qui savait très bien que le noble Na Lu chercherait par tous les moyens à échapper à sa punition.
+— Tu n'es pas en accord avec cette version des faits, Elève Toa ? demanda le professeur qui savait très bien que le noble Na Lu chercherait par tous les moyens à échapper à sa punition.
 
 — Maître Lui, les faits sont simples, ce matin, j'attendais à l'entrée de la classe votre arrivé, pour me présenter à vous et à la classe. Na Lu est arrivé quelques secondes avant que la cloche ne retentisse en courant et il m'a bousculé, me faisant tombé par surprise. Jamais je n'aurais l'intention d'en tenit rigueur s'il s'était excusé. À la place de cela, il m'a dit de faire attention où je mettais le pied, impliquant que j'étais le fautif. Je lui ai simplement expliqué qu'il était le seul en tort et il m'a menacé de me battre. C'est à ce moment que vous êtes arrivé Maître. Je pense que toutes la classe pourra témoigner en ma défense. Les épigones Liu et Den sont tout deux sur le terrain d'à côté, je peux aller les chercher pour qu'il témoigne, si vous le désirez.
 
@@ -1039,7 +1039,7 @@ Les deux Sages se jaugèrent un peu du regard. Gi Lui allait-il se laisser march
 
 — Oui, j'en suis bien conscient et il n'est pas question de reporter à demain pour obtenir les témoignages de la classe.
 
-Le professeur réfléchit en silence un instant à une solution, il n'avait aucune raison de faire une fleur à Toa, mais il sentait que celui-ci était honnête et qu'il n'était pas en faute. Bien entendu, cela n'enlevait pas son manque d'attention durant le cours qui lui avait valu ses 100 tours de pistes. Comment pouvait-il résoudre cette affaire en faisant plaisir aux deux parties ? La loi sur les Maitre et Disciple était bien trop stricte et avantageuse pour qu'il puisse réellement lutter contre le jeune Sage. Comment pouvait-il battre l'insolent Na Lu sans le toucher ? Il se répéta les évènements du matin, son arrivé, la punition, la présentation de Toa... Eureka.
+Le professeur réfléchit en silence un instant à une solution, il n'avait aucune raison de faire une fleur à Toa, mais il sentait que celui-ci était honnête et qu'il n'était pas en faute. Bien entendu, cela n'enlevait pas son manque d'attention durant le cours qui lui avait valu ses 100 tours de pistes. Comment pouvait-il résoudre cette affaire en faisant plaisir aux deux parties ? La loi sur les Maitre et Disciple était bien trop stricte et avantageuse pour qu'il puisse réellement lutter contre le jeune Sage. Comment pouvait-il battre l'insolent Na Lu sans le toucher ? Il se répéta les évènements du matin, son arrivé, la punition, la présentation de Toa... Eureka.
 
 — Jeune Sage Lou Ti, je vous propose un marché, nous ne pouvons savoir qui a été coupable ce matin de la faute et qui doit donc être puni en conséquence.
 
@@ -1049,15 +1049,15 @@ Le professeur réfléchit en silence un instant à une solution, il n'avait aucu
 
 Toa allait réagir contre ce marché, il ne comprenait pas pourquoi s'il perdait il devrait faire 100 tours de plus. Cependant, l'adulte en lui-même le retenu. Il lui expliqua qu'il n'y gagnerait rien à s'y opposer et que de toutes manières, derrière il lui donnerait un entrainement plus difficile.
 
-— Acceptez-vous mon marché ?
+— Acceptez-vous mon marché ?
 
 — Vous voulez rire, attaqua le maître du noble. Sage Gi Lui, non seulement mon disciple est innocent et n'a aucune raison de faire 200 tours mais en plus, vous osez remettre en question ses capacités et donc mon enseigment.
 
-— Loin de moi cette idée, je connais bien les capacités du Disciple Na Lu, je suis un de ses humbles professeurs. Je tache juste ici de résoudre un conflit avec justesse. Acceptez-vous mon offre ? Sinon, le jeune Na Lu effectuera sa punition attribuée ce matin.
+— Loin de moi cette idée, je connais bien les capacités du Disciple Na Lu, je suis un de ses humbles professeurs. Je tache juste ici de résoudre un conflit avec justesse. Acceptez-vous mon offre ? Sinon, le jeune Na Lu effectuera sa punition attribuée ce matin.
 
 — Nous acceptons votre offre, dit le Sage battu.
 
-— Et toi, Élève Toa Mi ?
+— Et toi, Élève Toa Mi ?
 
 — Oui, Maître, et j'espère que cet punition saura vous persuader de mon innocence.
 
@@ -1131,11 +1131,11 @@ La nuit étant bien avancée, il put aller à toute vitesse dans les ruelles san
 
 Il toqua et attendit l'autorisation pour entrer, celle-ci fût assez rapide à venir. Le garçon en entrant salua bien bas le Sage.
 
-— Déjà fini ? demanda Gi Lui, peu convaincu qu'un jeune pouvait terminer 200 tours de pistes aussi vite, surtout en courant aussi vite.
+— Déjà fini ? demanda Gi Lui, peu convaincu qu'un jeune pouvait terminer 200 tours de pistes aussi vite, surtout en courant aussi vite.
 
 — Oui, Maître.
 
-— Qui a gagné ?
+— Qui a gagné ?
 
 — C'est l'Élève Toa Mi, Maître.
 
@@ -1143,13 +1143,13 @@ Il toqua et attendit l'autorisation pour entrer, celle-ci fût assez rapide à v
 
 — Oui, Maître, j'ai une autre nouvelle à vous faire part.
 
-— Quelle est-elle ? dit le Sage, assez impatient d'en connaitre le ressort.
+— Quelle est-elle ? dit le Sage, assez impatient d'en connaitre le ressort.
 
 L'épigone Ji Ho sortit de son sac, les deux bouliers qui était figé aux nombres de tours effectué par chacun des étudiants, 100 pour Toa et 68 pour Lu, puis il sortit une liasse de billet.
 
 — Comme il est de convenance, expliqua le référent, j'ai bloqué les deux bouliers par la force de mon Esprit, le premier quand Toa a fini les 100 tours et le deuxième quand le Disciple Na Lu s'est arrêté devant moi avec cette liasse de billet.
 
-— Combien y a-t-il ?
+— Combien y a-t-il ?
 
 — 500 _grelons_.
 
@@ -1165,7 +1165,7 @@ Le professeur rit grassement en entendant cela. Il se pencha sur la liasse de mo
 
 Le garçon parti en flèche, pendant le court moment où il était parti, le Sage regarda encore la liasse de monnaie. Il se demandait si le jeune Disciple était réellement assez bête pour faire une telle erreur.
 
-— Bonsoir Sage Gi Lui, dit le directeur Li Po en entrant dans le bureau du Sage sans toquer, qu'est-ce qui vous fait me faire quérir à une telle heure ?
+— Bonsoir Sage Gi Lui, dit le directeur Li Po en entrant dans le bureau du Sage sans toquer, qu'est-ce qui vous fait me faire quérir à une telle heure ?
 
 — Bonsoir Directeur Li Po, c'est que j'ai une affaire qui réclame votre jugement.
 
@@ -1173,13 +1173,13 @@ Après lui avoir expliqué la situation, le directeur demanda la confirmation du
 
 — Tout est comme il a été dit, confirma Ji Ho, je veux bien témoigner sous vérité forcée si nécessaire et je peux aussi affirmer qu'il y a d'autres témoins de la scène.
 
-— Qui donc ?
+— Qui donc ?
 
 — Maîtres, je ne suis encore qu'un jeune aspirant Mage, mais avec mon faible talent en Esprit, j'ai pu sentir que le groupe de l'Élève puni Toa Mi ne s'est pas éloigné plus que la sortie du terrain d'entrainement. Et qu'ils ont donc vu le Disciple Na Lu s'arrêter devant moi avant la fin de sa punition et partir après m'avoir parlé.
 
 Les deux Sages toisèrent le jeune. Ils savaient que Ji Ho était dans la filière de l'Esprit, mais de là à pouvoir détecter la présence d'un groupe de jeunes à plus de 50 mètres, cela était le signe d'un grand talent ou d'un mensonge.
 
-— Combien y a-t-il de personne dans ce bâtiment en ce moment ? demanda le directeur à l'épigone.
+— Combien y a-t-il de personne dans ce bâtiment en ce moment ? demanda le directeur à l'épigone.
 
 — 12, Maître, répondit naturellement le garçon. Et 3 ont l'air assoupi.
 
@@ -1213,7 +1213,7 @@ Le reste de la journée se passa sans évènement majeur et à la demande de Toa
 
 Après avoir fait juré à ses amis de tenir ce qu'ils entendraient secret, Toa leur expliqua son cas et ce que le Mage en son sein pouvait leur apporter, ainsi que le prix qu'ils devraient payer pour.
 
-En entendant le garçon parler, ses amis doutèrent, comment un Mage pouvait-il revenir dans le temps ? Pourquoi le ferait-il seulement ? Pourquoi se serait-il réincarner dans son corps jeune, plutôt que de revenir en chair et en os ? Et qu'attendait-il d'eux ? Et surtout qu'entendait-il par « une vie difficile » ?
+En entendant le garçon parler, ses amis doutèrent, comment un Mage pouvait-il revenir dans le temps ? Pourquoi le ferait-il seulement ? Pourquoi se serait-il réincarner dans son corps jeune, plutôt que de revenir en chair et en os ? Et qu'attendait-il d'eux ? Et surtout qu'entendait-il par « une vie difficile » ?
 
 — J'ai déjà accepté l'idée d'avoir une vie difficile, il y a bien longtemps, dit Mao, et bien que je ne serais jamais Mage, recevoir l'aide d'un d'entre eux est un don du Ciel.
 
@@ -1233,7 +1233,7 @@ Les autres jeunes s'approchèrent et observèrent la pierre, ne savant pas exact
 
 — Je le vois.
 
-— Tu vois quoi ? demanda Pau.
+— Tu vois quoi ? demanda Pau.
 
 — Il y a un Mammouth, dans cette pierre.
 
@@ -1259,15 +1259,15 @@ Après qu'il fut visible de tous, Toa nomma la bête de Mao : l'Amarok. Tout le 
 
 L'adulte au sein de Toa comprenait vraiment mieux la relation qu'ils avaient eu durant leur précedente vie.
 
-— C'est bien nous savons maintenant quels sont nos Esprits animaux, mais à quoi cela peut-il nous servir ? demanda Fua. Dans le livre que j'ai lu sur le sujet, cela n'aide en rien à développer son Esprit. Cela donne juste des particularités à son Esprit.
+— C'est bien nous savons maintenant quels sont nos Esprits animaux, mais à quoi cela peut-il nous servir ? demanda Fua. Dans le livre que j'ai lu sur le sujet, cela n'aide en rien à développer son Esprit. Cela donne juste des particularités à son Esprit.
 
 — Oui, cela n'aide en rien à développer son Esprit plus vite, sauf si on a la méthode adapté à son animal.
 
-— Mais qui peut connaitre une technique d'entrainement pour chaque animal ?
+— Mais qui peut connaitre une technique d'entrainement pour chaque animal ?
 
 — Quelques rares personnes dans ce monde, mais ceux-là ne réside pas dans notre pays. Néanmoins, je, dit Toa en répétant les paroles du Mage, connait les entrainements basiques pour chaque les plus grandes familles d'animaux.
 
-— Vraiment ? dit Mao, même pour l'Amarok ?
+— Vraiment ? dit Mao, même pour l'Amarok ?
 
 — Non, pas pour une bête telle que l'Amarok, mais c'est un loup, appliquer l'entrainement du loup sera une première étape suffisante.
 

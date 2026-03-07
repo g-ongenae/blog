@@ -11,7 +11,7 @@ Je suis un voleur.
 
 Mais je ne me salis jamais les mains, je ne suis pas assez fou pour cela.
 
-Qu’est-ce que je vole ? Oh, pas grand-chose. Techniquement, je ne vole pas. Mais il n’y pas de grande différence avec, puisque de toutes manières j’accède au contenu dont je souhaite, pas tout à fait légalement.
+Qu’est-ce que je vole ? Oh, pas grand-chose. Techniquement, je ne vole pas. Mais il n’y pas de grande différence avec, puisque de toutes manières j’accède au contenu dont je souhaite, pas tout à fait légalement.
 
 Je suis un amateur de séries – américaines en générale – et les regardent en streaming sur internet, un sérivore comme on nous nomme. Je suis un fan de bande-dessinée, de manga et de comics, je lis les scans traduits par d’autres amateurs du genre.
 
@@ -21,7 +21,7 @@ Je n’ai plus aucune gêne à dévaloriser, incendier des heures, des journées
 
 Si ces grands artistes ne font pas bien leur boulot, ils ne méritent plus de vivre et je leur fait allègrement savoir. S’ils arrêtent un travail sur un bon chemin, je ne les supporte plus. Pire, s’ils continuent leurs travaux et le détruisent par des clichés, des idioties ou du déjà-vu, ils sont cuits. Mais tout cela, je le sais, je plaide coupable.
 
-Mais vous n’avez aucune preuve. Je suis inscrit sur un site pour gérer mes séries ? Cela ne signifie rien. Je suis toujours au courant des dernières avancées de mon héros de manga préférés ? Cela ne prouve rien. J’ai dans mon historique et dans mes favoris des sites de streaming, de scan et téléchargement ? Je les nettoie régulièrement et puis cela ne veut rien dire. Vous avez mes allez-venus sur tous les sites des trois derniers mois ? Je porte plainte, contre vous instance juridique, pour diffamation, attenta à ma liberté et à ma vie privée.
+Mais vous n’avez aucune preuve. Je suis inscrit sur un site pour gérer mes séries ? Cela ne signifie rien. Je suis toujours au courant des dernières avancées de mon héros de manga préférés ? Cela ne prouve rien. J’ai dans mon historique et dans mes favoris des sites de streaming, de scan et téléchargement ? Je les nettoie régulièrement et puis cela ne veut rien dire. Vous avez mes allez-venus sur tous les sites des trois derniers mois ? Je porte plainte, contre vous instance juridique, pour diffamation, attenta à ma liberté et à ma vie privée.
 
 Et vous savez quoi, je gagne car j’ai le peuple dans ma poche. Car ils sont comme moi.
 

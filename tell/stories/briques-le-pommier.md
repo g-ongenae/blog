@@ -30,7 +30,7 @@ Le vent se mit à souffler de plus en plus fort, les feuilles volaient dans tous
 
 Des arbres dans le verger hurlaient de douleur.
 
-La pomme tenait bon mais le vent la remuait de plus en plus, menaçant de la faire tomber. Le fruitier avait les nerfs tendus, allait-il voir sa dernière chance de gagner s'envoler ?
+La pomme tenait bon mais le vent la remuait de plus en plus, menaçant de la faire tomber. Le fruitier avait les nerfs tendus, allait-il voir sa dernière chance de gagner s'envoler ?
 
 Tout d'un coup, un flash fendit l'horizon.
 

@@ -2,10 +2,10 @@
 lang: fr
 date: 2016-10-12
 state: done
-title: Qui a éteint la lumière ?
+title: Qui a éteint la lumière ?
 type: short
 ---
-# Qui a éteint la lumière ?
+# Qui a éteint la lumière ?
 
 Mathias était dans son lit entrain de regarder le dernier podcast de son YouTubeur préféré. Le Soleil avait laissé place à la Lune depuis quelques heures et après avoir regardé quelques séries, lu un ou deux scans, sur son ordinateur, il avait décidé de se coucher.
 
@@ -77,7 +77,7 @@ Elle grinça. Fort.
 
 Saloperies, tu grinces jamais d'habitude.
 
-Bizarre, ils ont fermé les volets du couloir ou quoi ? Même la Lune n'émet pas de lumière.
+Bizarre, ils ont fermé les volets du couloir ou quoi ? Même la Lune n'émet pas de lumière.
 
 Le jeune homme fatigué atteignit enfin l'escalier et s'agrippa à la rambarde pour descendre.
 
@@ -95,7 +95,7 @@ Enfin, il trouva la porte d'entré, fit un pas de côté et se retrouva en face 
 
 Ils étaient tous en haut.
 
-— Rah, c'est lequel ? dit-il en passant nerveusement la main dans ses cheveux. Une lampe.
+— Rah, c'est lequel ? dit-il en passant nerveusement la main dans ses cheveux. Une lampe.
 
 J'ai besoin d'une lampe. Si seulement je pouvais voir les disjoncteurs.
 
@@ -103,7 +103,7 @@ Il repartit vers le meuble où était posé le téléphone. Il le rejoignit en q
 
 Il serra les dents qui grincèrent.
 
-Ou bien étais-ce autre chose ? pensa-t-il. Allez, une petite lumière, une allumette, je sais pas quelque chose ?
+Ou bien étais-ce autre chose ? pensa-t-il. Allez, une petite lumière, une allumette, je sais pas quelque chose ?
 
 Il essaya de forcer sur ses yeux pour apercevoir quelque chose, mais rien.
 
@@ -125,13 +125,13 @@ Il sentit un mouvement derrière lui.
 
 Mathias sursauta et frappa ce qui se trouvait derrière lui.
 
-— Mathias, tu fais quoi, là ?
+— Mathias, tu fais quoi, là ?
 
-Il était effrayé. Où était son interlocuteur ? Il tomba et recula jusqu'au mur.
+Il était effrayé. Où était son interlocuteur ? Il tomba et recula jusqu'au mur.
 
-Il bougeait la tête dans tous les sens. Où était-il ?
+Il bougeait la tête dans tous les sens. Où était-il ?
 
-— Bon, Mathias, tu m'expliques un peu ce que tu fais là ? Il est deux heures du matin. Tu devrais être au lit.
+— Bon, Mathias, tu m'expliques un peu ce que tu fais là ? Il est deux heures du matin. Tu devrais être au lit.
 
 Il reconnut la voix de sa mère.
 
@@ -145,9 +145,9 @@ Elle regarda la pièce :
 
 — Ouais, c'est ça... Regarde moi quand tu me parles, dit-elle agacé.
 
-— Comment veux tu ? On n'y voit rien.
+— Comment veux tu ? On n'y voit rien.
 
-— Je te vois très bien. D'ailleurs tu comptait sortir en pyjama ?
+— Je te vois très bien. D'ailleurs tu comptait sortir en pyjama ?
 
 — Mais non, je rebranchais l'électricité, je faisais pas le mur. D'ailleurs une lumière serait une précieuse aide.
 
@@ -157,21 +157,21 @@ Elle regarda la pièce :
 
 La mère regarda son fils incrédule. Elle prit la lampe-torche qui traînait parterre à côté du téléphone et l'alluma juste devant son fils.
 
-— Tu voies mieux là ?
+— Tu voies mieux là ?
 
-— Non, pourquoi ?
+— Non, pourquoi ?
 
 — Parce que le problème n'est pas la lumière mais tes yeux. Tu as les yeux rouges.
 
-— Quoi, je suis aveugle ? cria-t-il.
+— Quoi, je suis aveugle ? cria-t-il.
 
 Mathias était presque en crise d'angoisse.
 
 — Calme-toi. Inutile d'angoisser, on ira chez le médecin demain.
 
-— Comment ça, demain ? Mais c'est grave.
+— Comment ça, demain ? Mais c'est grave.
 
-— Tu veux être que ton cas soit traité entre ceux de deux ivrognes d'Halloween ?
+— Tu veux être que ton cas soit traité entre ceux de deux ivrognes d'Halloween ?
 
 Il détourna les yeux, du moins c'est l'impression qu'il eut.
 
@@ -179,7 +179,7 @@ Il détourna les yeux, du moins c'est l'impression qu'il eut.
 
 Il leva la tête vers où il pensait que sa mère se trouvait :
 
-— Euh, tu peux m'aider à me diriger, s'il-te-plaît ?
+— Euh, tu peux m'aider à me diriger, s'il-te-plaît ?
 
 Sa mère soupira et lui prit la main.
 
@@ -189,24 +189,24 @@ Le lendemain, ils allèrent chez le médecin.
 
 — Ah ah, mon garçon, ce n'est rien. Juste un peu de fatigue. Vous prendrez trois gouttes matin et soir pour hydrater vos yeux et pas de lumière. Le tout pendant un mois.
 
-— Un mois pour les gouttes ? demanda Mathias.
+— Un mois pour les gouttes ? demanda Mathias.
 
 — Les gouttes et la lumière !
 
-— Mais comment je fais ? J'ai les cours et tout.
+— Mais comment je fais ? J'ai les cours et tout.
 
-— Pour les cours tu demandes à un ami de copier ses notes et pour « tout », tu fais sans ou autrement. Comment crois-tu que font les aveugles ?
+— Pour les cours tu demandes à un ami de copier ses notes et pour « tout », tu fais sans ou autrement. Comment crois-tu que font les aveugles ?
 
 Le docteur eut un léger rire.
 
 — Ce n'est pas drôle, dit Mathias.
 
-— Tu trouves ? Moi si, ce n'est qu'un mois à vivre sans vision, donc sans écran.
+— Tu trouves ? Moi si, ce n'est qu'un mois à vivre sans vision, donc sans écran.
 
-— Mais qu'est-ce que je vais faire ? soupira l'adolescent.
+— Mais qu'est-ce que je vais faire ? soupira l'adolescent.
 
 — Tu as cinq sens, privé d'un, il t'en reste quatre.
 
 Il soupira.
 
-— Tu crois vraiment que les aveugles se demandent qui a éteint la lumière ?
+— Tu crois vraiment que les aveugles se demandent qui a éteint la lumière ?

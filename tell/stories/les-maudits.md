@@ -17,7 +17,7 @@ Une main forte se posa sur son épaule frêle.
 
 Le jeune homme se retourna et reconnu son interlocuteur.
 
-— Comment ? Tu ne peux pas être...
+— Comment ? Tu ne peux pas être...
 
 — Si, répondit simplement le grand homme, tu ne veux pas reculer un peu, c'est dangereux de rester aussi près du bord avec de telle bourrasque.
 
@@ -29,11 +29,11 @@ Le garçon ne bougea pas d'un cheveu.
 
 — Je t'écoute.
 
-— Non, c'est moi qui t'écoute, pourquoi veux-tu sauter ? Tu sais très bien que tu ne peux ni voler, ni résister à une telle chute.
+— Non, c'est moi qui t'écoute, pourquoi veux-tu sauter ? Tu sais très bien que tu ne peux ni voler, ni résister à une telle chute.
 
 — Je sais et je n'en avais pas l'envie : je veux en finir, dit fermement le garçon.
 
-— Pourquoi ? Qu'est-il arrivé de si horrible ? demanda simplement le héros.
+— Pourquoi ? Qu'est-il arrivé de si horrible ? demanda simplement le héros.
 
 Le jeune homme alla s'asseoir sur une bouche d'aération et commença à parler :
 
@@ -67,13 +67,13 @@ Le garçon se leva et avança d'un pas ferme vers le vide. L'homme fort l'arrêt
 
 Le titan soupira.
 
-— Je n'ai pas toujours été un homme courageux. Tu dis avoir lu mon histoire, n'as-tu pas fait attention au début ? Je suis parti de mon monde, car on avait besoin de moi, je n'ai pas eu le choix. On m'a propulsé et j'ai dû me débrouiller avec le peu d'aide que j'avais. Si tu ne te sens pas prêt à affronter la réalité du terrain, n'y va pas. Sauf si tu sens que l'on a besoin de toi.
+— Je n'ai pas toujours été un homme courageux. Tu dis avoir lu mon histoire, n'as-tu pas fait attention au début ? Je suis parti de mon monde, car on avait besoin de moi, je n'ai pas eu le choix. On m'a propulsé et j'ai dû me débrouiller avec le peu d'aide que j'avais. Si tu ne te sens pas prêt à affronter la réalité du terrain, n'y va pas. Sauf si tu sens que l'on a besoin de toi.
 
 — Ils ont besoin de moi, j'en suis sûr, chuchota à peine le jeune garçon.
 
 — Alors, tu dois te secouer et prendre ton destin en main. Personne ne le fera à ta place.
 
-— Mais comment fais-tu pour ne pas avoir peur ?
+— Mais comment fais-tu pour ne pas avoir peur ?
 
 — J'ai peur aussi, je suis un homme, pas un dieu, la mort me prendra aussi un jour... Être courageux ce n'est pas ne pas avoir peur, mais surmonter ses peurs.
 
@@ -89,7 +89,7 @@ Le héros lui lança un regard noir.
 
 — Ce n'était pas contre toi, mais j'en connais des centaines des maximes, mais aucun ne me donnera la solution.
 
-— Tu les connais, mais est-ce que tu les comprends seulement ?
+— Tu les connais, mais est-ce que tu les comprends seulement ?
 
 — La blague, tu crois vraiment que cela fera une grande différence si je comprends ou pas : « le silence est d'or et la parole est d'argent ».
 
@@ -105,7 +105,7 @@ Le héros lui lança un regard noir.
 
 — Oui et le reste est pire.
 
-— Non. Ne vois-tu pas les honnêtes gens qui ne veulent qu'être heureux ? C'est le but de tout être humain, mais ils se dupent, il croit que l'argent fait le bonheur.
+— Non. Ne vois-tu pas les honnêtes gens qui ne veulent qu'être heureux ? C'est le but de tout être humain, mais ils se dupent, il croit que l'argent fait le bonheur.
 
 — « Il n'y a rien de plus euphorisant qu'un travail à accomplir », dit le jeune en citant tristement son père.
 

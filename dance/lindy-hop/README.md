@@ -142,4 +142,4 @@ Local parties:
 [Lisa]: https://www.instagram.com/lisahann_/
 [Katya]: https://www.instagram.com/_katya.reshetnikova_/
 [Momboye]: https://www.centremomboye.com/
-[Stéphane]: ?
+[Stéphane]: ?

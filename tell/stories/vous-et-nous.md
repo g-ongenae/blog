@@ -20,7 +20,7 @@ Les adolescents n'abordaient que rarement la politique mais prenaient les deux a
 
 Un de ces groupes hétéroclites était assis dans l'herbe et rigolaient joyeusement d'une blague d'un de leurs camarades :
 
-— Et tu lui dis quoi après ? demanda Thomas, très intéressé par l'histoire.
+— Et tu lui dis quoi après ? demanda Thomas, très intéressé par l'histoire.
 
 Thomas était un de ces timides qui ne dévoilaient que rarement leurs sentiments, même s'il laissait en apparaitre une partie par ces vêtements, quelques peu différents. Il était assis à côté de Charles, le type le plus exubérant qu'il n'ait jamais vu.
 
@@ -40,7 +40,7 @@ Julie était une charmante jeune femme avec de longs cheveux bouclés et pour bi
 
 — En tout cas, je dois dire que tout le monde ici n'est pas sincère, affirma Guillaume qui était un jeune homme sympathique et sans passion pour la méchanceté.
 
-— Ah bon ! Qui ça ? demanda Julie.
+— Ah bon ! Qui ça ? demanda Julie.
 
 — Notre chers Thomas est un petit cachotier, commença Guillaume, il est sur un gros coup.
 
@@ -48,7 +48,7 @@ Ce dernier lui jeta un regard noir.
 
 — Je l'ai surpris ce matin, continua Guillaume ignorant le pauvre innocent, en train de reluquer une fille de la classe.
 
-— C'était qui ? demandèrent quasi-simultanément tout le monde, en se tournant vers le timide jeune homme.
+— C'était qui ? demandèrent quasi-simultanément tout le monde, en se tournant vers le timide jeune homme.
 
 — Ça veut rien dire, on n'a plus le droit de regarder une belle fille sans que forcément on soit intéressé pour elle, se défendit Thomas.
 
@@ -84,7 +84,7 @@ Il savait qu'en sa compagnie, ils s'amuseraient, ils rigoleraient, il évoluerai
 
 Puis ses yeux descendis plus bas, ses jambes étaient magnifiques, deux flèches prête à être envoyés en l'air. Leur teinte dorée par le soleil, lui donnait l'impression qu'il était dans un sonna. Il ne rêvait que de ça : elle et lui, seul dans un hammam, nue, la sueur chaude coulant sur leur dos. De l'eau brulante suintant entre les deux seins pointant de la jeune femme, excité par la vue de son corps rouge et dure comme de la braise. Elle posa ses mains sur ces épaules tendues et commençât à descendre doucement, lentement. La vapeur leur brouillait un peu la vue mais attisait leur désir. Ils se rapprochèrent, se collèrent et sentir leur cœur battre la chamade à l'unisson. Lui, les mains sur ses fesses tendres, et bien galbés. Elle, les mains sur ses hanches fortes et ancré en terre comme des piliers. Leurs yeux se dévisageaient et leur bouche souriait de satisfaction. Ils étaient tremblants de désir. Rien n'aurait être plus parfait... Il haleta « Julie,... »
 
-— Oui, qu'y a-t-il ?, demanda cette dernière.
+— Oui, qu'y a-t-il ?, demanda cette dernière.
 
 « Quel idiot, si je ne fais pas attention à ce que je dis, ce stratagème pour le faire disparaître n'aura servi à rien. » se réprimanda Guillaume.
 
@@ -92,7 +92,7 @@ Puis ses yeux descendis plus bas, ses jambes étaient magnifiques, deux flèches
 
 — Vraiment..., je m'en suis pas rendu compte. Au temps pour moi.
 
-— T'es étrange en ce moment, t'es sûre que ça va bien ?
+— T'es étrange en ce moment, t'es sûre que ça va bien ?
 
 — Ouais, je vais bien, je suis juste un peu fatigué avec les sessions qui approchent, tenta-t-il d'expliquer.
 
@@ -112,11 +112,11 @@ Il le sentait, cette journée allait être merveilleuse, le soleil était déjà
 
 Il trouvait les gens bien pressés et de mauvaises humeurs pour un si beau jour. Presque tous en costume qui, il en était sûre, leur coupait la respiration avec une cravate aussi serrée. Certains regardaient leur montre, puis le feu, puis leur montre avant de pousser un long soupir et de traverser après la dernière voiture passée. Thomas parcourait la scène avec humour, les mains dans les poches et son sac bien calé sur son épaule. Il passa tranquillement le passage clouté et salua un de ses amis qui venait vers lui.
 
-— Alors, quoi de neuf ? demanda Victor.
+— Alors, quoi de neuf ? demanda Victor.
 
 — Pas grand-chose depuis hier soir 20 heures quand je vous ai laissé, répondis Thomas quelque peu étonné de la question.
 
-— Ah, t'étais vraiment partis réviser pour l'exam ?
+— Ah, t'étais vraiment partis réviser pour l'exam ?
 
 — Ouais... dit-il fatigué par la question.
 
@@ -138,7 +138,7 @@ Là, Hugo raconta les derniers évènements avec sa copine. Thomas était toujou
 
 Il racontait si bien ses histoire qu'on s'y voyait :
 
-— Et tu lui dis quoi après ? demanda Thomas.
+— Et tu lui dis quoi après ? demanda Thomas.
 
 — À ton avis, il aurait pu répondre quoi, réfléchis, dis Charles.
 
@@ -166,7 +166,7 @@ Où trouva-t-il la force, de dire non à ses pulsions et fuir avant qu'un mal ar
 
 Une fois sa journée de cours terminé, il était fatigué, et ne désirait plus qu'une chose se mettre au lit et tourner la page.
 
-— Thomas, appela Julie derrière lui. Ça va ?
+— Thomas, appela Julie derrière lui. Ça va ?
 
 — Oui
 
@@ -174,4 +174,4 @@ Une fois sa journée de cours terminé, il était fatigué, et ne désirait plus
 
 — Je sais que c'était pour rire.
 
-— Tu es sûr que tu vas bien, t'as l'air bizarre en ce moment, dit-elle avant de demander avec un sourire en coin : tu veux aller boire un verre ?
+— Tu es sûr que tu vas bien, t'as l'air bizarre en ce moment, dit-elle avant de demander avec un sourire en coin : tu veux aller boire un verre ?

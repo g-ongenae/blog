@@ -9,7 +9,7 @@ suite: StoryTime
 
 Pff.
 
-Allo ?
+Allo ?
 Oui, j'ai du temps.
 ...
 Non, je suis fatigué.
@@ -27,13 +27,13 @@ Ils pensent qu'au nombre de ligne de code, ils nous vendent leur méthode agile,
 Ils me propose d'être micro-entrepreneur,
 Je leur dis « désolé, je suis pas preneur ».
 ...
-En startup, ce serait mieux ?
+En startup, ce serait mieux ?
 ...
 Je veux bien disrupter ce que tu veux mais d'abord on va discuter de ce que je veux. Il est cool ce poste de CTO mais j'ai des facture à payer, le CFO n'est pas seul à devoir gérer.
 Dans la team on est tous sur le MVP, c'est pas le CEO ou le CMO. C'est le teamwork qui importe plutôt que le frawework.
 ...
-En quoi t'es un hacker ?
-En quoi t'es un maker ?
+En quoi t'es un hacker ?
+En quoi t'es un maker ?
 Arrête de te voiler la face.
 Tu fais juste des interfaces...
 ...
@@ -44,7 +44,7 @@ Je voudrais simplement dev quelques bots, quelques robots, pouvoir m'amuser en p
 Ou à faire du front, HTML, CSS, Bootstrap et du JS, c'est pas mon truc.
 Il faut que ça cesse.
 ...
-Tu penses ?
+Tu penses ?
 Je connais pas ce monde.
-Peut-être devrais essayer ?
+Peut-être devrais essayer ?
 ...

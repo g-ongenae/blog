@@ -25,7 +25,7 @@ J'ai refusé.
 
 Il a tout de suite voulu savoir pourquoi.
 
-— Quelle bonne raison as-tu pour ne pas commencer maintenant ?, m'a-t-il dit. L'argent, tu la trouveras sur le chemin et pas en attendant qu'elle tombe du ciel. Tu perds ton temps. Et même si tu penses qu'il n'est pas ton ennemi, tu te trompes. Il n'y aucune loi, aucune personne qui pourra t'empêcher d'atteindre ton but. Rien, tu m'entends rien. Rien, sauf toi-même. Alors quelle est la vraie raison ?
+— Quelle bonne raison as-tu pour ne pas commencer maintenant ?, m'a-t-il dit. L'argent, tu la trouveras sur le chemin et pas en attendant qu'elle tombe du ciel. Tu perds ton temps. Et même si tu penses qu'il n'est pas ton ennemi, tu te trompes. Il n'y aucune loi, aucune personne qui pourra t'empêcher d'atteindre ton but. Rien, tu m'entends rien. Rien, sauf toi-même. Alors quelle est la vraie raison ?
 
 — Tu es bien placé pour me dire cela, toi, qui n'es même pas capable de réaliser ton propre rêve, bloqué par la volonté de tes parents.
 
@@ -45,7 +45,7 @@ Il a tout de suite voulu savoir pourquoi.
 
 — Prouve-le, prouve que tu me racontes pas des chimères. Je te connais et tu ne ferais jamais un coup comme celui-ci, surtout à tes parents.
 
-— Arrêtes tes conneries tu veux, oui ? Je ne trompe personne. Je fais ma vie. Et tu devrais en faire autant.
+— Arrêtes tes conneries tu veux, oui ? Je ne trompe personne. Je fais ma vie. Et tu devrais en faire autant.
 
 — Facile à dire.
 
@@ -53,9 +53,9 @@ Il a tout de suite voulu savoir pourquoi.
 
 — Pas de preuve... pas de preuve.
 
-— Tu sais pourquoi tu veux des preuves, non ? Moi, je le sais. Jusqu'il y a deux mois et maintenant encore, j'ai peur. J'ai peur de la réaction de mes parents. Tu imagines la honte, quoi ? Et tu es pareil que moi, tu as peur. Pas de tes parents, mais de l'échec ou bien même de la réussite, de l'inconnu. Je ne sais pas de quoi, mais je peux t'assurer que tu as peur et c'est pour cela que tu ne te lanceras pas, jamais.
+— Tu sais pourquoi tu veux des preuves, non ? Moi, je le sais. Jusqu'il y a deux mois et maintenant encore, j'ai peur. J'ai peur de la réaction de mes parents. Tu imagines la honte, quoi ? Et tu es pareil que moi, tu as peur. Pas de tes parents, mais de l'échec ou bien même de la réussite, de l'inconnu. Je ne sais pas de quoi, mais je peux t'assurer que tu as peur et c'est pour cela que tu ne te lanceras pas, jamais.
 
-— Tu penses que j'ai peur. La blague. Peur de quoi ? De la réussite ? Te moques pas de moi, tu veux.
+— Tu penses que j'ai peur. La blague. Peur de quoi ? De la réussite ? Te moques pas de moi, tu veux.
 
 — Tu nies parce que tu n'en as même pas conscience.
 

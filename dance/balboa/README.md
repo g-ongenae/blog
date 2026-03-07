@@ -62,8 +62,8 @@
 
 <!-- Links -->
 
-[Aude]: ?
-[Aubry]: ?
+[Aude]: ?
+[Aubry]: ?
 [Couleurs Swing]: https://www.helloasso.com/associations/couleurs-swing
 [Temple du Swing]: https://templeduswing.com/
-[Stéphane]: ?
+[Stéphane]: ?

@@ -13,7 +13,7 @@ Comme d'habitude.
 
 L'homme posa sa mallette et accrocha son caban noir avant de s'allonger.
 
-— Alors dites-moi un peu : pourquoi êtes-vous là ?
+— Alors dites-moi un peu : pourquoi êtes-vous là ?
 
 Comme d'habitude, il va me débiter un tas d'âneries.
 
@@ -47,13 +47,13 @@ Vraiment inhabituel, celui-là.
 
 — Donc... Euh, je me suis levée à 6h45, trente minutes après ma femme. J'ai été prendre une douche.
 
-— Quelle température la douche ?
+— Quelle température la douche ?
 
 — Euh, chaude, presque brulante, cela me réveille le matin.
 
 Et comme d'habitude, il prend note. Ils prennent toujours note. Ce sont des spéciales en note, des copistes.
 
-— Donc, où en étais-je ? reprit-il.
+— Donc, où en étais-je ? reprit-il.
 
 — Vous en étiez à la douche.
 
@@ -61,23 +61,23 @@ Com d'hab., toujours à l'affût.
 
 — Oui, j'ai pris une douche bien chaude, puis j'ai été prendre mon déjeuner. Après cela, j'ai pris ma serviette et je pars au boulot.
 
-— Pouvez-vous détailler votre déjeuner de hier matin ? L'avez-vous pris seul ?
+— Pouvez-vous détailler votre déjeuner de hier matin ? L'avez-vous pris seul ?
 
 — Oui, je l'ai pris seul... comme d'habitude...en lisant le journal du weekend dernier.
 
-— Quel était le sujet de l'article que vous avez lu ? demanda le psychologue.
+— Quel était le sujet de l'article que vous avez lu ? demanda le psychologue.
 
 Le patient réfléchi un instant...
 
 — Alors là, vous me posez une colle. Je n'en ai absolument aucune idée.
 
-— Même pas une idée du domaine en rapport ?
+— Même pas une idée du domaine en rapport ?
 
 — Ce devait un article en rapport avec le CAC40, je le lis d'habitude pour le travail. C'est important de se tenir au courant, vous savez.
 
 Il se moque encore de moi, les psychologues sont tous des charlatans de toute manière. Une fois cette séance terminée, je ne le revoie plus jamais.
 
-— Et qu'avez-vous mangé à ce petit déjeuner ? continua-t-il.
+— Et qu'avez-vous mangé à ce petit déjeuner ? continua-t-il.
 
 — Tartines à la confiture de pêche, de fraise et de framboise, trempée dans un café noir, bien entendu, répondit l'homme du tac au tac.
 
@@ -89,31 +89,31 @@ Il n'est pas gêné de dire cela à un de ses clients.
 
 — Après cela, je vous l'ai dit je prends ma sacoche et je pars au travail.
 
-— C'est ce que vous avez fait hier ?
+— C'est ce que vous avez fait hier ?
 
 — Oui.
 
-— Comment êtes allé sur votre lieu travail ?
+— Comment êtes allé sur votre lieu travail ?
 
 — J'ai pris le métro.
 
-— Aucun désagrément sur le chemin ? Aucun fait particulier ?
+— Aucun désagrément sur le chemin ? Aucun fait particulier ?
 
 L'homme essaya de se souvenir mais rien ne lui venait.
 
 — Non.
 
-Elles sont vraiment étranges ses questions. Qui s'intéressent à cela ?
+Elles sont vraiment étranges ses questions. Qui s'intéressent à cela ?
 
 Le psychologue regarda sa montre.
 
-— Bon, je pense que cela suffira pour aujourd'hui. Je n'ai qu'une dernière question. (Il marqua une pause.) En quoi votre journée d'hier était différente des autres 29 autres du mois précédents ?
+— Bon, je pense que cela suffira pour aujourd'hui. Je n'ai qu'une dernière question. (Il marqua une pause.) En quoi votre journée d'hier était différente des autres 29 autres du mois précédents ?
 
 L'homme le regarda choqué par sa question.
 
 — Donc pour parler simplement, vous êtes coincé dans votre quotidien et cela vous exaspère.
 
-— Comment cela ? Je suis coincé dans mon quotidien, répondit violement le patient.
+— Comment cela ? Je suis coincé dans mon quotidien, répondit violement le patient.
 
 — Vous avez plusieurs fois parlé d'habitude. Quand je vous ai demandé de me parler de votre journée d'hier, vous avez parlé de toute. Et quand je vous ai corrigé, vous avez inconsciemment parlé au présent et non au passé.
 
@@ -125,11 +125,11 @@ L'homme le regarda choqué par sa question.
 
 — Voyez. Vous recommencez à parler d'habitude. Mais ne vous inquiétez pas cela n'est pas grave. C'est juste que cette monotonie de votre vie vous ennui.
 
-Peut-être a-t-il raison ?
+Peut-être a-t-il raison ?
 
 — Maintenant, veuillez m'excuser mais j'ai un autre rendez-vous.
 
-— Bien, merci. Quand nous reverrons nous ?
+— Bien, merci. Quand nous reverrons nous ?
 
 — Voyez cela avec ma secrétaire.
 

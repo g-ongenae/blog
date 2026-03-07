@@ -11,19 +11,19 @@ suite: Rien à déclarer
 
 Elle descendit les marches quatre à quatre, sauta pour attraper la porte et l'ouvrir à toute volée.
 
-— Oui ? C'est pour quoi ?
+— Oui ? C'est pour quoi ?
 
 Un petit garçon, pas plus haut que trois pommes, était planté là, sur le palier. À ses pieds une valise, à peine assez grande pour ranger 3 ti-chirtes.
 
-La jeune femme le toisa. Que voulait-il ? Squatter chez elle ? Il en était hors de question. « Je ne fais pas la charité » pensa-t-elle. Il peut bien aller toquer chez le voisin.
+La jeune femme le toisa. Que voulait-il ? Squatter chez elle ? Il en était hors de question. « Je ne fais pas la charité » pensa-t-elle. Il peut bien aller toquer chez le voisin.
 
-— Alors, c'est pour quoi ?
+— Alors, c'est pour quoi ?
 
 Le garçon plongea ses yeux bleus ceux de la jeune femme.
 
-— J'ai besoin de faire pipi, vous avez des toilettes, madame ?
+— J'ai besoin de faire pipi, vous avez des toilettes, madame ?
 
-La madame fût complètement interloqué, un garçon sur le point de se faire dessus n'était pas une situation étrange, mais pourquoi donc avait-il une valise ?
+La madame fût complètement interloqué, un garçon sur le point de se faire dessus n'était pas une situation étrange, mais pourquoi donc avait-il une valise ?
 
 — S'il-vous-plaît, implora le garçon, je vais me faire pipi dessus.
 
