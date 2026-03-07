@@ -63,7 +63,7 @@ declare -A LANG_MAP=(
 
 # Add the list of poems with statistics to the README file
 function add_poem_list() {
-  local POEM TITLE STATE DATE LOCATION LANG;
+  local POEM TITLE STATE DATE LOCATION LANG LABELS;
 
   echo "## 💌 Poems" >> README.md
   echo "" >> README.md
@@ -97,8 +97,13 @@ function add_poem_list() {
     # Extract metadata from the poem file
     TITLE=$(grep -m 1 '^title:' "${POEM}" | sed 's/^title: //')
 
+    LABELS=(
+      "$(add_draft_label "${POEM}")"
+      "$(add_favorite_label "${POEM}")"
+    );
+
     # Append the poem information to the README file
-    echo "- ${TITLE}, [↗️](./poems/$(basename "${POEM}"))$(add_draft_label "${POEM}")$(add_favorite_label "${POEM}")" >> README.md
+    echo "- ${TITLE}, [↗️](./poems/$(basename "${POEM}"))${LABELS[*]}" >> README.md
   done
 }
 
@@ -128,7 +133,7 @@ function generate_story_length_chart() {
 
 # Add the list of stories with statistics to the README file
 function add_story_list() {
-  local STORY SUITE TITLE STATE DATE LOCATION LANG;
+  local STORY SUITE TITLE STATE DATE LOCATION LANG LABELS;
 
   echo "## 📖 Stories" >> README.md
   echo "" >> README.md
@@ -167,8 +172,14 @@ function add_story_list() {
       TITLE="${SUITE}: ${TITLE}"
     fi
 
+    LABELS=(
+      "$(add_draft_label "${STORY}")"
+      "$(add_favorite_label "${STORY}")"
+      " ($(wc -w < "${STORY}" | tr -d ' ') words)" # Story length
+    );
+
     # Append the story information to the README file
-    echo "- ${TITLE}, [↗️](./stories/$(basename "${STORY}"))$(add_draft_label "${STORY}")$(add_favorite_label "${STORY}")" >> README.md
+    echo "- ${TITLE}, [↗️](./stories/$(basename "${STORY}"))${LABELS[*]}" >> README.md
   done
 }
 
