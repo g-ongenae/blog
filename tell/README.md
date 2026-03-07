@@ -4,21 +4,21 @@
 
 ### Summary
 
-**Total:** 163 <br>
+**Total:** 196 <br>
 **Drafts:** 18 <br>
-**Favorites:** 19 <br>
+**Favorites:** 21 <br>
 **Languages:**
 
 - English 🇬🇧: 8
-- French 🇫🇷: 154
+- French 🇫🇷: 187
 
 ```mermaid
 xychart-beta
   title "Poems per year"
   x-axis "Year" 2007 --> 2026
   y-axis "Poems" 1 --> 47
-  bar [1, 0, 1, 21, 47, 21, 23, 0, 0, 0, 4, 34, 0, 0, 0, 0, 0, 0, 8, 3]
-  line [0, 0, 0, 0, 8, 0, 1, 0, 0, 0, 0, 6, 0, 0, 0, 0, 0, 0, 4, 0]
+  bar [1, 0, 1, 21, 47, 21, 23, 0, 0, 2, 22, 47, 0, 0, 0, 0, 0, 0, 8, 3]
+  line [0, 0, 0, 0, 8, 0, 1, 0, 0, 0, 2, 6, 0, 0, 0, 0, 0, 0, 4, 0]
 ```
 
 ### Poem list
@@ -36,7 +36,7 @@ xychart-beta
 - The wind is all I need, [↗️](./poems/2025-07-the-wind-is-all-i-need.md)  ⭐
 - Soyons ivre toujours, [↗️](./poems/2018-soyons-ivre-toujours.md) ✂︎
 - Silence, [↗️](./poems/2018-silence.md)  ⭐
-- Si je devais être pris de court, [↗️](./poems/2018-si-je-devais-etre-pris-de-court.md)  ⭐
+- Si je devais être pris de court, [↗️](./poems/2018-si-je-devais-etre-pris-de-court.md)
 - Seul comme dans un terminus, [↗️](./poems/2018-seul-comme-dans-un-terminus.md) ✂︎
 - Santé !, [↗️](./poems/2018-sante.md)
 - Saint Jean, [↗️](./poems/2018-saint-jean.md)  ⭐
@@ -67,11 +67,44 @@ xychart-beta
 - Appelle-moi, dis-moi n'importe quoi, [↗️](./poems/2018-appelle-moi.md)
 - Ah ! Voilà qui est dur, [↗️](./poems/2018-ah-voila-qui-est-dur.md) ✂︎
 - Description Tinder, [↗️](./poems/2018-08-14-description-tinder.md)
+- Délicatesse masculine, [↗️](./poems/2018-07-19-delicatesse-masculine.md)
+- Invalides, [↗️](./poems/2018-07-18-invalides.md)
+- Train, [↗️](./poems/2018-07-17-train.md)  ⭐
+- Affirmation, [↗️](./poems/2018-07-16-affirmation.md)
+- Attention, [↗️](./poems/2018-07-15-attention.md)
+- Hantise, [↗️](./poems/2018-07-14-hantise.md)
+- Nocent, [↗️](./poems/2018-07-13-nocent.md)
+- Joséphine, [↗️](./poems/2018-07-12-josephine.md)
+- Chauve-Souris, [↗️](./poems/2018-07-11-chauve-souris.md)
+- Peux-tu ?, [↗️](./poems/2018-07-10-peux-tu.md)
+- Je voulais seulement, [↗️](./poems/2018-07-08-je-voulais-seulement.md)
 - Carnet n°2, [↗️](./poems/2018-05-13-carnet-n-2.md)
-- Challengez-moi, [↗️](./poems/2017-06-11-challengez-moi.md)
+- Motivation, [↗️](./poems/2018-04-13-motivation.md)
+- Chemin, [↗️](./poems/2018-01-17-chemin.md)
+- Regret, [↗️](./poems/2017-11-27-regret.md)
+- Remord, [↗️](./poems/2017-11-26-remord.md)
+- Le regret et le remord, [↗️](./poems/2017-11-25-le-regret-et-le-remord.md)
+- Follow, [↗️](./poems/2017-11-18-follow.md)
+- Silence, [↗️](./poems/2017-11-17-silence.md)
+- Rempart, [↗️](./poems/2017-11-13-rempart.md)
+- Discipline, [↗️](./poems/2017-11-11-discipline.md)
+- Touché, [↗️](./poems/2017-11-10-touche.md)
+- Inavoué, [↗️](./poems/2017-11-09-inavoue.md)
+- Réponse, [↗️](./poems/2017-11-07-reponse.md)
+- Auber, [↗️](./poems/2017-11-06-auber.md)  ⭐
+- Incarnat, [↗️](./poems/2017-11-04-incarnat.md)
+- Visages, [↗️](./poems/2017-11-01-visages.md)
+- Amitié, [↗️](./poems/2017-10-30-amitie.md)
+- Monstres, [↗️](./poems/2017-10-28-monstres.md)
+- Mon Horlogère, [↗️](./poems/2017-10-23-mon-horlogere.md)
+- Seul, [↗️](./poems/2017-10-18-seul.md)
+- Challengez-moi, [↗️](./poems/2017-06-11-challengez-moi.md)  ⭐
 - J'essaye de ne pas y penser, [↗️](./poems/2017-05-09-j-essaye-de-ne-pas-y-penser.md)
+- Campagne, [↗️](./poems/2017-04-29-campagne.md)
 - Mentir, se mentir, [↗️](./poems/2017-04-22-mentir-se-mentir.md)
 - J'ai envie de fuir, [↗️](./poems/2017-03-17-j-ai-envie-de-fuir.md)
+- Sur Tinder, [↗️](./poems/2016-11-25-sur-tinder.md)
+- Blanc, [↗️](./poems/2016-11-22-blanc.md)
 - Vue et Entendue, [↗️](./poems/2013-vue-et-entendue.md)
 - Volonté ?, [↗️](./poems/2013-volonte.md)
 - Vagabondant, [↗️](./poems/2013-vagabondant.md)
