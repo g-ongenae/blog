@@ -191,20 +191,20 @@ xychart-beta
 
 ### Summary
 
-**Total:** 36 <br>
+**Total:** 58 <br>
 **Drafts:** 9 <br>
 **Favorites:** 0 <br>
 **Languages:**
 
 - English 🇬🇧: 1
-- French 🇫🇷: 35
+- French 🇫🇷: 57
 
 ```mermaid
 xychart-beta
   title "Story lengths (in words)"
-  x-axis "Story" 1 --> 36
+  x-axis "Story" 1 --> 58
   y-axis "Length (words)" 1 --> 17390
-  line [243, 281, 304, 270, 348, 246, 633, 298, 306, 80, 267, 964, 195, 450, 268, 845, 339, 81, 100, 767, 853, 17390, 856, 942, 432, 1142, 1743, 266, 1023, 1359, 266, 269, 180, 473, 83, 2156]
+  line [243, 281, 304, 270, 348, 246, 633, 298, 306, 80, 267, 964, 195, 450, 268, 845, 339, 81, 100, 116, 107, 57, 101, 115, 231, 134, 118, 170, 286, 73, 99, 121, 163, 100, 119, 103, 92, 132, 89, 138, 155, 767, 853, 17390, 856, 942, 432, 1142, 1743, 266, 1023, 1359, 266, 269, 180, 473, 83, 2156]
 ```
 
 ### Story list
@@ -228,6 +228,28 @@ xychart-beta
 - Et is s'en furent allés, [↗️](./stories/et-ils-s-en-furent-alles.md) ✂︎   (339 words)
 - Gnome, [↗️](./stories/gnome.md) ✂︎   (81 words)
 - Hard Memory, [↗️](./stories/hard-memory.md) ✂︎   (100 words)
+- IG Inspired: Cache-Cache - _inspired by [@roger_by](https://www.instagram.com/roger_by/)_, [↗️](./stories/ig-cache-cache.md)   (116 words)
+- IG Inspired: Dans une grotte - _inspired by [@erubes1](https://www.instagram.com/erubes1/)_, [↗️](./stories/ig-dans-une-grotte.md)   (107 words)
+- IG Inspired: Étoile filante - _inspired by [@ecoxgear](https://www.instagram.com/ecoxgear/)_, [↗️](./stories/ig-etoile-filante.md)   (57 words)
+- IG Inspired: L'Apprenti - _inspired by Marsel van Oosten_, [↗️](./stories/ig-l-apprenti.md)   (101 words)
+- IG Inspired: L'Entrée - _inspired by [@tharinrosa](https://www.instagram.com/tharinrosa/)_, [↗️](./stories/ig-l-entree.md)   (115 words)
+- IG Inspired: L'homme dans le champ - _inspired by [@mikkolagerstedt](https://www.instagram.com/mikkolagerstedt/)_, [↗️](./stories/ig-l-homme-dans-un-champs.md)   (231 words)
+- IG Inspired: L'Inondation - _inspired by Phoebe Rudomino_, [↗️](./stories/ig-l-inondation.md)   (134 words)
+- IG Inspired: La Bonne Patte - _inspired by [@lexiesheartbeat](https://www.instagram.com/lexiesheartbeat/)_, [↗️](./stories/ig-la-bonne-patte.md)   (118 words)
+- IG Inspired: La porte de la maison - _inspired by [@gettyphotography](https://www.instagram.com/gettyphotography)_, [↗️](./stories/ig-la-porte-de-la-maison.md)   (170 words)
+- IG Inspired: La sirène - _inspired by [@driftingpixels](https://www.instagram.com/driftingpixels/)_, [↗️](./stories/ig-la-sirene.md)   (286 words)
+- IG Inspired: La Sortie - _inspired by [@makenaboy_maui_](https://www.instagram.com/makenaboy_maui_/)_, [↗️](./stories/ig-la-sortie.md)   (73 words)
+- IG Inspired: La Vague - _inspired by [@sam.vox](https://www.instagram.com/sam.vox/)_, [↗️](./stories/ig-la-vague.md)   (99 words)
+- IG Inspired: Le Départ - _inspired by [@Vdpfreelancer](https://www.instagram.com/Vdpfreelancer/)_, [↗️](./stories/ig-le-depart.md)   (121 words)
+- IG Inspired: Le Destrier - _inspired by [@Elena_Shumilova](https://www.instagram.com/Elena_Shumilova/)_, [↗️](./stories/ig-le-destrier.md)   (163 words)
+- IG Inspired: Le Naufrage - _inspired by [@trevblvke](https://www.instagram.com/trevblvke/)_, [↗️](./stories/ig-le-naufrage.md)   (100 words)
+- IG Inspired: Le Soupir - _inspired by [@pumpkintheraccoon](https://www.instagram.com/pumpkintheraccoon/)_, [↗️](./stories/ig-le-soupir.md)   (119 words)
+- IG Inspired: Le Temple de Glace - _inspired by [@DanielKordan](https://www.instagram.com/danielkordan/)_, [↗️](./stories/ig-le-temple-de-glace.md)   (103 words)
+- IG Inspired: Le Train - _inspired by [@DanielKordan](https://www.instagram.com/danielkordan/)_, [↗️](./stories/ig-le-train.md)   (92 words)
+- IG Inspired: Mal de dos - _inspired by [@planet.eart](https://www.instagram.com/planet.eart/)_, [↗️](./stories/ig-mal-de-dos.md)   (132 words)
+- IG Inspired: Plop! - _inspired by [@andrewtkearns](https://www.instagram.com/andrewtkearns/)_, [↗️](./stories/ig-plop.md)   (89 words)
+- IG Inspired: Sur la route - _inspired by [@cully_kamisugi](https://www.instagram.com/cully_kamisugi/)_, [↗️](./stories/ig-sur-la-route.md)   (138 words)
+- IG Inspired: Viser la Lune - _inspired by [@eye.c](https://www.instagram.com/eye.c/)_, [↗️](./stories/ig-viser-la-lune.md)   (155 words)
 - J'ai peur, [↗️](./stories/j-ai-peur.md)   (767 words)
 - Juste une envie d'être ailleurs, [↗️](./stories/juste-une-envie-d-etre-ailleurs.md)   (853 words)
 - L'Ascension du Ciel, [↗️](./stories/l-ascension-du-ciel.md) ✂︎   (17390 words)
