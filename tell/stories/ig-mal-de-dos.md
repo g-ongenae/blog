@@ -7,16 +7,16 @@ location: Lille
 suite: IG Inspired
 type: short
 ---
-“Mais c'est qui est lourd ce con !” pensait le cheval qui usait de toutes ses forces pour traverser ce fleuve. Le flot, malgré les apparences, allait à grande vitesse et l'entrainait loin de son objectif.
+“Mais c'est qui est lourd ce con !” pensait le cheval qui usait de toutes ses forces pour traverser ce fleuve. Le flot, malgré les apparences, allait à grande vitesse et l'entrainait loin de son objectif.
 
 — Eh, tu pourrais pas traverser par tes propres moyens, dit-il.
 
-— Et comment au juste ? lui aboya en retour le pauvre yorkshire terrier.
+— Et comment au juste ? lui aboya en retour le pauvre yorkshire terrier.
 
 — Je sais pas en nageant par exemple…
 
-— Tu crois pas que je vais me faire emporter ? Déjà que t'as du mal à suivre une ligne alors moi avec mon petit corps…
+— Tu crois pas que je vais me faire emporter ? Déjà que t'as du mal à suivre une ligne alors moi avec mon petit corps…
 
-Il héni de mécontentement :
+Il héni de mécontentement :
 
 — Rends-toi utile alors et masse moi le dos.

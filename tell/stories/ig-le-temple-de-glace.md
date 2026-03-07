@@ -11,4 +11,4 @@ Nous avions voyagé durant des lunes pour atteindre le Temple de Glace. Le règn
 
 Nous y étions, la fin de notre voyage et la survie de notre espèce étaient à notre portée.
 
-Rien n'aurait pu présager que notre petit brise-vent soit pris de vitesses par le tristemment célèbre brise-glace des démons rouges : _Le Flambeur_.
+Rien n'aurait pu présager que notre petit brise-vent soit pris de vitesses par le tristemment célèbre brise-glace des démons rouges : _Le Flambeur_.

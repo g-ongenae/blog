@@ -2,10 +2,10 @@
 lang: fr
 date: 2013
 state: done
-title: Volonté ?
+title: Volonté ?
 location: Lille
 ---
-# Volonté ?
+# Volonté ?
 
 Je suis un ambitieux, j’ai mil buts
 

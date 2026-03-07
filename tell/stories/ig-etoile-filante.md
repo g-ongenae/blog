@@ -9,4 +9,4 @@ type: short
 ---
 — Fais un voeux, lui dit-il en pointant l'étoile de la main.
 
-— Pourquoi ? lui répondit-elle. J'ai déjà tout ce que je souhaite, ajouta-t-elle en posant la main de son compagnon sur son ventre.
+— Pourquoi ? lui répondit-elle. J'ai déjà tout ce que je souhaite, ajouta-t-elle en posant la main de son compagnon sur son ventre.

@@ -2,7 +2,7 @@
 lang: fr
 date: 2018-07-22
 state: done
-title: Princes & Princesses
+title: Princes & Princesses
 location: Cergy
 ---
 Ah ces jolies enfants <br>

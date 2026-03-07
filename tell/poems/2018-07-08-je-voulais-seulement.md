@@ -11,7 +11,7 @@ Je voulais seulement
 
 Être calme, posé <br>
 J'aime pas m'imposer <br>
-Oh non ! Ni même oser <br>
+Oh non ! Ni même oser <br>
 Mais ils ont tout faussé
 
 Je voulais seulement

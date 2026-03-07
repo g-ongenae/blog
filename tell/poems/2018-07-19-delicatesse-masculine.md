@@ -15,7 +15,7 @@ En étant amalgamé <br>
 Leurs actes sont inhumains <br>
 Nous souffrons en vain <br>
 De vous les voir subir <br>
-Pourquoi ainsi nous punir ?
+Pourquoi ainsi nous punir ?
 
 Nous sommes, nous aussi <br>
 Des êtres fragiles, sensibles <br>

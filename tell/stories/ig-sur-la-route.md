@@ -17,6 +17,6 @@ Je ne sais pas comment j'ai fait pour résister aussi longtemps. Je ne sais pas 
 
 Ou plutôt si… Je le sais trop bien, et cela aussi hante mes nuits. Tous ces cris, tous ces pleurs, tous ces…
 
-Aujourd'hui, me revoilà sur cette route et voici qu'un daim passe devant moi, ou bien peut-être est-ce un cerf ? Je ne sais pas, il est trop loin.
+Aujourd'hui, me revoilà sur cette route et voici qu'un daim passe devant moi, ou bien peut-être est-ce un cerf ? Je ne sais pas, il est trop loin.
 
-Est-ce un signe ? Est-ce un signe de paix ?
+Est-ce un signe ? Est-ce un signe de paix ?

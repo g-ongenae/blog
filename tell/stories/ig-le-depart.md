@@ -11,7 +11,7 @@ Elle jeta un regard en arrière une dernière fois. Ce serait la dernière fois 
 
 Elle s'en réjouissait.
 
-La vie ici avait été paisible mais quelques peu ennuyeuse. Tous les jours se ressemblait, aucun effort ne lui avait jamais été demandé. Ses journées se résumaient en quelques actions : brouter les bonnes herbes fraiches, boire l'eau de la rivière et dormir parmi ses congénères.
+La vie ici avait été paisible mais quelques peu ennuyeuse. Tous les jours se ressemblait, aucun effort ne lui avait jamais été demandé. Ses journées se résumaient en quelques actions : brouter les bonnes herbes fraiches, boire l'eau de la rivière et dormir parmi ses congénères.
 
 Mais enfin, elle allait être mis à l'épreuve.
 

@@ -7,5 +7,5 @@ location: Lille
 ---
 Chaque jour, je la rencontre <br>
 Et vais à son encontre <br>
-Alors que mon cœur dit : <br>
-« Fais d’elle ta Lady »
+Alors que mon cœur dit : <br>
+« Fais d’elle ta Lady »

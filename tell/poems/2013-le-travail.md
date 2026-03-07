@@ -10,7 +10,7 @@ location: Lille
 Le matin, je me lève <br>
 Et puis vais sur ma chaise <br>
 Je prends quelques minutes <br>
-Pour travailler, ô flûte !
+Pour travailler, ô flûte !
 
 C’est ainsi que commence <br>
 Ma journée, pas de chance

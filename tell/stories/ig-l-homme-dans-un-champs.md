@@ -7,7 +7,7 @@ location: Lille
 suite: IG Inspired
 type: short
 ---
-“Quel est cet homme ? Pourquoi est-il au milieu de mon champs ?” m'étais-je dis.
+“Quel est cet homme ? Pourquoi est-il au milieu de mon champs ?” m'étais-je dis.
 
 J'étais en train de m'occuper de mon champs, d'éxaminer l'état des sols et de la récolte quand il est apparu.
 
@@ -15,7 +15,7 @@ Au début, j'ai cru que c'était un voisin, qui passait par là et voulais me so
 
 Mais, quelque chose clochait, je ne reconnaisais pas sa démarche. Par ici, nous avons tout cette démarche un peu maladroite quand nous marchons, sans doute dû à la difficulté de notre travail.
 
-“Peut-être est-ce un promotteur immobilier qui veut m'acheter mon champs ?” spéculai-je.
+“Peut-être est-ce un promotteur immobilier qui veut m'acheter mon champs ?” spéculai-je.
 
 Mais le plus étrange est qu'il n'avançait pas. Il restait immobile au milieu de mon champs. Plus que sa démarche, c'était sa posture, droite raide, rigide.
 

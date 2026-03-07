@@ -13,9 +13,9 @@ Je le conçois, cela se défends <br>
 Pourtant, je n’y suis pas encore
 
 Qui ou quoi fait l’époque <br>
-Est-ce la foule, les parents, vous ? <br>
+Est-ce la foule, les parents, vous ? <br>
 Portant ces idées que je moque <br>
-Ou bien est-ce ensemble, Nous ?
+Ou bien est-ce ensemble, Nous ?
 
 Je vis avec mon temps <br>
 C’est ainsi, j’en décide autant <br>

@@ -11,4 +11,4 @@ Faire naufrage et abandonner tout espoir de revoir un jour la terre ferme, sa fa
 
 C'est ce qu'ils ont enduré mais cela est sur le point de se terminer, ils n'en peuvent plus et plongent gagner la berge avec leur dernière force.
 
-Mais ces terres seront-ils un petit paradis après l'enfer ? Ou la fin du Styx, l'entrée du Tartare ?
+Mais ces terres seront-ils un petit paradis après l'enfer ? Ou la fin du Styx, l'entrée du Tartare ?
