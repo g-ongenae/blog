@@ -1,6 +1,6 @@
 ---
 lang: en
-date: 2025-07
+date: 2025-07-29
 state: done
 title: The wind is all I need
 location: Super-besse

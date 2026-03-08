@@ -4,20 +4,20 @@
 
 ### Summary
 
-**Total:** 223 <br>
+**Total:** 225 <br>
 **Drafts:** 18 <br>
 **Favorites:** 22 <br>
 **Languages:**
 
 - English 🇬🇧: 8
-- French 🇫🇷: 214
+- French 🇫🇷: 216
 
 ```mermaid
 xychart-beta
   title "Poems per year"
   x-axis "Year" 2007 --> 2026
   y-axis "Poems" 1 --> 72
-  bar [1, 0, 1, 21, 47, 21, 23, 0, 0, 2, 24, 72, 0, 0, 0, 0, 0, 0, 8, 3]
+  bar [1, 0, 1, 21, 47, 21, 23, 0, 0, 2, 24, 72, 0, 0, 0, 0, 0, 0, 10, 3]
   line [0, 0, 0, 0, 8, 0, 1, 0, 0, 0, 2, 7, 0, 0, 0, 0, 0, 0, 4, 0]
 ```
 
@@ -33,7 +33,9 @@ xychart-beta
 - Fais-moi plaisir, [↗️](./poems/2025-fais-mois-plaisir.md) ✂︎  ⭐
 - Euphonie, [↗️](./poems/2025-euphonie.md)  ⭐
 - A cat in the corner, [↗️](./poems/2025-cat-corner.md) ✂︎
-- The wind is all I need, [↗️](./poems/2025-07-the-wind-is-all-i-need.md)  ⭐
+- Carte postale n° 2, [↗️](./poems/2025-08-09-carte-postale-2.md)
+- Carte postale n° 1, [↗️](./poems/2025-08-01-carte-postale-1.md)
+- The wind is all I need, [↗️](./poems/2025-07-29-the-wind-is-all-i-need.md)  ⭐
 - Soyons ivre toujours, [↗️](./poems/2018-soyons-ivre-toujours.md) ✂︎
 - Silence, [↗️](./poems/2018-silence.md)  ⭐
 - Si je devais être pris de court, [↗️](./poems/2018-si-je-devais-etre-pris-de-court.md)
