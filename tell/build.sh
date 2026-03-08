@@ -189,3 +189,5 @@ echo "" >> README.md
 add_poem_list
 echo "" >> README.md
 add_story_list
+echo "" >> README.md
+echo "Last updated on $(date)" >> README.md
