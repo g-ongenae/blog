@@ -1,0 +1,23 @@
+name: Validate
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: taiki-e/install-action@v2
+        with:
+          tool: zola@0.19.1
+        cache: true
+      - uses: actions/checkout@v6
+      - run: zola check
+      - run: zola build --output-dir /tmp/build
+      - run: diff -r /tmp/build public
