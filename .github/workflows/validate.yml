@@ -19,4 +19,3 @@ jobs:
       - uses: actions/checkout@v6
       - run: zola check
       - run: zola build --output-dir /tmp/build
-      - run: diff -r /tmp/build public

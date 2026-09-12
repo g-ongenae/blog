@@ -1,0 +1,8 @@
+base_url = "https://g-ongenae.github.io/blog"
+title = "G. Ongenae"
+compile_sass = false
+build_search_index = false
+
+[markdown]
+highlight_code = true
+
