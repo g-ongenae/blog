@@ -71,13 +71,13 @@ function add_poem_list() {
   # Add summary statistics to the README file
   echo "### Summary" >> _index.md
   echo "" >> _index.md
-  echo "**Total:** $(ls poems/*.md | wc -l | tr -d ' ') <br>" >> _index.md
+  echo "**Total:** $(find poems -maxdepth 1 -type f -name '*.md' ! -name '_index.md' | wc -l | tr -d ' ') <br>" >> _index.md
   echo "**Drafts:** $(grep '^state: draft' poems/*.md | wc -l | tr -d ' ') <br>" >> _index.md
   echo "**Favorites:** $(grep '^favorite: true' poems/*.md | wc -l | tr -d ' ') <br>" >> _index.md
   echo "**Languages:**" >> _index.md
   echo "" >> _index.md
   echo "$(
-    grep -h '^lang:' poems/*.md | sort | uniq -c | \
+    grep -h '^lang:' poems/*.md | grep -v '_index.md:' | sort | uniq -c | \
     awk '{print $3 ":" $1 }' | \
     while read LANG; do
       echo "- ${LANG_MAP[${LANG%%:*}]}: ${LANG##*:}"
@@ -93,7 +93,7 @@ function add_poem_list() {
 
   # Reverse loop through all poem files and extract metadata to build the README
   # Reverse order is for the most recent poems to appear at the top of the list
-  ls poems/*.md | tac | while read POEM; do
+  find poems -maxdepth 1 -type f -name '*.md' ! -name '_index.md' -print | sort -r | while read POEM; do
     # Extract metadata from the poem file
     TITLE=$(grep -m 1 '^title:' "${POEM}" | sed 's/^title: //')
 
@@ -111,13 +111,13 @@ function add_poem_list() {
 function generate_story_length_chart() {
   local MAX_LENGTH STORY_LENGTH STORY_LENGTHS STORY;
 
-  for STORY in stories/*.md; do
+  while read STORY; do
     STORY_LENGTH=$(wc -w < "${STORY}" | tr -d ' ')
     STORY_LENGTHS+="${STORY_LENGTH}, "
     if [ "${STORY_LENGTH}" -gt "${MAX_LENGTH:-0}" ]; then
       MAX_LENGTH="${STORY_LENGTH}"
     fi
-  done
+  done < <(find stories -maxdepth 1 -type f -name '*.md' ! -name '_index.md' -print | sort)
 
   # Trim trailing comma and space
   STORY_LENGTHS="${STORY_LENGTHS%, }"
@@ -125,7 +125,7 @@ function generate_story_length_chart() {
   echo "\`\`\`mermaid" >> _index.md
   echo "xychart-beta" >> _index.md
   echo "  title \"Story lengths (in words)\"" >> _index.md
-  echo "  x-axis \"Story\" 1 --> $(ls stories/*.md | wc -l | tr -d ' ')" >> _index.md
+  echo "  x-axis \"Story\" 1 --> $(find stories -maxdepth 1 -type f -name '*.md' ! -name '_index.md' | wc -l | tr -d ' ')" >> _index.md
   echo "  y-axis \"Length (words)\" 1 --> ${MAX_LENGTH}" >> _index.md
   echo "  line [${STORY_LENGTHS}]" >> _index.md
   echo "\`\`\`" >> _index.md
@@ -141,13 +141,13 @@ function add_story_list() {
   # Add summary statistics to the README file
   echo "### Summary" >> _index.md
   echo "" >> _index.md
-  echo "**Total:** $(ls stories/*.md | wc -l | tr -d ' ') <br>" >> _index.md
+  echo "**Total:** $(find stories -maxdepth 1 -type f -name '*.md' ! -name '_index.md' | wc -l | tr -d ' ') <br>" >> _index.md
   echo "**Drafts:** $(grep '^state: draft' stories/*.md | wc -l | tr -d ' ') <br>" >> _index.md
   echo "**Favorites:** $(grep '^favorite: true' stories/*.md | wc -l | tr -d ' ') <br>" >> _index.md
   echo "**Languages:**" >> _index.md
   echo "" >> _index.md
   echo "$(
-    grep -h '^lang:' stories/*.md | sort | uniq -c | \
+    grep -h '^lang:' stories/*.md | grep -v '_index.md:' | sort | uniq -c | \
     awk '{print $3 ":" $1 }' | \
     while read LANG; do
       echo "- ${LANG_MAP[${LANG%%:*}]}: ${LANG##*:}"
@@ -163,7 +163,7 @@ function add_story_list() {
 
   # Reverse loop through all story files and extract metadata to build the README
   # Ordered alphabetically by filename, not by date
-  ls stories/*.md | while read STORY; do
+  find stories -maxdepth 1 -type f -name '*.md' ! -name '_index.md' -print | sort | while read STORY; do
     # Extract metadata from the story file
     TITLE=$(grep -m 1 '^title:' "${STORY}" | sed 's/^title: //')
     SUITE=$(grep -m 1 '^suite:' "${STORY}" | sed 's/^suite: //')

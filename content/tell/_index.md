@@ -8,7 +8,7 @@ title: Literature
 
 ### Summary
 
-**Total:** 226 <br>
+**Total:** 225 <br>
 **Drafts:** 18 <br>
 **Favorites:** 22 <br>
 **Languages:**
@@ -27,7 +27,6 @@ xychart-beta
 
 ### Poem list
 
-- Poems, [↗️](@/tell/poems/_index.md)
 - Joie de la découverte, [↗️](@/tell/poems/2026-01-30-joie-de-la-decouverte.md)
 - Deuxième passage, [↗️](@/tell/poems/2026-01-30-deuxieme-passage.md)
 - Ligne 1, [↗️](@/tell/poems/2026-01-29-ligne-1.md)
@@ -48,8 +47,8 @@ xychart-beta
 - Santé !, [↗️](@/tell/poems/2018-sante.md)
 - Saint Jean, [↗️](@/tell/poems/2018-saint-jean.md)  ⭐
 - Retour au bercail, [↗️](@/tell/poems/2018-retour-au-bercail.md)
-- Que veux-tu que je te dise ?, [↗️](@/tell/poems/2018-que-veux-tu-que-je-te-dise.md) ✂︎
 - Quelques briques, [↗️](@/tell/poems/2018-quelques-briques.md) ✂︎
+- Que veux-tu que je te dise ?, [↗️](@/tell/poems/2018-que-veux-tu-que-je-te-dise.md) ✂︎
 - Pardonne-moi, pardonne-nous, [↗️](@/tell/poems/2018-pardonne-moi.md)
 - On lit mes petits vers, [↗️](@/tell/poems/2018-on-lit-mes-petits-vers.md) ✂︎
 - Ma Réputation, [↗️](@/tell/poems/2018-ma-reputation.md)
@@ -61,8 +60,8 @@ xychart-beta
 - Journée sombre, [↗️](@/tell/poems/2018-journee-sombre.md)
 - Je te demande pardon, [↗️](@/tell/poems/2018-je-te-demande-pardon.md) ✂︎
 - Je suis fumasse, [↗️](@/tell/poems/2018-je-suis-fumasse.md)
-- J'ai quitté la campagne, [↗️](@/tell/poems/2018-j-ai-quitte-la-campagne.md)
 - J'aime être en colère, [↗️](@/tell/poems/2018-j-aime-etre-en-colere.md)  ⭐
+- J'ai quitté la campagne, [↗️](@/tell/poems/2018-j-ai-quitte-la-campagne.md)
 - Gentils, [↗️](@/tell/poems/2018-gentils.md)
 - Entre le train, [↗️](@/tell/poems/2018-entre-le-train.md)
 - Écrire quelques mots pour un frère, [↗️](@/tell/poems/2018-ecrire-quelques-mots-pour-un-frere.md)  ⭐
@@ -142,8 +141,8 @@ xychart-beta
 - Vue et Entendue, [↗️](@/tell/poems/2013-vue-et-entendue.md)
 - Volonté ?, [↗️](@/tell/poems/2013-volonte.md)
 - Vagabondant, [↗️](@/tell/poems/2013-vagabondant.md)
-- Un tube de colle, [↗️](@/tell/poems/2013-un-tube-de-colle.md)
 - Universe, [↗️](@/tell/poems/2013-universe.md)
+- Un tube de colle, [↗️](@/tell/poems/2013-un-tube-de-colle.md)
 - Suicide in Snow, [↗️](@/tell/poems/2013-suicide-in-snow.md)
 - Serpentine Gallery, [↗️](@/tell/poems/2013-serpentine-gallery.md)
 - Rouge Sang, [↗️](@/tell/poems/2013-rouge-sang.md)
@@ -180,8 +179,8 @@ xychart-beta
 - Sur des billets - Suite n° 1 - Billet 4, [↗️](@/tell/poems/2012-billet-1-4.md)
 - Sur des billets - Suite n° 1 - Billet 3, [↗️](@/tell/poems/2012-billet-1-3.md)
 - Sur des billets - Suite n° 1 - Billet 2, [↗️](@/tell/poems/2012-billet-1-2.md)
-- Sur des billets - Suite n° 1 - Billet 1, [↗️](@/tell/poems/2012-billet-1-1.md)
 - Sur des billets - Suite n° 1 - Billet 10, [↗️](@/tell/poems/2012-billet-1-10.md)
+- Sur des billets - Suite n° 1 - Billet 1, [↗️](@/tell/poems/2012-billet-1-1.md)
 - Naïvement, [↗️](@/tell/poems/2012-03-06-naivement.md)
 - Liberté chérie, [↗️](@/tell/poems/2011-12-05-liberte-cherie.md)
 - Infos, [↗️](@/tell/poems/2011-07-19-infos.md)  ⭐
@@ -258,7 +257,7 @@ xychart-beta
 
 ### Summary
 
-**Total:** 59 <br>
+**Total:** 58 <br>
 **Drafts:** 9 <br>
 **Favorites:** 0 <br>
 **Languages:**
@@ -269,9 +268,9 @@ xychart-beta
 ```mermaid
 xychart-beta
   title "Story lengths (in words)"
-  x-axis "Story" 1 --> 59
+  x-axis "Story" 1 --> 58
   y-axis "Length (words)" 1 --> 17378
-  line [243, 281, 303, 348, 246, 270, 306, 633, 298, 80, 267, 963, 195, 450, 267, 842, 341, 83, 102, 116, 107, 57, 118, 170, 101, 285, 73, 99, 121, 163, 100, 115, 119, 103, 92, 231, 133, 132, 89, 138, 155, 4, 767, 851, 17378, 857, 942, 1140, 431, 1741, 264, 1023, 1356, 265, 269, 181, 473, 83, 2154]
+  line [243, 281, 303, 270, 348, 246, 633, 298, 306, 80, 267, 963, 195, 450, 267, 842, 341, 83, 102, 116, 107, 57, 101, 115, 231, 133, 118, 170, 285, 73, 99, 121, 163, 100, 119, 103, 92, 132, 89, 138, 155, 767, 851, 17378, 857, 942, 431, 1140, 1741, 264, 1023, 1356, 265, 269, 181, 473, 83, 2154]
 ```
 
 ### Story list
@@ -279,12 +278,12 @@ xychart-beta
 - Briques: Bruits, [↗️](@/tell/stories/briques-bruits.md)   (243 words)
 - Briques: Do It Now, [↗️](@/tell/stories/briques-do-it-now.md)   (281 words)
 - Briques: En Daim, [↗️](@/tell/stories/briques-en-daim.md)   (303 words)
+- Briques: L'Autruche, [↗️](@/tell/stories/briques-l-autruche.md)   (270 words)
 - Briques: La Nuit, [↗️](@/tell/stories/briques-la-nuit.md)   (348 words)
 - Briques: La Télé, [↗️](@/tell/stories/briques-la-tele.md)   (246 words)
-- Briques: L'Autruche, [↗️](@/tell/stories/briques-l-autruche.md)   (270 words)
-- Briques: Lendemain, [↗️](@/tell/stories/briques-lendemain.md)   (306 words)
 - Briques: Le Pommier, [↗️](@/tell/stories/briques-le-pommier.md)   (633 words)
 - Briques: Le Train, [↗️](@/tell/stories/briques-le-train.md)   (298 words)
+- Briques: Lendemain, [↗️](@/tell/stories/briques-lendemain.md)   (306 words)
 - Briques: Rêve, [↗️](@/tell/stories/briques-reve.md)   (80 words)
 - Briques: Une Prise, [↗️](@/tell/stories/briques-une-prise.md)   (267 words)
 - Chez moi, [↗️](@/tell/stories/chez-moi.md)   (963 words)
@@ -298,33 +297,32 @@ xychart-beta
 - IG Inspired: Cache-Cache - _inspired by [@roger_by](https://www.instagram.com/roger_by/)_, [↗️](@/tell/stories/ig-cache-cache.md)   (116 words)
 - IG Inspired: Dans une grotte - _inspired by [@erubes1](https://www.instagram.com/erubes1/)_, [↗️](@/tell/stories/ig-dans-une-grotte.md)   (107 words)
 - IG Inspired: Étoile filante - _inspired by [@ecoxgear](https://www.instagram.com/ecoxgear/)_, [↗️](@/tell/stories/ig-etoile-filante.md)   (57 words)
+- IG Inspired: L'Apprenti - _inspired by Marsel van Oosten_, [↗️](@/tell/stories/ig-l-apprenti.md)   (101 words)
+- IG Inspired: L'Entrée - _inspired by [@tharinrosa](https://www.instagram.com/tharinrosa/)_, [↗️](@/tell/stories/ig-l-entree.md)   (115 words)
+- IG Inspired: L'homme dans le champ - _inspired by [@mikkolagerstedt](https://www.instagram.com/mikkolagerstedt/)_, [↗️](@/tell/stories/ig-l-homme-dans-un-champs.md)   (231 words)
+- IG Inspired: L'Inondation - _inspired by Phoebe Rudomino_, [↗️](@/tell/stories/ig-l-inondation.md)   (133 words)
 - IG Inspired: La Bonne Patte - _inspired by [@lexiesheartbeat](https://www.instagram.com/lexiesheartbeat/)_, [↗️](@/tell/stories/ig-la-bonne-patte.md)   (118 words)
 - IG Inspired: La porte de la maison - _inspired by [@gettyphotography](https://www.instagram.com/gettyphotography)_, [↗️](@/tell/stories/ig-la-porte-de-la-maison.md)   (170 words)
-- IG Inspired: L'Apprenti - _inspired by Marsel van Oosten_, [↗️](@/tell/stories/ig-l-apprenti.md)   (101 words)
 - IG Inspired: La sirène - _inspired by [@driftingpixels](https://www.instagram.com/driftingpixels/)_, [↗️](@/tell/stories/ig-la-sirene.md)   (285 words)
 - IG Inspired: La Sortie - _inspired by [@makenaboy_maui_](https://www.instagram.com/makenaboy_maui_/)_, [↗️](@/tell/stories/ig-la-sortie.md)   (73 words)
 - IG Inspired: La Vague - _inspired by [@sam.vox](https://www.instagram.com/sam.vox/)_, [↗️](@/tell/stories/ig-la-vague.md)   (99 words)
 - IG Inspired: Le Départ - _inspired by [@Vdpfreelancer](https://www.instagram.com/Vdpfreelancer/)_, [↗️](@/tell/stories/ig-le-depart.md)   (121 words)
 - IG Inspired: Le Destrier - _inspired by [@Elena_Shumilova](https://www.instagram.com/Elena_Shumilova/)_, [↗️](@/tell/stories/ig-le-destrier.md)   (163 words)
 - IG Inspired: Le Naufrage - _inspired by [@trevblvke](https://www.instagram.com/trevblvke/)_, [↗️](@/tell/stories/ig-le-naufrage.md)   (100 words)
-- IG Inspired: L'Entrée - _inspired by [@tharinrosa](https://www.instagram.com/tharinrosa/)_, [↗️](@/tell/stories/ig-l-entree.md)   (115 words)
 - IG Inspired: Le Soupir - _inspired by [@pumpkintheraccoon](https://www.instagram.com/pumpkintheraccoon/)_, [↗️](@/tell/stories/ig-le-soupir.md)   (119 words)
 - IG Inspired: Le Temple de Glace - _inspired by [@DanielKordan](https://www.instagram.com/danielkordan/)_, [↗️](@/tell/stories/ig-le-temple-de-glace.md)   (103 words)
 - IG Inspired: Le Train - _inspired by [@DanielKordan](https://www.instagram.com/danielkordan/)_, [↗️](@/tell/stories/ig-le-train.md)   (92 words)
-- IG Inspired: L'homme dans le champ - _inspired by [@mikkolagerstedt](https://www.instagram.com/mikkolagerstedt/)_, [↗️](@/tell/stories/ig-l-homme-dans-un-champs.md)   (231 words)
-- IG Inspired: L'Inondation - _inspired by Phoebe Rudomino_, [↗️](@/tell/stories/ig-l-inondation.md)   (133 words)
 - IG Inspired: Mal de dos - _inspired by [@planet.eart](https://www.instagram.com/planet.eart/)_, [↗️](@/tell/stories/ig-mal-de-dos.md)   (132 words)
 - IG Inspired: Plop! - _inspired by [@andrewtkearns](https://www.instagram.com/andrewtkearns/)_, [↗️](@/tell/stories/ig-plop.md)   (89 words)
 - IG Inspired: Sur la route - _inspired by [@cully_kamisugi](https://www.instagram.com/cully_kamisugi/)_, [↗️](@/tell/stories/ig-sur-la-route.md)   (138 words)
 - IG Inspired: Viser la Lune - _inspired by [@eye.c](https://www.instagram.com/eye.c/)_, [↗️](@/tell/stories/ig-viser-la-lune.md)   (155 words)
-- Stories, [↗️](@/tell/stories/_index.md)   (4 words)
 - J'ai peur, [↗️](@/tell/stories/j-ai-peur.md)   (767 words)
 - Juste une envie d'être ailleurs, [↗️](@/tell/stories/juste-une-envie-d-etre-ailleurs.md)   (851 words)
 - L'Ascension du Ciel, [↗️](@/tell/stories/l-ascension-du-ciel.md) ✂︎   (17378 words)
 - Le papi qui voulait être papa, [↗️](@/tell/stories/le-papi-qui-voulait-etre-papa.md) ✂︎   (857 words)
 - Le Retour du perdant, [↗️](@/tell/stories/le-retour-du-perdant.md)   (942 words)
-- Les Maudits, [↗️](@/tell/stories/les-maudits.md)   (1140 words)
 - Le Voleur aux mains propres, [↗️](@/tell/stories/le-voleur-aux-mains-propres.md)   (431 words)
+- Les Maudits, [↗️](@/tell/stories/les-maudits.md)   (1140 words)
 - Passion, [↗️](@/tell/stories/passion.md) ✂︎   (1741 words)
 - Peines, [↗️](@/tell/stories/peines.md)   (264 words)
 - Prêt, [↗️](@/tell/stories/pret.md)   (1023 words)
@@ -336,4 +334,4 @@ xychart-beta
 - Shit Story, [↗️](@/tell/stories/shit-story.md) ✂︎   (83 words)
 - Vous et Nous, [↗️](@/tell/stories/vous-et-nous.md)   (2154 words)
 
-Last updated on sam. 12 sept. 2026 13:02:59 CEST
+Last updated on Sat Sep 12 15:12:13 CEST 2026
