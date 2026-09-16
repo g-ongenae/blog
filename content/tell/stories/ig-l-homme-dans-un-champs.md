@@ -1,12 +1,14 @@
 ---
-lang: fr
 date: 2015-08-11
-state: done
 title: L'homme dans le champ - _inspired by [@mikkolagerstedt](https://www.instagram.com/mikkolagerstedt/)_
-location: Lille
-suite: IG Inspired
-type: short
+extra:
+  state: done
+  location: Lille
+  suite: IG Inspired
+  type: short
+  lang: fr
 ---
+
 “Quel est cet homme ? Pourquoi est-il au milieu de mon champs ?” m'étais-je dis.
 
 J'étais en train de m'occuper de mon champs, d'éxaminer l'état des sols et de la récolte quand il est apparu.

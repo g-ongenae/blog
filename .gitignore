@@ -1,3 +1,7 @@
 *.tmp
 *.cached
 *.log
+
+/public/
+/static/tree.json
+__pycache__/

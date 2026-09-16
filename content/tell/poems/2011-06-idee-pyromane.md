@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-06-01
-state: done
 title: Idée pyromane
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Idée pyromane
 
 Où la terre et le feu se rencontre <br>
 L’homme, il crie et va à l’encontre <br>

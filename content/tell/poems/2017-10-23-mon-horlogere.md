@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2017-10-23
-state: done
 title: Mon Horlogère
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Mon Horlogère
 
 Je ne connais point ton nom <br>
 Ni tes goûts, ni tes désirs <br>

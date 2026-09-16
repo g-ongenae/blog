@@ -1,14 +1,11 @@
 ---
----
-
-﻿---
-lang: fr
 date: 2023-01-01
 title: Et is s'en furent allés
-state: draft
-type: short
+extra:
+  state: draft
+  type: short
+  lang: fr
 ---
-# Et ils s'en furent allé.
 
 Elle sauta de la balançoire et couru dans les bras de sa mère. Un petit cri, aiguë, comme les jeunes filles de son âge en sont si capable, lui échappa. Elle était joyeuse, resplendissante. La peau rose comme une fleur du printemps. Les cheveux dorés comme les blés aux plus beaux jours de l'été. Cette petite tête blonde fêtait son anniversaire ce jour. Sept ans. L'âge de raison.
 

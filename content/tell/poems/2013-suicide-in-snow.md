@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Suicide in Snow
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Suicide in Snow
 
 Je voudrai crier, hurler <br>
 Mais je n’arrive qu’à pleurer

@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Mer Grand
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Mer Grand
 
 Mère de ma mère <br>
 Aussi tranquille que la mer <br>

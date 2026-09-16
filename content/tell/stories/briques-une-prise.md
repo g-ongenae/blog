@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2016-11-09
-state: done
 title: Une Prise
-suite: Briques
-type: short
+extra:
+  state: done
+  suite: Briques
+  type: short
+  lang: fr
 ---
-# Une Prise
 
 Une prise électrique était laissée seule dans un coin d'un restaurant self-service, entrée de gamme ; derrière une table dans l'ombre d'une banquette en cuir rigide et abîmé, la poussière s'accumulait à ses côtés.
 

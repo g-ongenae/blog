@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2015-04-21
 title: Passion
-state: draft
-type: short
+extra:
+  state: draft
+  type: short
+  lang: fr
 ---
-# Passion
 
 ## Bonheur
 

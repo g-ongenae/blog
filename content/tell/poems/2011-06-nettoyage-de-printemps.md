@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-06-01
-state: done
 title: Nettoyage de Printemps
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Nettoyage de Printemps
 
 Oui, messieurs veuillez sortir de vos canapés !
 

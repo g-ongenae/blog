@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-11-15
-state: done
 title: Les Problèmes
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Les Problèmes
 
 Les problèmes, petits ou grands, <br>
 Ils nous accablent tous <br>

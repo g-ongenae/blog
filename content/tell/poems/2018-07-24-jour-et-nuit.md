@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-07-24
-state: done
 title: Jour et Nuit
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Jour et Nuit
 
 Le jour, je tape du code <br>
 La nuit, des vers et des odes <br>

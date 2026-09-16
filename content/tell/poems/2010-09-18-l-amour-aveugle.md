@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-09-18
-state: done
 title: L'Amour aveugle
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# L'Amour aveugle
 
 Quand je ferme les yeux <br>
 Je te vois <br>

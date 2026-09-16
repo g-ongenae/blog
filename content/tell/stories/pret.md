@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2014-06-18
-state: done
 title: Prêt
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# Prêt
 
 ## Rien ne sert de courir
 

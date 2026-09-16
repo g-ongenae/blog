@@ -1,5 +1,4 @@
 ---
 title: Poems
 sort_by: date
-paginate_by: 50
 ---

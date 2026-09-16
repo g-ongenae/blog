@@ -1,9 +1,11 @@
 ---
-lang: en
 date: 2025-01-01
-state: draft
 title: With you
+extra:
+  state: draft
+  lang: en
 ---
+
 With you <br>
 It's la belle vue <br>
 With I <br>

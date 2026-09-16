@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: draft
 title: Léger syndrome de la page blanche
-location: Cergy
+extra:
+  state: draft
+  location: Cergy
+  lang: fr
 ---
+
 Léger syndrome de la page blanche <br>
 Me remettre au travail <br>
 En voila une belle paire de manche <br>

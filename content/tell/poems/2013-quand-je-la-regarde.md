@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Quand je la regarde
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
+
 <p style="text-align: center;">…</p>
 Quand je la regarde, je vois un cœur <br>
 Qui bat la chamade même sans fleur <br>

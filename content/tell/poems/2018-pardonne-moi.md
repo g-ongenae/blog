@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: Pardonne-moi, pardonne-nous
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
+
 Pardonne-moi, pardonne-nous <br>
 Nos voix n'ont su porter ta parole <br>
 Je ne puis supporter, je suis mou <br>

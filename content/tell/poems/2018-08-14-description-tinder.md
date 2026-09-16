@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-08-14
-state: done
 title: Description Tinder
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
+
 Poète qui n'a rien compris
 
 Cherche étudiante en architecture <br>

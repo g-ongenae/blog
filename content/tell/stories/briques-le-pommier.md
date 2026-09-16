@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2016-10-23
-state: done
 title: Le Pommier
-suite: Briques
-type: short
+extra:
+  state: done
+  suite: Briques
+  type: short
+  lang: fr
 ---
-# Le Pommier
 
 Il était une fois un grand pommier portant un millier de feuilles et des centaines de fruits et de fleurs. L'arbre avait connu de beaux jours – bien chauds et rayonnants –, quelques-uns froid et venteux. Un ou deux gels où il avait eu peur que ses jours ne se terminent.
 

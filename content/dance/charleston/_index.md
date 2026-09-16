@@ -1,9 +1,6 @@
 ---
+title: Charleston
 ---
-
-# Charleston
-
-
 
 ## History
 

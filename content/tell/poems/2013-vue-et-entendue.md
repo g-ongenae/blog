@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Vue et Entendue
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Vue et Entendue
 
 Encore cette belle inconnue <br>
 Rien que l’entrevoir, je suis ému <br>

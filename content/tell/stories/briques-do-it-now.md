@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2017-03-17
-state: done
 title: Do It Now
-suite: Briques
-type: short
+extra:
+  state: done
+  suite: Briques
+  type: short
+  lang: fr
 ---
-# Do It Now
 
 Trois mots placardés en rouge et en bleu sur un mur de banlieue se reflétaient dans les rétines d'un garçon à peine assez grand pour savoir faire ses lacets.
 

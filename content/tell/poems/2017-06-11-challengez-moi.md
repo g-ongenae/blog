@@ -1,11 +1,13 @@
 ---
-lang: fr
 date: 2016-11-22
-state: done
 title: Challengez-moi
-location: Lille
-favorite: true
+extra:
+  state: done
+  location: Lille
+  favorite: true
+  lang: fr
 ---
+
 Une inoubliable aventure <br>
 À parcourir le monde <br>
 À découvrir les cultures <br>

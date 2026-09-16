@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: Gentils
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Gentils
 
 Vous vous pensez Gentils <br>
 Défendre le bon, le beau, le juste <br>

@@ -1,12 +1,14 @@
 ---
-lang: fr
 date: 2016-04-23
-state: done
 title: L'Inondation - _inspired by Phoebe Rudomino_
-location: Lille
-suite: IG Inspired
-type: short
+extra:
+  state: done
+  location: Lille
+  suite: IG Inspired
+  type: short
+  lang: fr
 ---
+
 La maison c'est rempli tout d'un coup. Par le bas, sans causer aucun dégats. Les meubles ne bougeaient pas. On aurait presque eu l'impression que l'eau ne les touchaient pas, que l'eau n'était pas là.
 
 Pourtant, l'eau montait. Et alors que elle n'avait plus pied, l'air se faisait de plus en plus rare.

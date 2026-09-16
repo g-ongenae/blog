@@ -1,12 +1,14 @@
 ---
-lang: fr
 date: 2016-04-21
-state: done
 title: Le Soupir - _inspired by [@pumpkintheraccoon](https://www.instagram.com/pumpkintheraccoon/)_
-location: Lille
-suite: IG Inspired
-type: short
+extra:
+  state: done
+  location: Lille
+  suite: IG Inspired
+  type: short
+  lang: fr
 ---
+
 — Papa ne t'a pas trop manqué, j'espère.
 
 Le raton laveur tappait amicalement sur le ventre de son fidèle animal de compagnie.

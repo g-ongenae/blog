@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Nous héros - _extrait des [Maudits](@/tell/stories/les-maudits.md)_
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
+
 Nous héros <br>
 Sommes maudits <br>
 Partant de zéro <br>

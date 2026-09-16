@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-03-30
-state: done
 title: La Facture
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# La Facture
 
 Ce petit ticket vole. <br>
 Il marche à petit pas.

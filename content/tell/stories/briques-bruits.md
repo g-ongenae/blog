@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2016-11-06
-state: done
 title: Bruits
-suite: Briques
-type: short
+extra:
+  state: done
+  suite: Briques
+  type: short
+  lang: fr
 ---
-# Bruits
 
 Le stylo noir glissait sur le papier en laissant une fine trace. La main pale tenant le stylo décrivait des cercles et des va-et-viens de gauche à droite sur le papier blanc. Les mots d'encre coulaient sur le papier mélangé avec des larmes. Les larmes translucides tombaient des yeux qui suivaient la main et sa marque sur le papier, vides.
 

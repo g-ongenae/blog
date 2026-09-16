@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2017-11-25
-state: done
 title: Le regret et le remord
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
+
 Le regret et le remord <br>
 Mes ennemis à mort <br>
 Le remord quand tu n’es pas ici <br>

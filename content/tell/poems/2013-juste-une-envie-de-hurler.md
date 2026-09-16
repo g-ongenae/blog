@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Juste une envie de hurler
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
+
 Juste une envie de hurler <br>
 Un désir silencieux de crier <br>
 Alors j’écris et ne dis mot <br>

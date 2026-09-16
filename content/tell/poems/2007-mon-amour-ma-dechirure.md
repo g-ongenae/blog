@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2007-01-01
-state: done
 title: Mon amour ma déchirure
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Mon Amour ma déchirure
 
 Mon amour ma déchirure <br>
 Ta somptueuse braise <br>

@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2023-08-30
-state: done
 title: Une minute
-suite: Rien à déclarer
+extra:
+  state: done
+  suite: Rien à déclarer
+  lang: fr
 ---
-# Une minute
 
 Une minute, quotidienne, aurait suffit à lui sauver la vie. Ou comme les Anglais aiment le dire, une pomme. C'est aussi simple que cela. Cette vie aurait pu, que dis-je aurait dû s'épanouir… si seulement un peu d'attention lui avait été donnée.
 

@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-07-26
-state: done
 title: Éducateurs
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Éducateurs
 
 Deux, trois professeurs <br>
 Ont faits des malheurs <br>

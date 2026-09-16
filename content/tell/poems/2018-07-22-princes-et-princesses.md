@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-07-22
-state: done
 title: Princes & Princesses
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
+
 Ah ces jolies enfants <br>
 Ils veulent tout <br>
 Les jouets roses, les jouets bleus <br>

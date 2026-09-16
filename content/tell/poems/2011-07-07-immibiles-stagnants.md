@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-07-07
-state: done
 title: Immobiles stagnants
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Immobiles stagnants
 
 Dans un monde stagnant <br>
 Soleil brille <br>

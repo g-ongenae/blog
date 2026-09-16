@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2009-11-01
-state: done
 title: Solitude
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Solitude
 
 Je ne peux plus vivre seul <br>
 Sans personne <br>

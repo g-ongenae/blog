@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-10-10
-state: done
 title: Les Chevaliers voleurs
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Les Chevaliers voleurs
 
 Quel est cet affront <br>
 Qui me transperce le cœur <br>

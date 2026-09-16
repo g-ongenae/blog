@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2011-07-07
-state: draft
 title: Plus classiques sont les réformateurs
-location: Le Fresne
+extra:
+  state: draft
+  location: Le Fresne
+  lang: fr
 ---
+
 Plus classiques sont les réformateurs <br>
 Surprenant ils sont semblables <br>
 Oh yeah <br>

@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2013-04-22
-state: done
 title: Vous et Nous
-favorite: false
-type: short
+extra:
+  state: done
+  favorite: false
+  type: short
+  lang: fr
 ---
-# Vous et Nous
 
 ## Vous
 

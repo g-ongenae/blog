@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: Saint Jean
-location: Cergy
-favorite: true
+extra:
+  state: done
+  location: Cergy
+  favorite: true
+  lang: fr
 ---
-# Saint Jean
 
 Blanchi par le temps <br>
 Rongé par les vents <br>

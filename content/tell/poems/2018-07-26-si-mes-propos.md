@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-07-26
-state: done
 title: Si mes propos
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
+
 Si mes propos vous choquent <br>
 C’est que vous ne lui avez pas compris <br>
 C’est pourquoi je les écris <br>

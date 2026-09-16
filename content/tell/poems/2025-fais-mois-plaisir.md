@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2025-01-01
-state: draft
 title: Fais-moi plaisir
-favorite: true
+extra:
+  state: draft
+  favorite: true
+  lang: fr
 ---
+
 Fais-moi plaisir, lance le tourne disque <br>
 Joue-moi un peu de jazz <br>
 Sors celui qui est rayé <br>

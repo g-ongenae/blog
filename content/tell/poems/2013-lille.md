@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Lille
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Lille
 
 Ô ma grande ville <br>
 Montre-moi le Nord <br>

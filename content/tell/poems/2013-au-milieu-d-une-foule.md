@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Au milieu d'une foule
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
+
 Au milieu d'une foule <br>
 De flots qui coulent
 

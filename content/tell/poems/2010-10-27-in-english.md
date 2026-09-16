@@ -1,11 +1,11 @@
 ---
-lang: en
 date: 2010-10-27
-state: done
 title: In English
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: en
 ---
-# In English
 
 — Hey! What’s up? <br>
 — In to sum up: <br>

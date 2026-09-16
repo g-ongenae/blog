@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: Je suis fumasse
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
+
 Je suis fumasse <br>
 Une pétasse <br>
 Me confonds avec une tasse <br>

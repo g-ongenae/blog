@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-10-03
-state: done
 title: L'Écriture au stylo
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# L'Écriture au stylo
 
 L’Écriture au stylo <br>
 Pour certain la plume <br>

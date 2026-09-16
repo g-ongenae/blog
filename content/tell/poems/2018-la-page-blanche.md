@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: draft
 title: La page blanche, c'est celle des débuts
-location: Cergy
+extra:
+  state: draft
+  location: Cergy
+  lang: fr
 ---
+
 La page blanche, c'est celle des débuts <br>
 C'est à tort qu'on en fait un symptôme <br>
 Qu'on s'y accroche comme à nos ~chromosomes~ <br>

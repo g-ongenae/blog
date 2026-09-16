@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Le Travail
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Le Travail
 
 Le matin, je me lève <br>
 Et puis vais sur ma chaise <br>

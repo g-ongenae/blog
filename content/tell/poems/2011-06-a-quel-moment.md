@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-06-01
-state: done
 title: À quel moment peut-on se dire poète ?
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# À quel moment peut-on se dire poète ?
 
 Devant son bureau <br>
 Le poète tente <br>

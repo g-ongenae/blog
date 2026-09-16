@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Volonté ?
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Volonté ?
 
 Je suis un ambitieux, j’ai mil buts
 

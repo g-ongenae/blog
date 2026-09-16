@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2012-03-06
-state: done
 title: Naïvement
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Naïvement
 
 Je n’ai jamais vu cela d’aussi près <br>
 Mais c’est encore si loin

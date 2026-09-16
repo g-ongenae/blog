@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-12-02
-state: done
 title: Les Deux Faces
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Les Deux Faces
 
 Tout a toujours deux faces ! <br>
 La beauté est magnifique, <br>

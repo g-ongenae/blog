@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-01-05
-state: done
 title: La Maladie
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# La Maladie
 
 L’homme est un cancer <br>
 Pour la planète <br>

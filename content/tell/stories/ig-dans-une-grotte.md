@@ -1,12 +1,14 @@
 ---
-lang: fr
 date: 2015-07-10
-state: done
 title: Dans une grotte - _inspired by [@erubes1](https://www.instagram.com/erubes1/)_
-location: Lille
-suite: IG Inspired
-type: short
+extra:
+  state: done
+  location: Lille
+  suite: IG Inspired
+  type: short
+  lang: fr
 ---
+
 Combien de jours cela fait-il que je suis coincé dans cette grotte sans lumière, sans nourriture, sans eau… Autre que l'eau de mer qui me bloquait la sortie.
 
 Mais aujourd'hui, c'est fini, je revois la belle lueur du Soleil. Je dois me dépêcher de sortir, de rejoindre la plage, de profiter d'un repas.

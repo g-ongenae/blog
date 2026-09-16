@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2014-06-19
-state: done
 title: Et comme d'habitude
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# Et comme d'habitude
 
 — Allongez-vous, dit le psychologue.
 

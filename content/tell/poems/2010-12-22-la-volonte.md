@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-12-22
-state: done
 title: La Volonté
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# La Volonté
 
 Avez-vous la volonté <br>
 De dire oui à vos rêves ? <br>

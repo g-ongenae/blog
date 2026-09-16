@@ -1,7 +1,9 @@
 ---
+weight: 1
+extra:
+  emoji: 🕺
+title: Dances
 ---
-
-# 🕺 Dances
 
 I've been interested in dancing for a long time.
 

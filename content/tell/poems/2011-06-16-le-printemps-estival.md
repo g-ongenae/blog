@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2011-06-16
-state: done
 title: Le Printemps estival
-location: Le Fresne
-favorite: true
+extra:
+  state: done
+  location: Le Fresne
+  favorite: true
+  lang: fr
 ---
-# Le Printemps estival
 
 Le peuple est heureux <br>
 Il pleut sur ces terres arides <br>

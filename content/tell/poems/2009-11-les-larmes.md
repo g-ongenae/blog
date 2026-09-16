@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-06-01
-state: done
 title: Les Larmes
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Les Larmes
 
 Je pleure <br>
 Je sais pourquoi <br>

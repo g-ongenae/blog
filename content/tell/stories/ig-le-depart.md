@@ -1,12 +1,14 @@
 ---
-lang: fr
 date: 2016-04-18
-state: done
 title: Le Départ - _inspired by [@Vdpfreelancer](https://www.instagram.com/Vdpfreelancer/)_
-location: Lille
-suite: IG Inspired
-type: short
+extra:
+  state: done
+  location: Lille
+  suite: IG Inspired
+  type: short
+  lang: fr
 ---
+
 Elle jeta un regard en arrière une dernière fois. Ce serait la dernière fois qu'elle verrait son village natale. Aujourd'hui, une nouvelle vie s'offrait à elle.
 
 Elle s'en réjouissait.

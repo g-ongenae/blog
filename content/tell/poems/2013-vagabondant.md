@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Vagabondant
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
+
 Vagabondant <br>
 Dans le désert blanc <br>
 Tranquille <br>

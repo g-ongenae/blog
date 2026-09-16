@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-04-13
-state: done
 title: La Chute reconnaissable
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# La Chute reconnaissable
 
 Tu te fais trop d’émoi <br>
 Tu ne penses qu’à toi <br>

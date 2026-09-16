@@ -1,11 +1,13 @@
 ---
-lang: en
 date: 2025-07-29
-state: done
 title: The wind is all I need
-location: Super-besse
-favorite: true
+extra:
+  state: done
+  location: Super-besse
+  favorite: true
+  lang: en
 ---
+
 The wind is all I need <br>
 For it will mess with my hair <br>
 For it will sing in my ears <br>

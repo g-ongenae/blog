@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2025-01-01
-state: done
 title: Euphonie
-location: Paris
-favorite: true
+extra:
+  state: done
+  location: Paris
+  favorite: true
+  lang: fr
 ---
-# Euphonie
 
 Le silence de la nuit noire <br>
 Depuis qu'il n'y a plus d'espoir <br>

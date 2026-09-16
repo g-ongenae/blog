@@ -1,47 +1,28 @@
+{% if page is defined %}{% set current = page %}{% else %}{% set current = section %}{% endif %}
+{% set description = current.description | default(value='Writing, dancing and learning — a living archive by Guillaume Ongenae.') %}
 <!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% block title %}{{ config.title }}{% endblock title %}</title>
-    <meta name="theme-color" content="#030806">
-    <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
-  </head>
-  <body>
-    <div class="site-shell">
-      <header class="site-header">
-        <a class="site-mark" href="{{ get_url(path='@/_index.md') }}">
-          <span class="site-mark-prompt">$</span> G. ONGENAE
-        </a>
-        <nav class="site-nav" aria-label="Main navigation">
-          <a href="{{ get_url(path='@/_index.md') }}">Blog</a>
-          <a href="https://g-ongenae.github.io/">Main site <span aria-hidden="true">↗</span></a>
-        </nav>
-      </header>
-      <main class="site-main">
-      {% block content %}{% endblock content %}
-      </main>
-      <footer class="site-footer">
-        <span>ONLINE / PARIS, FR</span>
-        <span>FASTENING. VIBING. TELLING.</span>
-      </footer>
-    </div>
-    <script type="module">
-      import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
-
-      mermaid.initialize({ startOnLoad: false, theme: "dark", themeVariables: {
-        background: "#07150b", primaryColor: "#0b2815", primaryTextColor: "#d7ffdd",
-        lineColor: "#5bbf6d", textColor: "#b2dcb8"
-      }});
-
-      for (const code of document.querySelectorAll("pre > code.language-mermaid")) {
-        const diagram = document.createElement("div");
-        diagram.className = "mermaid";
-        diagram.textContent = code.textContent;
-        code.parentElement.replaceWith(diagram);
-      }
-
-      await mermaid.run({ nodes: document.querySelectorAll(".mermaid") });
-    </script>
-  </body>
-</html>
+<html lang="{{ current.extra.lang | default(value='en') }}">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ current.title }} · {{ config.title }}</title>
+<meta name="theme-color" content="#030806"><meta name="description" content="{{ description }}">
+<meta property="og:title" content="{{ current.title }}"><meta property="og:description" content="{{ description }}"><meta property="og:url" content="{{ current.permalink }}"><meta property="og:type" content="{% if page is defined %}article{% else %}website{% endif %}">
+<link rel="icon" href="{{ get_url(path='favicon.svg') }}" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="site-shell">
+<header class="site-header"><a class="site-mark" href="{{ get_url(path='@/_index.md') }}">$ G. ONGENAE</a><nav class="site-nav" aria-label="Main navigation"><a href="{{ get_url(path='@/tell/_index.md') }}">Literature</a><a href="{{ get_url(path='@/dance/_index.md') }}">Dances</a><a href="{{ get_url(path='@/speak/_index.md') }}">Languages</a><a href="https://g-ongenae.github.io/">About ↗</a></nav></header>
+<main class="site-main" id="main">{% include 'partials/breadcrumb.html' %}{% block content %}{% endblock content %}</main>
+<footer class="bottom-bar">
+<div class="terminal" data-root="{{ get_url(path='@/_index.md') }}" data-path="{{ current.path }}" data-directory="{% if page is defined %}{% set parent = get_section(path=page.ancestors | last) %}{{ parent.path }}{% else %}{{ section.path }}{% endif %}">
+<div class="terminal-history" aria-live="polite" aria-relevant="additions" hidden></div>
+<div class="terminal-prompt">{% include 'partials/breadcrumb.html' %}<form class="terminal-form" hidden><label for="terminal-input"><span aria-hidden="true">$</span><span class="sr-only">Terminal command</span></label><input id="terminal-input" autocomplete="off" autocapitalize="off" spellcheck="false" aria-describedby="terminal-help"></form><button class="terminal-activate" hidden aria-label="Open terminal">$ ▮</button></div><p id="terminal-help" class="terminal-help" hidden>Type help · Tab completes · Esc closes</p>
+</div>
+<div class="status-bar"><span class="status-online"><span class="status-dot" aria-hidden="true"></span>online</span><span aria-hidden="true">|</span><span>Paris, FR</span></div>
+</footer></div>
+<script type="module" src="{{ get_url(path='site.js') }}"></script>
+</body></html>

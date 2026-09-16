@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-12-05
-state: done
 title: Liberté chérie
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Liberté chérie
 
 Liberté chérie <br>
 Ton visage, oh <br>

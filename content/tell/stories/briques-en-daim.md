@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2016-10-16
-state: done
 title: En Daim
-suite: Briques
-type: short
+extra:
+  state: done
+  suite: Briques
+  type: short
+  lang: fr
 ---
-# En Daim
 
 Les nuages laissaient place au Soleil. De légères traces traversés par les colibri rappelaient leur passage. Leur pépiement résonnaient au-dessus de la cime des arbres. La forêt repris vie : les mères s'affairaient à retrouver leurs bambins mis à l'abri dans les terriers.
 

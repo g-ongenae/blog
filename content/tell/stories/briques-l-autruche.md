@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2016-10-19
-state: done
 title: L'Autruche
-suite: Briques
-type: short
+extra:
+  state: done
+  suite: Briques
+  type: short
+  lang: fr
 ---
-# L'Autruche
 
 L'autruche sachant qu'elle était un oiseau voulait voler.
 

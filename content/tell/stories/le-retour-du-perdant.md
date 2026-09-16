@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2014-06-17
-state: done
 title: Le Retour du perdant
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# Le Retour du perdant
 
 ## Perdu
 

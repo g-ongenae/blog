@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2025-08-01
-state: done
 title: Carte postale n° 1
-location: Super-Besse
+extra:
+  state: done
+  location: Super-Besse
+  lang: fr
 ---
+
 Après quelques jours à M<sup>t</sup> Dore à danser <br>
 À la naissance de la Dordogne à baigner <br>
 Me voilà arriver à Super-Besse <br>

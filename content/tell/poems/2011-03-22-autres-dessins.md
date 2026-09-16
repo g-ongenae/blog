@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-03-22
-state: done
 title: Autre Dessins
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Autres Dessins
 
 Un couteau <br>
 Fend la poire

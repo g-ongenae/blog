@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-03-14
-state: done
 title: Pollution
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Pollution
 
 Les centrales nucléaires m’ennuient ! <br>
 L’écologisme reste à l’ombre, <br>

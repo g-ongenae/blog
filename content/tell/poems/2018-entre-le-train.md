@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: Entre le train
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
+
 Entre le train <br>
 Et mon problème d'entrain <br>
 Rien ne va plus <br>

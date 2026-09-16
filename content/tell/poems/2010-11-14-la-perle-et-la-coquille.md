@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-11-14
-state: done
 title: La Perle et la Coquille
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# La Perle et la Coquille
 
 L’amour <br>
 Attiré par la coquille <br>

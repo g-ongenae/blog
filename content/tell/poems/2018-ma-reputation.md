@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: Ma Réputation
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Ma Réputation
 
 La pire des réputations <br>
 C'est de ne pas en avoir <br>

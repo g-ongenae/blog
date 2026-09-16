@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2016-10-30
-state: done
 title: La Télé
-suite: Briques
-type: short
+extra:
+  state: done
+  suite: Briques
+  type: short
+  lang: fr
 ---
-# La Télé
 
 Une jeune fille était assise à table à manger des gâteaux au chocolat fourrés trempés dans du lait demi-écrémé. En même temps, elle regardait la télé et des émissions où des gens critiquaient d'autres personnes frontalement dans des joutes verbales criantes et dissonantes.
 

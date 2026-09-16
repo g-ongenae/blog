@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-07-12
-state: done
 title: Joséphine
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Joséphine
 
 Comme une aubépine <br>
 Tendre Joséphine <br>

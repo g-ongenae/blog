@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Citadin
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Citadin
 
 Le soleil se lève sur la ville <br>
 Les filles se rhabillent

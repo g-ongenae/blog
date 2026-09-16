@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: Appelle-moi, dis-moi n'importe quoi
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
+
 Appelle-moi, dis-moi n'importe quoi <br>
 Je voudrais juste entredre ta voix <br>
 Plains-toi, injurie-moi, insulte-moi <br>

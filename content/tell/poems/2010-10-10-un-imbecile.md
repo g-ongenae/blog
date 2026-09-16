@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-10-10
-state: done
 title: Un Imbécile
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Un Imbécile
 
 Je ne suis qu’un imbécile <br>
 Qui par lapsus <br>

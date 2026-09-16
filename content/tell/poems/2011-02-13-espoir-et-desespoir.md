@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-02-13
-state: done
 title: Espoir et Désespoir
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Espoir et Désespoir
 
 Fuir tel est mon espoir. <br>
 Je suis englobé de noir <br>

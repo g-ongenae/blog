@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2017-11-08
-state: draft
 title: L'Ascension du Ciel
-type: long
+extra:
+  state: draft
+  type: long
+  lang: fr
 ---
-# L'Ascension du Ciel
 
 ## Notes
 

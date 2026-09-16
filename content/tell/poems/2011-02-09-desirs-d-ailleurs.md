@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-02-09
-state: done
 title: Désirs d'ailleurs
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Désirs d’ailleurs
 
 Je voudrai te composer une ode <br>
 Et faire une bal(l)ade <br>

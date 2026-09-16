@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-10-27
-state: done
 title: Ombre et Reflet
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Ombre et Reflet
 
 Dans un monde de reflet, <br>
 Ou je me sens unique. <br>

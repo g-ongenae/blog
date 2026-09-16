@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-05-29
-state: done
 title: La Mouette
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# La Mouette
 
 Le poète est une mouette <br>
 Qui survole les plaines, <br>

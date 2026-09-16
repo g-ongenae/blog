@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2014-06-15
-state: done
 title: Coupable
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# Coupable
 
 C'est arrivé si vite.
 

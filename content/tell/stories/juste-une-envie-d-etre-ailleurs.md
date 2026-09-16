@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2015-04-15
-state: done
 title: Juste une envie d'être ailleurs
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# Juste une envie d'être ailleurs
 
 Ça a commencé ainsi : j'étais un élève normal, ni excellent, ni pathétique. Je ne vivais que pour devenir prof, comme mes parents. Je n'ai jamais été très bon, mais j'avais une qualité essentiel pour mon rêve : j'étais pédagogue. Capable d'expliquer la théorie de la relativité à un enfant de six ans sans qu'il n'ait jamais entendu parler de physique auparavant.
 

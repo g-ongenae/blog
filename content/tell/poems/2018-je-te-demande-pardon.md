@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: draft
 title: Je te demande pardon
-location: Cergy
+extra:
+  state: draft
+  location: Cergy
+  lang: fr
 ---
+
 Je te demande pardon <br>
 Pour tous mes mauvais mots <br>
 Dont je vais faire quelque façon <br>

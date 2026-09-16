@@ -1,12 +1,14 @@
 ---
-lang: fr
 date: 2015-08-29
-state: done
 title: Le Train - _inspired by [@DanielKordan](https://www.instagram.com/danielkordan/)_
-location: Lille
-suite: IG Inspired
-type: short
+extra:
+  state: done
+  location: Lille
+  suite: IG Inspired
+  type: short
+  lang: fr
 ---
+
 J'avais toujours révé de monter dans ce train majestueux qui nous menent dans les contes pour enfant vers des merveilles et autres légendes.
 
 Jamais, je n'aurais pu imaginer un dictateur avec autant d'humour, ou bien était-ce simplement par exactitude géographique.

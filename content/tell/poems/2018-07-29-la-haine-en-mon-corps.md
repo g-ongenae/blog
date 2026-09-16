@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-07-29
-state: done
 title: La haine en mon corps
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
+
 La haine en mon corps afflue <br>
 Elle va et vient en remous <br>
 Sur ses ondes sourdes, je boue <br>

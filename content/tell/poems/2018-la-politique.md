@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: La Politique
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# La Politique
 
 Gauchiasses et droitards <br>
 En voici un beau couple de queutards <br>

@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Rouge Sang
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Rouge Sang
 
 Ô le Soleil est las <br>
 Il prêchait pour l’au-delà <br>

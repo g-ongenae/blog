@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-10-16
-state: done
 title: Les Canapés
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Les Canapés
 
 Canapé déjà douillet, <br>
 Tu es aussi exquis. <br>

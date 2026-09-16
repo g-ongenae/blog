@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-03-23
-state: done
 title: Métamorphose
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Métamorphose
 
 Je suis une chenille <br>
 Qui voudrait être papillon <br>

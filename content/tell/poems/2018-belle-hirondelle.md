@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: draft
 title: Belle Hirondelle
-location: Cergy
+extra:
+  state: draft
+  location: Cergy
+  lang: fr
 ---
+
 Belle Hirondelle <br>
 Quelle est donc votre langue maternelle <br>
 Vos terres quis sont ~chères~

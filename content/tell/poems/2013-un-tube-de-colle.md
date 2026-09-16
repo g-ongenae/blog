@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Un tube de colle
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
+
 Un tube de colle. <br>
 Ronds ? Parallélépipèdes ? <br>
 Cowboy ? Des Papillons ?

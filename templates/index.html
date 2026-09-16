@@ -1,7 +1,5 @@
 {% extends "base.html" %}
-
-{% block title %}{{ section.title | default(value=config.title) }}{% endblock title %}
-
 {% block content %}
-  <article>{{ section.content | safe }}</article>
+<article><h1>{{ section.title }}</h1><div class="lede">{{ section.content | safe }}</div></article>
+<ul class="cards">{% for path in section.subsections %}{% set child = get_section(path=path) %}<li>{% if child.extra.soon | default(value=false) %}<span class="link-card is-coming-soon" aria-disabled="true"><span>{{ child.extra.emoji }} {{ child.title }}</span><span class="soon">soon</span></span>{% else %}<a class="link-card" href="{{ child.permalink }}"><span>{{ child.extra.emoji }} {{ child.title }}</span><span aria-hidden="true">↗</span></a>{% endif %}</li>{% endfor %}</ul>
 {% endblock content %}

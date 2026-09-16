@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2017-11-11
-state: done
 title: Discipline
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Discipline
 
 Main endolorie <br>
 Dos bloqué <br>

@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: Demoiselles mondaines
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Demoiselles mondaines
 
 Les petites bourgeoises s'amusent <br>
 Elles sont belles, mes muses <br>

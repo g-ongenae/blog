@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2017-11-24
-state: done
 title: Dave
-suite: StoryTime
+extra:
+  state: done
+  suite: StoryTime
+  lang: fr
 ---
-# Dave
 
 Pff.
 

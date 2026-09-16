@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2017-01-01
-state: done
 title: Lendemain
-suite: Briques
-type: short
+extra:
+  state: done
+  suite: Briques
+  type: short
+  lang: fr
 ---
-# Lendemain
 
 Le compte à rebours de la nouvelle année résonnait dans toutes les têtes. Cette année se terminait.
 

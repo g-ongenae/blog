@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-07-07
-state: done
 title: Des Visages
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Des Visages
 
 Je m’amuse ? <br>
 Non, tu fais comme le géant <br>

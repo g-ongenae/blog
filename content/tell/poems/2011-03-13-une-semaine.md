@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2011-03-13
-state: done
 title: Une Semaine
-location: Le Fresne
-favorite: true
+extra:
+  state: done
+  location: Le Fresne
+  favorite: true
+  lang: fr
 ---
-# Une Semaine
 
 Dimanche, cette jeune fille fut bénie. <br>
 Son enfance fut bien heureuse et sans ennui. <br>

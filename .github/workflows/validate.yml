@@ -17,5 +17,9 @@ jobs:
         with:
           tool: zola@0.19.1
       - uses: actions/checkout@v6
+      - run: python3 -m pip install -r requirements-build.txt
+      - run: make generate
       - run: zola check
-      - run: zola build --output-dir /tmp/build
+      - run: zola build
+      - run: node scripts/test-router.mjs
+      - run: python3 scripts/check-tree.py

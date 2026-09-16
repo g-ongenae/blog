@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: Si je devais être pris de court
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
+
 Si je devais être pris de court <br>
 Je brûlerais tous mes papiers en cours <br>
 Je jouierais d'un bel autodafé <br>

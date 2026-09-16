@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2014-06-15
-state: done
 title: Le Voleur aux mains propres
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# Le Voleur aux mains propres
 
 Je suis un voleur.
 

@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-07-19
-state: done
 title: Délicatesse masculine
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Délicatesse masculine
 
 Avec vous, nous sommes <br>
 Comment vous aider <br>

@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2020-03-20
-state: draft
 title: Sériosite
-type: short
+extra:
+  state: draft
+  type: short
+  lang: fr
 ---
-# Sériosite
 
 ## Notes
 

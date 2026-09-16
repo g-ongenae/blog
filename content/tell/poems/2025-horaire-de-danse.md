@@ -1,9 +1,11 @@
 ---
-lang: fr
 date: 2025-01-01
-state: done
 title: Horaire de danse ?
+extra:
+  state: done
+  lang: fr
 ---
+
 Le Lindy hopper <br>
 Est souvent à l'heure
 

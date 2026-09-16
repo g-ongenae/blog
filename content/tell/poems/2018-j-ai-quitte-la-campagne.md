@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: J'ai quitté la campagne
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
+
 J'ai quitté la campagne <br>
 Pour trouver dans la ville <br>
 Une nouvelle compagne <br>

@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2016-11-02
-state: done
 title: La Nuit
-suite: Briques
-type: short
+extra:
+  state: done
+  suite: Briques
+  type: short
+  lang: fr
 ---
-# La Nuit
 
 La nuit, le froid glaçait les vitres des voitures, vides. Le ciel sombre, sans étoile, était seulement perturbé par quelques projecteurs public.
 

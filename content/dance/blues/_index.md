@@ -1,9 +1,6 @@
 ---
+title: Blues
 ---
-
-# Blues
-
-
 
 ## History
 

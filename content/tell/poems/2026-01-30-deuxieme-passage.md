@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2026-01-30
-state: done
 title: Deuxième passage
-location: Dresden
+extra:
+  state: done
+  location: Dresden
+  lang: fr
 ---
+
 Deuxième passage <br>
 Revisite à un autre âge <br>
 Poser un œil nouveau <br>

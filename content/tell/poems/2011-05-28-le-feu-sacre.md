@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-05-28
-state: done
 title: Le Feu sacré
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Le Feu sacré
 
 Ô, je perds le feu sacré, <br>
 Pourquoi voles-tu mes biens ? <br>

@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2017-05-09
-state: done
 title: J'essaye de ne pas y penser
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
+
 J'essaye de ne pas y penser <br>
 Ce nouveau chapitre qui commence <br>
 Me laisse plein d'espérance <br>

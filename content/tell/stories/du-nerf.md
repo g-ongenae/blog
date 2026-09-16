@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2014-06-15
-state: done
 title: Du Nerf
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# Du Nerf
 
 Depuis toujours, j'essaie de garder mon sang-froid quelque-soit la situation. Que je sois devant un public nerveux ou un pickpocket maladroit.
 

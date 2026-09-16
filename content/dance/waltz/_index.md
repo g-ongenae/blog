@@ -1,9 +1,6 @@
 ---
+title: Waltz
 ---
-
-# Waltz
-
-
 
 ## History
 

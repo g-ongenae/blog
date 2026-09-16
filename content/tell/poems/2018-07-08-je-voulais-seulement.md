@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-06-08
-state: done
 title: Je voulais seulement
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Je voulais seulement
 
 Je voulais seulement
 

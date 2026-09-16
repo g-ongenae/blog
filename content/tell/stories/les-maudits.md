@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Les Maudits
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# Les Maudits
 
 Les toits de la ville faisaient résonner la pluie comme une armée de tambour. Le vent soufflait fort dans les ruelles. Des sacs plastiques volaient de part et d'autres. Les chats, les rats et les souris s'étaient réfugiés dans les lieux puants des solitaires. Les gens couraient ou marchaient vite sous leur parapluie.
 

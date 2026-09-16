@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-09-29
-state: done
 title: Hésitation
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Hésitation
 
 Hésitation <br>
 Début de la tristesse <br>

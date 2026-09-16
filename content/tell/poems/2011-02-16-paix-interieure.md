@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2011-02-16
-state: done
 title: Paix intérieure
-location: Le Fresne
-favorite: true
+extra:
+  state: done
+  location: Le Fresne
+  favorite: true
+  lang: fr
 ---
-# Paix intérieure
 
 Je voudrais fuir ce pays plein de souffrance <br>
 Pour un autre où tout serait joie <br>

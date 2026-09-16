@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2016-10-12
-state: done
 title: Rêve
-suite: Briques
-type: short
+extra:
+  state: done
+  suite: Briques
+  type: short
+  lang: fr
 ---
-# Rêve
 
 Un garçon allongé, les yeux fermés, dans son lit, gigotait.
 

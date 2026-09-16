@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2015-04-26
-state: done
 title: J'ai peur
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# J'ai peur
 
 Hier, j'ai raconté mon rêve à mon meilleur ami. Il a été impressionné, je crois. Mais plus que la surprise, c'était le plaisir que j'ai lu dans ses yeux.
 

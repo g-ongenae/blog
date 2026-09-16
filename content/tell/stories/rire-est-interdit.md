@@ -1,14 +1,11 @@
 ---
----
-
-﻿---
-lang: fr
 date: 2023-04-23
 title: Rire est interdit
-state: draft
-type: short
+extra:
+  state: draft
+  type: short
+  lang: fr
 ---
-# Rire est interdit
 
 ## Chapitre 1
 

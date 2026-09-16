@@ -1,12 +1,14 @@
 ---
-lang: fr
 date: 2015-08-12
-state: done
 title: Sur la route - _inspired by [@cully_kamisugi](https://www.instagram.com/cully_kamisugi/)_
-location: Lille
-suite: IG Inspired
-type: short
+extra:
+  state: done
+  location: Lille
+  suite: IG Inspired
+  type: short
+  lang: fr
 ---
+
 Me revoilà sur cette route.
 
 Cela fait des années que je n'étais pas revenu, ici.

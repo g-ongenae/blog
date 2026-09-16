@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2017-04-22
-state: done
 title: Mentir, se mentir
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
+
 Mentir, se mentir <br>
 Être triste, en pâtir <br>
 Forcer un sourire <br>

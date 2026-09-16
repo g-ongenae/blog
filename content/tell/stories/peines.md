@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-10-04
-state: done
 title: Peines
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# Peines
 
 ## Acouphène
 

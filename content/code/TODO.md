@@ -1,7 +1,6 @@
 ---
+draft: true
 ---
-
-# TODO
 
 Ideas to write about:
 

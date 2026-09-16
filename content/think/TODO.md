@@ -1,7 +1,6 @@
 ---
+draft: true
 ---
-
-# TODO
 
 ## To Write
 

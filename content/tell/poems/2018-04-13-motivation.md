@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-04-13
-state: done
 title: Motivation
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Motivation
 
 Rage de conquérir <br>
 Désir de séduire <br>

@@ -1,14 +1,11 @@
 ---
----
-
-﻿---
-lang: fr
 date: 2025-08-20
 title: Le papi qui voulait être papa
-state: draft
-type: short
+extra:
+  state: draft
+  type: short
+  lang: fr
 ---
-# Le papi qui voulait être papa
 
 Paul était de bonne humeur, cette journée à la boutique Nomadeshop n'avait jamais été aussi rentable depuis une décennie. Trois jours d'affiler que les ventes ne faisaient que monter. L'effet des Jeux Olympiques de Paris 2024 portait ses fruits. Bien que cela faisait près d'un an que les jeux étaient fini, le retour des beaux jours — et même de la canicule — avait redonné envie aux gens de s'essayer au skating que ce soit sur patins ou sur planche.
 

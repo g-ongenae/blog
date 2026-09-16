@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2016-10-26
-state: done
 title: Le Train
-suite: Briques
-type: short
+extra:
+  state: done
+  suite: Briques
+  type: short
+  lang: fr
 ---
-# Le Train
 
 Un jeune garçon assis sur un banc public dans une station de métro regardait les wagons passés les uns après les autres. Le bruit des roues, qui glissaient et heurtaient – les imperfections du métal – contre les rails, résonnait en lui.
 

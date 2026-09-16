@@ -1,12 +1,14 @@
 ---
-lang: fr
 date: 2015-08-14
-state: done
 title: La sirène - _inspired by [@driftingpixels](https://www.instagram.com/driftingpixels/)_
-location: Lille
-suite: IG Inspired
-type: short
+extra:
+  state: done
+  location: Lille
+  suite: IG Inspired
+  type: short
+  lang: fr
 ---
+
 Un jour, j'ai rencontré une sirène.
 
 J'ai toujours cru que si elles existaient, elles ressembleraient à des créatures mi-femme, mi-poisson. Mais je me trompais complètement. Elles nous ressemblent beaucoup plus que l'on aurais pu l'imaginer. Certes elles partagent des caractéristiques avec les poissons comme le sang froid, les pieds palmés, la peau plus solides que la notre et la bien entendu la capacité à respirer sous l'eau grâce à leurs trachées et branchies.

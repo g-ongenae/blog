@@ -1,10 +1,10 @@
 ---
-lang: en
 date: 2023-08-25
-state: draft
 title: Shit Story
+extra:
+  state: draft
+  lang: en
 ---
-# Shit Story
 
 ## Asshole
 

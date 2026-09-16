@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-09-18
-state: done
 title: L'Écriture impossible
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# L'Écriture impossible
 
 Entre amour de la littérature <br>
 Et difficulté de langage, <br>

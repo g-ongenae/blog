@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Compris
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Compris
 
 Vauban m’instruit <br>
 Vauban m’entraine <br>

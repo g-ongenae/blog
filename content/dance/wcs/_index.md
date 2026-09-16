@@ -1,9 +1,6 @@
 ---
+title: West Coast Swing
 ---
-
-# West Coast Swing
-
-
 
 ## History
 

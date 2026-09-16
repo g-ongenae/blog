@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: draft
 title: Aujourd'hui est un grand jour
-location: Cergy
+extra:
+  state: draft
+  location: Cergy
+  lang: fr
 ---
+
 Aujourd'hui est un grand jour <br>
 Je vais enfin savoir par cœur <br>
 Le poids de la lumière du jour <br>

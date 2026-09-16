@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: La Victoire de Samothrace
-location: Musée du Louvre, Paris
-favorite: true
+extra:
+  state: done
+  location: Musée du Louvre, Paris
+  favorite: true
+  lang: fr
 ---
-# La Victoire de Samothrace
 
 Nous l'avons suivie <br>
 Pour notre survie <br>

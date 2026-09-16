@@ -1,7 +1,9 @@
 ---
+weight: 2
+extra:
+  emoji: 🗣️
+title: Languages
 ---
-
-# 🗣️ Languages
 
 Here is the languages I speak:
 

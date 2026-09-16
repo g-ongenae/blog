@@ -1,11 +1,11 @@
 ---
-lang: en
 date: 2025-01-01
-state: done
 title: Simple life
-favorite: true
+extra:
+  state: done
+  favorite: true
+  lang: en
 ---
-# Simple life
 
 🛝 <br>
 As a teen, life is simple <br>

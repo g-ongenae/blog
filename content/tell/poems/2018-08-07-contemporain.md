@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-08-07
-state: done
 title: Contemporain
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Contemporain
 
 Il faut vivre avec son temps <br>
 Me répète-t-on encore <br>

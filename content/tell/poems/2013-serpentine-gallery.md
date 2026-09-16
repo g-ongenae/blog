@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Serpentine Gallery
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Serpentine Gallery
 
 Je ne ressens plus rien <br>
 Un miroir ne me dépeint plus <br>

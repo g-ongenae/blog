@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2025-08-09
-state: done
 title: Carte postale n° 2
-location: St Étienne sur Cantalès
+extra:
+  state: done
+  location: St Étienne sur Cantalès
+  lang: fr
 ---
+
 Hello hello la famille <br>
 Me voici à l'eau. À l'eau ! <br>
 Tentez pas « Allô ? Allô ! » <br>

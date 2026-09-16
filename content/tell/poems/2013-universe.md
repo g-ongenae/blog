@@ -1,11 +1,11 @@
 ---
-lang: en
 date: 2013-01-01
-state: done
 title: Universe
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: en
 ---
-# Universe
 
 In general people baptize him God, <br>
 But some people identify him different. <br>

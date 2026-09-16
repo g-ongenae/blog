@@ -1,9 +1,11 @@
 ---
-lang: fr
 date: 2018-01-01
-state: draft
 title: Que veux-tu que je te dise ?
-location: Cergy
+extra:
+  state: draft
+  location: Cergy
+  lang: fr
 ---
+
 Que veux-tu que je te dise ? <br>
 Je ne fais que des bêtises

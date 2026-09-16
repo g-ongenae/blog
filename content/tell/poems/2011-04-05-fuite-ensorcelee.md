@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-04-05
-state: done
 title: Fuite ensorcelée
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Fuite ensorcelée
 
 Je veux fuir cette détresse <br>
 Pour ce monde de tendresse. <br>

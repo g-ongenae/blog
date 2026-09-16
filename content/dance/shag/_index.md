@@ -1,9 +1,6 @@
 ---
+title: Collegiate Shag
 ---
-
-# Collegiate Shag
-
-
 
 ## History
 

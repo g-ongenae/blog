@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2010-10-25
-state: done
 title: L'Immortel Ennemi
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# L’Immortel Ennemi
 
 L’ennemi de l’écrivain : <br>
 C’est la page blanche <br>

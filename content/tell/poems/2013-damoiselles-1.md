@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: Damoiselles
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Damoiselles
 
 _À la charmante Gabrielle,_ <br>
 _À cette belle inconnue_

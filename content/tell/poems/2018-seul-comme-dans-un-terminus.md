@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: draft
 title: Seul comme dans un terminus
-location: Cergy
+extra:
+  state: draft
+  location: Cergy
+  lang: fr
 ---
+
 Seul comme dans un terminus <br>
 J'attends l'arrivé du bus <br>
 Il vient, s'arrête, le chauffeur ouvre <br>

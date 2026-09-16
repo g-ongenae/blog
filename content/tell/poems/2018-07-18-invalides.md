@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-07-18
-state: done
 title: Invalides
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Invalides
 
 Suisse ou Bourbon <br>
 De qui se sent-on <br>

@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2011-03-08
-state: done
 title: Désespoir - _subject chosen by Jordy M_
-location: Le Fresne
-favorite: true
+extra:
+  state: done
+  location: Le Fresne
+  favorite: true
+  lang: fr
 ---
-# Désespoir
 
 J’avais plein d’espoir <br>
 Mais tu m’as quitté <br>

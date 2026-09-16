@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: draft
 title: Bien chère demoiselle
-location: Cergy
+extra:
+  state: draft
+  location: Cergy
+  lang: fr
 ---
+
 Bien chère demoiselle <br>
 Bien belle hirondelle <br>
 Vous m'avez fait signe <br>

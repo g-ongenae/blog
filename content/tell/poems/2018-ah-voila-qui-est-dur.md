@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: draft
 title: Ah ! Voilà qui est dur
-location: Cergy
+extra:
+  state: draft
+  location: Cergy
+  lang: fr
 ---
+
 Ah ! Voilà qui est dur <br>
 Je ne suis point mûr <br>
 Pour faire un poème pur

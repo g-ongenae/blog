@@ -1,12 +1,14 @@
 ---
-lang: fr
 date: 2015-08-09
-state: done
 title: La porte de la maison - _inspired by [@gettyphotography](https://www.instagram.com/gettyphotography)_
-location: Lille
-suite: IG Inspired
-type: short
+extra:
+  state: done
+  location: Lille
+  suite: IG Inspired
+  type: short
+  lang: fr
 ---
+
 Me voici à la porte de ma nouvelle maison. Vous devez penser “Ah ! quel chanceux, une grande maison à la campagne pour lui tous seul”.
 
 Malheureusement, vous avez tort, ce n'est pas réellement “MA” maison, c'est la maison de mes maîtres.

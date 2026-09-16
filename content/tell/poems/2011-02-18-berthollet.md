@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2011-02-18
-state: done
 title: Berthollet
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
+
 Berthollet <br>
 Le grand rugbyman <br>
 S’est pris un tollé <br>

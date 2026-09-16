@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2023-09-02
-state: done
 title: Deux secondes
-suite: Rien à déclarer
+extra:
+  state: done
+  suite: Rien à déclarer
+  lang: fr
 ---
-# Deux secondes
 
 — Oh, bah, c'est bon j'arrive, hurla-t-elle à la sonnette qui ne cessait de retentir.
 

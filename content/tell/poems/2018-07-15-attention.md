@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-07-15
-state: done
 title: Attention
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Attention
 
 Propos échangées <br>
 Opinions contradictoires <br>

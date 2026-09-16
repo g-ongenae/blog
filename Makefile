@@ -2,7 +2,7 @@
 ZOLA_VERSION ?= 0.19.1
 ZOLA_INSTALL_DIR ?= /usr/local/bin
 
-.PHONY: install build serve
+.PHONY: install build generate tree serve sync-terminal
 
 install:
 	@set -eu; \
@@ -23,11 +23,21 @@ install:
 	sudo install --mode 0755 "$$tmp_dir/zola" "$(ZOLA_INSTALL_DIR)/zola"; \
 	"$(ZOLA_INSTALL_DIR)/zola" --version
 
-build:
+generate:
 	cd content/tell && bash ../../scripts-build-tell.sh
+	$(MAKE) tree
+
+tree:
+	python3 scripts/build-tree.py
+
+build: generate
+	zola build
+
+sync-terminal:
+	cp ../g-ongenae.github.io/src/terminal.js static/terminal.js
 
 # Serve on all network interfaces so other devices on the LAN can connect.
 # Open http://<this-computer-local-ip>:1111 from the other computer.
-serve: build
+serve: generate
 	@mkdir -p public
 	zola serve --interface 0.0.0.0 --port 1111 --base-url /

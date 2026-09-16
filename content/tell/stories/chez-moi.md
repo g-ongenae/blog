@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2015-04-25
-state: done
 title: Chez moi
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# Chez moi
 
 ## À la tombée de la nuit
 

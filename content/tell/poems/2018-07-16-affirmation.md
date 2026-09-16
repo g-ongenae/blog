@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2018-07-16
-state: done
 title: Affirmation
-location: Cergy
+extra:
+  state: done
+  location: Cergy
+  lang: fr
 ---
-# Affirmation
 
 Oui, je m’affirme <br>
 J’ai mes opinions <br>

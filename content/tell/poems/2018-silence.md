@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: done
 title: Silence
-location: Cergy
-favorite: true
+extra:
+  state: done
+  location: Cergy
+  favorite: true
+  lang: fr
 ---
-# Silence
 
 Saches que tu me courres sur le haricot <br>
 Que pour moi tes mots <br>

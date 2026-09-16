@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2016-10-12
-state: done
 title: Qui a éteint la lumière ?
-type: short
+extra:
+  state: done
+  type: short
+  lang: fr
 ---
-# Qui a éteint la lumière ?
 
 Mathias était dans son lit entrain de regarder le dernier podcast de son YouTubeur préféré. Le Soleil avait laissé place à la Lune depuis quelques heures et après avoir regardé quelques séries, lu un ou deux scans, sur son ordinateur, il avait décidé de se coucher.
 

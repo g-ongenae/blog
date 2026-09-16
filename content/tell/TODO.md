@@ -1,7 +1,6 @@
 ---
+draft: true
 ---
-
-# TODO
 
 - Create a build script to generate the README
 - Add my poems

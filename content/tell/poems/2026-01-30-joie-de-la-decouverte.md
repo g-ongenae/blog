@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2026-01-30
-state: done
 title: Joie de la découverte
-location: Dresden
+extra:
+  state: done
+  location: Dresden
+  lang: fr
 ---
+
 Joie de la découverte <br>
 Des possibilités et voies ouvertes <br>
 Les yeux en émoi <br>

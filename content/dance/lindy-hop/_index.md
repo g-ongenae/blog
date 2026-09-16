@@ -1,9 +1,6 @@
 ---
+title: Lindy Hop
 ---
-
-# Lindy Hop
-
-
 
 ## History
 

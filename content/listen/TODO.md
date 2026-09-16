@@ -1,7 +1,6 @@
 ---
+draft: true
 ---
-
-# TODO
 
 - List my history in musics
 - List my instruments

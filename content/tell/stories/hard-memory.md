@@ -1,14 +1,11 @@
 ---
----
-
-﻿---
-lang: fr
 title: Hard Memory
-state: draft
 date: 2023-08-15
-type: short
+extra:
+  state: draft
+  type: short
+  lang: fr
 ---
-# Hard memory
 
 ## Chapitre 1
 

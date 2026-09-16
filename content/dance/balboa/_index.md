@@ -1,9 +1,6 @@
 ---
+title: Balboa
 ---
-
-# Balboa
-
-
 
 ## History
 

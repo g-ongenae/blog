@@ -1,12 +1,12 @@
 ---
-lang: fr
 date: 2013-01-01
-state: done
 title: À la bonne heure
-location: Lille
-favorite: true
+extra:
+  state: done
+  location: Lille
+  favorite: true
+  lang: fr
 ---
-# À la bonne heure
 
 Heureux d’être arrivé de bonne heure <br>
 Pour voir cette belle fleur <br>

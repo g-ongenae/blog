@@ -1,10 +1,12 @@
 ---
-lang: fr
 date: 2018-01-01
-state: draft
 title: Quelques briques
-location: Paris 13
+extra:
+  state: draft
+  location: Paris 13
+  lang: fr
 ---
+
 Quelques briques <br>
 Font augure de pierre d'antan <br>
 Noyé dans ce béton pesant <br>

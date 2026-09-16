@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2011-03-10
-state: done
 title: Acrostiche
-location: Le Fresne
+extra:
+  state: done
+  location: Le Fresne
+  lang: fr
 ---
-# Acrostiche
 
 Bats-toi <br>
 Avec moi <br>

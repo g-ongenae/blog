@@ -1,11 +1,11 @@
 ---
-lang: fr
 date: 2016-11-25
-state: done
 title: Sur Tinder
-location: Lille
+extra:
+  state: done
+  location: Lille
+  lang: fr
 ---
-# Sur Tinder
 
 Gros connard qui ne pense qu’à lui <br>
 À ses muscles et ton p’tit cul tout cuit <br>

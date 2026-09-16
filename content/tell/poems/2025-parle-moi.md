@@ -1,9 +1,11 @@
 ---
-lang: fr
 date: 2025-01-01
-state: draft
 title: Parle-moi
+extra:
+  state: draft
+  lang: fr
 ---
+
 Parle-moi <br>
 Laisse ta grammaire de côté <br>
 Dis-moi les mots que tu connais <br>
