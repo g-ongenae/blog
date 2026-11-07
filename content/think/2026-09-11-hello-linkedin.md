@@ -3,7 +3,7 @@ date: 2026-09-11
 title: Hello LinkedIn, ça va ?
 extra:
   lang: fr
-  link: https://lnkd.in/p/etfw4Tpu
+  link: https://www.linkedin.com/feed/update/urn:li:activity:7504131998643392512/
 ---
 Hello LinkedIn, ça va ?
 

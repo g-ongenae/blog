@@ -3,7 +3,7 @@ date: 2026-10-09
 title: Et vous, vous commencez comment vos posts LinkedIn ?
 extra:
   lang: fr
-  link: https://lnkd.in/p/eWPAR9jq
+  link: https://www.linkedin.com/feed/update/urn:li:activity:7514222019215769600/
   ai-assisted: true
 ---
 

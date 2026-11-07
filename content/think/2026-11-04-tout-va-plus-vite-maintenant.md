@@ -3,7 +3,7 @@ date: 2026-11-04
 title: Tout va plus vite maintenant.
 extra:
   lang: fr
-  link: https://lnkd.in/p/e3DwZiwy
+  link: https://www.linkedin.com/feed/update/urn:li:activity:7523678150724206593/
 ---
 𝗧𝗼𝘂𝘁 𝘃𝗮 𝗽𝗹𝘂𝘀 𝘃𝗶𝘁𝗲 𝗺𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝘁.
 

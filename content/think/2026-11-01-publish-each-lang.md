@@ -3,7 +3,7 @@ date: 2026-11-01
 title: Publish in each language?
 extra:
   lang: fr
-  link: https://lnkd.in/p/euDRz2uZ
+  link: https://www.linkedin.com/feed/update/urn:li:activity:7522649759627784193/
 ---
 Publier un post une fois par langue, bonne ou mauvaise idée ?
 

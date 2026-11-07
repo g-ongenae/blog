@@ -3,7 +3,7 @@ date: 2026-10-21
 title: Une image vaut mille mots.
 extra:
   lang: fr
-  link: https://lnkd.in/p/evywpHPX
+  link: https://www.linkedin.com/feed/update/urn:li:activity:7518723218380193792/
   ai-assisted: true
 ---
 

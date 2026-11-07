@@ -3,7 +3,7 @@ date: 2026-10-29
 title: Heureusement que je suis célibataire
 extra:
   lang: fr
-  link: https://lnkd.in/p/eF7N8jwc
+  link: https://www.linkedin.com/feed/update/urn:li:activity:7521628105992671232/
   ai-assisted: true
 ---
 Heureusement que je suis célibataire parce que sinon elle m'aurait déjà quitté.

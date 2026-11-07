@@ -3,7 +3,7 @@ date: 2026-10-23
 title: C'est vendredi… quota Claude consommé !
 extra:
   lang: fr
-  link: https://lnkd.in/p/eT6tyi8U
+  link: https://www.linkedin.com/feed/update/urn:li:activity:7519377575102763009/
 ---
 
 C'est vendredi… quota Claude consommé !

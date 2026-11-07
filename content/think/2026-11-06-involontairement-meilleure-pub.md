@@ -3,7 +3,7 @@ date: 2026-11-06
 title: 𝗝'𝗮𝗶 𝗶𝗻𝘃𝗼𝗹𝗼𝗻𝘁𝗮𝗶𝗿𝗲𝗺𝗲𝗻𝘁 𝗳𝗮𝗶𝘁 𝗹𝗮 𝗺𝗲𝗶𝗹𝗹𝗲𝘂𝗿𝗲 𝗽𝘂𝗯 𝗽𝗼𝘂𝗿 𝗺𝗮 𝗯𝗼𝗶𝘁𝗲.
 extra:
   lang: fr
-  link: https://lnkd.in/p/eSYQK265
+  link: https://www.linkedin.com/feed/update/urn:li:activity:7524421656413478912/
 ---
 **𝗝'𝗮𝗶 𝗶𝗻𝘃𝗼𝗹𝗼𝗻𝘁𝗮𝗶𝗿𝗲𝗺𝗲𝗻𝘁 𝗳𝗮𝗶𝘁 𝗹𝗮 𝗺𝗲𝗶𝗹𝗹𝗲𝘂𝗿𝗲 𝗽𝘂𝗯 𝗽𝗼𝘂𝗿 𝗺𝗮 𝗯𝗼𝗶𝘁𝗲.**
 

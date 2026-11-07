@@ -3,7 +3,7 @@ date: 2026-11-06
 title: 𝗜 𝗶𝗻𝘃𝗼𝗹𝘂𝗻𝘁𝗮𝗿𝗶𝗹𝘆 𝗺𝗮𝗱𝗲 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗮𝗱 𝗳𝗼𝗿 𝗺𝘆 𝗰𝗼𝗺𝗽𝗮𝗻𝘆.
 extra:
   lang: en
-  link: https://lnkd.in/p/eT6tyi8U
+  link: https://www.linkedin.com/feed/update/urn:li:activity:7524425360281751552/
 ---
 𝗜 𝗶𝗻𝘃𝗼𝗹𝘂𝗻𝘁𝗮𝗿𝗶𝗹𝘆 𝗺𝗮𝗱𝗲 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗮𝗱 𝗳𝗼𝗿 𝗺𝘆 𝗰𝗼𝗺𝗽𝗮𝗻𝘆.
 

@@ -3,7 +3,7 @@ date: 2026-10-06
 title: Avoir un junior, c'est cool.
 extra:
   lang: fr
-  link: https://lnkd.in/p/enB66Wkb
+  link: https://www.linkedin.com/feed/update/urn:li:activity:7513168739874533377/
   ai-assisted: true
 ---
 
