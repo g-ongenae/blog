@@ -18,7 +18,7 @@ Elle n’est pas défaitiste
 Si elles pouvaient toutes <br>
 Te ressembler plus de joutes
 
-Oh ma muse, tu m’amuse <br>
+Oh ma muse, tu m’amuses <br>
 Vit, bat, rien ne t’use
 
 Et même après 3 mil ans <br>

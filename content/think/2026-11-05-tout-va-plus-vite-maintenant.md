@@ -8,7 +8,7 @@ link: https://lnkd.in/p/e3DwZiwy
 Hier, je voyais une publication de Louis Dauvois 🟦 rapportant la situation catastrophique de Pipedrive, un des CRM les plus utilisés dans le monde.
 (Première fois que j'en entends parler perso 😅, on jira que j'ai notion…)
 
-Paulo Cunha, le CEO de Pipedrive, accuse sa perte de traffic, et donc de clients, à l'IA et force celui-ci à engager un licenciement massif de leur personnel.
+Paulo Cunha, le CEO de Pipedrive, accuse sa perte de trafic, et donc de clients, à l'IA et force celui-ci à engager un licenciement massif de leur personnel.
 
 Louis Dauvois conclut : 
 
@@ -24,9 +24,9 @@ Des milliers de "typo squatteurs" qui profitaient d'un trou dans la rackette du 
 Par exemple, quand Google crée Google Flights, cela met en danger Kayak, Expedia et lastminute.
 
 Cependant, comme on le voit dans mon graphe, c'est une tendance lente, presque douce.
-Google Flights a décollé depuis 2011 et les concurrents ne se sont pas encore totalement crachés, 15 ans après.
+Google Flights a décollé depuis 2011 et les concurrents ne se sont pas encore totalement crashés, 15 ans après.
 
 En comparaison, ChatGPT est sorti en 2023, il y a à peine 3 ans et voilà Pipedrive déjà en fin de course.
 
-Depuis quelques semaines, je ne compte les « 𝘪𝘭 𝘧𝘢𝘶𝘵 𝘲𝘶'𝘰𝘯 𝘢𝘤𝘤𝘦́𝘭𝘦̀𝘳𝘦 ».
+Depuis quelques semaines, je ne compte plus les « 𝘪𝘭 𝘧𝘢𝘶𝘵 𝘲𝘶'𝘰𝘯 𝘢𝘤𝘤𝘦́𝘭𝘦̀𝘳𝘦 ».
 Ceux qui le répètent le savent, le destin de Pipedrive n'est pas un mauvais pipedream, c'est une réalité qui nous court tous après.
