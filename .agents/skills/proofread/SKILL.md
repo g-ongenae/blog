@@ -6,7 +6,7 @@ description: Use when the user wants to proofread a text.
 # Proofread
 
 Spelling and grammar pass over the author's texts in `content/` (`tell/poems`,
-`tell/stories`, `think`). Texts are mostly French, some English. The goal is
+`tell/stories`, `think`, `code`). Texts are mostly French, some English. The goal is
 correct text in the author's own voice, never a rewrite.
 
 Read [deliberate-choices.md](deliberate-choices.md) first. Nothing listed there

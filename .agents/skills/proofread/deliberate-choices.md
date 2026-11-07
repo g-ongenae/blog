@@ -20,10 +20,10 @@ them, and don't flag them again. Add new ones after each review.
 | `tell/poems/2017-04-29-campagne.md` | « Les premières voix résonnées » | Verb omitted on purpose (« ont résonné »). |
 | `tell/poems/2010-10-25-l-immortel-ennemi.md` | « quand tout est mis » | Means "when everything is written down". |
 | `tell/poems/2018-silence.md` | « prêt de rompre » | Means "close to breaking". |
-| `think/2026-11-05-tout-va-plus-vite-maintenant.md` | « rackette » | Pun on racketeering: the giant is no angel. |
-| `think/2026-11-05-tout-va-plus-vite-maintenant.md` | ChatGPT « sorti en 2023 » | Date tweaked on purpose; a PS says so. |
-| `think/2026-10-25-vendredi-quota.md` | « non-artificielle », « non-vocale » | Hyphenated compound used as one adjective. |
-| `think/2026-10-18-hier-mon-pc.md` | « Ce ne m’était pas arrivé » | On purpose. |
+| `think/2026-11-04-tout-va-plus-vite-maintenant.md` | « rackette » | Pun on racketeering: the giant is no angel. |
+| `think/2026-11-04-tout-va-plus-vite-maintenant.md` | ChatGPT « sorti en 2023 » | Date tweaked on purpose; a PS says so. |
+| `code/2026-10-23-vendredi-quota.md` | « non-artificielle », « non-vocale » | Hyphenated compound used as one adjective. |
+| `code/2026-10-16-hier-mon-pc.md` | « Ce ne m’était pas arrivé » | On purpose. |
 
 ## Sound, rhyme and rhythm
 
