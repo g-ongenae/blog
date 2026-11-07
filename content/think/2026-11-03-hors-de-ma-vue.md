@@ -1,8 +1,9 @@
 ---
 title: Ôtez-moi ça de la vue !
-lang: fr
-link: https://lnkd.in/p/eSeNvrRU
-ai-assisted: true
+extra:
+  lang: fr
+  link: https://lnkd.in/p/eSeNvrRU
+  ai-assisted: true
 ---
 **Ôtez-moi ça de la vue !**
 

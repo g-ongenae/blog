@@ -1,7 +1,8 @@
 ---
 title: Hello LinkedIn, ça va ?
-lang: fr
-link: https://lnkd.in/p/etfw4Tpu
+extra:
+  lang: fr
+  link: https://lnkd.in/p/etfw4Tpu
 ---
 Hello LinkedIn, ça va ?
 

@@ -1,8 +1,9 @@
 ---
 title: Avoir un junior, c'est cool.
-lang: fr
-link: https://lnkd.in/p/enB66Wkb
-ai-assisted: true
+extra:
+  lang: fr
+  link: https://lnkd.in/p/enB66Wkb
+  ai-assisted: true
 ---
 
 Avoir un junior, c'est cool.

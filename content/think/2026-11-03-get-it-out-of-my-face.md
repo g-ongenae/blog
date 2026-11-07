@@ -1,8 +1,9 @@
 ---
 title: Get it out of my face!
-lang: en
-link: https://lnkd.in/p/eG6Dp_fD
-ai-assisted: true
+extra:
+  lang: en
+  link: https://lnkd.in/p/eG6Dp_fD
+  ai-assisted: true
 ---
 
 **Get it out of my face!**

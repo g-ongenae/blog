@@ -1,7 +1,8 @@
 ---
 title: Tout va plus vite maintenant.
-lang: fr
-link: https://lnkd.in/p/e3DwZiwy
+extra:
+  lang: fr
+  link: https://lnkd.in/p/e3DwZiwy
 ---
 𝗧𝗼𝘂𝘁 𝘃𝗮 𝗽𝗹𝘂𝘀 𝘃𝗶𝘁𝗲 𝗺𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝘁.
 

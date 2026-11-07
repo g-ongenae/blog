@@ -1,8 +1,9 @@
 ---
 title: L'outil que j'ai créé est déjà périmé. 😭
-lang: fr
-link: https://lnkd.in/p/eQG2BvaM
-ai-assisted: true
+extra:
+  lang: fr
+  link: https://lnkd.in/p/eQG2BvaM
+  ai-assisted: true
 ---
 L'outil que j'ai créé est déjà périmé. 😭
 

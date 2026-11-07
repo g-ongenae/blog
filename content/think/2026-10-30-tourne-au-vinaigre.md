@@ -1,8 +1,9 @@
 ---
 title: Je crois que je tourne au vinaigre.
-lang: fr
-link: https://lnkd.in/p/ea4QEgU3
-ai-assisted: true
+extra:
+  lang: fr
+  link: https://lnkd.in/p/ea4QEgU3
+  ai-assisted: true
 ---
 
 Je crois que je tourne au vinaigre.

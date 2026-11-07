@@ -1,8 +1,9 @@
 ---
 title: Hier, mon PC a crashé…
-lang: fr
-link: https://lnkd.in/p/eSkUXiF6
-ai-assisted: true
+extra:
+  lang: fr
+  link: https://lnkd.in/p/eSkUXiF6
+  ai-assisted: true
 ---
 
 Hier, mon PC a crashé…

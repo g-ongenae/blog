@@ -1,8 +1,9 @@
 ---
 title: Heureusement que je suis célibataire
-lang: fr
-link: https://lnkd.in/p/eF7N8jwc
-ai-assisted: true
+extra:
+  lang: fr
+  link: https://lnkd.in/p/eF7N8jwc
+  ai-assisted: true
 ---
 Heureusement que je suis célibataire parce que sinon elle m'aurait déjà quitté.
 

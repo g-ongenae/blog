@@ -1,8 +1,9 @@
 ---
 title: "Durée moyenne de visionnage : 1 min 48, pff… nul !"
-link: https://lnkd.in/p/eZrug_iP
-ai-assisted: true
-lang: fr
+extra:
+  lang: fr
+  link: https://lnkd.in/p/eZrug_iP
+  ai-assisted: true
 ---
 
 _« Durée moyenne de visionnage : 1 min 48, pff… nul ! »_

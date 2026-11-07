@@ -1,7 +1,8 @@
 ---
 title: Publish in each language?
-link: https://lnkd.in/p/euDRz2uZ
-lang: fr
+extra:
+  lang: fr
+  link: https://lnkd.in/p/euDRz2uZ
 ---
 Publier un post une fois par langue, bonne ou mauvaise idée ?
 

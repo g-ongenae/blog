@@ -1,8 +1,9 @@
 ---
 title: Et vous, vous commencez comment vos posts LinkedIn ?
-lang: fr
-link: https://lnkd.in/p/eWPAR9jq
-ai-assisted: true
+extra:
+  lang: fr
+  link: https://lnkd.in/p/eWPAR9jq
+  ai-assisted: true
 ---
 
 Et vous, vous commencez comment vos posts LinkedIn ?

@@ -1,8 +1,9 @@
 ---
 title: Une image vaut mille mots.
-lang: fr
-link: https://lnkd.in/p/evywpHPX
-ai-assisted: true
+extra:
+  lang: fr
+  link: https://lnkd.in/p/evywpHPX
+  ai-assisted: true
 ---
 
 Une image vaut mille mots.

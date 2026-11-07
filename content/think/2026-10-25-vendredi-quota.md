@@ -1,7 +1,8 @@
 ---
 title: C'est vendredi… quota Claude consommé !
-lang: fr
-link: https://lnkd.in/p/eT6tyi8U
+extra:
+  lang: fr
+  link: https://lnkd.in/p/eT6tyi8U
 ---
 
 C'est vendredi… quota Claude consommé !

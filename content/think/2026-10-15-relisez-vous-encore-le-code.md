@@ -1,8 +1,9 @@
 ---
 title: Relisez-vous encore le code que vous générez ?
-lang: fr
-link: https://lnkd.in/p/eSkUXiF6
-ai-assisted: true
+extra:
+  lang: fr
+  link: https://lnkd.in/p/eSkUXiF6
+  ai-assisted: true
 ---
 
 « Relisez-vous encore le code que vous générez ? »

@@ -1,7 +1,8 @@
 ---
 title: 𝗜 𝗶𝗻𝘃𝗼𝗹𝘂𝗻𝘁𝗮𝗿𝗶𝗹𝘆 𝗺𝗮𝗱𝗲 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗮𝗱 𝗳𝗼𝗿 𝗺𝘆 𝗰𝗼𝗺𝗽𝗮𝗻𝘆.
-lang: en
-link: https://lnkd.in/p/eT6tyi8U
+extra:
+  lang: en
+  link: https://lnkd.in/p/eT6tyi8U
 ---
 𝗜 𝗶𝗻𝘃𝗼𝗹𝘂𝗻𝘁𝗮𝗿𝗶𝗹𝘆 𝗺𝗮𝗱𝗲 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗮𝗱 𝗳𝗼𝗿 𝗺𝘆 𝗰𝗼𝗺𝗽𝗮𝗻𝘆.
 
