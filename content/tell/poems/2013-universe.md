@@ -9,7 +9,7 @@ extra:
 
 In general people baptize him God, <br>
 But some people identify him differently. <br>
-He is the thousand name men. <br>
+He is the thousand names man. <br>
 Romans christen her GAÏA. <br>
 Voltaire terms him the Big Architect. <br>
 Umberto Eco spells it Nature.
