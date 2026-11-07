@@ -21,8 +21,9 @@ Fix directly only what is unambiguous:
 - typos in `title:` (no other front-matter key).
 
 Never change wording, register, imagery, rhymes, meter, line breaks, `<br>`,
-stanza layout, slang or oral forms in dialogue, wordplay, LinkedIn Unicode
-bold/italic, links or facts.
+stanza layout, slang or oral forms in dialogue, wordplay, bold/italic markup,
+links or facts. Unicode bold/italic/strikethrough (𝗯𝗼𝗹𝗱) belongs to the
+`clean-unicode` skill.
 
 Flag instead of fixing when:
 
