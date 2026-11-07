@@ -20,4 +20,4 @@ Mais qu'au moins, ce soit dit
 On veut exister dans l'autre <br>
 Faire de son regard le nôtre <br>
 Point d'apôtre, seul un peu d'égo <br>
-Hait, adoré, cela nous est égaux
+Haï, adoré, cela nous est égaux

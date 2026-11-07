@@ -23,6 +23,6 @@ Au lieu de m'arrêter là, je viens de me lancer dans un nouveau projet, un que 
 
 Et je commence à en ressentir les effets à mon échelle : journées qui s'allongent, difficulté à décrocher, sommeil qui passe parfois au second plan.
 
-Le plus troublant, c'est que cette surconsommation est volontaire, voire même agréable
+Le plus troublant, c'est que cette surconsommation est volontaire, voire agréable
 
 Bref, ne faites pas comme moi, pensez à dormir

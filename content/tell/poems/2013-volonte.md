@@ -14,6 +14,6 @@ J’ai une bonne visée <br>
 Et, j’ai une bonne vue
 
 Je suis conscient des difficultés <br>
-Oui, Je vois clairement les efforts <br>
+Oui, je vois clairement les efforts <br>
 À donner pour réussir  mais, mais <br>
 Je suis incapable d’les fournir

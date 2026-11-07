@@ -10,4 +10,4 @@ extra:
 Soyons ivres toujours <br>
 Battons de nos ailes <br>
 L'orage qui accourt <br>
-Je vous protègerai de mon ~zèle~~
+Je vous protègerai de mon ~~zèle~~

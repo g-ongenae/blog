@@ -9,5 +9,5 @@ extra:
 
 Journée sombre <br>
 Attaqué par un chibre <br>
-Un neveu, un quetard <br>
+Un neveu, un queutard <br>
 Cela arriverait tôt ou tard

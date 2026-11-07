@@ -13,9 +13,9 @@ M’a fait contracter une maladie <br>
 La maladie d’amour
 
 Quand tes beaux yeux bleus <br>
-D’une profondeur esquisse <br>
+D’une profondeur exquise <br>
 Se plongent dans les miens <br>
-Tous fatigués tous cernés <br>
+Tout fatigués tout cernés <br>
 Portant de lourdes poches <br>
 Mon cœur se met à frémir d’amour
 

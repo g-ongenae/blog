@@ -5,8 +5,8 @@ link: https://lnkd.in/p/etfw4Tpu
 ---
 Hello LinkedIn, ça va ?
 
-J'ai jamais posté ici, donc je me demande :
-Es-tu intéressé de savoir ce que j'ai à dire ?
+Je n'ai jamais posté ici, donc je me demande :
+Es-tu curieux de savoir ce que j'ai à dire ?
 
 - 👍 « Oui bien sûr, exprime-toi, bg ! »
 - 👏 « Bravo, chef, dis-le plus fort ! »

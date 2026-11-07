@@ -8,7 +8,7 @@ extra:
 ---
 
 Si mes propos vous choquent <br>
-C’est que vous ne lui avez pas compris <br>
+C’est que vous ne les avez pas compris <br>
 C’est pourquoi je les écris <br>
 C’est le temps qui m’interloque
 

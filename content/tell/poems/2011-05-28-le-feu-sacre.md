@@ -21,6 +21,6 @@ Pour toi j’ai tout essayé. <br>
 Aujourd’hui, un sonnetin <br>
 M’est, sans toi, possible en vain,
 
-Mais les idées m’ont quittée. <br>
+Mais les idées m’ont quitté. <br>
 Ô, je perds le feu sacré, <br>
 Pourquoi voles-tu mes biens ?

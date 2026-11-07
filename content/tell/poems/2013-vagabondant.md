@@ -10,7 +10,7 @@ extra:
 Vagabondant <br>
 Dans le désert blanc <br>
 Tranquille <br>
-Face paisibles <br>
+Faces paisibles <br>
 Aux rois dormants
 
 Et cette île <br>

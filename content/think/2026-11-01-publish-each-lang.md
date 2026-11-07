@@ -6,7 +6,7 @@ lang: fr
 Publier un post une fois par langue, bonne ou mauvaise idée ?
 
 Publish in multiple languages, good or bad idea?
-(each language its post)
+(one post per language)
 
 Je lis des posts en français… normal, c'est ma langue maternelle
 En anglais, logique, c'est là que tout se passe

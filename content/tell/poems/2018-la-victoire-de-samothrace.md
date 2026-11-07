@@ -10,7 +10,7 @@ extra:
 
 Nous l'avons suivie <br>
 Pour notre survie <br>
-Nous la suiveront encore <br>
+Nous la suivrons encore <br>
 De tout notre corps
 
 Je suis le spectateur <br>

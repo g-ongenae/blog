@@ -25,5 +25,5 @@ Ah ! Ce damné bonheur
 
 Il nous a sauvés du passé <br>
 Qu'en est-il de nos futures erreurs ? <br>
-Celle dont on ne s'est encore acquittée <br>
+Celles dont on ne s'est encore acquitté <br>
 Et le diable fait son heur

@@ -17,12 +17,12 @@ Il y a plusieurs issues sur leur dépôt Git qui demandent cette fonctionnalité
 Pas grave, je me suis dit à l'époque, ils permettent d'avoir des plugins. Je vais en créer un.
 Et c'est ce que j'ai fait. Une solution simple qui fonctionne en très peu de lignes de code.
 
-J'en étais assez fier et donc je l'ai publié sur npm pour pouvoir l'installer facilement et le partager à mes collègues. Et puis au monde entier.
+J'en étais assez fier et donc je l'ai publié sur npm pour pouvoir l'installer facilement et le partager avec mes collègues. Et puis au monde entier.
 
 Il faut dire que c'est plutôt une réussite. Plus de 1200 downloads depuis sa création, téléchargement stable, environ une vingtaine par semaine. Et zéro ticket, zéro bug depuis sa création.
 
 Hier je me repenche dessus et le donne à Claude pour faire un petit audit.
-Ça m'a permis de corriger pas mal de choses, d'améliorer grandement les performances. Et de rajouter une petite fonctionnalité très importante que je n'avais pas pensée à l'époque.
+Ça m'a permis de corriger pas mal de choses, d'améliorer grandement les performances. Et de rajouter une petite fonctionnalité très importante à laquelle je n'avais pas pensé à l'époque.
 
 Mais en faisant ça, je me suis aussi rendu compte qu'il y avait deux autres projets qui ont été créés depuis qui font la même chose que le mien.
 

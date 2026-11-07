@@ -19,7 +19,7 @@ Si elles pouvaient toutes <br>
 Te ressembler plus de joutes
 
 Oh ma muse, tu m’amuses <br>
-Vit, bat, rien ne t’use
+Vis, bats, rien ne t’use
 
 Et même après 3 mil ans <br>
 Tu seras toujours chantant

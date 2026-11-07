@@ -12,7 +12,7 @@ Qui survole les plaines, <br>
 Et rencontre les corbeaux. <br>
 Ces oiseaux pleins de haine
 
-Qui survole les plaines, <br>
-Attaque ces pacifiques <br>
+Qui survolent les plaines, <br>
+Attaquent ces pacifiques <br>
 Le poète est une mouette, <br>
 Cet oiseau plein de haine.

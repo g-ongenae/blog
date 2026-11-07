@@ -8,7 +8,7 @@ extra:
   lang: fr
 ---
 
-Le stylo noir glissait sur le papier en laissant une fine trace. La main pâle tenant le stylo décrivait des cercles et des va-et-vient de gauche à droite sur le papier blanc. Les mots d'encre coulaient sur le papier mélangé avec des larmes. Les larmes translucides tombaient des yeux qui suivaient la main et sa marque sur le papier, vides.
+Le stylo noir glissait sur le papier en laissant une fine trace. La main pâle tenant le stylo décrivait des cercles et des va-et-vient de gauche à droite sur le papier blanc. Les mots d'encre coulaient sur le papier mélangés avec des larmes. Les larmes translucides tombaient des yeux qui suivaient la main et sa marque sur le papier, vides.
 
 À la fin de la ligne, la main et le stylo stoppèrent leur danse sur le papier. Le stylo tomba à côté de la feuille, sur la table. La main se leva, passa devant les yeux d'où les larmes ne suintaient plus. La main prit la feuille de papier, la plia en trois et la glissa dans une enveloppe avant de fermer celle-ci.
 

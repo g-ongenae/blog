@@ -9,5 +9,5 @@ extra:
 
 La campagne de mon enfance <br>
 Des souvenirs sans importance <br>
-Qui réchauffe le cœur <br>
-Et éclate comme une fleur
+Qui réchauffent le cœur <br>
+Et éclatent comme une fleur

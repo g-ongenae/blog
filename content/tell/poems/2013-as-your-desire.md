@@ -19,7 +19,7 @@ If you want to be a man <br>
 As your desire, <br>
 You have to be the same
 
-Try, If you want but <br>
-The only fact important is the result
+Try, if you want but <br>
+The only important fact is the result
 
 The result should be happiness

@@ -28,7 +28,7 @@ In the private club
 🏌️‍♂️ <br>
 As a retiree, life is simple <br>
 You just want to swing <br>
-As far and precise as possible <br>
+As far and precisely as possible <br>
 On the green field
 
 Life is simple, it's just swing!

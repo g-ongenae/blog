@@ -14,5 +14,5 @@ Faible en calorie
 
 Après tant d’efforts <br>
 Apprécie le réconfort <br>
-Demain recommences <br>
+Demain recommence <br>
 Tu auras une récompense

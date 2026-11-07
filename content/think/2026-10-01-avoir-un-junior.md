@@ -18,7 +18,7 @@ Non, ce que je trouve dommage, c'est la disparition d'une curiosité naïve.
 
 Celle qui permet de mettre au jour des failles dans nos raisonnements, rouillés par nos habitudes.
 Celle qui éclaire les problèmes d'une nouvelle manière.
-Celle qu'on autorise à être inadéquate, farfelue (et parfois ni l'un ni l'autre).
+Celle qu'on autorise à être inadéquate, farfelue (et parfois ni l'une ni l'autre).
 
 En février, un petit nouveau nous a rejoints (et je ne parle pas de Claude).
 

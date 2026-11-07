@@ -5,11 +5,11 @@ link: https://lnkd.in/p/eT6tyi8U
 ---
 𝗜 𝗶𝗻𝘃𝗼𝗹𝘂𝗻𝘁𝗮𝗿𝗶𝗹𝘆 𝗺𝗮𝗱𝗲 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗮𝗱 𝗳𝗼𝗿 𝗺𝘆 𝗰𝗼𝗺𝗽𝗮𝗻𝘆.
 
-A few days ago I created myself a small tool to improve the UI of LinkedIn for my own usage.
+A few days ago I created myself a small tool to improve the UI of LinkedIn for my own use.
 I decided to share it with the world by posting a screenshot for demo purposes on LinkedIn.
 
 So, I opened LinkedIn and I took a screenshot of the page.
-And in it was my company's, Algoan, latest post.
+And in it was my company Algoan's latest post.
 I thought the visual was pretty so I was like, "Nice." and carried on.
 
 I thought it was going to make a few hundred, or less, views like my other posts.

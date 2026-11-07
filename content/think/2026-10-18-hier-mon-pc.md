@@ -11,7 +11,7 @@ Ce ne m'était pas arrivé depuis longtemps.
 Surtout que j'ai un MacBookPro M4.
 
 Bon, il faut dire que j'avais lancé 9 sessions claude en même temps.
-Deux d'entre elles lançaient des tests avec base de données mockées en mode docker.
+Deux d'entre elles lançaient des tests avec bases de données mockées en mode docker.
 Ça tape vite sur la RAM et le CPU tout ça.
 
 Donc, je me suis dit : « eh mince, va falloir que je limite »

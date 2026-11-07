@@ -58,7 +58,7 @@ Bars: poems per year. Line: favourites per year.
 
 #### 2018
 
-- [Si je devais être pris de court](@/tell/poems/2018-08-01-ego.md)
+- [Ego](@/tell/poems/2018-08-01-ego.md)
 - [Description Tinder](@/tell/poems/2018-08-14-description-tinder.md)
 - [Rime](@/tell/poems/2018-09-08-rime.md)
 - [Civil](@/tell/poems/2018-08-08-civil.md)

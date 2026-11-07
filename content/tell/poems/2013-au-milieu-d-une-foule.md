@@ -13,7 +13,7 @@ De flots qui coulent
 Je ne voyais que femme, que homme
 
 Au milieu d'une place <br>
-Le cirque prenez place
+Le cirque prenait place
 
 Je ne voyais que femme, que homme
 

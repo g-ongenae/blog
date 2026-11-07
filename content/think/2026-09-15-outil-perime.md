@@ -10,7 +10,7 @@ En mars, après à peine quelques semaines à utiliser Claude Code, j'en ai eu v
 
 Alors, je me suis créé une petite extension pour navigateur : PR Review Collector.
 
-Étant donné qu'on utilisait Claude qu'en devcontainer, avec l'interdiction de push.
+Étant donné qu'on n'utilisait Claude qu'en devcontainer, avec l'interdiction de push.
 Et surtout que je n'avais pas encore très confiance en ce nouvel outil.
 Ni dans les retours pas toujours excellents de GitHub Copilot.
 

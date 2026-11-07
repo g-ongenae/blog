@@ -8,7 +8,7 @@ link: https://lnkd.in/p/e3DwZiwy
 Hier, je voyais une publication de Louis Dauvois 🟦 rapportant la situation catastrophique de Pipedrive, un des CRM les plus utilisés dans le monde.
 (Première fois que j'en entends parler perso 😅, on jira que j'ai notion…)
 
-Paulo Cunha, le CEO de Pipedrive, accuse sa perte de trafic, et donc de clients, à l'IA et force celui-ci à engager un licenciement massif de leur personnel.
+Paulo Cunha, le CEO de Pipedrive, impute sa perte de trafic, et donc de clients, à l'IA et force celui-ci à engager un licenciement massif de leur personnel.
 
 Louis Dauvois conclut : 
 
@@ -30,3 +30,5 @@ En comparaison, ChatGPT est sorti en 2023, il y a à peine 3 ans et voilà Piped
 
 Depuis quelques semaines, je ne compte plus les « 𝘪𝘭 𝘧𝘢𝘶𝘵 𝘲𝘶'𝘰𝘯 𝘢𝘤𝘤𝘦́𝘭𝘦̀𝘳𝘦 ».
 Ceux qui le répètent le savent, le destin de Pipedrive n'est pas un mauvais pipedream, c'est une réalité qui nous court tous après.
+
+PS : oui, je sais, ChatGPT est sorti en novembre 2022. J'ai un peu arrangé la date, exprès.
