@@ -8,7 +8,8 @@ make build
 make serve
 ```
 
-`make build` regenerates the literature index and `static/tree.json`, then builds
+`make build` regenerates the literature index, the `think` and `code` post lists
+and `static/tree.json`, then builds
 Zola into `public/`. Run `make generate` after changing content during development.
 The tree and build output are generated files and are not committed.
 

@@ -25,6 +25,7 @@ install:
 
 generate:
 	cd content/tell && bash ../../scripts-build-tell.sh
+	python3 scripts/build-posts.py think code
 	$(MAKE) tree
 
 tree:
