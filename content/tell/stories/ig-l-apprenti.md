@@ -9,6 +9,6 @@ extra:
   lang: fr
 ---
 
-— Suis-moi, jeune padawan, je te montrerais la voie du guerrier. Je ferais de toi un éléphant aux defenses imprenables, et aux attaques fracassantes. Tes ennemis te crainderont. Tes amis te crainderont. Les femmelles te feront toutes la cour, se batteront pour être à tes côtés. Les femmes de tes ennemis fantasmeront sur ton corps musculeux. Tu seras un grand chef comme ton père.
+— Suis-moi, jeune padawan, je te montrerai la voie du guerrier. Je ferai de toi un éléphant aux défenses imprenables, et aux attaques fracassantes. Tes ennemis te craindront. Tes amis te craindront. Les femelles te feront toutes la cour, se battront pour être à tes côtés. Les femmes de tes ennemis fantasmeront sur ton corps musculeux. Tu seras un grand chef comme ton père.
 
 — Papa, tu sais, je te suis seulement parce que Maman me l'a demandé.

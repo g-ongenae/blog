@@ -19,7 +19,7 @@ Je me vois déchiré de ne savoir <br>
 Je me vois coupé en deux <br>
 &emsp;&emsp;De ne pas réussir <br>
 &emsp;&emsp;D’échouer à choisir <br>
-L’une d’entre vous-deux
+L’une d’entre vous deux
 
 Je ne sais comment est-ce possible <br>
 D’aimer une, d’aimer deux aux possibles

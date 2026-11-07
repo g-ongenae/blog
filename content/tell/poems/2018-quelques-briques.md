@@ -9,7 +9,7 @@ extra:
 
 Quelques briques <br>
 Font augure de pierre d'antan <br>
-Noyé dans ce béton pesant <br>
+Noyées dans ce béton pesant <br>
 Dans ce gris, dans ce froid
 
 Ici, tout est plat <br>

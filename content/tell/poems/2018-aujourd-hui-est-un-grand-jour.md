@@ -10,4 +10,4 @@ extra:
 Aujourd'hui est un grand jour <br>
 Je vais enfin savoir par cœur <br>
 Le poids de la lumière du jour <br>
-Et si ces horreurs seont bientôt frayeurs
+Et si ces horreurs seront bientôt frayeurs

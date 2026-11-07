@@ -8,7 +8,7 @@ extra:
   lang: fr
 ---
 
-Un jeune garçon assis sur un banc public dans une station de métro regardait les wagons passés les uns après les autres. Le bruit des roues, qui glissaient et heurtaient – les imperfections du métal – contre les rails, résonnait en lui.
+Un jeune garçon assis sur un banc public dans une station de métro regardait les wagons passer les uns après les autres. Le bruit des roues, qui glissaient et heurtaient – les imperfections du métal – contre les rails, résonnait en lui.
 
 Les paroles et bavardages indistincts des étrangers discutant, réagissant interpellant les uns et les autres. Les sons de leurs chaussures claquant contre le macadam alors qu'ils allaient et venaient, s'agitant dans tous les sens pour gagner leur destination ; sous son regard curieux.
 
@@ -30,7 +30,7 @@ Les deux personnes se regardèrent un instant avant que celui qui portait une ca
 
 Et de rajouter qu'il allait l'emmener dans un endroit chaud, confortable et plus tranquille pour qu'il puisse attendre son père.
 
-« Vous croyez qu'il va revenir ? » demanda le garçon, au larmes.
+« Vous croyez qu'il va revenir ? » demanda le garçon, aux larmes.
 
 « Mon papa m'a dit qu'il allait chercher ma maman.
 

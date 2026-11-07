@@ -10,8 +10,8 @@ extra:
 
 Heureux d’être arrivé de bonne heure <br>
 Pour voir cette belle fleur <br>
-Qui jamais ne m’a heurtée <br>
-Et ne réponds jamais à mes faveurs
+Qui jamais ne m’a heurté <br>
+Et ne répond jamais à mes faveurs
 
 Je t’en conjure, ma petite sœur <br>
 Je ne suis qu’un petit cœur <br>

@@ -10,7 +10,7 @@ extra:
 Oui, messieurs veuillez sortir de vos canapés !
 
 Hâtez-vous <br>
-Le printemps prends fin <br>
+Le printemps prend fin <br>
 Allez bougez
 
 La canicule a faim <br>

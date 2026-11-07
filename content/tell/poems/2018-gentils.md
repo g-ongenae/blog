@@ -20,5 +20,5 @@ Regardez-vous maintenant <br>
 Regardez-vous dans un miroir <br>
 Allez regardez votre bonne poire <br>
 Admirez toute sa gloire
-Y-voyez-vous une belle personne ? <br>
+Y voyez-vous une belle personne ? <br>
 Qui fait que les cœurs résonnent ?

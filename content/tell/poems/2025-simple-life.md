@@ -20,13 +20,13 @@ As loud and fast as possible <br>
 In the pubs and the clubs
 
 🙈 <br>
-As a middle age, life is simple <br>
+As a middle-ager, life is simple <br>
 You just want to swing <br>
 As hard and shady as possible <br>
 In the private club
 
 🏌️‍♂️ <br>
-As a retired, life is simple <br>
+As a retiree, life is simple <br>
 You just want to swing <br>
 As far and precise as possible <br>
 On the green field

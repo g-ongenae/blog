@@ -20,7 +20,7 @@ Loin de l'écho des pleurs et des prières
 
 Montez le son, je l'entends encore <br>
 Cette tristesse sourde et stridente <br>
-Faites-moi vibrez, bougez mon corps <br>
+Faites-moi vibrer, bougez mon corps <br>
 Embrassez-moi d'une joie bruyante
 
 Rangez les bougies et les cierges <br>

@@ -9,5 +9,5 @@ extra:
 
 La haine en mon corps afflue <br>
 Elle va et vient en remous <br>
-Sur ses ondes sourdes, je boue <br>
+Sur ses ondes sourdes, je bous <br>
 Elle me brule, elle me tue

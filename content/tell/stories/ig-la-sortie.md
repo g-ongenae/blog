@@ -11,6 +11,6 @@ extra:
 
 Enfin, la sortie, la lumière.
 
-Nous avions dû fuir la ville pourchassés par la garde impériales, mais rien n'aurais pu me faire imaginer que l'on soit obligé de prendre les égouts. Et surtout, rien n'aurais pu me faire accepter une telle option.
+Nous avions dû fuir la ville pourchassés par la garde impériale, mais rien n'aurait pu me faire imaginer que l'on soit obligé de prendre les égouts. Et surtout, rien n'aurait pu me faire accepter une telle option.
 
 Si ce n'est que cela soit la seule acceptable.

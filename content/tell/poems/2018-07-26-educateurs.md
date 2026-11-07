@@ -8,7 +8,7 @@ extra:
 ---
 
 Deux, trois professeurs <br>
-Ont faits des malheurs <br>
+Ont fait des malheurs <br>
 Ils sont aussi hommes de cœur <br>
 Qui ont des humeurs
 
@@ -18,8 +18,8 @@ Pour faire confession <br>
 D’autres sous une bâche
 
 Je ne leur pardonne pas <br>
-Ils ont faits des heurts <br>
-Par pour notre bonheur <br>
+Ils ont fait des heurts <br>
+Pas pour notre bonheur <br>
 Mais nous mettre au pas
 
 Quitte à vous déplaire <br>

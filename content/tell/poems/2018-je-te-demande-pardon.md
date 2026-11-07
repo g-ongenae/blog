@@ -40,4 +40,4 @@ Celle que l'on adore tant
 Oui, si tu t'obstines, seul <br>
 Toute ta vie durant, seul <br>
 Ce sera pour toi un supplice invisible <br>
-Comme de la cigue intangible
+Comme de la ciguë intangible

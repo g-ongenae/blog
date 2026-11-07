@@ -11,7 +11,7 @@ En 2022, j'ai publié un petit plugin pour Insomnia.
 Celui-ci permet de rajouter des commentaires dans les JSON des requêtes API.
 C'est très utile pour itérer rapidement.
 
-Je l'ai créé parce que l'équipe d'Insomnia n'a pas l'air décidée de rajouter cette fonctionnalité.
+Je l'ai créé parce que l'équipe d'Insomnia n'a pas l'air décidée à rajouter cette fonctionnalité.
 Il y a plusieurs issues sur leur dépôt Git qui demandent cette fonctionnalité depuis le début du projet. Sans réponse.
 
 Pas grave, je me suis dit à l'époque, ils permettent d'avoir des plugins. Je vais en créer un.
@@ -30,7 +30,7 @@ Le premier est littéralement une copie de mon code…
 Mais sans mention.
 J'ai créé une issue sur son dépôt Git. (MIT = Mention IT)
 
-Et le second, propre, une nouvelle implémentation avec la petite fonctionnalité que m'avait échappé (mais les mêmes défauts).
+Et le second, propre, une nouvelle implémentation avec la petite fonctionnalité qui m'avait échappé (mais les mêmes défauts).
 Et surtout, un meilleur branding que le mien.
 
 En 2022, j'ai fait une erreur : le nommage de mon plugin.

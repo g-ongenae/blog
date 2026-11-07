@@ -11,7 +11,7 @@ Bats-toi <br>
 Avec moi <br>
 Tu es un lâche <br>
 Tu abandonnes ta tâche <br>
-Esclaffe-toi biens <br>
+Esclaffe-toi bien <br>
 Reviens <br>
 Impétueux <br>
 Eunuque

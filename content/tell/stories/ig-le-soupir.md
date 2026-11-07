@@ -11,13 +11,13 @@ extra:
 
 — Papa ne t'a pas trop manqué, j'espère.
 
-Le raton laveur tappait amicalement sur le ventre de son fidèle animal de compagnie.
+Le raton laveur tapait amicalement sur le ventre de son fidèle animal de compagnie.
 
 — Je suis désolé, je n'ai pas pu t'amener en mission. Je sais, je te l'avais promis mais bon c'est trop dangereux.
 
 Le chien tourna la tête vers son maitre.
 
-— Tu sais, c'est pas facile de porter tout ces trucs toute la journée. J'ai pas demandé à être modifié par des scientifiques fous, je vis avec.
+— Tu sais, c'est pas facile de porter tous ces trucs toute la journée. J'ai pas demandé à être modifié par des scientifiques fous, je vis avec.
 
 Il poussa un long soupir.
 

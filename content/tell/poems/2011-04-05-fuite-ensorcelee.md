@@ -15,4 +15,4 @@ Au cou d’une déesse.
 Terminé, plus de tresse. <br>
 C’est Fini, plus d’herpès. <br>
 J’en avais marre, cette faiblesse. <br>
-Princesse cesses tes caresses.
+Princesse cesse tes caresses.

@@ -20,7 +20,7 @@ Celle qui permet de mettre au jour des failles dans nos raisonnements, rouillés
 Celle qui éclaire les problèmes d'une nouvelle manière.
 Celle qu'on autorise à être inadéquate, farfelue (et parfois ni l'un ni l'autre).
 
-En février, un petit nouveau nous a rejoint (et je ne parle pas de Claude).
+En février, un petit nouveau nous a rejoints (et je ne parle pas de Claude).
 
 En plus d'être un chouette collègue, ses questions ont mis au jour plusieurs trous dans notre système de gestion des configurations.
 Grâce à ses questions, on a clarifié la documentation et ajouté une validation automatique dans la CI.

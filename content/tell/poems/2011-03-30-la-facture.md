@@ -8,7 +8,7 @@ extra:
 ---
 
 Ce petit ticket vole. <br>
-Il marche à petit pas.
+Il marche à petits pas.
 
 Ces gens le voient en vol. <br>
 Mais ils ne font de pas.

@@ -9,8 +9,8 @@ extra:
   lang: fr
 ---
 
-J'avais toujours révé de monter dans ce train majestueux qui nous menent dans les contes pour enfant vers des merveilles et autres légendes.
+J'avais toujours rêvé de monter dans ce train majestueux qui nous mène dans les contes pour enfant vers des merveilles et autres légendes.
 
 Jamais, je n'aurais pu imaginer un dictateur avec autant d'humour, ou bien était-ce simplement par exactitude géographique.
 
-Ce train nous mènerait au Nord, là où les enfants, les femmes, les viellards et tout autre personne qui s'est révolté contre l'empire travaillera jusqu'à ce que mort s'en suive.
+Ce train nous mènerait au Nord, là où les enfants, les femmes, les vieillards et toute autre personne qui s'est révoltée contre l'empire travaillera jusqu'à ce que mort s'ensuive.

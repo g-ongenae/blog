@@ -19,20 +19,20 @@ La jeune femme le toisa. Que voulait-il ? Squatter chez elle ? Il en était ho
 
 — Alors, c'est pour quoi ?
 
-Le garçon plongea ses yeux bleus ceux de la jeune femme.
+Le garçon plongea ses yeux bleus dans ceux de la jeune femme.
 
 — J'ai besoin de faire pipi, vous avez des toilettes, madame ?
 
-La madame fût complètement interloqué, un garçon sur le point de se faire dessus n'était pas une situation étrange, mais pourquoi donc avait-il une valise ?
+La madame fut complètement interloquée, un garçon sur le point de se faire dessus n'était pas une situation étrange, mais pourquoi donc avait-il une valise ?
 
-— S'il-vous-plaît, implora le garçon, je vais me faire pipi dessus.
+— S'il vous plaît, implora le garçon, je vais me faire pipi dessus.
 
 Elle hésita.
 
 — J'en ai que pour deux secondes, madame, pitié.
 — Bon d'accord, dit-elle en soufflant du nez. Mais fais vite.
 
-L'enfant n'attendit pas un mot de plus, il s'engouffra, avec son bagage, dans l'habitation. La propriétaire des lieux s'agaca de le voir emporter ses affaires avec lui, mais se rassura… il n'en avait que pour deux secondes.
+L'enfant n'attendit pas un mot de plus, il s'engouffra, avec son bagage, dans l'habitation. La propriétaire des lieux s'agaça de le voir emporter ses affaires avec lui, mais se rassura… il n'en avait que pour deux secondes.
 
 — Les toilettes sont au bout du couloir, à droite.
 — Merci, madame, cria-t-il en fermant la porte derrière lui.

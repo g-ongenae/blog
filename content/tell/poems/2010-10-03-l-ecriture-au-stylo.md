@@ -8,7 +8,7 @@ extra:
 ---
 
 L’Écriture au stylo <br>
-Pour certain la plume <br>
-Pour d’autre le clavier <br>
+Pour certains la plume <br>
+Pour d’autres le clavier <br>
 Pour moi les deux sont de pair <br>
 Sinon l’osmose n’y est plus !

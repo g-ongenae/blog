@@ -9,7 +9,7 @@ extra:
 
 Après quelques jours à M<sup>t</sup> Dore à danser <br>
 À la naissance de la Dordogne à baigner <br>
-Me voilà arriver à Super-Besse <br>
+Me voilà arrivé à Super-Besse <br>
 Où j'ai posé mes&emsp;&emsp;affaires <br>
 Et ai tant à faire <br>
 Du travail, de l'écriture, de la lecture <br>

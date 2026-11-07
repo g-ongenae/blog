@@ -7,9 +7,9 @@ extra:
   lang: fr
 ---
 
-Propos échangées <br>
+Propos échangés <br>
 Opinions contradictoires <br>
-Regards couroucés <br>
+Regards courroucés <br>
 Idées de foire
 
 Cri de liberté <br>

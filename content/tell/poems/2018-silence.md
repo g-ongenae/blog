@@ -8,7 +8,7 @@ extra:
   lang: fr
 ---
 
-Saches que tu me courres sur le haricot <br>
+Sache que tu me cours sur le haricot <br>
 Que pour moi tes mots <br>
 Sont ceux d'un sot <br>
 Et qu'un jour, ils te couteront la peau
@@ -19,7 +19,7 @@ Et même si tu vois ici <br>
 En moi une mauvaise engeance
 
 Cela arrivera bientôt <br>
-Tu crois que que ce sera tard <br>
+Tu crois que ce sera tard <br>
 Ou bien même par abandon de retard <br>
 Jamais, ce serait bien pour ton pot
 
@@ -28,12 +28,12 @@ Tu t'aveugles, tu persévères <br>
 Comme un soldat prêt de rompre <br>
 Tu verras une défaite amère
 
-C'est que les soltices d'été <br>
+C'est que les solstices d'été <br>
 Précèdent et présagent <br>
 Les plus longues nuits de l'année <br>
 Celles des mauvais âges
 
 Tu es fait, tes méfaits <br>
-Seront sus et pendu <br>
+Seront sus et pendus <br>
 On en a trop entendu <br>
 Il faut que tu te tais

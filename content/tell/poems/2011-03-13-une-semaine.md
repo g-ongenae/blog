@@ -11,7 +11,7 @@ extra:
 Dimanche, cette jeune fille fut bénie. <br>
 Son enfance fut bien heureuse et sans ennui. <br>
 Ell’ s’endurcit, s’embellit, s’enhardit, Lundi. <br>
-Epanouie avec cet ami elle s’unit.
+Épanouie avec cet ami elle s’unit.
 
 Ébahie, blottie contre cet ami, Mardi, <br>
 Elle chuta, elle pâlit,  s’évanouit. <br>

@@ -7,19 +7,19 @@ extra:
   lang: fr
 ---
 
-Les toits de la ville faisaient résonner la pluie comme une armée de tambour. Le vent soufflait fort dans les ruelles. Des sacs plastiques volaient de part et d'autres. Les chats, les rats et les souris s'étaient réfugiés dans les lieux puants des solitaires. Les gens couraient ou marchaient vite sous leur parapluie.
+Les toits de la ville faisaient résonner la pluie comme une armée de tambours. Le vent soufflait fort dans les ruelles. Des sacs plastiques volaient de part et d'autre. Les chats, les rats et les souris s'étaient réfugiés dans les lieux puants des solitaires. Les gens couraient ou marchaient vite sous leur parapluie.
 
-Seul, un homme sans manteau patientait sur un des plus grands immeubles de la cité. Il regardait droit devant lui et avançait tranquillement vers le gouffre. Il n'avait pas peur, il sentait plutôt une sorte de libération, de liberté sans faille. Posant son pied sur la balustrade, il sentit un nouveau souffle de vent froid, il grelotait, frissonnait, mais son regard restait déterminé. Rien n'aurait pu le faire changer d'avis...
+Seul, un homme sans manteau patientait sur un des plus grands immeubles de la cité. Il regardait droit devant lui et avançait tranquillement vers le gouffre. Il n'avait pas peur, il sentait plutôt une sorte de libération, de liberté sans faille. Posant son pied sur la balustrade, il sentit un nouveau souffle de vent froid, il grelottait, frissonnait, mais son regard restait déterminé. Rien n'aurait pu le faire changer d'avis...
 
 Une main forte se posa sur son épaule frêle.
 
 — Tu ne devrais pas faire cela, dit une voix grave.
 
-Le jeune homme se retourna et reconnu son interlocuteur.
+Le jeune homme se retourna et reconnut son interlocuteur.
 
 — Comment ? Tu ne peux pas être...
 
-— Si, répondit simplement le grand homme, tu ne veux pas reculer un peu, c'est dangereux de rester aussi près du bord avec de telle bourrasque.
+— Si, répondit simplement le grand homme, tu ne veux pas reculer un peu, c'est dangereux de rester aussi près du bord avec de telles bourrasques.
 
 Le garçon ne bougea pas d'un cheveu.
 
@@ -87,7 +87,7 @@ Le héros lui lança un regard noir.
 
 — Tu sais, je peux toujours te balancer au-dessus du vide, si tu le désires...
 
-— Ce n'était pas contre toi, mais j'en connais des centaines des maximes, mais aucun ne me donnera la solution.
+— Ce n'était pas contre toi, mais j'en connais des centaines des maximes, mais aucune ne me donnera la solution.
 
 — Tu les connais, mais est-ce que tu les comprends seulement ?
 
@@ -105,7 +105,7 @@ Le héros lui lança un regard noir.
 
 — Oui et le reste est pire.
 
-— Non. Ne vois-tu pas les honnêtes gens qui ne veulent qu'être heureux ? C'est le but de tout être humain, mais ils se dupent, il croit que l'argent fait le bonheur.
+— Non. Ne vois-tu pas les honnêtes gens qui ne veulent qu'être heureux ? C'est le but de tout être humain, mais ils se dupent, ils croient que l'argent fait le bonheur.
 
 — « Il n'y a rien de plus euphorisant qu'un travail à accomplir », dit le jeune en citant tristement son père.
 

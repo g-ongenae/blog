@@ -23,7 +23,7 @@ How is any of this helping me?
 
 So I made myself a small userscript (with Claude's help, much faster…) to declutter my LinkedIn home feed.
 
-And it leave space on the side of the post for the images, instead of below.
+And it leaves space on the side of the post for the images, instead of below.
 I have a simple button to expand and collapse posts instead of that tiny "… more" link.
 
 And all the unnecessary clutter? Gone.

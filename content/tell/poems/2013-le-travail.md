@@ -15,7 +15,7 @@ Pour travailler, ô flûte !
 C’est ainsi que commence <br>
 Ma journée, pas de chance
 
-Et puis viens le soir <br>
+Et puis vient le soir <br>
 Je mime avoir espoir <br>
 De voir la chaleur <br>
 Se propager dans mon cœur

@@ -7,7 +7,7 @@ extra:
   lang: fr
 ---
 
-Où la terre et le feu se rencontre <br>
+Où la terre et le feu se rencontrent <br>
 L’homme, il crie et va à l’encontre <br>
 De tout, oui, c’est lui le pyromane
 

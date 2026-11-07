@@ -9,22 +9,22 @@ extra:
   lang: fr
 ---
 
-“Quel est cet homme ? Pourquoi est-il au milieu de mon champs ?” m'étais-je dis.
+“Quel est cet homme ? Pourquoi est-il au milieu de mon champ ?” m'étais-je dit.
 
-J'étais en train de m'occuper de mon champs, d'éxaminer l'état des sols et de la récolte quand il est apparu.
+J'étais en train de m'occuper de mon champ, d'examiner l'état des sols et de la récolte quand il est apparu.
 
-Au début, j'ai cru que c'était un voisin, qui passait par là et voulais me souhaiter une bonne journée.
+Au début, j'ai cru que c'était un voisin, qui passait par là et voulait me souhaiter une bonne journée.
 
-Mais, quelque chose clochait, je ne reconnaisais pas sa démarche. Par ici, nous avons tout cette démarche un peu maladroite quand nous marchons, sans doute dû à la difficulté de notre travail.
+Mais, quelque chose clochait, je ne reconnaissais pas sa démarche. Par ici, nous avons tous cette démarche un peu maladroite quand nous marchons, sans doute due à la difficulté de notre travail.
 
-“Peut-être est-ce un promotteur immobilier qui veut m'acheter mon champs ?” spéculai-je.
+“Peut-être est-ce un promoteur immobilier qui veut m'acheter mon champ ?” spéculai-je.
 
-Mais le plus étrange est qu'il n'avançait pas. Il restait immobile au milieu de mon champs. Plus que sa démarche, c'était sa posture, droite raide, rigide.
+Mais le plus étrange est qu'il n'avançait pas. Il restait immobile au milieu de mon champ. Plus que sa démarche, c'était sa posture, droite raide, rigide.
 
-J'avançais vers lui, désireux de mettre du sens à cette situation. Et de pouvoir enfin mettre un visage à ce trouble fête.
+J'avançais vers lui, désireux de mettre du sens à cette situation. Et de pouvoir enfin mettre un visage à ce trouble-fête.
 
-Il ne bougeait toujours pas. Je n'étais plus qu'à quelques pas quand, j'en fus certain… Avec le brouillard, j'avais cru rêvé mais maintenant…
+Il ne bougeait toujours pas. Je n'étais plus qu'à quelques pas quand, j'en fus certain… Avec le brouillard, j'avais cru rêver mais maintenant…
 
-L'homme n'avait pas de visage, au lieu de sa tête tronait une espèce de brume profonde.
+L'homme n'avait pas de visage, au lieu de sa tête trônait une espèce de brume profonde.
 
 Plongeant mon regard à l'intérieur, je ne voyais plus rien. J'étais emporté, noyé. Comme attaché à une enclume au fond des abîmes.

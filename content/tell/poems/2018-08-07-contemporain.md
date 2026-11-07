@@ -9,7 +9,7 @@ extra:
 
 Il faut vivre avec son temps <br>
 Me répète-t-on encore <br>
-Je le conçois, cela se défends <br>
+Je le conçois, cela se défend <br>
 Pourtant, je n’y suis pas encore
 
 Qui ou quoi fait l’époque <br>

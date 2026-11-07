@@ -1,15 +1,15 @@
 ---
 date: 2017-11-25
-title: Le regret et le remord
+title: Le regret et le remords
 extra:
   state: done
   location: Cergy
   lang: fr
 ---
 
-Le regret et le remord <br>
+Le regret et le remords <br>
 Mes ennemis à mort <br>
-Le remord quand tu n’es pas ici <br>
+Le remords quand tu n’es pas ici <br>
 Le regret quand tu es déjà parti
 
 Trépasser mes ennemis

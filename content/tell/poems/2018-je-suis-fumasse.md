@@ -9,6 +9,6 @@ extra:
 
 Je suis fumasse <br>
 Une pétasse <br>
-Me confonds avec une tasse <br>
+Me confond avec une tasse <br>
 Elle me mettrait à la casse <br>
 Si je n'étais une brutasse

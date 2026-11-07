@@ -6,7 +6,7 @@ ai-assisted: true
 ---
 L'outil que j'ai créé est déjà périmé. 😭
 
-En mars, après à peine quelques semaines à utiliser Claude Code, j'en ai eu vite marre de recopier les retours de Copilot à la main, quand je les trouvais pertinent.
+En mars, après à peine quelques semaines à utiliser Claude Code, j'en ai eu vite marre de recopier les retours de Copilot à la main, quand je les trouvais pertinents.
 
 Alors, je me suis créé une petite extension pour navigateur : PR Review Collector.
 

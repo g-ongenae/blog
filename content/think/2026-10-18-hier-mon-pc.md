@@ -26,7 +26,7 @@ Et le pire ? C'est les PRs avec 50 commentaires de Copilot.
 
 Mon Firefox avait 3 tabs à 5GB, 3.5GB et 2.5GB de mémoire.
 
-On fait le compte, il ne reste plus grand chose des 16Go que ma machine supporte.
+On fait le compte, il ne reste plus grand-chose des 16Go que ma machine supporte.
 
 Bon, ce n'était ni une ni deux, je me suis dit, une petite extension qui me prévient, ça doit être faisable ça ?
 

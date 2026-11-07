@@ -11,7 +11,7 @@ Le soleil se lève sur la ville <br>
 Les filles se rhabillent
 
 Les mendiants se préparent en rue <br>
-Les travailleurs accélère à leurs vues
+Les travailleurs accélèrent à leurs vues
 
 Les alcooliques trinquent une dernière <br>
 Les rats errants rejoignent les souricières

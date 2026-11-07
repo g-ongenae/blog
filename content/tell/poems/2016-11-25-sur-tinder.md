@@ -16,5 +16,5 @@ Et si ça te pose un problème, viens lui dire
 Il va te prendre et faire réfléchir <br>
 Alors, vas-y, ose swipe à droite <br>
 Et viens lui mettre une droite <br>
-Avant que sois complètement épris <br>
+Avant que tu sois complètement épris <br>
 Parce qu’il t’a retourné l’esprit

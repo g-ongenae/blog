@@ -1,5 +1,6 @@
 ---
 title: Heureusement que je suis célibataire
+aliases: ["/think/heureuseument/"]
 lang: fr
 link: https://lnkd.in/p/eF7N8jwc
 ai-assisted: true

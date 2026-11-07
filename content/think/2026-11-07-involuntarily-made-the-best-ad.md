@@ -23,11 +23,11 @@ But that's without taking into account that Algoan is a really niche and technic
 In our field we are really well known, but outside… 🙅‍♂️
 
 We have big clients (really big) and small ones too.
-You are using them everyday.
+You are using them every day.
 And you may have used our solution multiple times without knowing.
 
 The sad law of a white-label product…
 
-But it doesn't matter to us: our mission is to make credits more accessible and responsible.
+But it doesn't matter to us: our mission is to make credit more accessible and responsible.
 
 Anyway, it's still great to be in the spotlight sometimes!

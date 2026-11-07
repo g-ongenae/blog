@@ -10,9 +10,9 @@ extra:
 Bien chère demoiselle <br>
 Bien belle hirondelle <br>
 Vous m'avez fait signe <br>
-Mille merci d'un mauvais cygne
+Mille mercis d'un mauvais cygne
 
-Je n'oserais critiquer vos rîmes <br>
+Je n'oserais critiquer vos rimes <br>
 Piètre écrivaillon que je suis <br>
 J'écris, veillons que je ne m'abîme <br>
-Loin de vous, dans un puit
+Loin de vous, dans un puits

@@ -8,11 +8,11 @@ extra:
 ---
 
 Appelle-moi, dis-moi n'importe quoi <br>
-Je voudrais juste entredre ta voix <br>
+Je voudrais juste entendre ta voix <br>
 Plains-toi, injurie-moi, insulte-moi <br>
-Je préfèrerrais être Jésus portant la croix
+Je préfèrerais être Jésus portant la croix
 
-Ce silence… Run qu'un peu de bruit <br>
+Ce silence… Rien qu'un peu de bruit <br>
 C'est tout ce que je demande <br>
 Mettez-moi à l'amende <br>
 Jetez-moi tomates et autres fruits

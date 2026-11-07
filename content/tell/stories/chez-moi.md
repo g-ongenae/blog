@@ -23,7 +23,7 @@ Mais même durant l'hiver, la maison restait un lieu chaleureux. Elle n'était p
 
 Bientôt, ce serait Noël, Pierre se réjouissait déjà. Il était impatient de voir sa famille réunie autour de la table, dans le salon trop petit pour l'accueillir et buter les uns contre les autres, en profiter pour se faire la bise et rire ensemble.
 
-Oui, Pierre aimait sa petite maison et son petit jardin recouvert d'un linceul blanc, doux, léger en Hiver, verdoyant et piquant au Printemps et en Eté.
+Oui, Pierre aimait sa petite maison et son petit jardin recouvert d'un linceul blanc, doux, léger en Hiver, verdoyant et piquant au Printemps et en Été.
 
 Pierre monta dans le train Lille-Rouen qui le ramenait chez lui.
 
@@ -37,7 +37,7 @@ Ils montèrent dans leur voiture et prirent la route vers la maison.
 
 — Alors quoi de neuf, demanda le père de Pierre ?
 
-— Pas grands choses, éluda Pierre.
+— Pas grand-chose, éluda Pierre.
 
 — Et les filles ?
 
@@ -73,7 +73,7 @@ Il sortit de son lit, s'habilla et descendit dans la cuisine. Sa mère l'y atten
 
 — Hier soir, un peu avant toi. Mais mange donc.
 
-Pierre pris son déjeuner en attendant sa sœur. Sa mère préparait la buche pour la veillée de Noël. Elle s'étonnait une fois de plus de voir son fils grand et le félicita d'être en si bonne forme.
+Pierre prit son déjeuner en attendant sa sœur. Sa mère préparait la buche pour la veillée de Noël. Elle s'étonnait une fois de plus de voir son fils grand et le félicita d'être en si bonne forme.
 
 La sœur de Pierre entra dans la cuisine, toujours en robe de chambre.
 
@@ -91,7 +91,7 @@ Elle entra dans la pièce et les invita de la main à l'intérieur.
 
 — Ouah, c'est magnifique, s'exclama la sœur.
 
-Pierre était abasourdi le salon avait été agrandit en une baie vitrée, avec vue sur le jardin. Le carrelage avait été changé ainsi que les meubles et la cheminée.
+Pierre était abasourdi le salon avait été agrandi en une baie vitrée, avec vue sur le jardin. Le carrelage avait été changé ainsi que les meubles et la cheminée.
 
 — Même la cheminée, dit la sœur de Pierre, riant presque.
 
@@ -103,7 +103,7 @@ La table à manger était la même, ils avaient seulement rajouté une nappe en 
 
 — Bah, qu'est-ce que t'as ? dit la mère de Pierre. T'es tout blanc.
 
-Pierre avança vers les portes fenêtres et regarda l'herbe verte du jardin.
+Pierre avança vers les portes-fenêtres et regarda l'herbe verte du jardin.
 
 — Oh, oh, il y a quelqu'un ? dit la sœur.
 
@@ -117,6 +117,6 @@ Il continua de se rapprocher de la porte :
 
 La mère s'approcha de son fils et lui posa une main sur l'épaule :
 
-— Qu'y-a-t-il ? Ça ne va pas ?
+— Qu'y a-t-il ? Ça ne va pas ?
 
 Non, non, se ressaisit-il, c'est juste que j'ai l'impression d'être ailleurs.

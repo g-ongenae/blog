@@ -7,9 +7,9 @@ extra:
   lang: fr
 ---
 
-Mathias était dans son lit entrain de regarder le dernier podcast de son YouTubeur préféré. Le Soleil avait laissé place à la Lune depuis quelques heures et après avoir regardé quelques séries, lu un ou deux scans, sur son ordinateur, il avait décidé de se coucher.
+Mathias était dans son lit en train de regarder le dernier podcast de son YouTubeur préféré. Le Soleil avait laissé place à la Lune depuis quelques heures et après avoir regardé quelques séries, lu un ou deux scans, sur son ordinateur, il avait décidé de se coucher.
 
-Il s'était allongé et avait sorti sa tablette, ouvert Twitter et aperçut au milieu d'un flot d'information le tweet annonçant la sortie d'un nouveau podcast le soir même à minuit.
+Il s'était allongé et avait sorti sa tablette, ouvert Twitter et aperçu au milieu d'un flot d'information le tweet annonçant la sortie d'un nouveau podcast le soir même à minuit.
 
 Son thème « Halloween ».
 
@@ -17,7 +17,7 @@ Mathias était vert, non seulement il avait oublié la fête mais en plus il ava
 
 Son père avait insisté : « Jour de semaine = Pas de soirée ».
 
-La vidéo terminé, il alla chercher son ordinateur, se remit dans son lit et tapa dans la barre de recherche Google : « streaming halloween ». Il cliqua sur le premier lien qui lui parut fiable.
+La vidéo terminée, il alla chercher son ordinateur, se remit dans son lit et tapa dans la barre de recherche Google : « streaming halloween ». Il cliqua sur le premier lien qui lui parut fiable.
 
 Il tomba sur un film quelque peu glauque et très sombre.
 
@@ -47,13 +47,13 @@ Il redressa le coussin dans son dos et écrivit :
 
 @M4thiasBS : @HemenJack Bon c'est pas le tout mais je regarde un film, moi. #Halloween https://t.co/sg3df5g
 
-Le film n'avait pas avancé d'un pouce. Le méchant à la figure émacié n'avait pas encore tué un seul personnage.
+Le film n'avait pas avancé d'un pouce. Le méchant à la figure émaciée n'avait pas encore tué un seul personnage.
 
-Le sang n'avait pas coulé et aucun cris n'avait fusé.
+Le sang n'avait pas coulé et aucun cri n'avait fusé.
 
 Le jeune homme s'ennuyait à mourir devant ce film.
 
-Et failli s'endormir quand son ordinateur émit deux bip, il ne lui restait plus que 7 pourcent de batterie.
+Et faillit s'endormir quand son ordinateur émit deux bips, il ne lui restait plus que 7 pour cent de batterie.
 
 Il tira son chargeur de sous son lit et le brancha, puis remit « Play ».
 
@@ -71,7 +71,7 @@ Il prit sa tablette et appuya sur le bouton pour la déverrouiller, pas de répo
 
 Il enleva ses écouteurs, sortit de son lit et marcha à tâtons vers la porte.
 
-Il heurta des objets qui traînaient par terre et serra les dents pour ne par hurler de douleur et réveiller ses parents. Il faisait du bruit et décida de ralentir pour ne pas éveiller de soupçon. Après une longue épreuve de souffrance et de recherche, il trouva la porte, l'ouvrit doucement.
+Il heurta des objets qui traînaient par terre et serra les dents pour ne pas hurler de douleur et réveiller ses parents. Il faisait du bruit et décida de ralentir pour ne pas éveiller de soupçon. Après une longue épreuve de souffrance et de recherche, il trouva la porte, l'ouvrit doucement.
 
 Elle grinça. Fort.
 
@@ -91,7 +91,7 @@ Il s'assit et attendit quelques secondes que la douleur s'apaise.
 
 Le jeune entendit un petit grincement. Il ne bougea plus, tétanisé. Il patienta encore puis se remit en marche.
 
-Enfin, il trouva la porte d'entré, fit un pas de côté et se retrouva en face des disjoncteurs mais il ne les voyaient pas, ils auraient du penser à prendre une lumière. Il chercha du bout des doigts, celui-qui était abaissé.
+Enfin, il trouva la porte d'entrée, fit un pas de côté et se retrouva en face des disjoncteurs mais il ne les voyait pas, ils auraient dû penser à prendre une lumière. Il chercha du bout des doigts, celui qui était abaissé.
 
 Ils étaient tous en haut.
 
@@ -103,7 +103,7 @@ Il repartit vers le meuble où était posé le téléphone. Il le rejoignit en q
 
 Il serra les dents qui grincèrent.
 
-Ou bien étais-ce autre chose ? pensa-t-il. Allez, une petite lumière, une allumette, je sais pas quelque chose ?
+Ou bien était-ce autre chose ? pensa-t-il. Allez, une petite lumière, une allumette, je sais pas quelque chose ?
 
 Il essaya de forcer sur ses yeux pour apercevoir quelque chose, mais rien.
 
@@ -119,7 +119,7 @@ Il resta à l'affût sans bouger, puis recommença ses recherches.
 
 Il sentit un mouvement derrière lui.
 
-À nouveau, il attendit. Puis repris.
+À nouveau, il attendit. Puis reprit.
 
 — Mathias, dit quelqu'un derrière lui, qu'est-ce...
 
@@ -139,25 +139,25 @@ Il reconnut la voix de sa mère.
 
 Elle regarda la pièce :
 
-— Me dit pas que tu étais en train d'essayer de faire le mur !?
+— Me dis pas que tu étais en train d'essayer de faire le mur !?
 
 — Non, non, j'essayais de rebrancher l'électricité.
 
-— Ouais, c'est ça... Regarde moi quand tu me parles, dit-elle agacé.
+— Ouais, c'est ça... Regarde-moi quand tu me parles, dit-elle agacée.
 
-— Comment veux tu ? On n'y voit rien.
+— Comment veux-tu ? On n'y voit rien.
 
-— Je te vois très bien. D'ailleurs tu comptait sortir en pyjama ?
+— Je te vois très bien. D'ailleurs tu comptais sortir en pyjama ?
 
 — Mais non, je rebranchais l'électricité, je faisais pas le mur. D'ailleurs une lumière serait une précieuse aide.
 
-— La lumière est déjà allumé, dit-elle vraiment agacé.
+— La lumière est déjà allumée, dit-elle vraiment agacée.
 
 — Mais non, on y voit rien à 5 centimètres.
 
-La mère regarda son fils incrédule. Elle prit la lampe-torche qui traînait parterre à côté du téléphone et l'alluma juste devant son fils.
+La mère regarda son fils incrédule. Elle prit la lampe-torche qui traînait par terre à côté du téléphone et l'alluma juste devant son fils.
 
-— Tu voies mieux là ?
+— Tu vois mieux là ?
 
 — Non, pourquoi ?
 
@@ -171,7 +171,7 @@ Mathias était presque en crise d'angoisse.
 
 — Comment ça, demain ? Mais c'est grave.
 
-— Tu veux être que ton cas soit traité entre ceux de deux ivrognes d'Halloween ?
+— Tu veux que ton cas soit traité entre ceux de deux ivrognes d'Halloween ?
 
 Il détourna les yeux, du moins c'est l'impression qu'il eut.
 
@@ -179,7 +179,7 @@ Il détourna les yeux, du moins c'est l'impression qu'il eut.
 
 Il leva la tête vers où il pensait que sa mère se trouvait :
 
-— Euh, tu peux m'aider à me diriger, s'il-te-plaît ?
+— Euh, tu peux m'aider à me diriger, s'il te plaît ?
 
 Sa mère soupira et lui prit la main.
 

@@ -7,7 +7,7 @@ extra:
   lang: fr
 ---
 
-Depuis toujours, j'essaie de garder mon sang-froid quelque-soit la situation. Que je sois devant un public nerveux ou un pickpocket maladroit.
+Depuis toujours, j'essaie de garder mon sang-froid quel que soit la situation. Que je sois devant un public nerveux ou un pickpocket maladroit.
 
 Je suis devenu l'homme le plus calme du monde. J'ai appris à avoir un cœur serein et silencieux.
 

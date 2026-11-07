@@ -13,7 +13,7 @@ Je n’en fais pas un code <br>
 Juste un peu plus qu’une mode
 
 Le jour, derrière mon écran <br>
-Je respecte les règle et en dicte <br>
+Je respecte les règles et en dicte <br>
 La nuit, avec un peu de cran <br>
 J’écris des vers et puis les dicte
 

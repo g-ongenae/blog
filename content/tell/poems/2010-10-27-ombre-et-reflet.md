@@ -8,7 +8,7 @@ extra:
 ---
 
 Dans un monde de reflet, <br>
-Ou je me sens unique. <br>
+Où je me sens unique. <br>
 Sans ombre qui me ralentit, <br>
 Je peine à avancer <br>
 Et reste ici et là à attendre : <br>

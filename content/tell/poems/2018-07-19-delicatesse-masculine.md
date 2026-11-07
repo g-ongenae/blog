@@ -9,7 +9,7 @@ extra:
 
 Avec vous, nous sommes <br>
 Comment vous aider <br>
-En étant amalgamé <br>
+En étant amalgamés <br>
 À tous ces hommes
 
 Leurs actes sont inhumains <br>

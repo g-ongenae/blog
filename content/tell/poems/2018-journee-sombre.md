@@ -8,6 +8,6 @@ extra:
 ---
 
 Journée sombre <br>
-Attagué par un chibre <br>
-Un neveux, un quetard <br>
+Attaqué par un chibre <br>
+Un neveu, un quetard <br>
 Cela arriverait tôt ou tard

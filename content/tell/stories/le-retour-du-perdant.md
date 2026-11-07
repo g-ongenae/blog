@@ -9,7 +9,7 @@ extra:
 
 ## Perdu
 
-La liste des noms retenus avait été lue. Il n'était pas dessus. Il avait perdu. L'audience eut droit à son banquet. Lui prit un verre, le bu en une gorgée et s'effaça. Il sortit de la salle sans un mot, esquivant les regards. Il rentrait chez lui. Il prit la route en direction de chez lui et marcha sur le bas-côté.
+La liste des noms retenus avait été lue. Il n'était pas dessus. Il avait perdu. L'audience eut droit à son banquet. Lui prit un verre, le but en une gorgée et s'effaça. Il sortit de la salle sans un mot, esquivant les regards. Il rentrait chez lui. Il prit la route en direction de chez lui et marcha sur le bas-côté.
 
 Il regardait les voitures le doublant. Une rouge sport puis une bleue familiale, une autre grise, un cabriolet noir, une berline noire aussi. Il ne savait pas s'il prenait la bonne direction, il n'en avait que faire. Il avait perdu une fois de plus. Il n'avait connu que cela durant toute sa vie.
 
@@ -45,11 +45,11 @@ Peut-être était-ce de perdre une fois de plus.
 
 ## Manon
 
-L'appartement de Manon n'avait jamais été aussi bruyant. Elle avait demandé à Thomas de faire une petite soirée et il avait rameuté plus de 30 personnes dans son 20 mètres carrées. Elle était furieuse et amusée. Amusée de voir 30 péquenauds s'emboiter pour s'enjailler. Elle qui n'aimait que les petites soirées posées entre amis à siroter une tequila et faire griller une saucisse pleine de graisse.
+L'appartement de Manon n'avait jamais été aussi bruyant. Elle avait demandé à Thomas de faire une petite soirée et il avait rameuté plus de 30 personnes dans son 20 mètres carrés. Elle était furieuse et amusée. Amusée de voir 30 péquenauds s'emboiter pour s'enjailler. Elle qui n'aimait que les petites soirées posées entre amis à siroter une tequila et faire griller une saucisse pleine de graisse.
 
-Elle était sortie sur le balcon. Et Thomas l'avait suivi. Elle savait qu'il l'aimait et attendait qu'il se décide à lui avouer. Ou peut-être qu'elle l'embrasserait avant. Cette idée l'amusa beaucoup, mais elle ne le ferait pas.
+Elle était sortie sur le balcon. Et Thomas l'avait suivie. Elle savait qu'il l'aimait et attendait qu'il se décide à lui avouer. Ou peut-être qu'elle l'embrasserait avant. Cette idée l'amusa beaucoup, mais elle ne le ferait pas.
 
-Elle fit remarquer à Thomas un passant qui marchait ni trop vite, ni trop lentement. Une allure commune qui le faisait passer inaperçu parmi une foule, mais pas seul au bord de cette résidence.
+Elle fit remarquer à Thomas un passant qui ne marchait ni trop vite, ni trop lentement. Une allure commune qui le faisait passer inaperçu parmi une foule, mais pas seul au bord de cette résidence.
 
 - Je le connais, dit Thomas, enfin de vue.
 
@@ -59,11 +59,11 @@ Elle fit remarquer à Thomas un passant qui marchait ni trop vite, ni trop lente
 
 - La marche du perdant, rit-elle.
 
-- Il faut le laissez-passer cette étape.
+- Il faut le laisser passer cette étape.
 
 Manon le regarda surprise.
 
-- S'il ne passe pas cette étape seul, il sera détruit, expliqua Thomas. Incapable de réussir quoi que soit. Mais laisse-le, c'est la troisième fois qu'il est comme cela ce mois-ci.
+- S'il ne passe pas cette étape seul, il sera détruit, expliqua Thomas. Incapable de réussir quoi que ce soit. Mais laisse-le, c'est la troisième fois qu'il est comme cela ce mois-ci.
 
 - Je ne suis pas d'accord, il a clairement besoin d'aide.
 
@@ -83,7 +83,7 @@ Destin.
 
 Une fille marchait dans sa direction suivie par un garçon, tous deux de son âge. Ils se disputaient à propos d'il ne savait quel sujet.
 
-- Non, disait-le garçon, laisse-le tranquille.
+- Non, disait le garçon, laisse-le tranquille.
 
 - Il a besoin d'aide et c'est pas avec des gens comme toi qui ne font que faire la fête et s'enjailler dans des soirées en boites qu'il va aller mieux.
 
@@ -131,7 +131,7 @@ Il ne répondit rien.
 
 - C'est quoi ton rêve ? Enchaina Thomas.
 
-Il était de plus en perdu. Encore perdu. Cet état est-il donc naturel chez lui ?
+Il était de plus en plus perdu. Encore perdu. Cet état est-il donc naturel chez lui ?
 
 - Réfléchis pas. C'est quoi ton plus grand désir ?
 

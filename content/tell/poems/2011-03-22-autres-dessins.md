@@ -1,6 +1,6 @@
 ---
 date: 2011-03-22
-title: Autre Dessins
+title: Autres Dessins
 extra:
   state: done
   location: Le Fresne
@@ -16,5 +16,5 @@ Dans son sommeil de Loire
 
 Et le petit homme <br>
 Se promène vers <br>
-Le paisible et beaux <br>
+Le paisible et beau <br>
 Fleuve de la Loire

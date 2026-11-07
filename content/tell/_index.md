@@ -52,7 +52,7 @@ Bars: poems per year. Line: favourites per year.
 - [Simple life](@/tell/poems/2025-simple-life.md) ⭐
 - [Parle-moi](@/tell/poems/2025-parle-moi.md) ✂︎
 - [Horaire de danse ?](@/tell/poems/2025-horaire-de-danse.md)
-- [Fais-moi plaisir](@/tell/poems/2025-fais-mois-plaisir.md) ✂︎ ⭐
+- [Fais-moi plaisir](@/tell/poems/2025-fais-moi-plaisir.md) ✂︎ ⭐
 - [Euphonie](@/tell/poems/2025-euphonie.md) ⭐
 - [A cat in the corner](@/tell/poems/2025-cat-corner.md) ✂︎
 
@@ -80,7 +80,7 @@ Bars: poems per year. Line: favourites per year.
 - [Jour et Nuit](@/tell/poems/2018-07-24-jour-et-nuit.md)
 - [Lapsus](@/tell/poems/2018-07-23-lapsus.md)
 - [Voilà](@/tell/poems/2018-07-22-voila.md)
-- [S’il-vous-plait](@/tell/poems/2018-07-22-s-il-vous-plait.md)
+- [S’il vous plait](@/tell/poems/2018-07-22-s-il-vous-plait.md)
 - [Princes & Princesses](@/tell/poems/2018-07-22-princes-et-princesses.md)
 - [Scribe](@/tell/poems/2018-07-21-scribe.md)
 - [Intègre](@/tell/poems/2018-07-20-integre.md)
@@ -97,7 +97,7 @@ Bars: poems per year. Line: favourites per year.
 - [Je voulais seulement](@/tell/poems/2018-07-08-je-voulais-seulement.md)
 - [Motivation](@/tell/poems/2018-04-13-motivation.md)
 - [Chemin](@/tell/poems/2018-01-17-chemin.md)
-- [Soyons ivre toujours](@/tell/poems/2018-soyons-ivre-toujours.md) ✂︎
+- [Soyons ivres toujours](@/tell/poems/2018-soyons-ivre-toujours.md) ✂︎
 - [Silence](@/tell/poems/2018-silence.md) ⭐
 - [Si je devais être pris de court](@/tell/poems/2018-si-je-devais-etre-pris-de-court.md)
 - [Seul comme dans un terminus](@/tell/poems/2018-seul-comme-dans-un-terminus.md) ✂︎
@@ -110,8 +110,8 @@ Bars: poems per year. Line: favourites per year.
 - [On lit mes petits vers](@/tell/poems/2018-on-lit-mes-petits-vers.md) ✂︎
 - [Ma Réputation](@/tell/poems/2018-ma-reputation.md)
 - [Ma barbe me gratte](@/tell/poems/2018-ma-barbe-me-gratte.md) ✂︎
-- [Léger syndrome de la page blanche](@/tell/poems/2018-leger-syndrome-de-la-page-banche.md) ✂︎
-- [La Victoire de Samothrace](@/tell/poems/2018-la-victoire-de-samosthrace.md) ⭐
+- [Léger syndrome de la page blanche](@/tell/poems/2018-leger-syndrome-de-la-page-blanche.md) ✂︎
+- [La Victoire de Samothrace](@/tell/poems/2018-la-victoire-de-samothrace.md) ⭐
 - [La Politique](@/tell/poems/2018-la-politique.md)
 - [La page blanche, c'est celle des débuts](@/tell/poems/2018-la-page-blanche.md) ✂︎
 - [Journée sombre](@/tell/poems/2018-journee-sombre.md)
@@ -134,8 +134,8 @@ Bars: poems per year. Line: favourites per year.
 #### 2017
 
 - [Regret](@/tell/poems/2017-11-27-regret.md)
-- [Remord](@/tell/poems/2017-11-26-remord.md)
-- [Le regret et le remord](@/tell/poems/2017-11-25-le-regret-et-le-remord.md)
+- [Remords](@/tell/poems/2017-11-26-remord.md)
+- [Le regret et le remords](@/tell/poems/2017-11-25-le-regret-et-le-remord.md)
 - [Follow](@/tell/poems/2017-11-18-follow.md)
 - [Silence](@/tell/poems/2017-11-17-silence.md)
 - [Rempart](@/tell/poems/2017-11-13-rempart.md)
@@ -218,7 +218,7 @@ Bars: poems per year. Line: favourites per year.
 - [Liberté chérie](@/tell/poems/2011-12-05-liberte-cherie.md)
 - [Infos](@/tell/poems/2011-07-19-infos.md) ⭐
 - [Plus classiques sont les réformateurs](@/tell/poems/2011-07-07-plus-classiques.md) ✂︎
-- [Immobiles stagnants](@/tell/poems/2011-07-07-immibiles-stagnants.md)
+- [Immobiles stagnants](@/tell/poems/2011-07-07-immobiles-stagnants.md)
 - [Des Visages](@/tell/poems/2011-07-07-des-visages.md)
 - [Le Printemps estival](@/tell/poems/2011-06-16-le-printemps-estival.md) ⭐
 - [La Mort](@/tell/poems/2011-06-02-la-mort.md)
@@ -240,7 +240,7 @@ Bars: poems per year. Line: favourites per year.
 - [Le Poème](@/tell/poems/2011-03-29-le-poeme.md)
 - [Perdu](@/tell/poems/2011-03-28-perdu.md)
 - [Métamorphose](@/tell/poems/2011-03-23-metamorphose.md)
-- [Autre Dessins](@/tell/poems/2011-03-22-autres-dessins.md)
+- [Autres Dessins](@/tell/poems/2011-03-22-autres-dessins.md)
 - [Le Temps](@/tell/poems/2011-03-17-le-temps.md)
 - [Pollution](@/tell/poems/2011-03-14-pollution.md)
 - [Une Semaine](@/tell/poems/2011-03-13-une-semaine.md) ⭐
@@ -313,8 +313,8 @@ Bars: poems per year. Line: favourites per year.
 xychart-beta
   title "Story lengths (in words)"
   x-axis "Story (list order)" 1 --> 58
-  y-axis "Words" 0 --> 17360
-  line [831, 247, 251, 69, 84, 161, 317, 459, 69, 250, 436, 17360, 261, 290, 249, 227, 330, 228, 280, 615, 254, 285, 1332, 64, 95, 77, 111, 132, 97, 94, 95, 99, 109, 141, 70, 78, 79, 78, 68, 51, 263, 35, 115, 207, 145, 84, 751, 947, 1727, 829, 824, 1009, 922, 409, 251, 181, 2134, 1124]
+  y-axis "Words" 0 --> 17363
+  line [831, 250, 251, 69, 84, 163, 317, 459, 69, 250, 435, 17363, 261, 289, 249, 227, 329, 227, 280, 616, 255, 285, 1335, 64, 95, 77, 111, 132, 97, 94, 95, 99, 107, 141, 69, 78, 79, 78, 68, 51, 261, 35, 115, 206, 145, 84, 753, 946, 1727, 829, 823, 1009, 927, 413, 253, 181, 2140, 1124]
 ```
 
 ### Story list
@@ -328,12 +328,12 @@ xychart-beta
 
 #### 2023
 
-- [Rien à déclarer: Deux secondes](@/tell/stories/ras-deux-secondes.md) (247 words)
+- [Rien à déclarer: Deux secondes](@/tell/stories/ras-deux-secondes.md) (250 words)
 - [Rien à déclarer: Une minute](@/tell/stories/ras-une-minute.md) (251 words)
 - [Shit Story](@/tell/stories/shit-story.md) ✂︎ (69 words)
 - [Hard Memory](@/tell/stories/hard-memory.md) ✂︎ (84 words)
-- [Rire est interdit](@/tell/stories/rire-est-interdit.md) ✂︎ (161 words)
-- [Et is s'en furent allés](@/tell/stories/et-ils-s-en-furent-alles.md) ✂︎ (317 words)
+- [Rire est interdit](@/tell/stories/rire-est-interdit.md) ✂︎ (163 words)
+- [Et ils s'en furent allés](@/tell/stories/et-ils-s-en-furent-alles.md) ✂︎ (317 words)
 
 #### 2020
 
@@ -346,22 +346,22 @@ xychart-beta
 
 #### 2017
 
-- [StoryTime: Dave](@/tell/stories/dave.md) (436 words)
-- [L'Ascension du Ciel](@/tell/stories/l-ascension-du-ciel.md) ✂︎ (17360 words)
+- [StoryTime: Dave](@/tell/stories/dave.md) (435 words)
+- [L'Ascension du Ciel](@/tell/stories/l-ascension-du-ciel.md) ✂︎ (17363 words)
 - [Briques: Do It Now](@/tell/stories/briques-do-it-now.md) (261 words)
-- [Briques: Lendemain](@/tell/stories/briques-lendemain.md) (290 words)
+- [Briques: Lendemain](@/tell/stories/briques-lendemain.md) (289 words)
 
 #### 2016
 
 - [Briques: Une Prise](@/tell/stories/briques-une-prise.md) (249 words)
 - [Briques: Bruits](@/tell/stories/briques-bruits.md) (227 words)
-- [Briques: La Nuit](@/tell/stories/briques-la-nuit.md) (330 words)
-- [Briques: La Télé](@/tell/stories/briques-la-tele.md) (228 words)
+- [Briques: La Nuit](@/tell/stories/briques-la-nuit.md) (329 words)
+- [Briques: La Télé](@/tell/stories/briques-la-tele.md) (227 words)
 - [Briques: Le Train](@/tell/stories/briques-le-train.md) (280 words)
-- [Briques: Le Pommier](@/tell/stories/briques-le-pommier.md) (615 words)
-- [Briques: L'Autruche](@/tell/stories/briques-l-autruche.md) (254 words)
+- [Briques: Le Pommier](@/tell/stories/briques-le-pommier.md) (616 words)
+- [Briques: L'Autruche](@/tell/stories/briques-l-autruche.md) (255 words)
 - [Briques: En Daim](@/tell/stories/briques-en-daim.md) (285 words)
-- [Qui a éteint la lumière ?](@/tell/stories/qui-a-eteint-la-lumiere.md) (1332 words)
+- [Qui a éteint la lumière ?](@/tell/stories/qui-a-eteint-la-lumiere.md) (1335 words)
 - [Briques: Rêve](@/tell/stories/briques-reve.md) (64 words)
 - [IG Inspired: Cache-Cache - _inspired by \[@roger_by\](https://www.instagram.com/roger_by/)_](@/tell/stories/ig-cache-cache.md) (95 words)
 - [IG Inspired: La Vague - _inspired by \[@sam.vox\](https://www.instagram.com/sam.vox/)_](@/tell/stories/ig-la-vague.md) (77 words)
@@ -371,40 +371,40 @@ xychart-beta
 - [IG Inspired: L'Entrée - _inspired by \[@tharinrosa\](https://www.instagram.com/tharinrosa/)_](@/tell/stories/ig-l-entree.md) (94 words)
 - [IG Inspired: La Bonne Patte - _inspired by \[@lexiesheartbeat\](https://www.instagram.com/lexiesheartbeat/)_](@/tell/stories/ig-la-bonne-patte.md) (95 words)
 - [IG Inspired: Le Départ - _inspired by \[@Vdpfreelancer\](https://www.instagram.com/Vdpfreelancer/)_](@/tell/stories/ig-le-depart.md) (99 words)
-- [IG Inspired: Mal de dos - _inspired by \[@planet.eart\](https://www.instagram.com/planet.eart/)_](@/tell/stories/ig-mal-de-dos.md) (109 words)
+- [IG Inspired: Mal de dos - _inspired by \[@planet.eart\](https://www.instagram.com/planet.eart/)_](@/tell/stories/ig-mal-de-dos.md) (107 words)
 - [IG Inspired: Le Destrier - _inspired by \[@Elena_Shumilova\](https://www.instagram.com/Elena_Shumilova/)_](@/tell/stories/ig-le-destrier.md) (141 words)
 
 #### 2015
 
-- [IG Inspired: Le Train - _inspired by \[@DanielKordan\](https://www.instagram.com/danielkordan/)_](@/tell/stories/ig-le-train.md) (70 words)
+- [IG Inspired: Le Train - _inspired by \[@DanielKordan\](https://www.instagram.com/danielkordan/)_](@/tell/stories/ig-le-train.md) (69 words)
 - [IG Inspired: L'Apprenti - _inspired by Marsel van Oosten_](@/tell/stories/ig-l-apprenti.md) (78 words)
 - [IG Inspired: Le Temple de Glace - _inspired by \[@DanielKordan\](https://www.instagram.com/danielkordan/)_](@/tell/stories/ig-le-temple-de-glace.md) (79 words)
 - [IG Inspired: Le Naufrage - _inspired by \[@trevblvke\](https://www.instagram.com/trevblvke/)_](@/tell/stories/ig-le-naufrage.md) (78 words)
 - [IG Inspired: Plop! - _inspired by \[@andrewtkearns\](https://www.instagram.com/andrewtkearns/)_](@/tell/stories/ig-plop.md) (68 words)
 - [IG Inspired: La Sortie - _inspired by \[@makenaboy_maui_\](https://www.instagram.com/makenaboy_maui_/)_](@/tell/stories/ig-la-sortie.md) (51 words)
-- [IG Inspired: La sirène - _inspired by \[@driftingpixels\](https://www.instagram.com/driftingpixels/)_](@/tell/stories/ig-la-sirene.md) (263 words)
+- [IG Inspired: La sirène - _inspired by \[@driftingpixels\](https://www.instagram.com/driftingpixels/)_](@/tell/stories/ig-la-sirene.md) (261 words)
 - [IG Inspired: Étoile filante - _inspired by \[@ecoxgear\](https://www.instagram.com/ecoxgear/)_](@/tell/stories/ig-etoile-filante.md) (35 words)
 - [IG Inspired: Sur la route - _inspired by \[@cully_kamisugi\](https://www.instagram.com/cully_kamisugi/)_](@/tell/stories/ig-sur-la-route.md) (115 words)
-- [IG Inspired: L'homme dans le champ - _inspired by \[@mikkolagerstedt\](https://www.instagram.com/mikkolagerstedt/)_](@/tell/stories/ig-l-homme-dans-un-champs.md) (207 words)
+- [IG Inspired: L'homme dans le champ - _inspired by \[@mikkolagerstedt\](https://www.instagram.com/mikkolagerstedt/)_](@/tell/stories/ig-l-homme-dans-un-champs.md) (206 words)
 - [IG Inspired: La porte de la maison - _inspired by \[@gettyphotography\](https://www.instagram.com/gettyphotography)_](@/tell/stories/ig-la-porte-de-la-maison.md) (145 words)
 - [IG Inspired: Dans une grotte - _inspired by \[@erubes1\](https://www.instagram.com/erubes1/)_](@/tell/stories/ig-dans-une-grotte.md) (84 words)
-- [J'ai peur](@/tell/stories/j-ai-peur.md) (751 words)
-- [Chez moi](@/tell/stories/chez-moi.md) (947 words)
+- [J'ai peur](@/tell/stories/j-ai-peur.md) (753 words)
+- [Chez moi](@/tell/stories/chez-moi.md) (946 words)
 - [Passion](@/tell/stories/passion.md) ✂︎ (1727 words)
 - [Juste une envie d'être ailleurs](@/tell/stories/juste-une-envie-d-etre-ailleurs.md) (829 words)
 
 #### 2014
 
-- [Et comme d'habitude](@/tell/stories/et-comme-d-habitude.md) (824 words)
+- [Et comme d'habitude](@/tell/stories/et-comme-d-habitude.md) (823 words)
 - [Prêt](@/tell/stories/pret.md) (1009 words)
-- [Le Retour du perdant](@/tell/stories/le-retour-du-perdant.md) (922 words)
-- [Le Voleur aux mains propres](@/tell/stories/le-voleur-aux-mains-propres.md) (409 words)
-- [Du Nerf](@/tell/stories/du-nerf.md) (251 words)
+- [Le Retour du perdant](@/tell/stories/le-retour-du-perdant.md) (927 words)
+- [Le Voleur aux mains propres](@/tell/stories/le-voleur-aux-mains-propres.md) (413 words)
+- [Du Nerf](@/tell/stories/du-nerf.md) (253 words)
 - [Coupable](@/tell/stories/coupable.md) (181 words)
 
 #### 2013
 
-- [Vous et Nous](@/tell/stories/vous-et-nous.md) (2134 words)
+- [Vous et Nous](@/tell/stories/vous-et-nous.md) (2140 words)
 - [Les Maudits](@/tell/stories/les-maudits.md) (1124 words)
 
-Last updated on 2026-09-16
+Last updated on 2026-11-07

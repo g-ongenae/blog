@@ -13,7 +13,7 @@ Nous étions en train de rire et de nous amuser. Nous chahutions gaiement comme 
 
 Et il est tombé sur elle.
 
-Aucune incidence, s'il n'avait pas eu ses clés dans sa poche. Les frottements des dents des clés, rapide, contre sa peau lui ont déclenché une hémorragie interne.
+Aucune incidence, s'il n'avait pas eu ses clés dans sa poche. Les frottements des dents des clés, rapides, contre sa peau lui ont déclenché une hémorragie interne.
 
 À peine l'aidait-il à se relever qu'elle retombait.
 
@@ -23,7 +23,7 @@ Nous avons tous été surpris de ne pas la voir rire. Elle a toujours été sens
 
 Dès lors, nous avons tout fait pour la sauver. Il l'a mise de côté pensant que cela pouvait l'aider à respirer. J'ai appelé les pompiers.
 
-Ils n'ont pu la sauver. Personne ne le pu.
+Ils n'ont pu la sauver. Personne ne le put.
 
 Nous avons mis trop de temps avant de réagir, de comprendre.
 

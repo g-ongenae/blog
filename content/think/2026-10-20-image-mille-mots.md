@@ -18,7 +18,7 @@ Un graphe qu'on peut écrire en quelques lignes de code et donc modifier facilem
 
 Je n'ai même pas besoin de lire une seule ligne de la PR, que j'ai déjà une bonne idée de ce qu'elle devrait contenir.
 
-Et aujourd'hui, à l'heure des PRs auto-généré avec 2000+ lignes de codes, voir n'a jamais été aussi utile.
+Et aujourd'hui, à l'heure des PRs auto-générées avec 2000+ lignes de code, voir n'a jamais été aussi utile.
 
 C'est pourquoi j'ai créé deux outils pour m'aider à mieux voir :
 
@@ -27,7 +27,7 @@ C'est pourquoi j'ai créé deux outils pour m'aider à mieux voir :
 
 Leur rôle :
 - détecter les graphes mermaid
-- afficher le graphes dans une webview/widget
+- afficher les graphes dans une webview/widget
 - rediriger vers mermaid live editor (pour éditer si besoin)
 - voir les changements d'un graphe (PR ou commit)
 

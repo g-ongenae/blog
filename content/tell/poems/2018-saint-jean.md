@@ -23,7 +23,7 @@ Me tenant à ses côtés <br>
 Quand il emporta nos péchés <br>
 Ah ! Ce damné bonheur
 
-Il nous a sauvé du passé <br>
+Il nous a sauvés du passé <br>
 Qu'en est-il de nos futures erreurs ? <br>
 Celle dont on ne s'est encore acquittée <br>
 Et le diable fait son heur

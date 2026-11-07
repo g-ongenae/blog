@@ -14,7 +14,7 @@ Sur le front <br>
 Où en chœur <br>
 Les chevaliers ardents <br>
 M’achèvent pour me voler mes biens <br>
-Et s’en aller de bien-belle manière <br>
+Et s’en aller de bien belle manière <br>
 Sans autre volonté que s’enrichir <br>
 Ils m’oublient et continuent leur course <br>
 Course dont jamais n’a été mienne

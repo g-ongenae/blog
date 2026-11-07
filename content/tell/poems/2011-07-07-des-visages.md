@@ -13,5 +13,5 @@ Mais je suis comme <br>
 Les deux nains <br>
 Mais comme le <br>
 Personnage <br>
-Centrale <br>
+Central <br>
 Suis discret.

@@ -12,7 +12,7 @@ C'est à tort qu'on en fait un symptôme <br>
 Qu'on s'y accroche comme à nos ~chromosomes~ <br>
 Au lieu d'en faire un rebut
 
-De gratter le papier à coup d'idées <br>
+De gratter le papier à coups d'idées <br>
 Qu'il se grise à l'encre saignée <br>
 Qu'il n'ait ni sens ni but <br>
 Que celui qu'on ait voulu
@@ -20,9 +20,9 @@ Que celui qu'on ait voulu
 Je n'ai rien à dire mais j'écris <br>
 Quitte à froisser le bon Coluche <br>
 Je suis un peu nunuche <br>
-Il faut toujours que je cries
+Il faut toujours que je crie
 
-Je m'époumonnerait encor <br>
+Je m'époumonerais encor <br>
 Jusqu'à ma mort <br>
 Ou la langue coupée <br>
 Les mains liées

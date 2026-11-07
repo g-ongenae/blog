@@ -10,7 +10,7 @@ extra:
 
 Je voudrais fuir ce pays plein de souffrance <br>
 Pour un autre où tout serait joie <br>
-Tel est mon espérance <br>
+Telle est mon espérance <br>
 Mais ce monde n’existe que chez moi.
 
 Dans cet esprit s’entremêlent avec importance <br>

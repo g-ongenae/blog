@@ -7,7 +7,7 @@ extra:
   lang: fr
 ---
 
-Je voudrai crier, hurler <br>
+Je voudrais crier, hurler <br>
 Mais je n’arrive qu’à pleurer
 
 Mon cerveau bringuebale <br>
@@ -15,7 +15,7 @@ Des scènes choquantes, <br>
 Frappantes et sanglantes, <br>
 Veut se tirer une balle
 
-Je voudrai courir, fuir <br>
+Je voudrais courir, fuir <br>
 Mais je ne peux partir
 
 Mon cœur est morne <br>
@@ -23,7 +23,7 @@ En ces temps morts <br>
 Il me laisse vide et dort <br>
 Besoin d’une corde
 
-Je voudrai frapper, tuer <br>
+Je voudrais frapper, tuer <br>
 Mais je ne peux le supporter
 
 Tout mon corps brule <br>

@@ -14,7 +14,7 @@ Si c’est utile ?
 
 Je pleure <br>
 Pour toi <br>
-Mais c’est larmes <br>
+Mais ces larmes <br>
 Coulent-elles dans l’ignorance ?
 
 Je pleure <br>

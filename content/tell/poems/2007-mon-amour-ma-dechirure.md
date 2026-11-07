@@ -14,9 +14,9 @@ La maladie d’amour
 
 Quand tes beaux yeux bleus <br>
 D’une profondeur esquisse <br>
-Se plonge dans les miens <br>
+Se plongent dans les miens <br>
 Tous fatigués tous cernés <br>
-Portant de lourde poche <br>
+Portant de lourdes poches <br>
 Mon cœur se met à frémir d’amour
 
 Mon amour ma déchirure <br>
@@ -26,7 +26,7 @@ La maladie d’amour
 
 Ton parfum est celui <br>
 D’une belle marguerite <br>
-À la foi douce et croquante <br>
+À la fois douce et croquante <br>
 Ô jolie fleur flamboyante <br>
 Qui fait palpiter mes narines <br>
 Enflammant mon cœur de plus belle
@@ -52,5 +52,5 @@ Lâche des paroles <br>
 Qui peuvent être <br>
 Réconfortantes rassurantes <br>
 Amusantes hilarantes <br>
-Où je ne sais quoi <br>
-Mais jamais blessante
+Ou je ne sais quoi <br>
+Mais jamais blessantes

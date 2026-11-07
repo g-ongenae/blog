@@ -16,7 +16,7 @@ Je ne pense qu’à moi <br>
 Je me fais trop d’émoi
 
 Mais pourtant tu le sais <br>
-Pourtant tu continue <br>
+Pourtant tu continues <br>
 Escalader cette haie
 
 Escalader cette haie <br>

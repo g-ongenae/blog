@@ -23,7 +23,7 @@ Pour celles-ci, le simple fait de les lancer dans mon navigateur ou dans mon éd
 
 En revanche, toutes les pull requests qui modifient des services en production de notre infra auront droit à un regard attentif de ma part.
 
-Cependant, ce regard attentif dans les pull requests, s'il se limite aux pull requests, est déjà une réduction de la relecture à laquelle je m'astraignais.
+Cependant, ce regard attentif dans les pull requests, s'il se limite aux pull requests, est déjà une réduction de la relecture à laquelle je m'astreignais.
 
 Avant l'arrivée de Claude Code dans mon processus de développement, je profitais de chaque instant libre de tout développement fonctionnel pour relire le code des services et modifier là où je voyais des imprécisions, de la complexité inutile ou autre manque de lisibilité et de documentation.
 

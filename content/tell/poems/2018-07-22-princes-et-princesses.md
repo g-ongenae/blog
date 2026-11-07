@@ -7,7 +7,7 @@ extra:
   lang: fr
 ---
 
-Ah ces jolies enfants <br>
+Ah ces jolis enfants <br>
 Ils veulent tout <br>
 Les jouets roses, les jouets bleus <br>
 Pourvu qu’ils s’amusent <br>

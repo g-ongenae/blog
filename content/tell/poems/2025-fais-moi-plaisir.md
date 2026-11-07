@@ -1,19 +1,20 @@
 ---
 date: 2025-01-01
 title: Fais-moi plaisir
+aliases: ["/tell/poems/2025-fais-mois-plaisir/"]
 extra:
   state: draft
   favorite: true
   lang: fr
 ---
 
-Fais-moi plaisir, lance le tourne disque <br>
+Fais-moi plaisir, lance le tourne-disque <br>
 Joue-moi un peu de jazz <br>
 Sors celui qui est rayé <br>
 Celui qu'on a trop écouté <br>
 Celui qui rappelle les soirées <br>
 Tamisées du caveau (de la huchette) <br>
-La sueur coulant à flot (bichette) <br>
+La sueur coulant à flots (bichette) <br>
 Nos passes de Lindy trop pratiquées <br>
 Laisse-moi t'inviter, te faire danser <br>
 Regarde-moi, embrasse-moi <br>

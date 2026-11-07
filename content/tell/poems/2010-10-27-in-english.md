@@ -13,7 +13,7 @@ I love you <br>
 And I want you <br>
 To be my girlfriend. <br>
 Not a friend! <br>
-Just little bit more! <br>
+Just a little bit more! <br>
 So what is your answer? <br>
 Do you want everything more? <br>
 But I just want your answer!

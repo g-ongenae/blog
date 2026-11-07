@@ -11,6 +11,6 @@ Tout a toujours deux faces ! <br>
 La beauté est magnifique, <br>
 Mais, derrière, <br>
 Les règles qui lui permettent d’exister <br>
-Sont désagréable, hideuse <br>
+Sont désagréables, hideuses <br>
 Voire désespérante, répugnante. <br>
 Mais quelle face est la meilleure ?
