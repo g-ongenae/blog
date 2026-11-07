@@ -1,7 +1,6 @@
 ---
 date: 2018-01-01
 title: Léger syndrome de la page blanche
-aliases: ["/tell/poems/2018-leger-syndrome-de-la-page-banche/"]
 extra:
   state: draft
   location: Cergy

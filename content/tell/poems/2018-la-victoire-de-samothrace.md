@@ -1,7 +1,6 @@
 ---
 date: 2018-01-01
 title: La Victoire de Samothrace
-aliases: ["/tell/poems/2018-la-victoire-de-samosthrace/"]
 extra:
   state: done
   location: Musée du Louvre, Paris

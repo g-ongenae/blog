@@ -1,7 +1,6 @@
 ---
 date: 2025-01-01
 title: Fais-moi plaisir
-aliases: ["/tell/poems/2025-fais-mois-plaisir/"]
 extra:
   state: draft
   favorite: true

@@ -1,7 +1,6 @@
 ---
 date: 2011-07-07
 title: Immobiles stagnants
-aliases: ["/tell/poems/immibiles-stagnants/"]
 extra:
   state: done
   location: Le Fresne
