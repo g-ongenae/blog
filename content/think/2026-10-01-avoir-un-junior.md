@@ -1,4 +1,5 @@
 ---
+date: 2026-10-06
 title: Avoir un junior, c'est cool.
 extra:
   lang: fr

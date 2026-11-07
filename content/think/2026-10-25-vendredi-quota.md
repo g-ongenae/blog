@@ -1,4 +1,5 @@
 ---
+date: 2026-10-23
 title: C'est vendredi… quota Claude consommé !
 extra:
   lang: fr

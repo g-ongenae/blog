@@ -1,4 +1,5 @@
 ---
+date: 2026-10-31
 title: Je crois que je tourne au vinaigre.
 extra:
   lang: fr

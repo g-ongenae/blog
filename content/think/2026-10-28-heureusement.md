@@ -1,4 +1,5 @@
 ---
+date: 2026-10-29
 title: Heureusement que je suis célibataire
 extra:
   lang: fr

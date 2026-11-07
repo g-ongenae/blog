@@ -1,4 +1,5 @@
 ---
+date: 2026-11-01
 title: Publish in each language?
 extra:
   lang: fr

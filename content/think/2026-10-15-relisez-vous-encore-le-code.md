@@ -1,4 +1,5 @@
 ---
+date: 2026-10-12
 title: Relisez-vous encore le code que vous générez ?
 extra:
   lang: fr

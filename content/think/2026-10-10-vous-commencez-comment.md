@@ -1,4 +1,5 @@
 ---
+date: 2026-10-09
 title: Et vous, vous commencez comment vos posts LinkedIn ?
 extra:
   lang: fr

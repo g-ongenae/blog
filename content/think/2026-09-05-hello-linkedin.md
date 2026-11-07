@@ -1,4 +1,5 @@
 ---
+date: 2026-09-11
 title: Hello LinkedIn, ça va ?
 extra:
   lang: fr

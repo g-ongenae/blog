@@ -1,4 +1,5 @@
 ---
+date: 2026-11-03
 title: Ôtez-moi ça de la vue !
 extra:
   lang: fr

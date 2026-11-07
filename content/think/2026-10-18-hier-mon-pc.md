@@ -1,4 +1,5 @@
 ---
+date: 2026-10-16
 title: Hier, mon PC a crashé…
 extra:
   lang: fr

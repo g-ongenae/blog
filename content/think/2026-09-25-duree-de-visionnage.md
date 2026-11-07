@@ -1,4 +1,5 @@
 ---
+date: 2026-10-01
 title: "Durée moyenne de visionnage : 1 min 48, pff… nul !"
 extra:
   lang: fr
