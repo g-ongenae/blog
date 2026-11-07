@@ -5,7 +5,7 @@ extra:
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7523678150724206593/
 ---
-𝗧𝗼𝘂𝘁 𝘃𝗮 𝗽𝗹𝘂𝘀 𝘃𝗶𝘁𝗲 𝗺𝗮𝗶𝗻𝘁𝗲𝗻𝗮𝗻𝘁.
+**Tout va plus vite maintenant.**
 
 Hier, je voyais une publication de Louis Dauvois 🟦 rapportant la situation catastrophique de Pipedrive, un des CRM les plus utilisés dans le monde.
 (Première fois que j'en entends parler perso 😅, on jira que j'ai notion…)
@@ -14,8 +14,8 @@ Paulo Cunha, le CEO de Pipedrive, impute sa perte de trafic, et donc de clients,
 
 Louis Dauvois conclut : 
 
-> 𝘈𝘶𝘵𝘳𝘦𝘮𝘦𝘯𝘵 𝘥𝘪𝘵, 𝘭’𝘐𝘈 𝘴’𝘦𝘯 𝘦𝘴𝘵 𝘱𝘳𝘪𝘴𝘦 𝘢̀ 𝘭𝘢 𝘱𝘰𝘳𝘵𝘦 𝘥’𝘦𝘯𝘵𝘳𝘦́𝘦, 𝘤𝘦𝘭𝘭𝘦 𝘱𝘢𝘳 𝘭𝘢𝘲𝘶𝘦𝘭𝘭𝘦 𝘴𝘦𝘴 𝘤𝘭𝘪𝘦𝘯𝘵𝘴 𝘢𝘳𝘳𝘪𝘷𝘢𝘪𝘦𝘯𝘵 𝘥𝘦𝘱𝘶𝘪𝘴 𝘵𝘰𝘶𝘫𝘰𝘶𝘳𝘴.
-> […] 𝘭𝘢 𝘮𝘦𝘯𝘢𝘤𝘦 𝘭𝘢 𝘱𝘭𝘶𝘴 𝘪𝘮𝘮𝘦́𝘥𝘪𝘢𝘵𝘦 𝘦𝘴𝘵 𝘦𝘯 𝘢𝘮𝘰𝘯𝘵, 𝘢𝘶 𝘮𝘰𝘮𝘦𝘯𝘵 𝘰𝘶̀ 𝘶𝘯 𝘤𝘭𝘪𝘦𝘯𝘵 𝘤𝘩𝘦𝘳𝘤𝘩𝘦 𝘶𝘯𝘦 𝘴𝘰𝘭𝘶𝘵𝘪𝘰𝘯 𝘦𝘵 𝘰𝘶̀ 𝘶𝘯𝘦 𝘐𝘈 𝘤𝘩𝘰𝘪𝘴𝘪𝘵 𝘭𝘦𝘴 𝘯𝘰𝘮𝘴 𝘲𝘶’𝘦𝘭𝘭𝘦 𝘷𝘢 𝘭𝘶𝘪 𝘱𝘳𝘰𝘱𝘰𝘴𝘦𝘳.
+> *Autrement dit, l’IA s’en est prise à la porte d’entrée, celle par laquelle ses clients arrivaient depuis toujours.*
+> […] *la menace la plus immédiate est en amont, au moment où un client cherche une solution et où une IA choisit les noms qu’elle va lui proposer.*
 
 Loin de moi l'idée de le contredire, Louis a raison.
 
@@ -30,7 +30,7 @@ Google Flights a décollé depuis 2011 et les concurrents ne se sont pas encore 
 
 En comparaison, ChatGPT est sorti en 2023, il y a à peine 3 ans et voilà Pipedrive déjà en fin de course.
 
-Depuis quelques semaines, je ne compte plus les « 𝘪𝘭 𝘧𝘢𝘶𝘵 𝘲𝘶'𝘰𝘯 𝘢𝘤𝘤𝘦́𝘭𝘦̀𝘳𝘦 ».
+Depuis quelques semaines, je ne compte plus les « *il faut qu'on accélère* ».
 Ceux qui le répètent le savent, le destin de Pipedrive n'est pas un mauvais pipedream, c'est une réalité qui nous court tous après.
 
 PS : oui, je sais, ChatGPT est sorti en novembre 2022. J'ai un peu arrangé la date, exprès.

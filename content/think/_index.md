@@ -20,8 +20,8 @@ render: false
 
 ### 2026
 
-- 2026-11-06 · [𝗜 𝗶𝗻𝘃𝗼𝗹𝘂𝗻𝘁𝗮𝗿𝗶𝗹𝘆 𝗺𝗮𝗱𝗲 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗮𝗱 𝗳𝗼𝗿 𝗺𝘆 𝗰𝗼𝗺𝗽𝗮𝗻𝘆.](@/think/2026-11-06-involuntarily-made-the-best-ad.md) 🇬🇧 · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7524425360281751552/)
-- 2026-11-06 · [𝗝'𝗮𝗶 𝗶𝗻𝘃𝗼𝗹𝗼𝗻𝘁𝗮𝗶𝗿𝗲𝗺𝗲𝗻𝘁 𝗳𝗮𝗶𝘁 𝗹𝗮 𝗺𝗲𝗶𝗹𝗹𝗲𝘂𝗿𝗲 𝗽𝘂𝗯 𝗽𝗼𝘂𝗿 𝗺𝗮 𝗯𝗼𝗶𝘁𝗲.](@/think/2026-11-06-involontairement-meilleure-pub.md) 🇫🇷 · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7524421656413478912/)
+- 2026-11-06 · [I involuntarily made the best ad for my company.](@/think/2026-11-06-involuntarily-made-the-best-ad.md) 🇬🇧 · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7524425360281751552/)
+- 2026-11-06 · [J'ai involontairement fait la meilleure pub pour ma boite.](@/think/2026-11-06-involontairement-meilleure-pub.md) 🇫🇷 · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7524421656413478912/)
 - 2026-11-04 · [Tout va plus vite maintenant.](@/think/2026-11-04-tout-va-plus-vite-maintenant.md) 🇫🇷 · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7523678150724206593/)
 - 2026-11-01 · [Publish in each language?](@/think/2026-11-01-publish-each-lang.md) 🇫🇷 · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7522649759627784193/)
 - 2026-10-09 · [Et vous, vous commencez comment vos posts LinkedIn ?](@/think/2026-10-09-vous-commencez-comment.md) 🇫🇷 · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7514222019215769600/)

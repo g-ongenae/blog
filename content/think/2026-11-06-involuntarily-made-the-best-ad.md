@@ -1,11 +1,11 @@
 ---
 date: 2026-11-06
-title: 𝗜 𝗶𝗻𝘃𝗼𝗹𝘂𝗻𝘁𝗮𝗿𝗶𝗹𝘆 𝗺𝗮𝗱𝗲 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗮𝗱 𝗳𝗼𝗿 𝗺𝘆 𝗰𝗼𝗺𝗽𝗮𝗻𝘆.
+title: I involuntarily made the best ad for my company.
 extra:
   lang: en
   link: https://www.linkedin.com/feed/update/urn:li:activity:7524425360281751552/
 ---
-𝗜 𝗶𝗻𝘃𝗼𝗹𝘂𝗻𝘁𝗮𝗿𝗶𝗹𝘆 𝗺𝗮𝗱𝗲 𝘁𝗵𝗲 𝗯𝗲𝘀𝘁 𝗮𝗱 𝗳𝗼𝗿 𝗺𝘆 𝗰𝗼𝗺𝗽𝗮𝗻𝘆.
+**I involuntarily made the best ad for my company.**
 
 A few days ago I created myself a small tool to improve the UI of LinkedIn for my own use.
 I decided to share it with the world by posting a screenshot for demo purposes on LinkedIn.
