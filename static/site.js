@@ -88,23 +88,27 @@ if (codes.length) {
     const { default: mermaid } =
       await import('https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs');
 
+    // Diagrams take the palette of the colour scheme active on load.
+    const styles = getComputedStyle(document.documentElement);
+    const token = (name) => styles.getPropertyValue(`--${name}`).trim();
+
     mermaid.initialize({
       startOnLoad: false,
       theme: 'base',
       themeVariables: {
-        background: '#030806',
-        primaryColor: '#0b2815',
-        primaryTextColor: '#f0fff2',
-        lineColor: '#9dffb0',
-        textColor: '#b2dcb8',
+        background: token('bg'),
+        primaryColor: token('bg-glow'),
+        primaryTextColor: token('fg'),
+        lineColor: token('green'),
+        textColor: token('fg-muted'),
         xyChart: {
-          backgroundColor: '#030806',
-          titleColor: '#f0fff2',
-          xAxisLabelColor: '#b2dcb8',
-          yAxisLabelColor: '#b2dcb8',
-          xAxisTitleColor: '#b2dcb8',
-          yAxisTitleColor: '#b2dcb8',
-          plotColorPalette: '#5bbf6d, #9dffb0',
+          backgroundColor: token('bg'),
+          titleColor: token('fg'),
+          xAxisLabelColor: token('fg-muted'),
+          yAxisLabelColor: token('fg-muted'),
+          xAxisTitleColor: token('fg-muted'),
+          yAxisTitleColor: token('fg-muted'),
+          plotColorPalette: `${token('green-dim')}, ${token('green')}`,
         },
       },
     });
