@@ -398,6 +398,9 @@ blockquote {
   align-items: center;
   color: var(--green-dim);
 }
+.status-bar a {
+  color: inherit;
+}
 .status-dot {
   display: inline-block;
   width: 6px;

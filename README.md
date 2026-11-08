@@ -40,3 +40,10 @@ Validation: `make build`, `npm test` (the router and the tree against the Zola
 build), `npm run check` (types, ESLint and Prettier), and `zola check` (the last
 also checks external sites, which may be temporarily unavailable). `npm run format`
 formats the code; posts and templates are left alone.
+
+## Licence
+
+The code (templates, scripts, styles and configuration) is under the
+[MIT licence](LICENSE). The texts in `content/` are under
+[CC BY-NC 4.0](LICENSE-CONTENT): they may be shared and adapted for
+non-commercial purposes with credit.
