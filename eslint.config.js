@@ -18,7 +18,7 @@ const MULTILINE = [
 ];
 
 export default defineConfig(
-  globalIgnores(['public/', 'static/terminal.js']),
+  globalIgnores(['public/']),
   js.configs.recommended,
   {
     files: ['*.js'],

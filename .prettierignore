@@ -7,4 +7,3 @@ templates/
 # Generated or copied from another repository.
 public/
 static/tree.json
-static/terminal.js
