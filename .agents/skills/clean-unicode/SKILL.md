@@ -14,8 +14,8 @@ render badly. Replace them with Markdown.
 ## Run
 
 ```sh
-python3 .agents/skills/clean-unicode/fix.py --check $(git ls-files 'content/*.md')
-python3 .agents/skills/clean-unicode/fix.py <files>
+node .agents/skills/clean-unicode/fix.ts --check $(git ls-files 'content/*.md')
+node .agents/skills/clean-unicode/fix.ts <files>
 ```
 
 `--check` lists the affected files and changes nothing. Without it, the script
@@ -29,8 +29,8 @@ rewrites the files and prints the ones it changed. It:
 - in front matter, makes `title:` plain text with no markers.
 
 Don't run it on the generated `think/_index.md` or `code/_index.md`. Regenerate
-them with `python3 scripts/build-posts.py think code` (needs PyYAML; use a venv
-if it isn't installed).
+them with `node scripts/build-posts.ts think code` (run `npm ci` first if
+`node_modules` is missing).
 
 ## Review
 

@@ -1,0 +1,10 @@
+# Prose and Zola templates are formatted by hand.
+*.md
+*.html
+content/
+templates/
+
+# Generated or copied from another repository.
+public/
+static/tree.json
+static/terminal.js

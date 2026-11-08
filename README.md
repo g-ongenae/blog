@@ -1,9 +1,9 @@
 # Blog
 
-Install Zola 0.19.1 (`make install`) and the build dependency:
+Install Zola 0.19.1 (`make install`) and Node.js 22.18 or later (the scripts are
+TypeScript run directly by Node). `make` installs the npm dependencies on first use.
 
 ```sh
-python3 -m pip install -r requirements-build.txt
 make build
 make serve
 ```
@@ -27,6 +27,7 @@ After editing that module, run `make sync-terminal` and commit its blog copy.
 The about-me repository also contains the blog link and cross-site routing change.
 Both repositories need publishing for the complete hand-off.
 
-Validation: `make build`, `node scripts/test-router.mjs`,
-`python3 scripts/check-tree.py`, and `zola check` (the
-last also checks external sites, which may be temporarily unavailable).
+Validation: `make build`, `npm test` (the router and the tree against the Zola
+build), `npm run check` (types, ESLint and Prettier), and `zola check` (the last
+also checks external sites, which may be temporarily unavailable). `npm run format`
+formats the code; posts and templates are left alone.

@@ -17,9 +17,13 @@ jobs:
         with:
           tool: zola@0.19.1
       - uses: actions/checkout@v6
-      - run: python3 -m pip install -r requirements-build.txt
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run check
       - run: make generate
       - run: zola check
       - run: zola build
-      - run: node scripts/test-router.mjs
-      - run: python3 scripts/check-tree.py
+      - run: npm test

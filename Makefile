@@ -2,7 +2,7 @@
 ZOLA_VERSION ?= 0.19.1
 ZOLA_INSTALL_DIR ?= /usr/local/bin
 
-.PHONY: install build generate tree serve sync-terminal
+.PHONY: install build generate tree check serve sync-terminal
 
 install:
 	@set -eu; \
@@ -23,13 +23,20 @@ install:
 	sudo install --mode 0755 "$$tmp_dir/zola" "$(ZOLA_INSTALL_DIR)/zola"; \
 	"$(ZOLA_INSTALL_DIR)/zola" --version
 
-generate:
-	cd content/tell && bash ../../scripts-build-tell.sh
-	python3 scripts/build-posts.py think code
+node_modules: package-lock.json
+	npm ci
+	@touch node_modules
+
+generate: node_modules
+	node scripts/build-tell.ts
+	node scripts/build-posts.ts think code
 	$(MAKE) tree
 
-tree:
-	python3 scripts/build-tree.py
+tree: node_modules
+	node scripts/build-tree.ts
+
+check: node_modules
+	npm run check
 
 build: generate
 	zola build
