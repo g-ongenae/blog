@@ -21,6 +21,7 @@ export interface Extra {
   link?: string;
   favorite?: boolean;
   soon?: boolean;
+  wip?: boolean;
   'ai-assisted'?: boolean;
 }
 

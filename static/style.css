@@ -9,6 +9,7 @@
   --green-bright: #d7ffdd;
   --green-dim: #5bbf6d;
   --red: #ff6b6b;
+  --orange: #ffa94d;
   --bg: #030806;
   --bg-glow: #0b2815;
   --fg: #f0fff2;
@@ -40,6 +41,7 @@
     --green-bright: #0e1116;
     --green-dim: #4b535d;
     --red: #a0111f;
+    --orange: #9a4500;
     --bg: #ffffff;
     --bg-glow: #eef1f4;
     --fg: #0e1116;
@@ -192,13 +194,13 @@ h4 {
   background: var(--hover);
   border-color: var(--green);
 }
-.is-coming-soon {
-  border-style: dashed;
-  color: var(--fg-muted);
-}
-.draft-badge {
+.draft-badge,
+.wip-badge {
   color: var(--red);
   font-size: var(--text-xs);
+}
+.wip-badge {
+  color: var(--orange);
 }
 .page-meta,
 .breadcrumb,
