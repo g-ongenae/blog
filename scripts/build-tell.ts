@@ -48,15 +48,33 @@ function poemsChart(poems: Page[]): string[] {
   ];
 }
 
+/** Upper bounds are exclusive. Mermaid escapes a literal `<` twice; `#lt;` is its own entity. */
+const BANDS = [
+  { label: '#lt; 100', max: 100 },
+  { label: '100–300', max: 300 },
+  { label: '300–1k', max: 1000 },
+  { label: '1k–3k', max: 3000 },
+  { label: '3k+', max: Infinity },
+] as const;
+
 function storiesChart(stories: Page[]): string[] {
-  const lengths = stories.map(words);
+  const bands = stories.map((page) => BANDS.findIndex(({ max }) => words(page) < max));
+  const counts = BANDS.map((_, i) => bands.filter((band) => band === i).length);
+
+  const finished = BANDS.map(
+    (_, i) => stories.filter((page, j) => bands[j] === i && page.extra?.state !== 'draft').length,
+  );
 
   return [
-    '  title "Story lengths (in words)"',
-    `  x-axis "Story (list order)" 1 --> ${String(stories.length)}`,
-    `  y-axis "Words" 0 --> ${String(Math.max(...lengths))}`,
-    `  line ${list(lengths)}`,
+    '  title "Story lengths"',
+    `  x-axis "Words" [${BANDS.map(({ label }) => `"${label}"`).join(', ')}]`,
+    `  y-axis "Stories" 0 --> ${String(Math.max(...counts))}`,
+    // Mermaid draws bar series over each other: the finished bar covers the total but its drafts.
+    `  bar ${list(counts)}`,
+    `  bar ${list(finished)}`,
     '```',
+    '',
+    'Bars: stories per length band. Bright: finished. Dim top: drafts.',
   ];
 }
 

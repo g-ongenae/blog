@@ -311,11 +311,14 @@ Bars: poems per year. Line: favourites per year.
 
 ```mermaid
 xychart-beta
-  title "Story lengths (in words)"
-  x-axis "Story (list order)" 1 --> 58
-  y-axis "Words" 0 --> 17363
-  line [831, 250, 251, 69, 84, 163, 317, 459, 69, 250, 435, 17363, 261, 289, 249, 227, 329, 227, 280, 616, 255, 285, 1335, 64, 95, 77, 111, 132, 97, 94, 95, 99, 107, 141, 69, 78, 79, 78, 68, 51, 261, 35, 115, 206, 145, 84, 753, 946, 1727, 829, 823, 1009, 927, 413, 253, 181, 2140, 1124]
+  title "Story lengths"
+  x-axis "Words" ["#lt; 100", "100–300", "300–1k", "1k–3k", "3k+"]
+  y-axis "Stories" 0 --> 22
+  bar [18, 22, 12, 5, 1]
+  bar [15, 21, 9, 4, 0]
 ```
+
+Bars: stories per length band. Bright: finished. Dim top: drafts.
 
 ### Story list
 
