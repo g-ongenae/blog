@@ -22,8 +22,8 @@ const href = (row: Row) => (typeof row === 'string' ? undefined : row?.href);
 
 root.commands('cd tell/poems');
 assert.equal(destination, 'https://example.com/blog/tell/poems/');
-assert.deepEqual(root.commands('cd code'), ['fatal: coming soon']);
-assert.deepEqual(root.complete('cd co'), []);
+assert.deepEqual(root.commands('cd listen'), ['fatal: coming soon']);
+assert.deepEqual(root.complete('cd li'), []);
 
 const datedPoem = root.commands('find Joie de la découverte')[0];
 
