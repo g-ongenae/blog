@@ -25,9 +25,10 @@ However, I've been thinking that there is way more strangeness and incoherency w
 
 ### Tens
 
-Note: x is for a 1x. So for 12, x = 2
+> [!NOTE]
+> x is for a 1x. So for 12, x = 2
 
-In English, we pass from 12 (twelve), a unique form, to 13 (thirteen), an 'x-teen' based number.
+In English, we pass from 12 (twelve), a unique form, to 13 (thirteen), an `x-teen` based number.
 This is not a special case of English, every Germanic and Romance<sup><a href="#note-1">[1]</a></sup> language does that:
 
 | Language | Up to | Form 1 | From | Form 2 |
@@ -43,11 +44,12 @@ This is not a special case of English, every Germanic and Romance<sup><a href="#
 
 Italian is my favourite here, it's so close to being the same form for all of them, but nope, they decided to invert the order right before the finish line.
 
-In comparison, numbers in the 11-19 in Polish all follow the same form: x-naście form.
+In comparison, numbers in the 11-19 in Polish all follow the same form: `x-naście` form.
 
 ### Tens again
 
-Note: x and y are for yx, so for 23, x=3 and y=2.
+> [!NOTE]
+> x and y are for yx, so for 23, x=3 and y=2.
 
 Additionally, in most languages, there is a clear split between 19 and the rest.
 
@@ -67,9 +69,9 @@ But when we pass from 19 to 20, the number construction changes completely and (
 | 🇮🇹 Italian | `x-dici` and `dici-x` | `y-ti x` / `y-ta x` <sup><a href="#note-4">[4]</a></sup> |
 
 So they basically are all forms of:
-- y-ty and x
-- x and y-ty
-- y-ty-x
+- `y-ty and x`
+- `x and y-ty`
+- `y-ty-x`
 
 Which begs the question, why start this beautiful form at the 20+ instead of the 10+?
 
@@ -104,9 +106,9 @@ Forms that differ from the current ones are in bold.
 | 40 | quarante | **deux-vingts** | quarante |
 | 50 | cinquante | **deux-vingts-dix** | cinquante |
 | 60 | soixante | **trois-vingts** | soixante |
-| 70 | soixante-dix | **trois-vingts-dix** | **septante** |
-| 80 | quatre-vingts | quatre-vingts | **huitante / octante** |
-| 90 | quatre-vingt-dix | **quatre-vingts-dix** | **nonante** |
+| 70 | soixante-dix | **trois-vingts-dix** | **septante** <sup><a href="#note-5">[5]</a></sup> |
+| 80 | quatre-vingts | quatre-vingts | **huitante / octante** <sup><a href="#note-5">[5]</a></sup> |
+| 90 | quatre-vingt-dix | **quatre-vingts-dix** | **nonante** <sup><a href="#note-5">[5]</a></sup> |
 
 #### 🇬🇧 - English
 
@@ -153,3 +155,5 @@ Also, I wouldn't try saying rleven out loud.
 <sup id="note-3">3</sup> For Spanish, the change for a stable system is at 30, not 20. Also, the second *y* is the Spanish word for 'and' (treinta y tres), so the form is y and x starting from 30+.
 
 <sup id="note-4">4</sup> For Italian, there are some exceptions to create a number easier to say (contraction on one and eight and stress on the end of three). But the form is stable.
+
+<sup id="note-5">5</sup> Those are actually forms used in Belgium, Switzerland and Québec.
