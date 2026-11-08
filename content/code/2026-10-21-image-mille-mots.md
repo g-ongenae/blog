@@ -2,6 +2,7 @@
 date: 2026-10-21
 title: Une image vaut mille mots.
 extra:
+  topic: tool
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7518723218380193792/
   ai-assisted: true

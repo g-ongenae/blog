@@ -368,3 +368,152 @@ blockquote {
     scroll-behavior: auto !important;
   }
 }
+/* Topic timeline on the think and code pages (templates/partials/topic-chart.html).
+   Colours follow the topic order in data/topics.yaml and are checked for
+   colour-blind separation on both themes. */
+.topic-chart {
+  --topic-1: #3987e5;
+  --topic-2: #199e70;
+  --topic-3: #d95926;
+  margin: var(--space-6) 0 var(--space-10);
+  font-size: var(--text-xs);
+  color: var(--fg-muted);
+}
+@media (prefers-color-scheme: light) {
+  .topic-chart {
+    --topic-1: #2a78d6;
+    --topic-2: #0f7a55;
+    --topic-3: #c94a1a;
+  }
+}
+.topic-1 {
+  --topic: var(--topic-1);
+}
+.topic-2 {
+  --topic: var(--topic-2);
+}
+.topic-3 {
+  --topic: var(--topic-3);
+}
+.topic-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2) var(--space-6);
+  padding: 0;
+  margin: 0 0 var(--space-4);
+  list-style: none;
+}
+.topic-swatch {
+  display: inline-block;
+  width: 0.625rem;
+  height: 0.625rem;
+  margin-right: var(--space-2);
+  border-radius: 50%;
+  background: var(--topic);
+}
+/* Lane labels in the first column, a dashed track per topic, then the axis. */
+.topic-plot {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  align-items: center;
+  column-gap: var(--space-4);
+}
+.topic-lane,
+.topic-axis {
+  position: relative;
+  margin-inline: var(--space-3);
+}
+.topic-lane {
+  height: 2rem;
+  background: linear-gradient(var(--line-soft), var(--line-soft)) center / 100% 1px no-repeat;
+}
+.topic-axis {
+  height: 1.5rem;
+}
+.topic-axis span {
+  position: absolute;
+  top: 0.25rem;
+  left: var(--x);
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+/* The link is a larger hit target; the dot is drawn by ::before, with a ring
+   in the page colour so neighbours stay apart. Same-day posts step right. */
+.topic-dot {
+  position: absolute;
+  top: 50%;
+  left: calc(var(--x) + var(--stack) * 0.875rem);
+  width: max(1.5rem, var(--size));
+  height: max(1.5rem, var(--size));
+  transform: translate(-50%, -50%);
+}
+.topic-dot::before {
+  position: absolute;
+  inset: 50% auto auto 50%;
+  width: var(--size);
+  height: var(--size);
+  border-radius: 50%;
+  background: var(--topic);
+  box-shadow: 0 0 0 2px var(--bg);
+  content: '';
+  transform: translate(-50%, -50%);
+}
+.topic-dot.is-ai::after {
+  position: absolute;
+  inset: 50% auto auto 50%;
+  width: calc(var(--size) + 0.5rem);
+  height: calc(var(--size) + 0.5rem);
+  border: 1.5px dotted var(--fg-muted);
+  border-radius: 50%;
+  content: '';
+  transform: translate(-50%, -50%);
+}
+.topic-dot:hover {
+  z-index: 2;
+}
+.topic-dot:hover::before {
+  box-shadow:
+    0 0 0 2px var(--bg),
+    0 0 0 3px var(--topic);
+}
+.topic-tip {
+  position: absolute;
+  top: calc(100% + 0.25rem);
+  left: 0;
+  display: none;
+  width: max-content;
+  max-width: 16rem;
+  padding: var(--space-2) var(--space-3);
+  border: 1px solid var(--line-soft);
+  background: var(--bg);
+  color: var(--fg);
+  line-height: 1.4;
+}
+.topic-dot.tip-left .topic-tip {
+  right: 0;
+  left: auto;
+}
+.topic-dot:hover .topic-tip {
+  display: block;
+}
+.topic-tip strong {
+  display: block;
+  color: var(--green);
+}
+.topic-share {
+  display: flex;
+  gap: 2px;
+  margin: var(--space-4) 0 var(--space-2);
+}
+.topic-share span {
+  flex-basis: 0;
+  min-width: max-content;
+  padding: 0.125rem var(--space-2);
+  border-radius: 0.25rem;
+  background: var(--topic);
+  color: var(--bg);
+  font-weight: 700;
+}
+.topic-chart figcaption {
+  font-size: var(--text-xs);
+}

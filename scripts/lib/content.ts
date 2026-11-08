@@ -19,6 +19,7 @@ export interface Extra {
   subtitle?: string;
   pick?: boolean;
   link?: string;
+  topic?: string;
   favorite?: boolean;
   soon?: boolean;
   wip?: boolean;

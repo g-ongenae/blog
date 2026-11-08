@@ -2,6 +2,7 @@
 date: 2026-10-12
 title: Relisez-vous encore le code que vous générez ?
 extra:
+  topic: ai
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7515402839800561664/
   ai-assisted: true

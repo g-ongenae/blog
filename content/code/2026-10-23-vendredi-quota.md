@@ -2,6 +2,7 @@
 date: 2026-10-23
 title: C'est vendredi… quota Claude consommé !
 extra:
+  topic: tool
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7519377575102763009/
 ---

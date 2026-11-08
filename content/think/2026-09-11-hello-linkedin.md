@@ -2,6 +2,7 @@
 date: 2026-09-11
 title: Hello LinkedIn, ça va ?
 extra:
+  topic: linkedin
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7504131998643392512/
 ---

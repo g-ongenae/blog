@@ -1,0 +1,58 @@
+{#- Timeline of a section's posts by topic, computed from their front matter
+    (date, extra.topic, extra.ai-assisted) and Zola's word count, so new posts
+    show up on the next build. Topics and their order live in data/topics.yaml;
+    the chart is skipped when no page of the section has a topic. -#}
+{%- set topics = load_data(path="data/topics.yaml") -%}
+{%- set_global count = 0 -%}{%- set_global first = 0 -%}{%- set_global last = 0 -%}{%- set_global longest = 1 -%}
+{%- for item in section.pages -%}{%- if item.extra.topic -%}
+{%- set time = item.date | date(format="%s") | int -%}
+{%- if count == 0 or time < first %}{% set_global first = time %}{% endif -%}
+{%- if time > last %}{% set_global last = time %}{% endif -%}
+{%- if item.word_count > longest %}{% set_global longest = item.word_count %}{% endif -%}
+{%- set_global count = count + 1 -%}
+{%- endif -%}{%- endfor -%}
+{%- if count > 0 -%}
+{#- The axis starts on the first of the first post's month and ends three days
+    after the last post, so the newest dot is not pinned to the edge. -#}
+{%- set start_year = first | date(format="%Y") | int -%}
+{%- set start_month = first | date(format="%m") | int -%}
+{%- set start = first | date(format="%Y-%m-01") | date(format="%s") | int -%}
+{%- set end = last + 259200 -%}
+{%- set span = end - start -%}
+{%- set end_year = last | date(format="%Y") | int -%}
+{%- set end_month = last | date(format="%m") | int -%}
+{%- set months = end_year * 12 + end_month - start_year * 12 - start_month + 1 -%}
+<figure class="topic-chart">
+<ul class="topic-legend">{% for topic in topics %}{% set total = section.pages | filter(attribute="extra.topic", value=topic.key) | length %}{% if total > 0 %}<li><span class="topic-swatch topic-{{ loop.index }}" aria-hidden="true"></span>{{ topic.label }}</li>{% endif %}{% endfor %}</ul>
+<div class="topic-plot" aria-hidden="true">
+{%- for topic in topics %}{% set slot = loop.index %}{% set total = section.pages | filter(attribute="extra.topic", value=topic.key) | length %}{% if total > 0 -%}
+<span class="topic-lane-label">{{ topic.label }}</span><span class="topic-lane">
+{%- set_global previous = "" %}{% set_global stack = 0 -%}
+{%- for item in section.pages | filter(attribute="extra.topic", value=topic.key) | sort(attribute="date") -%}
+{%- if item.date == previous %}{% set_global stack = stack + 1 %}{% else %}{% set_global stack = 0 %}{% endif -%}
+{%- set_global previous = item.date -%}
+{%- set time = item.date | date(format="%s") | int -%}
+{%- set x = (time - start) / span * 100 -%}
+{%- set size = 8 + item.word_count / longest * 14 -%}
+<a class="topic-dot topic-{{ slot }}{% if item.extra['ai-assisted'] %} is-ai{% endif %}{% if x > 60 %} tip-left{% endif %}" href="{{ item.permalink }}" tabindex="-1" style="--x: {{ x | round(precision=2) }}%; --size: {{ size | round(precision=1) }}px; --stack: {{ stack }}"><span class="topic-tip"><strong>{{ item.title | markdown(inline=true) | striptags }}</strong>{{ item.date | date(format="%Y-%m-%d") }} · {{ item.word_count }} words{% if item.extra['ai-assisted'] %} · AI-assisted{% endif %}</span></a>
+{%- endfor -%}
+</span>
+{%- endif %}{% endfor %}
+<span></span><span class="topic-axis">
+{%- for index in range(end=months) -%}
+{%- set offset = start_month - 1 + index -%}
+{%- set years = offset / 12 -%}
+{%- set year = start_year + years | round(method="floor") | int -%}
+{%- set month = offset % 12 + 1 -%}
+{%- if month < 10 %}{% set day_one = year ~ "-0" ~ month ~ "-01" %}{% else %}{% set day_one = year ~ "-" ~ month ~ "-01" %}{% endif -%}
+{%- set time = day_one | date(format="%s") | int -%}
+{%- set x = (time - start) / span * 100 -%}
+<span style="--x: {{ x | round(precision=2) }}%">{% if month == 1 %}{{ time | date(format="%b %Y") }}{% else %}{{ time | date(format="%b") }}{% endif %}</span>
+{%- if months <= 4 %}{% set middle = time + 14 * 86400 %}{% set x = (middle - start) / span * 100 %}{% if middle < end %}<span style="--x: {{ x | round(precision=2) }}%">{{ middle | date(format="%-d %b") }}</span>{% endif %}{% endif -%}
+{%- endfor -%}
+</span>
+</div>
+<p class="topic-share">{% for topic in topics %}{% set total = section.pages | filter(attribute="extra.topic", value=topic.key) | length %}{% if total > 0 %}<span class="topic-{{ loop.index }}" style="flex-grow: {{ total }}">{{ total }} {{ topic.short }}</span>{% endif %}{% endfor %}</p>
+<figcaption>Each dot is a post: its size shows its length and a dotted ring marks AI-assisted writing. Hover a dot for its title.</figcaption>
+</figure>
+{%- endif -%}

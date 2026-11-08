@@ -2,6 +2,7 @@
 date: 2026-10-01
 title: "Durée moyenne de visionnage : 1 min 48, pff… nul !"
 extra:
+  topic: ai
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7511391632655843328/
   ai-assisted: true

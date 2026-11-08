@@ -2,6 +2,7 @@
 date: 2026-11-06
 title: I involuntarily made the best ad for my company.
 extra:
+  topic: linkedin
   lang: en
   link: https://www.linkedin.com/feed/update/urn:li:activity:7524425360281751552/
 ---

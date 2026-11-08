@@ -2,6 +2,7 @@
 date: 2026-11-03
 title: Ôtez-moi ça de la vue !
 extra:
+  topic: tool
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7523328184231305216/
   ai-assisted: true

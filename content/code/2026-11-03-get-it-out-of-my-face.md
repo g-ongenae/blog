@@ -2,6 +2,7 @@
 date: 2026-11-03
 title: Get it out of my face!
 extra:
+  topic: tool
   lang: en
   link: https://www.linkedin.com/feed/update/urn:li:activity:7523324351409033217/
   ai-assisted: true

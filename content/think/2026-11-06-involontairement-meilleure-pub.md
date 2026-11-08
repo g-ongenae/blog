@@ -2,6 +2,7 @@
 date: 2026-11-06
 title: J'ai involontairement fait la meilleure pub pour ma boite.
 extra:
+  topic: linkedin
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7524421656413478912/
 ---

@@ -2,6 +2,7 @@
 date: 2026-10-31
 title: Je crois que je tourne au vinaigre.
 extra:
+  topic: tool
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7522084955196145664/
   ai-assisted: true

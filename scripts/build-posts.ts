@@ -1,22 +1,41 @@
 /** Generate the post list of each given section, keeping its front matter. */
 import { readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
+import { parse } from 'yaml';
 import {
   CONTENT,
   languageSummary,
   lastUpdated,
   linkTitle,
   readPages,
+  ROOT,
   splitFrontMatter,
   year,
 } from './lib/content.ts';
 
 const FLAGS: Record<string, string> = { fr: '🇫🇷', en: '🇬🇧' };
 
+// The section page charts every post by topic, so each one needs a known topic.
+const TOPICS = new Set(
+  (parse(readFileSync(join(ROOT, 'data/topics.yaml'), 'utf8')) as { key: string }[]).map(
+    (topic) => topic.key,
+  ),
+);
+
 for (const section of process.argv.slice(2)) {
   const index = join(CONTENT, section, '_index.md');
   const { front } = splitFrontMatter(readFileSync(index, 'utf8'));
   const pages = readPages(join(CONTENT, section));
+  const untagged = pages.filter((page) => !TOPICS.has(page.extra?.topic ?? ''));
+
+  if (untagged.length) {
+    throw new Error(
+      `Set extra.topic to one of ${[...TOPICS].join(', ')} (data/topics.yaml) in ${untagged
+        .map((page) => `${section}/${page.file}`)
+        .join(', ')}`,
+    );
+  }
+
   const aiAssisted = pages.filter((page) => page.extra?.['ai-assisted']).length;
 
   const out = [

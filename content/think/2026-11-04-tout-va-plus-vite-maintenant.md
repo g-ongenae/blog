@@ -2,6 +2,7 @@
 date: 2026-11-04
 title: Tout va plus vite maintenant.
 extra:
+  topic: ai
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7523678150724206593/
 ---

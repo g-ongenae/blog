@@ -2,6 +2,7 @@
 date: 2026-11-01
 title: Publish in each language?
 extra:
+  topic: linkedin
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7522649759627784193/
 ---

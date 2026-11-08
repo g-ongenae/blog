@@ -2,6 +2,7 @@
 date: 2026-10-29
 title: Heureusement que je suis célibataire
 extra:
+  topic: ai
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7521628105992671232/
   ai-assisted: true

@@ -2,6 +2,7 @@
 date: 2026-10-16
 title: Hier, mon PC a crashé…
 extra:
+  topic: tool
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7516762675696037888/
   ai-assisted: true

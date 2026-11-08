@@ -2,6 +2,7 @@
 date: 2026-09-15
 title: L'outil que j'ai créé est déjà périmé. 😭
 extra:
+  topic: tool
   lang: fr
   link: https://www.linkedin.com/feed/update/urn:li:activity:7505636500102086656/
   ai-assisted: true
