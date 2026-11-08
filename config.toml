@@ -8,3 +8,6 @@ highlight_code = true
 # Renders `> [!NOTE]` and the other GitHub alerts as `blockquote.markdown-alert-*`.
 github_alerts = true
 
+[link_checker]
+# Instagram answers 429 Too Many Requests to unauthenticated checks from CI runners.
+skip_prefixes = ["https://www.instagram.com/"]
