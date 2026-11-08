@@ -5,6 +5,8 @@ extra:
   state: draft
   favorite: true
   lang: fr
+  date-precision: year
+  need-validation: low
 ---
 
 Fais-moi plaisir, lance le tourne-disque <br>

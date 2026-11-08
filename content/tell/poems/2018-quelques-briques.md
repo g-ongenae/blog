@@ -5,6 +5,8 @@ extra:
   state: draft
   location: Paris 13
   lang: fr
+  date-precision: year
+  need-validation: high
 ---
 
 Quelques briques <br>

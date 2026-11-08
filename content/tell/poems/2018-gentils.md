@@ -1,10 +1,12 @@
 ---
-date: 2018-01-01
+date: 2018-07-01
 title: Gentils
 extra:
   state: done
   location: Cergy
   lang: fr
+  date-precision: month
+  need-validation: low
 ---
 
 Vous vous pensez Gentils <br>

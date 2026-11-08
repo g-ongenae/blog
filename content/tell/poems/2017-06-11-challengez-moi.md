@@ -6,6 +6,7 @@ extra:
   location: Lille
   favorite: true
   lang: fr
+  need-validation: medium
 ---
 
 Une inoubliable aventure <br>

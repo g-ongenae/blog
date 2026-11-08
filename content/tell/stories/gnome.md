@@ -5,6 +5,8 @@ extra:
   state: draft
   type: short
   lang: fr
+  date-precision: year
+  need-validation: high
 ---
 
 Il était une fois un gnome qui était particulièrement grand, on disait de lui qu'il atteignait les 20 pouces, soit environ une coudée, fait extrêmement rare chez les gnomes. Il était si grand parmi les siens que ceux-ci l'appelaient souvent le Grand Gnome, mais son prénom était Storniss.

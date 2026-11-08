@@ -6,6 +6,8 @@ extra:
   location: Cergy
   favorite: true
   lang: fr
+  date-precision: year
+  need-validation: high
 ---
 
 J'aime être en colère <br>

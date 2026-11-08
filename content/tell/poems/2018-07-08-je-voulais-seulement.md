@@ -5,6 +5,7 @@ extra:
   state: done
   location: Cergy
   lang: fr
+  need-validation: low
 ---
 
 Je voulais seulement

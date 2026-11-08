@@ -1,10 +1,12 @@
 ---
-date: 2018-01-01
+date: 2018-07-01
 title: J'ai quitté la campagne
 extra:
   state: done
   location: Cergy
   lang: fr
+  date-precision: month
+  need-validation: low
 ---
 
 J'ai quitté la campagne <br>

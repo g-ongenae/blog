@@ -5,6 +5,8 @@ extra:
   state: done
   location: Cergy
   lang: fr
+  date-precision: year
+  need-validation: high
 ---
 
 La pire des réputations <br>

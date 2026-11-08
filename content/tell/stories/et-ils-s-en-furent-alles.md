@@ -5,6 +5,8 @@ extra:
   state: draft
   type: short
   lang: fr
+  date-precision: year
+  need-validation: low
 ---
 
 Elle sauta de la balançoire et courut dans les bras de sa mère. Un petit cri, aigu, comme les jeunes filles de son âge en sont si capables, lui échappa. Elle était joyeuse, resplendissante. La peau rose comme une fleur du printemps. Les cheveux dorés comme les blés aux plus beaux jours de l'été. Cette petite tête blonde fêtait son anniversaire ce jour. Sept ans. L'âge de raison.

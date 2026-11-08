@@ -6,6 +6,8 @@ extra:
   location: Lille
   favorite: true
   lang: fr
+  date-precision: year
+  need-validation: high
 ---
 
 Heureux d’être arrivé de bonne heure <br>

@@ -1,11 +1,13 @@
 ---
-date: 2018-01-01
+date: 2018-07-01
 title: Silence
 extra:
   state: done
   location: Cergy
   favorite: true
   lang: fr
+  date-precision: month
+  need-validation: low
 ---
 
 Sache que tu me cours sur le haricot <br>

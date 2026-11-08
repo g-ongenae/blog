@@ -4,6 +4,8 @@ title: Parle-moi
 extra:
   state: draft
   lang: fr
+  date-precision: year
+  need-validation: high
 ---
 
 Parle-moi <br>

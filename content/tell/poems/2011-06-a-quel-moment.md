@@ -5,6 +5,8 @@ extra:
   state: done
   location: Le Fresne
   lang: fr
+  date-precision: month
+  need-validation: high
 ---
 
 Devant son bureau <br>

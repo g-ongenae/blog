@@ -4,6 +4,8 @@ title: With you
 extra:
   state: draft
   lang: en
+  date-precision: year
+  need-validation: high
 ---
 
 With you <br>

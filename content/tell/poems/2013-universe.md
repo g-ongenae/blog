@@ -5,6 +5,8 @@ extra:
   state: done
   location: Lille
   lang: en
+  date-precision: year
+  need-validation: high
 ---
 
 In general people baptize him God, <br>

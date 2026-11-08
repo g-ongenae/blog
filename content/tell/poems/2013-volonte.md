@@ -5,6 +5,8 @@ extra:
   state: done
   location: Lille
   lang: fr
+  date-precision: year
+  need-validation: high
 ---
 
 Je suis un ambitieux, j’ai mil buts

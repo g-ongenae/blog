@@ -5,6 +5,8 @@ extra:
   state: done
   favorite: true
   lang: en
+  date-precision: year
+  need-validation: low
 ---
 
 🛝 <br>

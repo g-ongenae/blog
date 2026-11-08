@@ -48,17 +48,16 @@ Bars: poems per year. Line: favourites per year.
 - [Carte postale n° 2](@/tell/poems/2025-08-09-carte-postale-2.md)
 - [Carte postale n° 1](@/tell/poems/2025-08-01-carte-postale-1.md)
 - [The wind is all I need](@/tell/poems/2025-07-29-the-wind-is-all-i-need.md) ⭐
+- [Euphonie](@/tell/poems/2025-euphonie.md) ⭐
 - [With you](@/tell/poems/2025-with-you.md) ✂︎
 - [Simple life](@/tell/poems/2025-simple-life.md) ⭐
 - [Parle-moi](@/tell/poems/2025-parle-moi.md) ✂︎
 - [Horaire de danse ?](@/tell/poems/2025-horaire-de-danse.md)
 - [Fais-moi plaisir](@/tell/poems/2025-fais-moi-plaisir.md) ✂︎ ⭐
-- [Euphonie](@/tell/poems/2025-euphonie.md) ⭐
 - [A cat in the corner](@/tell/poems/2025-cat-corner.md) ✂︎
 
 #### 2018
 
-- [Ego](@/tell/poems/2018-08-01-ego.md)
 - [Description Tinder](@/tell/poems/2018-08-14-description-tinder.md)
 - [Rime](@/tell/poems/2018-09-08-rime.md)
 - [Civil](@/tell/poems/2018-08-08-civil.md)
@@ -66,6 +65,7 @@ Bars: poems per year. Line: favourites per year.
 - [Aride](@/tell/poems/2018-08-06-aride.md)
 - [9 h 15](@/tell/poems/2018-08-06-9-h-15.md)
 - [_Mea Culpa_](@/tell/poems/2018-08-05-mea-culpa.md)
+- [Ego](@/tell/poems/2018-08-01-ego.md)
 - [Richard](@/tell/poems/2018-07-30-richard.md)
 - [Pavé](@/tell/poems/2018-07-29-pave.md) ⭐
 - [Lire](@/tell/poems/2018-07-29-lire.md)
@@ -94,11 +94,18 @@ Bars: poems per year. Line: favourites per year.
 - [Joséphine](@/tell/poems/2018-07-12-josephine.md)
 - [Chauve-Souris](@/tell/poems/2018-07-11-chauve-souris.md)
 - [Peux-tu ?](@/tell/poems/2018-07-10-peux-tu.md)
+- [Silence](@/tell/poems/2018-silence.md) ⭐
+- [La Politique](@/tell/poems/2018-la-politique.md)
+- [J'ai quitté la campagne](@/tell/poems/2018-j-ai-quitte-la-campagne.md)
+- [Gentils](@/tell/poems/2018-gentils.md)
+- [Bien chère demoiselle](@/tell/poems/2018-bien-chere-demoiselle.md) ✂︎
+- [Belle Hirondelle](@/tell/poems/2018-belle-hirondelle.md) ✂︎
+- [Ah ! Voilà qui est dur](@/tell/poems/2018-ah-voila-qui-est-dur.md) ✂︎
 - [Je voulais seulement](@/tell/poems/2018-07-08-je-voulais-seulement.md)
+- [Carnet n°2](@/tell/poems/2018-05-13-carnet-n-2.md)
 - [Motivation](@/tell/poems/2018-04-13-motivation.md)
 - [Chemin](@/tell/poems/2018-01-17-chemin.md)
 - [Soyons ivres toujours](@/tell/poems/2018-soyons-ivre-toujours.md) ✂︎
-- [Silence](@/tell/poems/2018-silence.md) ⭐
 - [Si je devais être pris de court](@/tell/poems/2018-si-je-devais-etre-pris-de-court.md)
 - [Seul comme dans un terminus](@/tell/poems/2018-seul-comme-dans-un-terminus.md) ✂︎
 - [Santé !](@/tell/poems/2018-sante.md)
@@ -112,24 +119,17 @@ Bars: poems per year. Line: favourites per year.
 - [Ma barbe me gratte](@/tell/poems/2018-ma-barbe-me-gratte.md) ✂︎
 - [Léger syndrome de la page blanche](@/tell/poems/2018-leger-syndrome-de-la-page-blanche.md) ✂︎
 - [La Victoire de Samothrace](@/tell/poems/2018-la-victoire-de-samothrace.md) ⭐
-- [La Politique](@/tell/poems/2018-la-politique.md)
 - [La page blanche, c'est celle des débuts](@/tell/poems/2018-la-page-blanche.md) ✂︎
 - [Journée sombre](@/tell/poems/2018-journee-sombre.md)
 - [Je te demande pardon](@/tell/poems/2018-je-te-demande-pardon.md) ✂︎
 - [Je suis fumasse](@/tell/poems/2018-je-suis-fumasse.md)
 - [J'aime être en colère](@/tell/poems/2018-j-aime-etre-en-colere.md) ⭐
-- [J'ai quitté la campagne](@/tell/poems/2018-j-ai-quitte-la-campagne.md)
-- [Gentils](@/tell/poems/2018-gentils.md)
 - [Entre le train](@/tell/poems/2018-entre-le-train.md)
 - [Écrire quelques mots pour un frère](@/tell/poems/2018-ecrire-quelques-mots-pour-un-frere.md) ⭐
 - [Demoiselles mondaines](@/tell/poems/2018-demoiselles-mondaines.md)
 - [Coup de pied au derrière](@/tell/poems/2018-coup-de-pied.md)
-- [Bien chère demoiselle](@/tell/poems/2018-bien-chere-demoiselle.md) ✂︎
-- [Belle Hirondelle](@/tell/poems/2018-belle-hirondelle.md) ✂︎
 - [Aujourd'hui est un grand jour](@/tell/poems/2018-aujourd-hui-est-un-grand-jour.md) ✂︎
 - [Appelle-moi, dis-moi n'importe quoi](@/tell/poems/2018-appelle-moi.md)
-- [Ah ! Voilà qui est dur](@/tell/poems/2018-ah-voila-qui-est-dur.md) ✂︎
-- [Carnet n°2](@/tell/poems/2018-05-13-carnet-n-2.md)
 
 #### 2017
 
@@ -165,13 +165,13 @@ Bars: poems per year. Line: favourites per year.
 
 #### 2013
 
+- [Serpentine Gallery](@/tell/poems/2013-serpentine-gallery.md)
 - [Vue et Entendue](@/tell/poems/2013-vue-et-entendue.md)
 - [Volonté ?](@/tell/poems/2013-volonte.md)
 - [Vagabondant](@/tell/poems/2013-vagabondant.md)
 - [Universe](@/tell/poems/2013-universe.md)
 - [Un tube de colle](@/tell/poems/2013-un-tube-de-colle.md)
 - [Suicide in Snow](@/tell/poems/2013-suicide-in-snow.md)
-- [Serpentine Gallery](@/tell/poems/2013-serpentine-gallery.md)
 - [Rouge Sang](@/tell/poems/2013-rouge-sang.md)
 - [Quand je la regarde](@/tell/poems/2013-quand-je-la-regarde.md)
 - [Nous héros - _extrait des \[Maudits\](@/tell/stories/les-maudits.md)_](@/tell/poems/2013-nous-heros.md)
@@ -191,6 +191,7 @@ Bars: poems per year. Line: favourites per year.
 
 #### 2012
 
+- [Sur des billets - Suite n° 1 - Billet 5](@/tell/poems/2012-billet-1-5.md)
 - [Naïvement](@/tell/poems/2012-03-06-naivement.md)
 - [Sur des billets - Suite n° 4 - Billet 5000](@/tell/poems/2012-billet-4-5000.md)
 - [Sur des billets - Suite n° 3 - Billet 100](@/tell/poems/2012-billet-3-100.md)
@@ -206,7 +207,6 @@ Bars: poems per year. Line: favourites per year.
 - [Sur des billets - Suite n° 1 - Billet 8](@/tell/poems/2012-billet-1-8.md)
 - [Sur des billets - Suite n° 1 - Billet 7](@/tell/poems/2012-billet-1-7.md)
 - [Sur des billets - Suite n° 1 - Billet 6](@/tell/poems/2012-billet-1-6.md)
-- [Sur des billets - Suite n° 1 - Billet 5](@/tell/poems/2012-billet-1-5.md)
 - [Sur des billets - Suite n° 1 - Billet 4](@/tell/poems/2012-billet-1-4.md)
 - [Sur des billets - Suite n° 1 - Billet 3](@/tell/poems/2012-billet-1-3.md)
 - [Sur des billets - Suite n° 1 - Billet 2](@/tell/poems/2012-billet-1-2.md)
@@ -285,11 +285,11 @@ Bars: poems per year. Line: favourites per year.
 - [Hésitation](@/tell/poems/2010-09-29-hesitation.md)
 - [L'Écriture impossible](@/tell/poems/2010-09-18-l-ecriture-impossible.md)
 - [L'Amour aveugle](@/tell/poems/2010-09-18-l-amour-aveugle.md)
-- [Les Larmes](@/tell/poems/2009-11-les-larmes.md)
+- [Solitude](@/tell/poems/2010-06-solitude.md)
 
 #### 2009
 
-- [Solitude](@/tell/poems/2010-06-solitude.md)
+- [Les Larmes](@/tell/poems/2009-11-les-larmes.md)
 
 #### 2007
 

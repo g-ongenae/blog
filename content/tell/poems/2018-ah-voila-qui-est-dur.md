@@ -1,10 +1,12 @@
 ---
-date: 2018-01-01
+date: 2018-07-01
 title: Ah ! Voilà qui est dur
 extra:
   state: draft
   location: Cergy
   lang: fr
+  date-precision: month
+  need-validation: low
 ---
 
 Ah ! Voilà qui est dur <br>

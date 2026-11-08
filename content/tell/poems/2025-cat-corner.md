@@ -4,6 +4,8 @@ title: A cat in the corner
 extra:
   state: draft
   lang: en
+  date-precision: year
+  need-validation: low
 ---
 
 I'm not a cat cornered <br>

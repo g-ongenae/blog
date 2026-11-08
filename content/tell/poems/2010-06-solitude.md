@@ -1,10 +1,12 @@
 ---
-date: 2009-11-01
+date: 2010-06-01
 title: Solitude
 extra:
   state: done
   location: Le Fresne
   lang: fr
+  date-precision: month
+  need-validation: medium
 ---
 
 Je ne peux plus vivre seul <br>

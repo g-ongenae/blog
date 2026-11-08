@@ -5,6 +5,8 @@ extra:
   state: draft
   location: Cergy
   lang: fr
+  date-precision: year
+  need-validation: high
 ---
 
 Léger syndrome de la page blanche <br>

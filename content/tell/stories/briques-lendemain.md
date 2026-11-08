@@ -6,6 +6,7 @@ extra:
   suite: Briques
   type: short
   lang: fr
+  need-validation: medium
 ---
 
 Le compte à rebours de la nouvelle année résonnait dans toutes les têtes. Cette année se terminait.

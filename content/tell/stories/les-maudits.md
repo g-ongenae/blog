@@ -5,6 +5,8 @@ extra:
   state: done
   type: short
   lang: fr
+  date-precision: year
+  need-validation: high
 ---
 
 Les toits de la ville faisaient résonner la pluie comme une armée de tambours. Le vent soufflait fort dans les ruelles. Des sacs plastiques volaient de part et d'autre. Les chats, les rats et les souris s'étaient réfugiés dans les lieux puants des solitaires. Les gens couraient ou marchaient vite sous leur parapluie.

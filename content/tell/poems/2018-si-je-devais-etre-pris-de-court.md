@@ -5,6 +5,8 @@ extra:
   state: done
   location: Cergy
   lang: fr
+  date-precision: year
+  need-validation: high
 ---
 
 Si je devais être pris de court <br>

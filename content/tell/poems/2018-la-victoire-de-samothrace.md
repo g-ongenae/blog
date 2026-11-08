@@ -6,6 +6,8 @@ extra:
   location: Musée du Louvre, Paris
   favorite: true
   lang: fr
+  date-precision: year
+  need-validation: high
 ---
 
 Nous l'avons suivie <br>

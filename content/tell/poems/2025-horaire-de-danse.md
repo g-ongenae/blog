@@ -4,6 +4,8 @@ title: Horaire de danse ?
 extra:
   state: done
   lang: fr
+  date-precision: year
+  need-validation: low
 ---
 
 Le Lindy hopper <br>
