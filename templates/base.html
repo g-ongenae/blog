@@ -4,9 +4,9 @@
 <html lang="{{ current.extra.lang | default(value='en') }}">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{{ current.title }} · {{ config.title }}</title>
+<title>{{ current.title | markdown(inline=true) | striptags }} · {{ config.title }}</title>
 <meta name="color-scheme" content="dark light"><meta name="theme-color" content="#030806" media="(prefers-color-scheme: dark)"><meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)"><meta name="description" content="{{ description }}">
-<meta property="og:title" content="{{ current.title }}"><meta property="og:description" content="{{ description }}"><meta property="og:url" content="{{ current.permalink }}"><meta property="og:type" content="{% if page is defined %}article{% else %}website{% endif %}">
+<meta property="og:title" content="{{ current.title | markdown(inline=true) | striptags }}"><meta property="og:description" content="{{ description }}"><meta property="og:url" content="{{ current.permalink }}"><meta property="og:type" content="{% if page is defined %}article{% else %}website{% endif %}">
 <link rel="icon" href="{{ get_url(path='favicon.svg') }}" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
@@ -15,7 +15,7 @@
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
 <div class="site-shell">
-<header class="site-header"><a class="site-mark" href="{{ get_url(path='@/_index.md') }}">$ G. ONGENAE</a><nav class="site-nav" aria-label="Main navigation"><a href="{{ get_url(path='@/tell/_index.md') }}">Literature</a><a href="{{ get_url(path='@/dance/_index.md') }}">Dances</a><a href="{{ get_url(path='@/speak/_index.md') }}">Languages</a><a href="https://g-ongenae.github.io/">About ↗</a></nav></header>
+<header class="site-header"><a class="site-mark" href="{{ get_url(path='@/_index.md') }}">$ G. ONGENAE</a><nav class="site-nav" aria-label="Main navigation"><a href="https://g-ongenae.github.io/">About ↗</a></nav></header>
 <main class="site-main" id="main">{% include 'partials/breadcrumb.html' %}{% block content %}{% endblock content %}</main>
 <footer class="bottom-bar">
 <div class="terminal" data-root="{{ get_url(path='@/_index.md') }}" data-path="{{ current.path }}" data-directory="{% if page is defined %}{% set parent = get_section(path=page.ancestors | last) %}{{ parent.path }}{% else %}{{ section.path }}{% endif %}">

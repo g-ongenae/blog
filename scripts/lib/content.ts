@@ -16,6 +16,8 @@ export interface Extra {
   lang?: string;
   state?: string;
   suite?: string;
+  subtitle?: string;
+  pick?: boolean;
   link?: string;
   favorite?: boolean;
   soon?: boolean;

@@ -2,6 +2,7 @@
 date: 2011-03-13
 title: Une Semaine
 extra:
+  pick: true
   state: done
   location: Le Fresne
   favorite: true

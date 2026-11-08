@@ -1,7 +1,8 @@
 ---
 date: 2016-01-29
-title: Le Destrier - _inspired by [@Elena_Shumilova](https://www.instagram.com/Elena_Shumilova/)_
+title: Le Destrier
 extra:
+  subtitle: 'inspired by [@Elena_Shumilova](https://www.instagram.com/Elena_Shumilova/)'
   state: done
   location: Lille
   suite: IG Inspired

@@ -1,7 +1,8 @@
 ---
 date: 2015-08-18
-title: Le Temple de Glace - _inspired by [@DanielKordan](https://www.instagram.com/danielkordan/)_
+title: Le Temple de Glace
 extra:
+  subtitle: 'inspired by [@DanielKordan](https://www.instagram.com/danielkordan/)'
   state: done
   location: Lille
   suite: IG Inspired

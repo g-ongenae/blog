@@ -1,7 +1,8 @@
 ---
 date: 2015-08-29
-title: Le Train - _inspired by [@DanielKordan](https://www.instagram.com/danielkordan/)_
+title: Le Train
 extra:
+  subtitle: 'inspired by [@DanielKordan](https://www.instagram.com/danielkordan/)'
   state: done
   location: Lille
   suite: IG Inspired

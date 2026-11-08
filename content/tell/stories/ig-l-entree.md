@@ -1,7 +1,8 @@
 ---
 date: 2016-04-20
-title: L'Entrée - _inspired by [@tharinrosa](https://www.instagram.com/tharinrosa/)_
+title: L'Entrée
 extra:
+  subtitle: 'inspired by [@tharinrosa](https://www.instagram.com/tharinrosa/)'
   state: done
   location: Lille
   suite: IG Inspired

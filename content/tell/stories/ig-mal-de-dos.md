@@ -1,7 +1,8 @@
 ---
 date: 2016-04-17
-title: Mal de dos - _inspired by [@planet.eart](https://www.instagram.com/planet.eart/)_
+title: Mal de dos
 extra:
+  subtitle: 'inspired by [@planet.eart](https://www.instagram.com/planet.eart/)'
   state: done
   location: Lille
   suite: IG Inspired

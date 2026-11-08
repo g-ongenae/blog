@@ -1,7 +1,8 @@
 ---
 date: 2011-03-08
-title: Désespoir - _subject chosen by Jordy M_
+title: Désespoir
 extra:
+  subtitle: 'subject chosen by Jordy M'
   state: done
   location: Le Fresne
   favorite: true

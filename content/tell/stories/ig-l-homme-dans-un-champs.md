@@ -1,7 +1,8 @@
 ---
 date: 2015-08-11
-title: L'homme dans le champ - _inspired by [@mikkolagerstedt](https://www.instagram.com/mikkolagerstedt/)_
+title: L'homme dans le champ
 extra:
+  subtitle: 'inspired by [@mikkolagerstedt](https://www.instagram.com/mikkolagerstedt/)'
   state: done
   location: Lille
   suite: IG Inspired

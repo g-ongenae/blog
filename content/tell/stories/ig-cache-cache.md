@@ -1,7 +1,8 @@
 ---
 date: 2016-05-25
-title: Cache-Cache - _inspired by [@roger_by](https://www.instagram.com/roger_by/)_
+title: Cache-Cache
 extra:
+  subtitle: 'inspired by [@roger_by](https://www.instagram.com/roger_by/)'
   state: done
   location: Lille
   suite: IG Inspired

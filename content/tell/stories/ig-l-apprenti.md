@@ -1,7 +1,8 @@
 ---
 date: 2015-08-28
-title: L'Apprenti - _inspired by Marsel van Oosten_
+title: L'Apprenti
 extra:
+  subtitle: 'inspired by Marsel van Oosten'
   state: done
   location: Lille
   suite: IG Inspired

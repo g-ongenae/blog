@@ -2,6 +2,7 @@
 date: 2011-06-16
 title: Le Printemps estival
 extra:
+  pick: true
   state: done
   location: Le Fresne
   favorite: true

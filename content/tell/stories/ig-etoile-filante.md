@@ -1,7 +1,8 @@
 ---
 date: 2015-08-14
-title: Étoile filante - _inspired by [@ecoxgear](https://www.instagram.com/ecoxgear/)_
+title: Étoile filante
 extra:
+  subtitle: 'inspired by [@ecoxgear](https://www.instagram.com/ecoxgear/)'
   state: done
   location: Lille
   suite: IG Inspired

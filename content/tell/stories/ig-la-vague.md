@@ -1,7 +1,8 @@
 ---
 date: 2016-04-24
-title: La Vague - _inspired by [@sam.vox](https://www.instagram.com/sam.vox/)_
+title: La Vague
 extra:
+  subtitle: 'inspired by [@sam.vox](https://www.instagram.com/sam.vox/)'
   state: done
   location: Lille
   suite: IG Inspired

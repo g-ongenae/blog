@@ -2,6 +2,7 @@
 date: 2018-01-01
 title: La Victoire de Samothrace
 extra:
+  pick: true
   state: done
   location: Musée du Louvre, Paris
   favorite: true

@@ -1,7 +1,8 @@
 ---
 date: 2016-04-19
-title: La Bonne Patte - _inspired by [@lexiesheartbeat](https://www.instagram.com/lexiesheartbeat/)_
+title: La Bonne Patte
 extra:
+  subtitle: 'inspired by [@lexiesheartbeat](https://www.instagram.com/lexiesheartbeat/)'
   state: done
   location: Lille
   suite: IG Inspired

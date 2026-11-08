@@ -1,7 +1,8 @@
 ---
 date: 2016-04-23
-title: L'Inondation - _inspired by Phoebe Rudomino_
+title: L'Inondation
 extra:
+  subtitle: 'inspired by Phoebe Rudomino'
   state: done
   location: Lille
   suite: IG Inspired

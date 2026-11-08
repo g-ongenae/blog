@@ -1,7 +1,8 @@
 ---
 date: 2016-04-21
-title: Le Soupir - _inspired by [@pumpkintheraccoon](https://www.instagram.com/pumpkintheraccoon/)_
+title: Le Soupir
 extra:
+  subtitle: 'inspired by [@pumpkintheraccoon](https://www.instagram.com/pumpkintheraccoon/)'
   state: done
   location: Lille
   suite: IG Inspired

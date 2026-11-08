@@ -1,7 +1,8 @@
 ---
 date: 2013-01-01
-title: Nous héros - _extrait des [Maudits](@/tell/stories/les-maudits.md)_
+title: Nous héros
 extra:
+  subtitle: 'extrait des [Maudits](@/tell/stories/les-maudits.md)'
   state: done
   location: Lille
   lang: fr

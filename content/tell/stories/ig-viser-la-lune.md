@@ -1,7 +1,8 @@
 ---
 date: 2016-04-22
-title: Viser la Lune - _inspired by [@eye.c](https://www.instagram.com/eye.c/)_
+title: Viser la Lune
 extra:
+  subtitle: 'inspired by [@eye.c](https://www.instagram.com/eye.c/)'
   state: done
   location: Lille
   suite: IG Inspired

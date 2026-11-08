@@ -2,6 +2,7 @@
 date: 2025-02-16
 title: Euphonie
 extra:
+  pick: true
   state: done
   location: Paris
   favorite: true

@@ -2,6 +2,7 @@
 date: 2025-01-01
 title: Simple life
 extra:
+  pick: true
   state: done
   favorite: true
   lang: en

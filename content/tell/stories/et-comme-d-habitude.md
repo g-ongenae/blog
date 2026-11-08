@@ -2,6 +2,7 @@
 date: 2014-06-19
 title: Et comme d'habitude
 extra:
+  pick: true
   state: done
   type: short
   lang: fr

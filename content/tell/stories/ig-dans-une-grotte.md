@@ -1,7 +1,8 @@
 ---
 date: 2015-07-10
-title: Dans une grotte - _inspired by [@erubes1](https://www.instagram.com/erubes1/)_
+title: Dans une grotte
 extra:
+  subtitle: 'inspired by [@erubes1](https://www.instagram.com/erubes1/)'
   state: done
   location: Lille
   suite: IG Inspired

@@ -2,6 +2,7 @@
 date: 2015-04-25
 title: Chez moi
 extra:
+  pick: true
   state: done
   type: short
   lang: fr

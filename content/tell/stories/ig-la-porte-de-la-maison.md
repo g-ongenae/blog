@@ -1,7 +1,8 @@
 ---
 date: 2015-08-09
-title: La porte de la maison - _inspired by [@gettyphotography](https://www.instagram.com/gettyphotography)_
+title: La porte de la maison
 extra:
+  subtitle: 'inspired by [@gettyphotography](https://www.instagram.com/gettyphotography)'
   state: done
   location: Lille
   suite: IG Inspired

@@ -1,7 +1,8 @@
 ---
 date: 2015-08-18
-title: Le Naufrage - _inspired by [@trevblvke](https://www.instagram.com/trevblvke/)_
+title: Le Naufrage
 extra:
+  subtitle: 'inspired by [@trevblvke](https://www.instagram.com/trevblvke/)'
   state: done
   location: Lille
   suite: IG Inspired

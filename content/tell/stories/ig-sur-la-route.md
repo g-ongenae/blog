@@ -1,7 +1,8 @@
 ---
 date: 2015-08-12
-title: Sur la route - _inspired by [@cully_kamisugi](https://www.instagram.com/cully_kamisugi/)_
+title: Sur la route
 extra:
+  subtitle: 'inspired by [@cully_kamisugi](https://www.instagram.com/cully_kamisugi/)'
   state: done
   location: Lille
   suite: IG Inspired

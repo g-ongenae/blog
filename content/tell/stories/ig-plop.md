@@ -1,7 +1,8 @@
 ---
 date: 2015-08-16
-title: Plop! - _inspired by [@andrewtkearns](https://www.instagram.com/andrewtkearns/)_
+title: Plop!
 extra:
+  subtitle: 'inspired by [@andrewtkearns](https://www.instagram.com/andrewtkearns/)'
   state: done
   location: Lille
   suite: IG Inspired

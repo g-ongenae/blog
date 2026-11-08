@@ -15,7 +15,9 @@ The tree and build output are generated files and are not committed.
 
 Section titles and emoji live in front matter; `extra.soon: true` and
 `render: false` mark an unavailable section. Page `lang`, `state`, `location`,
-`favorite` and `suite` belong under `extra`. Keep `date` and `title` at the top level.
+`favorite`, `suite`, `subtitle` (credits shown in italics under the title) and
+`pick` (editor's pick, listed on the literature page) belong under `extra`.
+Keep `date` and `title` at the top level, and credits out of the title.
 Untitled planning pages are drafts. The index groups texts by their authored dates.
 
 The terminal loads its module and tree on interaction. Use `help` for commands;

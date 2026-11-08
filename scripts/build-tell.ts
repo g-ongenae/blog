@@ -1,5 +1,8 @@
-/** Generate the literature index from authored metadata, never filename dates. */
-import { writeFileSync } from 'node:fs';
+/**
+ * Generate the literature landing page (editor's picks and latest texts) and the
+ * complete poem and story lists, from authored metadata, never filename dates.
+ */
+import { readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import {
   CONTENT,
@@ -8,6 +11,7 @@ import {
   lastUpdated,
   linkTitle,
   readPages,
+  splitFrontMatter,
   year,
 } from './lib/content.ts';
 
@@ -15,9 +19,11 @@ const TELL = join(CONTENT, 'tell');
 const FIRST_YEAR = 2007;
 
 const KINDS = [
-  { kind: 'poems', label: 'Poems', singular: 'Poem', emoji: '💌' },
-  { kind: 'stories', label: 'Stories', singular: 'Story', emoji: '📖' },
+  { kind: 'poems', label: 'Poems', singular: 'Poem', emoji: '💌', latest: 3 },
+  { kind: 'stories', label: 'Stories', singular: 'Story', emoji: '📖', latest: 1 },
 ] as const;
+
+type Kind = (typeof KINDS)[number]['kind'];
 
 function words(page: Page): number {
   return page.body.split(/\s+/).filter(Boolean).length;
@@ -78,6 +84,28 @@ function storiesChart(stories: Page[]): string[] {
   ];
 }
 
+/** A list item: the title links to the text, the subtitle (credits) follows it. */
+function item(kind: Kind, page: Page): string {
+  const extra = page.extra ?? {};
+
+  const title =
+    extra.suite && extra.suite !== 'none' ? `${extra.suite}: ${String(page.title)}` : page.title;
+
+  let line = `- [${linkTitle(title)}](@/tell/${kind}/${page.file})`;
+
+  if (extra.subtitle) {
+    line += ` · _${extra.subtitle}_`;
+  }
+
+  line += (extra.state === 'draft' ? ' ✂︎' : '') + (extra.favorite ? ' ⭐' : '');
+
+  if (kind === 'stories') {
+    line += ` (${String(words(page))} words)`;
+  }
+
+  return line;
+}
+
 const out = [
   '---',
   'title: Literature',
@@ -89,17 +117,37 @@ const out = [
   '',
 ];
 
-for (const { kind, label, singular, emoji } of KINDS) {
+for (const { kind, label, singular, emoji, latest } of KINDS) {
   const pages = readPages(join(TELL, kind));
   const drafts = pages.filter((page) => page.extra?.state === 'draft').length;
   const favorites = pages.filter((page) => page.extra?.favorite).length;
+  const recent = pages.slice(0, latest);
+
+  const recentHeading =
+    kind === 'stories' && recent[0]?.extra?.state === 'draft' ? 'Currently writing' : 'Latest';
 
   out.push(
     `## ${emoji} ${label}`,
     '',
-    `[Browse all ${kind}](@/tell/${kind}/_index.md)`,
+    "### Editor's picks",
     '',
-    '### Summary',
+    ...pages.filter((page) => page.extra?.pick).map((page) => item(kind, page)),
+    '',
+    `### ${recentHeading}`,
+    '',
+    ...recent.map((page) => item(kind, page)),
+    '',
+    `[All ${String(pages.length)} ${kind} by year →](@/tell/${kind}/_index.md)`,
+    '',
+  );
+
+  const index = join(TELL, kind, '_index.md');
+  const { front } = splitFrontMatter(readFileSync(index, 'utf8'));
+
+  const full = [
+    `---${front}---`,
+    '',
+    '## Summary',
     '',
     `**Total:** ${String(pages.length)} <br>`,
     `**Drafts:** ${String(drafts)} <br>`,
@@ -112,35 +160,24 @@ for (const { kind, label, singular, emoji } of KINDS) {
     'xychart-beta',
     ...(kind === 'poems' ? poemsChart(pages) : storiesChart(pages)),
     '',
-    `### ${singular} list`,
+    `## ${singular} list`,
     '',
     '✂︎ Draft · ⭐ Favourite',
-    '',
-  );
+  ];
 
   let previous: string | undefined;
 
   for (const page of pages) {
     if (year(page) !== previous) {
       previous = year(page);
-      out.push('', `#### ${previous}`, '');
+      full.push('', `### ${previous}`, '');
     }
 
-    const extra = page.extra ?? {};
-
-    const title =
-      extra.suite && extra.suite !== 'none' ? `${extra.suite}: ${String(page.title)}` : page.title;
-
-    let badges = (extra.state === 'draft' ? ' ✂︎' : '') + (extra.favorite ? ' ⭐' : '');
-
-    if (kind === 'stories') {
-      badges += ` (${String(words(page))} words)`;
-    }
-
-    out.push(`- [${linkTitle(title)}](@/tell/${kind}/${page.file})${badges}`);
+    full.push(item(kind, page));
   }
 
-  out.push('');
+  full.push('', lastUpdated(), '');
+  writeFileSync(index, full.join('\n'));
 }
 
 out.push(lastUpdated(), '');

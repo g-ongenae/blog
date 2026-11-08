@@ -1,7 +1,8 @@
 ---
 date: 2016-04-18
-title: Le Départ - _inspired by [@Vdpfreelancer](https://www.instagram.com/Vdpfreelancer/)_
+title: Le Départ
 extra:
+  subtitle: 'inspired by [@Vdpfreelancer](https://www.instagram.com/Vdpfreelancer/)'
   state: done
   location: Lille
   suite: IG Inspired

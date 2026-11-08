@@ -2,6 +2,7 @@
 date: 2016-10-12
 title: Qui a éteint la lumière ?
 extra:
+  pick: true
   state: done
   type: short
   lang: fr

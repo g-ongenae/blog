@@ -1,5 +1,5 @@
 {% extends "base.html" %}
 {% block content %}
 <article><h1>{% if section.extra.emoji %}<span class="section-emoji" aria-hidden="true">{{ section.extra.emoji }}</span> {% endif %}{{ section.title }}</h1>{{ section.content | safe }}</article>
-{% if section.pages %}<ul class="page-list">{% for item in section.pages %}{% if item.title %}<li><a href="{{ item.permalink }}">{{ item.title }}</a>{% if item.date %} <time datetime="{{ item.date }}">{{ item.date | date(format='%Y-%m-%d') }}</time>{% endif %}</li>{% endif %}{% endfor %}</ul>{% endif %}
+{% if section.pages and not section.content %}<ul class="page-list">{% for item in section.pages %}{% if item.title %}<li><a href="{{ item.permalink }}">{{ item.title | markdown(inline=true) | safe }}</a>{% if item.date %} <time datetime="{{ item.date }}">{{ item.date | date(format='%Y-%m-%d') }}</time>{% endif %}</li>{% endif %}{% endfor %}</ul>{% endif %}
 {% endblock content %}

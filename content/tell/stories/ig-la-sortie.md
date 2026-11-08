@@ -1,7 +1,8 @@
 ---
 date: 2015-08-15
-title: La Sortie - _inspired by [@makenaboy_maui_](https://www.instagram.com/makenaboy_maui_/)_
+title: La Sortie
 extra:
+  subtitle: 'inspired by [@makenaboy_maui_](https://www.instagram.com/makenaboy_maui_/)'
   state: done
   location: Lille
   suite: IG Inspired

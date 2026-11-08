@@ -4,6 +4,7 @@ title: J'ai envie de fuir
 extra:
   state: done
   location: Hellemmes
+  lang: fr
 ---
 
 J'ai envie de fuir <br>

@@ -1,7 +1,8 @@
 ---
 date: 2015-08-14
-title: La sirène - _inspired by [@driftingpixels](https://www.instagram.com/driftingpixels/)_
+title: La sirène
 extra:
+  subtitle: 'inspired by [@driftingpixels](https://www.instagram.com/driftingpixels/)'
   state: done
   location: Lille
   suite: IG Inspired
