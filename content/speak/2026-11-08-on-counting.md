@@ -30,16 +30,16 @@ Note: x is for a 1x. So for 12, x = 2
 In English, we pass from 12 (twelve), a unique form, to 13 (thirteen), an 'x-teen' based number.
 This is not a special case of English, every Germanic and Romance<sup><a href="#note-1">[1]</a></sup> language does that:
 
-| Language | number | form 1 | number | form 2 |
-|:----|:----|:----|:----|:---|
-| 🇬🇧 | 12, twelve | x-leven/x-lve | 13, thirteen | x-teen |
-| 🇩🇪 | 12, zwölf | x-lf | 13, dreizehn | x-zehn |
-| 🇳🇱 | 12, twaalf | x-lf | 13, dertien | x-tien |
-| 🇫🇷 | 16, seize | x-ze | 17, dix-sept | dix-x |
-| 🇪🇸 | 15, quince | x-ce | 16, dieciséis | dieci-x |
-| 🇧🇷 | 15, quinze | x-ze | 16, dezesseis | dez-e-x |
-| 🇵🇹 | 15, quinze | x-ze | 16, dezasseis | dez-a-x |
-| 🇮🇹 | 16, sedici | x-dici | 17, diciassette | dici-x |
+| Language | Up to | Form 1 | From | Form 2 |
+|:----|:----|:----|:----|:----|
+| 🇬🇧 English | 12 *twelve* | `x-leven` / `x-lve` | 13 *thirteen* | `x-teen` |
+| 🇩🇪 German | 12 *zwölf* | `x-lf` | 13 *dreizehn* | `x-zehn` |
+| 🇳🇱 Dutch | 12 *twaalf* | `x-lf` | 13 *dertien* | `x-tien` |
+| 🇫🇷 French | 16 *seize* | `x-ze` | 17 *dix-sept* | `dix-x` |
+| 🇪🇸 Spanish | 15 *quince* | `x-ce` | 16 *dieciséis* | `dieci-x` |
+| 🇧🇷 Brazilian Portuguese | 15 *quinze* | `x-ze` | 16 *dezesseis* | `dez-e-x` |
+| 🇵🇹 European Portuguese | 15 *quinze* | `x-ze` | 16 *dezasseis* | `dez-a-x` |
+| 🇮🇹 Italian | 16 *sedici* | `x-dici` | 17 *diciassette* | `dici-x` |
 
 Italian is my favourite here, it's so close to being the same form for all of them, but nope, they decided to invert the order right before the finish line.
 
@@ -55,16 +55,16 @@ From 1 to 10, each number is unique.
 When we pass 10, we tend to have constructed words, as shown above.
 But when we pass from 19 to 20, the number construction changes completely and (most of the time, hello French, Danish and others) remains the same for the rest of the numbers up to a hundred.
 
-| Language | 10-form | 20+form |
+| Language | 10+ form | 20+ form |
 |:----|:----|:----|
-| 🇬🇧 | x-leven/x-lve and x-teen | y-ty x |
-| 🇩🇪 | x-lf and x-zehn | x und y-zig |
-| 🇳🇱 | x-lf and x-tien | x en y-tig |
-| 🇫🇷 | x-ze and dix-x | y-te x <sup><a href="#note-2">[2]</a></sup> |
-| 🇪🇸 | x-ce and dieci-x | y-ti x and y-ta y x <sup><a href="#note-3">[3]</a></sup> |
-| 🇧🇷 | x-ze and dez-e-x | y-te/ta e x |
-| 🇵🇹 | x-ze and dez-a-x | y-te/ta e x |
-| 🇮🇹 | x-dici and dici-x | y-ti/ta x <sup><a href="#note-4">[4]</a></sup> |
+| 🇬🇧 English | `x-leven` / `x-lve` and `x-teen` | `y-ty x` |
+| 🇩🇪 German | `x-lf` and `x-zehn` | `x und y-zig` |
+| 🇳🇱 Dutch | `x-lf` and `x-tien` | `x en y-tig` |
+| 🇫🇷 French | `x-ze` and `dix-x` | `y-te x` <sup><a href="#note-2">[2]</a></sup> |
+| 🇪🇸 Spanish | `x-ce` and `dieci-x` | `y-ti x` and `y-ta y x` <sup><a href="#note-3">[3]</a></sup> |
+| 🇧🇷 Brazilian Portuguese | `x-ze` and `dez-e-x` | `y-te e x` / `y-ta e x` |
+| 🇵🇹 European Portuguese | `x-ze` and `dez-a-x` | `y-te e x` / `y-ta e x` |
+| 🇮🇹 Italian | `x-dici` and `dici-x` | `y-ti x` / `y-ta x` <sup><a href="#note-4">[4]</a></sup> |
 
 So they basically are all forms of:
 - y-ty and x
@@ -79,48 +79,49 @@ I know there are a lot of historical reasons but we are people of the future, we
 
 So here are a few new constructions I thought of to get rid of those inconsistencies.
 I worked them out in both French and English but it's easy to adapt them to other languages, with the same logic.
+Forms that differ from the current ones are in bold.
 
 #### 🇫🇷 - French
 
 | Decimal | Current | Ten-number based | Number-ze based |
-|:----|:----|:----|:----|
+|----:|:----|:----|:----|
 | 10 | dix | dix | dix |
-| 11 | onze | dix-un | onze |
-| 12 | douze | dix-deux | douze |
-| 13 | treize | dix-trois | treize |
-| 14 | quatorze | dix-quatre | quatorze |
-| 15 | quinze | dix-cinq | quinze |
-| 16 | seize | dix-six | seize |
-| 17 | dix-sept | dix-sept | septize / septinze |
-| 18 | dix-huit | dix-huit | huize / houze / octize |
-| 19 | dix-neuf | dix-neuf | nouze / noze |
+| 11 | onze | **dix-un** | onze |
+| 12 | douze | **dix-deux** | douze |
+| 13 | treize | **dix-trois** | treize |
+| 14 | quatorze | **dix-quatre** | quatorze |
+| 15 | quinze | **dix-cinq** | quinze |
+| 16 | seize | **dix-six** | seize |
+| 17 | dix-sept | dix-sept | **septize / septinze** |
+| 18 | dix-huit | dix-huit | **huize / houze / octize** |
+| 19 | dix-neuf | dix-neuf | **nouze / noze** |
 
 | Decimal | Current | 20-based | Number-te based |
-|:----|:----|:----|:----|
-| 10 | dix | dix | onte |
-| 20 | vingt | un-vingt | deute |
-| 30 | trente | un-vingt-dix | trente |
-| 40 | quarante | deux-vingts | quarante |
-| 50 | cinquante | deux-vingts-dix | cinquante |
-| 60 | soixante | trois-vingts | soixante |
-| 70 | soixante-dix | trois-vingts-dix | septante |
-| 80 | quatre-vingts | quatre-vingts | huitante / octante |
-| 90 | quatre-vingt-dix | quatre-vingts-dix | nonante |
+|----:|:----|:----|:----|
+| 10 | dix | dix | **onte** |
+| 20 | vingt | **un-vingt** | **deute** |
+| 30 | trente | **un-vingt-dix** | trente |
+| 40 | quarante | **deux-vingts** | quarante |
+| 50 | cinquante | **deux-vingts-dix** | cinquante |
+| 60 | soixante | **trois-vingts** | soixante |
+| 70 | soixante-dix | **trois-vingts-dix** | **septante** |
+| 80 | quatre-vingts | quatre-vingts | **huitante / octante** |
+| 90 | quatre-vingt-dix | **quatre-vingts-dix** | **nonante** |
 
 #### 🇬🇧 - English
 
 | Decimal | Current | Ten-number based | Number-teen based | Number-lve based |
-|:----|:----|:----|:----|:---|
+|----:|:----|:----|:----|:----|
 | 10 | ten | ten | ten | ten |
-| 11 | eleven | ten-one | oneteen | onelve |
-| 12 | twelve | ten-two | twoteen / tweteen | twelve |
-| 13 | thirteen | ten-three | thirteen | thirlve |
-| 14 | fourteen | ten-four | fourteen | forlve |
-| 15 | fifteen | ten-five | fifteen | filve |
-| 16 | sixteen | ten-six | sixteen | silve |
-| 17 | seventeen | ten-seven | seventeen | sevelve |
-| 18 | eighteen | ten-eight | eighteen | eilve |
-| 19 | nineteen | ten-nine | nineteen | nilve |
+| 11 | eleven | **ten-one** | **oneteen** | **onelve** |
+| 12 | twelve | **ten-two** | **twoteen / tweteen** | twelve |
+| 13 | thirteen | **ten-three** | thirteen | **thirlve** |
+| 14 | fourteen | **ten-four** | fourteen | **forlve** |
+| 15 | fifteen | **ten-five** | fifteen | **filve** |
+| 16 | sixteen | **ten-six** | sixteen | **silve** |
+| 17 | seventeen | **ten-seven** | seventeen | **sevelve** |
+| 18 | eighteen | **ten-eight** | eighteen | **eilve** |
+| 19 | nineteen | **ten-nine** | nineteen | **nilve** |
 
 I could have had a construction from eleven: Number-ven based.
 However, I have no idea how to link from one to ele.
@@ -132,16 +133,16 @@ As you can see, eleven would match more than one number which is not acceptable.
 Also, I wouldn't try saying rleven out loud.
 
 | Decimal | Current | 20-based | Number-ty based |
-|:----|:----|:----|:----|
-| 10 | ten | ten | onety |
-| 20 | twenty | one-twenty | twenty |
-| 30 | thirty | one-twenty-ten | thirty |
-| 40 | forty | two-twenty | forty |
-| 50 | fifty | two-twenty-ten | fifty |
-| 60 | sixty | three-twenty | sixty |
-| 70 | seventy | three-twenty-ten | seventy |
-| 80 | eighty | four-twenty | eighty |
-| 90 | ninety | four-twenty-ten | ninety |
+|----:|:----|:----|:----|
+| 10 | ten | ten | **onety** |
+| 20 | twenty | **one-twenty** | twenty |
+| 30 | thirty | **one-twenty-ten** | thirty |
+| 40 | forty | **two-twenty** | forty |
+| 50 | fifty | **two-twenty-ten** | fifty |
+| 60 | sixty | **three-twenty** | sixty |
+| 70 | seventy | **three-twenty-ten** | seventy |
+| 80 | eighty | **four-twenty** | eighty |
+| 90 | ninety | **four-twenty-ten** | ninety |
 
 ---
 

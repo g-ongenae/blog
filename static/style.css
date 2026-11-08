@@ -251,6 +251,50 @@ blockquote {
   padding-left: var(--space-6);
   color: var(--fg-muted);
 }
+/* Tables keep their natural width and scroll sideways when wider than the
+   column, rather than squeezing words onto several lines. */
+.prose table {
+  display: block;
+  overflow-x: auto;
+  width: max-content;
+  max-width: 100%;
+  margin-block: var(--space-6) var(--space-8);
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+  font-variant-numeric: lining-nums tabular-nums;
+  line-height: 1.5;
+}
+.prose th,
+.prose td {
+  padding: var(--space-2) var(--space-3);
+  overflow-wrap: normal;
+  vertical-align: baseline;
+}
+.prose th {
+  border-bottom: 1px solid var(--line);
+  color: var(--fg-muted);
+  font: 700 var(--text-xs) / 1.4 var(--font-mono);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.prose td {
+  border-bottom: 1px solid var(--line-soft);
+}
+.prose tbody tr:last-child td {
+  border-bottom-color: var(--line);
+}
+.prose tbody tr:hover {
+  background: var(--hover);
+}
+.prose td code {
+  color: var(--green);
+  font-size: 0.875em;
+}
+/* Highlights a cell that differs from its neighbour, e.g. a proposed form. */
+.prose td strong {
+  color: var(--green);
+}
 .mermaid {
   overflow: auto;
   border: 1px solid var(--line-soft);
