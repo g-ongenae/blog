@@ -8,27 +8,27 @@ extra:
 
 When we talk about strangeness in languages, one thing that is the most talked about is numbers, how each country counts.
 
-For instance, the strangeness of the french:
+For instance, the strangeness of the French:
 
 - 70+ => from soixante-dix (70, sixty ten) to soixante-dix-neuf (79, sixty ten nine)
-- 80+ => from quatre-vingt (80, four twenty) to quatre-vingt-dix-neuf (99, four twenty ten nine)
+- 80+ => from quatre-vingts (80, four twenty) to quatre-vingt-dix-neuf (99, four twenty ten nine)
 
-Or the infamous danish<sup>[1]</sup>:
+Or the infamous Danish:
 
 - 50 => halvtreds = halvtredje-sinde-tyve = half-third-times-twenty = 2½ × 20 = 50
-- 60 => tres = tredje-sinde-tyve = third-times-twenty = 3 × 20 = 60
+- 60 => tres = tre-sinde-tyve = three-times-twenty = 3 × 20 = 60
 - 70 => halvfjerds = halvfjerde-sinde-tyve = half-fourth-times-twenty = 3½ × 20 = 70
-- 80 => firs = fjerde-sinde-tyve = fourth-times-twenty = 4 × 20 = 80
+- 80 => firs = fir-sinde-tyve = four-times-twenty = 4 × 20 = 80
 - 90 => halvfems = halvfemte-sinde-tyve = half-fifth-times-twenty = 4½ × 20 = 90
 
-However, I've been thinking that there is way more strangeness and incoherency with numbers in most languages that we tend to acknowledge.
+However, I've been thinking that there is way more strangeness and incoherency with numbers in most languages than we tend to acknowledge.
 
 ### Tens
 
 Note: x is for a 1x. So for 12, x = 2
 
-In english, we pass from 12 (twelve) a unique form to 13 (thirteen) a 'x-teen' based number.
-This is not a special case of english, every Germanic and Latin language do that:
+In English, we pass from 12 (twelve), a unique form, to 13 (thirteen), an 'x-teen' based number.
+This is not a special case of English, every Germanic and Romance<sup><a href="#note-1">[1]</a></sup> language does that:
 
 | Language | number | form 1 | number | form 2 |
 |:----|:----|:----|:----|:---|
@@ -37,32 +37,34 @@ This is not a special case of english, every Germanic and Latin language do that
 | 🇳🇱 | 12, twaalf | x-lf | 13, dertien | x-tien |
 | 🇫🇷 | 16, seize | x-ze | 17, dix-sept | dix-x |
 | 🇪🇸 | 15, quince | x-ce | 16, dieciséis | dieci-x |
-| 🇵🇹 | 15, quinze | x-ze | 16, dezesseis | dez-e-x |
+| 🇧🇷 | 15, quinze | x-ze | 16, dezesseis | dez-e-x |
+| 🇵🇹 | 15, quinze | x-ze | 16, dezasseis | dez-a-x |
 | 🇮🇹 | 16, sedici | x-dici | 17, diciassette | dici-x |
 
-Italian is my favourite here, it's so close to being the same form for all of them, but nope, they decided to invert the order right before the end line.
+Italian is my favourite here, it's so close to being the same form for all of them, but nope, they decided to invert the order right before the finish line.
 
-In comparison, number in the 10-19 in Polish all follow the same form: x-aście form.
+In comparison, numbers in the 11-19 in Polish all follow the same form: x-naście form.
 
 ### Tens again
 
 Note: x and y are for yx, so for 23, x=3 and y=2.
 
-Additionally, in most languages, there is a clear split between 19 to the rest.
+Additionally, in most languages, there is a clear split between 19 and the rest.
 
 From 1 to 10, each number is unique.
 When we pass 10, we tend to have constructed words, as shown above.
-But when we pass from 19 to 20, the number construction change completely and (most of the time, hello French, Danish and others) remains the same for the rest of the number up to hundred.
+But when we pass from 19 to 20, the number construction changes completely and (most of the time, hello French, Danish and others) remains the same for the rest of the numbers up to a hundred.
 
 | Language | 10-form | 20+form |
 |:----|:----|:----|
 | 🇬🇧 | x-leven/x-lve and x-teen | y-ty x |
 | 🇩🇪 | x-lf and x-zehn | x und y-zig |
 | 🇳🇱 | x-lf and x-tien | x en y-tig |
-| 🇫🇷 | x-ze and dix-x | y-te x <sup>*</sup> |
-| 🇪🇸 | x-ce and dieci-x | y-ti x and y-ta y x <sup>**</sup> |
-| 🇵🇹 | x-ze and dez-e-x | y-te/ta e x |
-| 🇮🇹 | x-dici and dici-x | ti/ta x <sup>***</sup> |
+| 🇫🇷 | x-ze and dix-x | y-te x <sup><a href="#note-2">[2]</a></sup> |
+| 🇪🇸 | x-ce and dieci-x | y-ti x and y-ta y x <sup><a href="#note-3">[3]</a></sup> |
+| 🇧🇷 | x-ze and dez-e-x | y-te/ta e x |
+| 🇵🇹 | x-ze and dez-a-x | y-te/ta e x |
+| 🇮🇹 | x-dici and dici-x | y-ti/ta x <sup><a href="#note-4">[4]</a></sup> |
 
 So they basically are all forms of:
 - y-ty and x
@@ -71,12 +73,12 @@ So they basically are all forms of:
 
 Which begs the question, why start this beautiful form at the 20+ instead of the 10+?
 
-I know they are a lot of historical reasons but we are people of the future, we should not be afraid to tackle those midieval traditions.
+I know there are a lot of historical reasons but we are people of the future, we should not be afraid to tackle those medieval traditions.
 
 ### Proposals?
 
-So here are a few new construction I thought of to get rid of those inconcistencies.
-I worked them both in French and English but it's easy to adapt them to other languages, with the same logic.
+So here are a few new constructions I thought of to get rid of those inconsistencies.
+I worked them out in both French and English but it's easy to adapt them to other languages, with the same logic.
 
 #### 🇫🇷 - French
 
@@ -88,7 +90,7 @@ I worked them both in French and English but it's easy to adapt them to other la
 | 13 | treize | dix-trois | treize |
 | 14 | quatorze | dix-quatre | quatorze |
 | 15 | quinze | dix-cinq | quinze |
-| 16 | seize | dix-six | seize | hexize |
+| 16 | seize | dix-six | seize |
 | 17 | dix-sept | dix-sept | septize / septinze |
 | 18 | dix-huit | dix-huit | huize / houze / octize |
 | 19 | dix-neuf | dix-neuf | nouze / noze |
@@ -96,14 +98,14 @@ I worked them both in French and English but it's easy to adapt them to other la
 | Decimal | Current | 20-based | Number-te based |
 |:----|:----|:----|:----|
 | 10 | dix | dix | onte |
-| 20 | vingt | vingt | deute |
-| 30 | trente | vingt-dix | trente |
-| 40 | quarante | deux-vingt | quarante |
-| 50 | cinquante | deux-vingt-dix | cinquante |
-| 60 | soixante | trois-vingt-dix | soixante |
-| 70 | soixante-dix | trois-vingt-dix | septante |
-| 80 | quatre-vingt | quatre-vingt | huitante / octante |
-| 90 | quatre-vingt-dix | quatre-vingt-dix | nonante |
+| 20 | vingt | un-vingt | deute |
+| 30 | trente | un-vingt-dix | trente |
+| 40 | quarante | deux-vingts | quarante |
+| 50 | cinquante | deux-vingts-dix | cinquante |
+| 60 | soixante | trois-vingts | soixante |
+| 70 | soixante-dix | trois-vingts-dix | septante |
+| 80 | quatre-vingts | quatre-vingts | huitante / octante |
+| 90 | quatre-vingt-dix | quatre-vingts-dix | nonante |
 
 #### 🇬🇧 - English
 
@@ -120,20 +122,20 @@ I worked them both in French and English but it's easy to adapt them to other la
 | 18 | eighteen | ten-eight | eighteen | eilve |
 | 19 | nineteen | ten-nine | nineteen | nilve |
 
-I could had a construction from eleven: Number-ven based.
-However, I have no idea on how to link link from one to ele.
+I could have had a construction from eleven: Number-ven based.
+However, I have no idea how to link from one to ele.
 So what would be the construction for 12?
 Maybe, it would be a Number-leven based instead.
 And we only take the last letter from the first number.
-So: eleven, oleven, eleven, rlven, eleven, xleven, nleven, tleven, eleven.
+So: eleven, oleven, eleven, rleven, eleven, xleven, nleven, tleven, eleven.
 As you can see, eleven would match more than one number which is not acceptable.
-Also, I wouldn't try saying rlven at loud.
+Also, I wouldn't try saying rleven out loud.
 
-| Decimal | Current | 20-based | Number-te based |
+| Decimal | Current | 20-based | Number-ty based |
 |:----|:----|:----|:----|
 | 10 | ten | ten | onety |
-| 20 | twenty | twenty | twenty |
-| 30 | thirty | twenty-ten | thirty |
+| 20 | twenty | one-twenty | twenty |
+| 30 | thirty | one-twenty-ten | thirty |
 | 40 | forty | two-twenty | forty |
 | 50 | fifty | two-twenty-ten | fifty |
 | 60 | sixty | three-twenty | sixty |
@@ -143,10 +145,10 @@ Also, I wouldn't try saying rlven at loud.
 
 ---
 
-<sup>*</sup> For french, there actually a few exceptions, the well know 70+ but also, for 21 (vingt et un, twenty and one, instead of vingt-un which is actually harder to say).
+<sup id="note-1">1</sup> Romanian is the only exception here with all 11-19 being in the form of `x-sprezece`. I would argue that it's due to its closeness to Slavic languages, which, as I was saying for Polish, don't have that weirdness.
 
-<sup>**</sup> For spanish, the change for a stable system is at 30, not 20. Also, the second y is an and in spanish, so the form is y and x starting from 30+.
+<sup id="note-2">2</sup> For French, there are actually a few exceptions, the well-known 70+ but also, for 21 (vingt et un, twenty and one, instead of vingt-un which is actually harder to say), and other y1 (except for 71, 81 and 91 of course).
 
-<sup>***</sup> For italian, there are some exception to create a number easier to tell (contraction on one and eight and inflexion on the end of three). But the form is stable.
+<sup id="note-3">3</sup> For Spanish, the change for a stable system is at 30, not 20. Also, the second *y* is the Spanish word for 'and' (treinta y tres), so the form is y and x starting from 30+.
 
-[1]: https://learn-a-new-language.eu/en-learn-a-new-language/learn-danish/danish-numbers/
+<sup id="note-4">4</sup> For Italian, there are some exceptions to create a number easier to say (contraction on one and eight and stress on the end of three). But the form is stable.
