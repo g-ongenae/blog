@@ -14,7 +14,7 @@ extra:
 
 **Total:** 225 <br>
 **Drafts:** 18 <br>
-**Favorites:** 22 <br>
+**Favourites:** 22 <br>
 **Languages:**
 
 - English 🇬🇧: 8
@@ -303,7 +303,7 @@ Bars: poems per year. Line: favourites per year.
 
 **Total:** 58 <br>
 **Drafts:** 9 <br>
-**Favorites:** 0 <br>
+**Favourites:** 0 <br>
 **Languages:**
 
 - English 🇬🇧: 1
@@ -407,4 +407,4 @@ xychart-beta
 - [Vous et Nous](@/tell/stories/vous-et-nous.md) (2140 words)
 - [Les Maudits](@/tell/stories/les-maudits.md) (1124 words)
 
-Last updated on 2026-11-07
+Last updated on 2026-11-08

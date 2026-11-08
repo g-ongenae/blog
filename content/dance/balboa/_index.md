@@ -7,7 +7,7 @@ title: Balboa
 ## People
 
 - Maxie Dorf
-- Anne-Hélène et Bernard
+- Anne-Hélène and Bernard
 
 ## Philosophy / Energy
 

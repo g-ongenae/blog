@@ -183,8 +183,14 @@ export function createRouter(
     }
 
     if (verb === 'stat') {
+      const count = (n, word) => `${n} ${word}${n === 1 ? '' : 's'}`;
+
       return [
-        `${pages.length} pages · ${pages.filter((p) => p.state === 'draft').length} drafts · ${pages.filter((p) => p.favorite).length} favourites`,
+        [
+          count(pages.length, 'page'),
+          count(pages.filter((p) => p.state === 'draft').length, 'draft'),
+          count(pages.filter((p) => p.favorite).length, 'favourite'),
+        ].join(' · '),
       ];
     }
 
@@ -199,7 +205,7 @@ export function createRouter(
     if (verb === 'ps') {
       return args.some((a) => a.includes('l'))
         ? [
-            'grounding - Laying foundations at my work (Algoan).',
+            'grounding - Laying foundations at work (Algoan).',
             'vibing - Creating apps, dancing, travelling, writing, playing music and learning languages.',
             'telling - Taking notes on my blog and on LinkedIn.',
           ]

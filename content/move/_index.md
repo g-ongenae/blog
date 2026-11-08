@@ -3,6 +3,6 @@ weight: 4
 extra:
   emoji: 🤸‍♂️
   soon: true
-title: Movements
+title: Movement
 render: false
 ---

@@ -52,4 +52,16 @@ assert.match(text(root.commands('cd nowhere')[0]), /no such file/);
 assert.equal(root.commands('ls -la').length, 8);
 assert.ok(root.commands('tree').length > 8);
 
+const single = createRouter(
+  {
+    path: '/',
+    title: 'blog',
+    children: [],
+    pages: [{ path: '/one/', title: 'One', date: '2026-01-01', state: 'draft', favorite: true }],
+  },
+  options,
+);
+
+assert.deepEqual(single.commands('stat'), ['1 page · 1 draft · 1 favourite']);
+
 console.log('Router checks passed.');

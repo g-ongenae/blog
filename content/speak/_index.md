@@ -5,10 +5,10 @@ extra:
 title: Languages
 ---
 
-Here is the languages I speak:
+Here are the languages I speak:
 
 - 🇫🇷 French (native)
-- 🇬🇧 English (C1/C2, TOIEC listening and reading 945 in 2020, First Certificate of Cambridge in 2015)
+- 🇬🇧 English (C1/C2, TOEIC Listening & Reading: 945 (2020), Cambridge First Certificate in English (FCE) in 2015)
 - 🇩🇪 German (A2/B1)
 - 🇵🇱 Polish (A2)
 - 🇵🇹 Portuguese (A2/B1)

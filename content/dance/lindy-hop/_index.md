@@ -64,43 +64,43 @@ title: Lindy Hop
 
 I started dancing Lindy Hop on the 20<sup>th</sup> of December 2022.
 It was the beginning of my dance journey.
-I had an experience with Rock (4 times) in university,
-however it did not work out, since I didn't like the style.
+I had tried four-count rock at university,
+but it did not work out, since I didn't like the style.
 
-To be precise, I saw on Facebook an advertisement for a ball with initiation.
-It was the same evening, I decided to try without an hesitation.
-I arrived 10 minutes after the initiation started.
+To be precise, I saw an ad on Facebook for a social dance with a beginner lesson.
+It was that same evening, and I decided to go without hesitation.
+I arrived 10 minutes after the beginner lesson started.
 
-This initiation was done by [Katya] and Luei<sup>✝︎</sup>
-and the ball was organized by _les [Chatons Swingeurs]_
+The lesson was taught by [Katya] and Luei<sup>✝︎</sup>
+and the dance was organised by _les [Chatons Swingeurs]_
 with the [Jacks'&'Jills Swing Band][Jacks_and_Jills] at _le [Chantier]_ in Montreuil.
 
-I was awful, I could not even understand how to dance the basic.
+I was awful: I couldn't even work out the basic step.
 It was a 6-count basic: Rock, Step, Tri-ple Step, Tri-ple Step.
 I try to remember this feeling of helplessness and growth
 every time I start learning something new.
 
-This evening, for the rest of the ball, I sat down in the couch in front of the dancers.
-I talk with some dancers, asked them questions on the dances.
-One of them was wearing his shirt in reverse (not inverted), with the button on the back.
-I don't remember his name, I'll try to find out, he's still dancing in the Paris scene.
-As I was looking, the smiles, the laugh, the energy got me more and more.
-I decided I could not accept no knowing how to dance anymore.
+That evening, for the rest of the dance, I sat on the couch in front of the dancers.
+I talked with some dancers and asked them questions about the dances.
+One of them was wearing his shirt back to front (not inside out), with the buttons at the back.
+I don't remember his name; I'll try to find out, as he's still dancing on the Paris scene.
+As I was looking, the smiles, the laughter and the energy drew me in more and more.
+I decided I could not accept not knowing how to dance anymore.
 
-At the end of the initiation, they announced a course starting in january 2023.
-I register the next day.
+At the end of the evening, they announced a course starting in January 2023.
+I registered the next day.
 
 Since I'm a man, I started as a leader and therefore, I had no issue registering.
-It was a one hour class with [Katya] and [Stéphane] on tuesday evening
+It was a one-hour class with [Katya] and [Stéphane] on Tuesday evenings
 at the [Centre Momboye][Momboye].
 
 There, I was dancing with [Alexandre], Delphine F, [Éhouarn], [Ηλιάνα][iliana], and [Lisa].
 We were also grabbing drinks at _[la Laverie](https://www.instagram.com/barlalaverie/)_.
-During those days, I remember the weather as sunny.
+I remember those days as sunny.
 I was on the sunny side of the street.
 
-At this time, I was struggling very much.
-At class mid-time, my brain was already overcharged.
+At that time, I was struggling a lot.
+Halfway through class, my brain was already overloaded.
 I could not process anything anymore.
 
 ### Events
@@ -112,9 +112,9 @@ I could not process anything anymore.
 - Jumpin' At Istanbul, Istanbul, Turkey
 - Rock That Swing, Munich, Germany
 - Savoy Cup, La Grande Motte
-- The BRUX, Brussel, Belgium
+- The BRUX, Brussels, Belgium
 - Wanderful Swing
-- Summer Camp by Studio Hop, Mont Dore (Twice)
+- Summer Camp by Studio Hop, Mont Dore (twice)
 - SwingAout, Laroquebrou
 - Carré'Mans Swing, Le Mans
 - CosyLicious, Paris

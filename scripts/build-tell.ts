@@ -85,7 +85,7 @@ for (const { kind, label, singular, emoji } of KINDS) {
     '',
     `**Total:** ${String(pages.length)} <br>`,
     `**Drafts:** ${String(drafts)} <br>`,
-    `**Favorites:** ${String(favorites)} <br>`,
+    `**Favourites:** ${String(favorites)} <br>`,
     '**Languages:**',
     '',
     ...languageSummary(pages),

@@ -29,4 +29,4 @@ render: false
 - 2026-10-01 · [Durée moyenne de visionnage : 1 min 48, pff… nul !](@/think/2026-10-01-duree-de-visionnage.md) 🇫🇷 · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7511391632655843328/)
 - 2026-09-11 · [Hello LinkedIn, ça va ?](@/think/2026-09-11-hello-linkedin.md) 🇫🇷 · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7504131998643392512/)
 
-Last updated on 2026-11-07
+Last updated on 2026-11-08

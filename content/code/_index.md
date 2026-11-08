@@ -30,4 +30,4 @@ render: false
 - 2026-10-12 · [Relisez-vous encore le code que vous générez ?](@/code/2026-10-12-relisez-vous-encore-le-code.md) 🇫🇷 · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7515402839800561664/)
 - 2026-09-15 · [L'outil que j'ai créé est déjà périmé. 😭](@/code/2026-09-15-outil-perime.md) 🇫🇷 · [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7505636500102086656/)
 
-Last updated on 2026-11-07
+Last updated on 2026-11-08

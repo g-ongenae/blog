@@ -3,6 +3,6 @@ weight: 5
 extra:
   emoji: 🎷
   soon: true
-title: Musics
+title: Music
 render: false
 ---
