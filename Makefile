@@ -1,5 +1,5 @@
 # Update automatically generated files
-ZOLA_VERSION ?= 0.19.1
+ZOLA_VERSION ?= 0.21.0
 ZOLA_INSTALL_DIR ?= /usr/local/bin
 
 .PHONY: install build generate tree check serve sync-terminal

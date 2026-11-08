@@ -1,6 +1,6 @@
 # Blog
 
-Install Zola 0.19.1 (`make install`) and Node.js 22.18 or later (the scripts are
+Install Zola 0.21.0 (`make install`) and Node.js 22.18 or later (the scripts are
 TypeScript run directly by Node). `make` installs the npm dependencies on first use.
 
 ```sh

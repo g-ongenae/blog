@@ -251,6 +251,40 @@ blockquote {
   padding-left: var(--space-6);
   color: var(--fg-muted);
 }
+/* GitHub-style alerts (`> [!NOTE]`). Zola emits only the class, so the
+   label comes from CSS; warnings and cautions take the alert colours. */
+[class^='markdown-alert-'] {
+  --alert: var(--green);
+  border-left-color: var(--alert);
+}
+[class^='markdown-alert-']::before {
+  display: block;
+  color: var(--alert);
+  font-size: var(--text-sm);
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.markdown-alert-note::before {
+  content: 'Note';
+}
+.markdown-alert-tip::before {
+  content: 'Tip';
+}
+.markdown-alert-important::before {
+  content: 'Important';
+}
+.markdown-alert-warning {
+  --alert: var(--orange);
+}
+.markdown-alert-warning::before {
+  content: 'Warning';
+}
+.markdown-alert-caution {
+  --alert: var(--red);
+}
+.markdown-alert-caution::before {
+  content: 'Caution';
+}
 /* Tables keep their natural width and scroll sideways when wider than the
    column, rather than squeezing words onto several lines. */
 .prose table {

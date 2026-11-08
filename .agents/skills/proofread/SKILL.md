@@ -93,5 +93,5 @@ Then:
 
 - Fix filename typos with `git mv`. Don't add `aliases` unless the page is already published.
 - Regenerate the index with `make generate`. It needs PyYAML; use a venv if it isn't installed.
-- Validate with a Zola 0.19.1 build, `npm test`.
+- Validate with a Zola 0.21.0 build, `npm test`.
 - Don't commit unless asked.
