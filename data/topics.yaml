@@ -1,4 +1,4 @@
-# Topics of the think and code posts, in chart order. Each post sets one
+# Topics of the think, code and speak posts, in chart order. Each post sets one
 # `extra.topic` key; the order fixes each topic's colour on every page.
 - key: tool
   label: Tool I built
@@ -9,3 +9,6 @@
 - key: linkedin
   label: About LinkedIn
   short: meta
+- key: linguistics
+  label: How languages work
+  short: linguistics

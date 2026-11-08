@@ -2,6 +2,7 @@
 date: 2026-11-08
 title: On counting
 extra:
+  topic: linguistics
   lang: en
 ---
 

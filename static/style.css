@@ -368,13 +368,14 @@ blockquote {
     scroll-behavior: auto !important;
   }
 }
-/* Topic timeline on the think and code pages (templates/partials/topic-chart.html).
+/* Topic timeline on the think, code and speak pages (templates/partials/topic-chart.html).
    Colours follow the topic order in data/topics.yaml and are checked for
    colour-blind separation on both themes. */
 .topic-chart {
   --topic-1: #3987e5;
   --topic-2: #199e70;
   --topic-3: #d95926;
+  --topic-4: #c94fb0;
   margin: var(--space-6) 0 var(--space-10);
   font-size: var(--text-xs);
   color: var(--fg-muted);
@@ -384,6 +385,7 @@ blockquote {
     --topic-1: #2a78d6;
     --topic-2: #0f7a55;
     --topic-3: #c94a1a;
+    --topic-4: #b83a9e;
   }
 }
 .topic-1 {
@@ -394,6 +396,9 @@ blockquote {
 }
 .topic-3 {
   --topic: var(--topic-3);
+}
+.topic-4 {
+  --topic: var(--topic-4);
 }
 .topic-legend {
   display: flex;

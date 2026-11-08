@@ -6,7 +6,7 @@
     "node": ">=22.18"
   },
   "scripts": {
-    "generate": "node scripts/build-tell.ts && node scripts/build-posts.ts think code && node scripts/build-tree.ts",
+    "generate": "node scripts/build-tell.ts && node scripts/build-posts.ts think code speak && node scripts/build-tree.ts",
     "test": "node scripts/test-router.ts && node scripts/check-tree.ts",
     "lint": "eslint .",
     "format": "prettier --write .",

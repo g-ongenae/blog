@@ -24,7 +24,9 @@ const TOPICS = new Set(
 
 for (const section of process.argv.slice(2)) {
   const index = join(CONTENT, section, '_index.md');
-  const { front } = splitFrontMatter(readFileSync(index, 'utf8'));
+  const { front, body } = splitFrontMatter(readFileSync(index, 'utf8'));
+  // Text written above the generated summary is the section's own intro; keep it.
+  const intro = body.split('## Summary')[0]?.trim();
   const pages = readPages(join(CONTENT, section));
   const untagged = pages.filter((page) => !TOPICS.has(page.extra?.topic ?? ''));
 
@@ -41,6 +43,7 @@ for (const section of process.argv.slice(2)) {
   const out = [
     `---${front}---`,
     '',
+    ...(intro ? [intro, ''] : []),
     '## Summary',
     '',
     `**Total:** ${String(pages.length)} <br>`,

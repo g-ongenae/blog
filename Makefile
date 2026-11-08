@@ -29,7 +29,7 @@ node_modules: package-lock.json
 
 generate: node_modules
 	node scripts/build-tell.ts
-	node scripts/build-posts.ts think code
+	node scripts/build-posts.ts think code speak
 	$(MAKE) tree
 
 tree: node_modules

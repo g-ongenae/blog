@@ -580,3 +580,159 @@ Note: whatever was originally here was correct.
 
 - [ ] Apply
 - Note:
+
+
+## On counting
+
+### 140. [2026-11-08-on-counting.md:19](content/speak/2026-11-08-on-counting.md#L19) · `content`
+
+> - 60 => tres = **tredje-sinde-tyve = third-times-twenty** = 3 × 20 = 60
+
+**Suggestion:** “tre-sinde-tyve = three-times-twenty” — The long form is *tresindstyve*, from *tre* (three), not *tredje* (third). The 3 × 20 is right.
+
+- [ ] Apply
+- Note:
+
+### 141. [2026-11-08-on-counting.md:21](content/speak/2026-11-08-on-counting.md#L21) · `content`
+
+> - 80 => firs = **fjerde-sinde-tyve = fourth-times-twenty** = 4 × 20 = 80
+
+**Suggestion:** “fir-sinde-tyve = four-times-twenty” — The long form is *firsindstyve*, from *fire* (four), not *fjerde* (fourth). Only the “half” numbers (50, 70, 90) use ordinals.
+
+- [ ] Apply
+- Note:
+
+### 142. [2026-11-08-on-counting.md:13](content/speak/2026-11-08-on-counting.md#L13) · `content`
+
+> - 70+ => **from soixante-dix (70, sixty ten) to soixante-dix-neuf** (79, sixty ten nine)
+
+**Suggestion:** optional — FYI, 71–76 are not “sixty ten x” but “sixty eleven” to “sixty sixteen” (soixante et onze … soixante-seize); only 77–79 are “sixty ten x”. Same for 91–96 (quatre-vingt-onze …). Nothing is wrong as written; it could be an extra joke.
+
+- [ ] Apply
+- Note:
+
+### 143. [2026-11-08-on-counting.md:26](content/speak/2026-11-08-on-counting.md#L26) · `intentional?`
+
+> ### **Tens**
+
+**Suggestion:** “Teens” — This section is about 11–19 and the next one, about 20+, is “Tens again”. Keep if it is a pun.
+
+- [ ] Apply
+- Note:
+
+### 144. [2026-11-08-on-counting.md:31](content/speak/2026-11-08-on-counting.md#L31) · `content`
+
+> This is not a special case of English, **every Germanic and Latin language** does that:
+
+**Suggestion:** “every Germanic and Romance language” or “most Germanic and Romance languages” — French, Spanish etc. are usually called Romance languages. Also, Romanian (a Romance language) does not do it: 11–19 all follow one pattern (unsprezece … nouăsprezece).
+
+- [ ] Apply
+- Note:
+
+### 145. [2026-11-08-on-counting.md:40](content/speak/2026-11-08-on-counting.md#L40) · `content`
+
+> | 🇵🇹 | 15, quinze | x-ze | 16, **dezesseis** | **dez-e-x** |
+
+**Suggestion:** “dezasseis” / “dez-a-x”, or swap the flag for 🇧🇷 — *dezesseis* is the Brazilian spelling; in Portugal it is *dezasseis*, *dezassete*, *dezanove*. Same form on line 64 (“x-ze and dez-e-x”).
+
+- [ ] Apply
+- Note:
+
+### 146. [2026-11-08-on-counting.md:43](content/speak/2026-11-08-on-counting.md#L43) · `word`
+
+> …nope, they decided to invert the order right before the **end line**.
+
+**Suggestion:** “finish line” — The usual idiom.
+
+- [ ] Apply
+- Note:
+
+### 147. [2026-11-08-on-counting.md:45](content/speak/2026-11-08-on-counting.md#L45) · `content`
+
+> In comparison, numbers in the **10-19** in Polish all follow the same form: **x-aście** form.
+
+**Suggestion:** “numbers from 11 to 19 in Polish all follow the same form: x-naście” — The suffix is *-naście* (dwa-naście, trzy-naście); “x-aście” only fits *jedenaście*. 10 (*dziesięć*) does not follow the form.
+
+- [ ] Apply
+- Note:
+
+### 148. [2026-11-08-on-counting.md:65](content/speak/2026-11-08-on-counting.md#L65) · `content`
+
+> | 🇮🇹 | x-dici and dici-x | **ti/ta x** <sup>***</sup> |
+
+**Suggestion:** “y-ti/y-ta x” — The other rows all have the “y-” (venti-tré, trenta-tré).
+
+- [ ] Apply
+- Note:
+
+### 149. [2026-11-08-on-counting.md:79](content/speak/2026-11-08-on-counting.md#L79) · `rewording`
+
+> **I worked them both in French and English** but it's easy to adapt them to other languages, with the same logic.
+
+**Suggestion:** “I worked them out in both French and English” — Missing “out”, and “both” is misplaced.
+
+- [ ] Apply
+- Note:
+
+### 150. [2026-11-08-on-counting.md:103](content/speak/2026-11-08-on-counting.md#L103) · `content`
+
+> | 60 | soixante | **trois-vingt-dix** | soixante |
+
+**Suggestion:** “trois-vingt” — 60 = 3 × 20; “trois-vingt-dix” is 70 and repeats the next row. (The 30 rows, “vingt-dix” / “twenty-ten”, and the English 60, “three-twenty”, are right.)
+
+- [ ] Apply
+- Note:
+
+### 151. [2026-11-08-on-counting.md:105](content/speak/2026-11-08-on-counting.md#L105) · `spelling`
+
+> | 80 | quatre-vingts | **quatre-vingt** | huitante / octante |
+
+**Suggestion:** “quatre-vingts” — I fixed the real word in the “Current” column and in the intro list (80 is *quatre-vingts*). In the 20-based column it is the same word, but your invented “deux-vingt”, “trois-vingt” have no “s” either, so your call whether the whole column follows the rule.
+
+- [ ] Apply
+- Note:
+
+### 152. [2026-11-08-on-counting.md:128](content/speak/2026-11-08-on-counting.md#L128) · `intentional?`
+
+> So: eleven, oleven, eleven, **rlven**, eleven, xleven, nleven, tleven, eleven.
+
+**Suggestion:** “rleven” — By your rule, four → r + leven. Line 130 also says “rlven”, so it may be on purpose.
+
+- [ ] Apply
+- Note:
+
+### 153. [2026-11-08-on-counting.md:132](content/speak/2026-11-08-on-counting.md#L132) · `word`
+
+> | Decimal | Current | 20-based | **Number-te based** |
+
+**Suggestion:** “Number-ty based” — Header copied from the French table; the English words end in “-ty” (onety, twenty…).
+
+- [ ] Apply
+- Note:
+
+### 154. [2026-11-08-on-counting.md:146](content/speak/2026-11-08-on-counting.md#L146) · `content`
+
+> …the well-known 70+ but also, **for 21 (vingt et un**, twenty and one, instead of vingt-un which is actually harder to say).
+
+**Suggestion:** “for 21, 31, 41, 51, 61 and 71 (vingt et un, …” — The “et un” applies to all of these (trente et un, soixante et onze), but not to 81 and 91 (quatre-vingt-un).
+
+- [ ] Apply
+- Note:
+
+### 155. [2026-11-08-on-counting.md:148](content/speak/2026-11-08-on-counting.md#L148) · `rewording`
+
+> Also, **the second y is an and in Spanish**, so the form is y and x starting from 30+.
+
+**Suggestion:** “the second *y* is the Spanish word for ‘and’ (treinta y tres)” — The variable y and the word y are easy to mix up. Keep if the confusion is the joke.
+
+- [ ] Apply
+- Note:
+
+### 156. [2026-11-08-on-counting.md:150](content/speak/2026-11-08-on-counting.md#L150) · `word`
+
+> …some exceptions to create a number **easier to tell** (contraction on one and eight and **inflexion** on the end of three).
+
+**Suggestion:** “easier to say” / “an accent on the end of three” — For three it is a written accent (ventitré), not an inflection.
+
+- [ ] Apply
+- Note:
