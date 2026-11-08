@@ -115,6 +115,9 @@ const out = [
   '  emoji: 🖋️',
   '---',
   '',
+  // Blank lines around the raw HTML keep the Markdown inside it rendered.
+  '<div class="tell-kinds">',
+  '',
 ];
 
 for (const { kind, label, singular, emoji, latest } of KINDS) {
@@ -127,6 +130,8 @@ for (const { kind, label, singular, emoji, latest } of KINDS) {
     kind === 'stories' && recent[0]?.extra?.state === 'draft' ? 'Currently writing' : 'Latest';
 
   out.push(
+    '<section>',
+    '',
     `## ${emoji} ${label}`,
     '',
     "### Editor's picks",
@@ -138,6 +143,8 @@ for (const { kind, label, singular, emoji, latest } of KINDS) {
     ...recent.map((page) => item(kind, page)),
     '',
     `[All ${String(pages.length)} ${kind} by year →](@/tell/${kind}/_index.md)`,
+    '',
+    '</section>',
     '',
   );
 
@@ -180,5 +187,5 @@ for (const { kind, label, singular, emoji, latest } of KINDS) {
   writeFileSync(index, full.join('\n'));
 }
 
-out.push(lastUpdated(), '');
+out.push('</div>', '', lastUpdated(), '');
 writeFileSync(join(TELL, '_index.md'), out.join('\n'));

@@ -2,6 +2,7 @@
 date: 2018-01-01
 title: J'aime être en colère
 extra:
+  pick: true
   state: done
   location: Cergy
   favorite: true

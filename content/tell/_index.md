@@ -6,6 +6,10 @@ extra:
   emoji: 🖋️
 ---
 
+<div class="tell-kinds">
+
+<section>
+
 ## 💌 Poems
 
 ### Editor's picks
@@ -16,9 +20,9 @@ extra:
 - [Train](@/tell/poems/2018-07-17-train.md) ⭐
 - [Saint Jean](@/tell/poems/2018-saint-jean.md) ⭐
 - [La Victoire de Samothrace](@/tell/poems/2018-la-victoire-de-samothrace.md) ⭐
+- [J'aime être en colère](@/tell/poems/2018-j-aime-etre-en-colere.md) ⭐
 - [Auber](@/tell/poems/2017-11-06-auber.md) ⭐
 - [Le Printemps estival](@/tell/poems/2011-06-16-le-printemps-estival.md) ⭐
-- [La Mort](@/tell/poems/2011-06-02-la-mort.md)
 - [Une Semaine](@/tell/poems/2011-03-13-une-semaine.md) ⭐
 
 ### Latest
@@ -28,6 +32,10 @@ extra:
 - [Ligne 1](@/tell/poems/2026-01-29-ligne-1.md)
 
 [All 225 poems by year →](@/tell/poems/_index.md)
+
+</section>
+
+<section>
 
 ## 📖 Stories
 
@@ -42,5 +50,9 @@ extra:
 - [Le papi qui voulait être papa](@/tell/stories/le-papi-qui-voulait-etre-papa.md) ✂︎ (831 words)
 
 [All 58 stories by year →](@/tell/stories/_index.md)
+
+</section>
+
+</div>
 
 Last updated on 2026-11-08
