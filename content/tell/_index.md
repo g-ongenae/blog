@@ -27,11 +27,11 @@ extra:
 
 ### Latest
 
+- [Jam session in Lisboa #1 - FR](@/tell/poems/2026-11-15-jam-session-in-lisboa-1-fr.md)
+- [Jam session in Lisboa #1 - EN](@/tell/poems/2026-11-15-jam-session-in-lisboa-1-en.md)
 - [Joie de la découverte](@/tell/poems/2026-01-30-joie-de-la-decouverte.md)
-- [Deuxième passage](@/tell/poems/2026-01-30-deuxieme-passage.md)
-- [Ligne 1](@/tell/poems/2026-01-29-ligne-1.md)
 
-[All 225 poems by year →](@/tell/poems/_index.md)
+[All 227 poems by year →](@/tell/poems/_index.md)
 
 </section>
 
@@ -55,4 +55,4 @@ extra:
 
 </div>
 
-Last updated on 2026-11-08
+Last updated on 2026-11-15

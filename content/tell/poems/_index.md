@@ -5,20 +5,20 @@ sort_by: date
 
 ## Summary
 
-**Total:** 225 <br>
+**Total:** 227 <br>
 **Drafts:** 18 <br>
 **Favourites:** 22 <br>
 **Languages:**
 
-- English 🇬🇧: 8
-- French 🇫🇷: 217
+- English 🇬🇧: 9
+- French 🇫🇷: 218
 
 ```mermaid
 xychart-beta
   title "Poems per year"
   x-axis "Year" 2007 --> 2026
   y-axis "Poems" 0 --> 72
-  bar [1, 0, 1, 21, 47, 21, 23, 0, 0, 3, 23, 72, 0, 0, 0, 0, 0, 0, 10, 3]
+  bar [1, 0, 1, 21, 47, 21, 23, 0, 0, 3, 23, 72, 0, 0, 0, 0, 0, 0, 10, 5]
   line [0, 0, 0, 0, 8, 0, 1, 0, 0, 1, 1, 7, 0, 0, 0, 0, 0, 0, 4, 0]
 ```
 
@@ -30,6 +30,8 @@ Bars: poems per year. Line: favourites per year.
 
 ### 2026
 
+- [Jam session in Lisboa #1 - FR](@/tell/poems/2026-11-15-jam-session-in-lisboa-1-fr.md)
+- [Jam session in Lisboa #1 - EN](@/tell/poems/2026-11-15-jam-session-in-lisboa-1-en.md)
 - [Joie de la découverte](@/tell/poems/2026-01-30-joie-de-la-decouverte.md)
 - [Deuxième passage](@/tell/poems/2026-01-30-deuxieme-passage.md)
 - [Ligne 1](@/tell/poems/2026-01-29-ligne-1.md)
@@ -286,4 +288,4 @@ Bars: poems per year. Line: favourites per year.
 
 - [Mon amour ma déchirure](@/tell/poems/2007-mon-amour-ma-dechirure.md)
 
-Last updated on 2026-11-08
+Last updated on 2026-11-15
