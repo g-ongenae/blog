@@ -3,7 +3,7 @@ date: 2026-11-15
 title: "Jam session in Lisboa #1 - FR"
 extra:
   state: done
-  location: Menina e meço, Lisboa
+  location: Menina e Moça, Lisboa
   lang: fr
 ---
 
@@ -14,8 +14,8 @@ Le vent frais dans les ruelles
 
 La musique attire l'oreille <br>
 Je tends la main à une belle <br>
-Nous voilà entrer la danse <br>
+Nous voilà entrés dans la danse <br>
 La nuit tombe doucement
 
 > [!NOTE]
-> Wrote the both of them at the same time, couldn't decide which language was best, appreciated both like this.
+> Écrits tous les deux en même temps, je n'arrivais pas à choisir la meilleure langue, je les aime tous les deux ainsi.

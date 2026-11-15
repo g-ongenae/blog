@@ -3,7 +3,7 @@ date: 2026-11-15
 title: "Jam session in Lisboa #1 - EN"
 extra:
   state: done
-  location: Menina e meço, Lisboa
+  location: Menina e Moça, Lisboa
   lang: en
 ---
 
@@ -18,4 +18,4 @@ The dance is only starting <br>
 Night is falling like my arms around her
 
 > [!NOTE]
-> Wrote the both of them at the same time, couldn't decide which language was best, appreciated both like this.
+> Wrote both of them at the same time, couldn't decide which language was best, liked them both as they are.
