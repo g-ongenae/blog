@@ -10,4 +10,6 @@ github_alerts = true
 
 [link_checker]
 # Instagram answers 429 Too Many Requests to unauthenticated checks from CI runners.
-skip_prefixes = ["https://www.instagram.com/"]
+# centremomboye.com fails the TLS handshake (expired certificate) since 2026-11-16;
+# drop it from this list once the site serves a valid certificate again.
+skip_prefixes = ["https://www.instagram.com/", "https://www.centremomboye.com/"]
